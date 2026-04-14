@@ -1,0 +1,1 @@
+../01_genomes/11813_EXE_05_2024_A_PBC74148_final.fasta
