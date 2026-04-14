@@ -1,0 +1,1971 @@
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11813_EXE_29_2025_V_PBC74148_final.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2944278 /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11813_EXE_29_2025_V_PBC74148_final.fna /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11813_EXE_29_2025_V_PBC74148_final.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2944278.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2944278.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11813_EXE_30_2025_R_PBC74148_final.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2944341 /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11813_EXE_30_2025_R_PBC74148_final.fna /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11813_EXE_30_2025_R_PBC74148_final.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2944341.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2944341.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11813_EXE_29_2025_K_PBC74148_final.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2944413 /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11813_EXE_29_2025_K_PBC74148_final.fna /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11813_EXE_29_2025_K_PBC74148_final.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2944413.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2944413.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11813_EXE_20_2024_J_PBC74148_final.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2944484 /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11813_EXE_20_2024_J_PBC74148_final.fna /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11813_EXE_20_2024_J_PBC74148_final.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2944484.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2944484.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11813_EXE_30_2025_L_PBC74148_final.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2944539 /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11813_EXE_30_2025_L_PBC74148_final.fna /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11813_EXE_30_2025_L_PBC74148_final.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2944539.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2944539.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11813_EXE_09_2024_B_PBC74148_final.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2944594 /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11813_EXE_09_2024_B_PBC74148_final.fna /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11813_EXE_09_2024_B_PBC74148_final.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2944594.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2944594.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11813_EX_23_2024_K_PBC74148_final.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2944665 /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11813_EX_23_2024_K_PBC74148_final.fna /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11813_EX_23_2024_K_PBC74148_final.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2944665.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2944665.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11813_EXE_28_2025_W_PBC74148_final.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2944720 /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11813_EXE_28_2025_W_PBC74148_final.fna /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11813_EXE_28_2025_W_PBC74148_final.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2944720.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2944720.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/EXE_01_2025_M_final.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2944791 /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/EXE_01_2025_M_final.fna /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/EXE_01_2025_M_final.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2944791.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2944791.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/EXE_33_2024_E_final.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2944846 /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/EXE_33_2024_E_final.fna /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/EXE_33_2024_E_final.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2944846.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2944846.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11813_EXE22_2025_IVF5LA_PBC74148_final.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2944901 /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11813_EXE22_2025_IVF5LA_PBC74148_final.fna /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11813_EXE22_2025_IVF5LA_PBC74148_final.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2944901.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2944901.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11813_EXE_03_2025_A_PBC74148_final.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2944988 /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11813_EXE_03_2025_A_PBC74148_final.fna /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11813_EXE_03_2025_A_PBC74148_final.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2944988.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2944988.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11813_EXE_26_2025_C_PBC74148_final.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2945027 /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11813_EXE_26_2025_C_PBC74148_final.fna /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11813_EXE_26_2025_C_PBC74148_final.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2945027.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2945027.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11813_EXE_33_2024_F_PBC74148_final.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2945106 /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11813_EXE_33_2024_F_PBC74148_final.fna /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11813_EXE_33_2024_F_PBC74148_final.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2945106.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2945106.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11813_EXE_22_2025_DG1LF_PBC7_final.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2945161 /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11813_EXE_22_2025_DG1LF_PBC7_final.fna /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11813_EXE_22_2025_DG1LF_PBC7_final.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2945161.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2945161.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11671_EXE_02_2024_3B2_unicycler.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2945264 /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11671_EXE_02_2024_3B2_unicycler.fna /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11671_EXE_02_2024_3B2_unicycler.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2945264.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2945264.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11813_EXE_23_2025_L_PBC74148_final.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2945335 /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11813_EXE_23_2025_L_PBC74148_final.fna /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11813_EXE_23_2025_L_PBC74148_final.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2945335.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2945335.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11813_EXE_33_2024_E_PBC74148_final.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2945414 /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11813_EXE_33_2024_E_PBC74148_final.fna /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11813_EXE_33_2024_E_PBC74148_final.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2945414.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2945414.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/EXE_30_2025_R_final.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2945477 /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/EXE_30_2025_R_final.fna /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/EXE_30_2025_R_final.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2945477.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2945477.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11671_Guernsey_unicycler.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2945540 /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11671_Guernsey_unicycler.fna /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11671_Guernsey_unicycler.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2945540.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2945540.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11813_EXE_22_2025_DG3A_PBC74148_barcode18_final.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2945603 /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11813_EXE_22_2025_DG3A_PBC74148_barcode18_final.fna /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11813_EXE_22_2025_DG3A_PBC74148_barcode18_final.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2945603.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2945603.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11671_EXE_19_2024_C_unicycler.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2945698 /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11671_EXE_19_2024_C_unicycler.fna /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11671_EXE_19_2024_C_unicycler.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2945698.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2945698.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11671_EXE_26_2024_C_unicycler.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2945753 /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11671_EXE_26_2024_C_unicycler.fna /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11671_EXE_26_2024_C_unicycler.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2945753.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2945753.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11813_EXE_24_2025_E_PBC74148_final.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2945824 /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11813_EXE_24_2025_E_PBC74148_final.fna /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11813_EXE_24_2025_E_PBC74148_final.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2945824.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2945824.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11671_EXE_45_2024_E_unicycler.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2945847 /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11671_EXE_45_2024_E_unicycler.fna /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11671_EXE_45_2024_E_unicycler.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2945847.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2945847.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11671_EXE_25_2024_H_unicycler.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2945910 /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11671_EXE_25_2024_H_unicycler.fna /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11671_EXE_25_2024_H_unicycler.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2945910.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2945910.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11813_EXE_26_2025_A_PBC74148_final.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2945973 /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11813_EXE_26_2025_A_PBC74148_final.fna /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11813_EXE_26_2025_A_PBC74148_final.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2945973.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2945973.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11813_EXE_01_2024_7_PBC74148_final.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2946057 /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11813_EXE_01_2024_7_PBC74148_final.fna /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11813_EXE_01_2024_7_PBC74148_final.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2946057.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2946057.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11813_EXE_19_2024_M_PBC74148_final.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2946128 /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11813_EXE_19_2024_M_PBC74148_final.fna /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11813_EXE_19_2024_M_PBC74148_final.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2946128.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2946128.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11813_EXE_30_2024_F_PBC74148_final.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2946183 /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11813_EXE_30_2024_F_PBC74148_final.fna /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11813_EXE_30_2024_F_PBC74148_final.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2946183.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2946183.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11813_EXE_30_2025_S_PBC74148_final.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2946247 /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11813_EXE_30_2025_S_PBC74148_final.fna /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11813_EXE_30_2025_S_PBC74148_final.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2946247.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2946247.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11671_EXE_22_2024_B_unicycler.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2946294 /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11671_EXE_22_2024_B_unicycler.fna /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11671_EXE_22_2024_B_unicycler.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2946294.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2946294.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11813_EXE_34_2024_C_PBC74148_final.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2946381 /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11813_EXE_34_2024_C_PBC74148_final.fna /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11813_EXE_34_2024_C_PBC74148_final.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2946381.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2946381.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11813_EXE_22_2025_T1A_PBC74148_final.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2946444 /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11813_EXE_22_2025_T1A_PBC74148_final.fna /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11813_EXE_22_2025_T1A_PBC74148_final.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2946444.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2946444.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11813_EXE_21_2025_F_PBC74148_final.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2946500 /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11813_EXE_21_2025_F_PBC74148_final.fna /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11813_EXE_21_2025_F_PBC74148_final.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2946500.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2946500.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11671_EXE_04_2024_1A1_unicycler.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2946571 /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11671_EXE_04_2024_1A1_unicycler.fna /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11671_EXE_04_2024_1A1_unicycler.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2946571.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2946571.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11813_EXE_27_2025_D_PBC74148_final.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2946634 /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11813_EXE_27_2025_D_PBC74148_final.fna /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11813_EXE_27_2025_D_PBC74148_final.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2946634.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2946634.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/EXE_08_2024_A_final.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2946697 /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/EXE_08_2024_A_final.fna /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/EXE_08_2024_A_final.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2946697.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2946697.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11813_EXE_01_2025_M_PBC74148_final.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2946752 /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11813_EXE_01_2025_M_PBC74148_final.fna /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11813_EXE_01_2025_M_PBC74148_final.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2946752.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2946752.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11813_EXE_05_2024_A_PBC74148_final.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2946799 /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11813_EXE_05_2024_A_PBC74148_final.fna /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11813_EXE_05_2024_A_PBC74148_final.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2946799.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2946799.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/EXE_32_2024_G_final.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2946878 /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/EXE_32_2024_G_final.fna /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/EXE_32_2024_G_final.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2946878.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2946878.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11813_EXE_27_2025_A_PBC74148_final.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2946941 /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11813_EXE_27_2025_A_PBC74148_final.fna /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11813_EXE_27_2025_A_PBC74148_final.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2946941.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2946941.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/EXE_03_2025_A_final.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2947020 /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/EXE_03_2025_A_final.fna /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/EXE_03_2025_A_final.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2947020.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2947020.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/EXE_23_2025_L_final.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2947099 /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/EXE_23_2025_L_final.fna /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/EXE_23_2025_L_final.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2947099.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2947099.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/EXE09_2023D7_unicycler.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2947186 /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/EXE09_2023D7_unicycler.fna /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/EXE09_2023D7_unicycler.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2947186.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2947186.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/EXE_15_2024_J_unicycler.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2947233 /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/EXE_15_2024_J_unicycler.fna /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/EXE_15_2024_J_unicycler.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2947233.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2947233.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11813_EXE_34_2024_P_PBC74148_final.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2947289 /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11813_EXE_34_2024_P_PBC74148_final.fna /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11813_EXE_34_2024_P_PBC74148_final.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2947289.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2947289.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11813_EXE_33_2024_C_PBC74148_final.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2947343 /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11813_EXE_33_2024_C_PBC74148_final.fna /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11813_EXE_33_2024_C_PBC74148_final.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2947343.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2947343.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/EXE_20_2025_B_final.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2947407 /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/EXE_20_2025_B_final.fna /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/EXE_20_2025_B_final.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2947407.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2947407.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/EXE10_2023G3_unicycler.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2947470 /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/EXE10_2023G3_unicycler.fna /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/EXE10_2023G3_unicycler.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2947470.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2947470.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/EXE07_2023A1_unicycler.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2947525 /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/EXE07_2023A1_unicycler.fna /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/EXE07_2023A1_unicycler.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2947525.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2947525.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/EXE_13_2025_A_final.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2947580 /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/EXE_13_2025_A_final.fna /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/EXE_13_2025_A_final.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2947580.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2947580.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11671_EXE_04_2024_1B1_unicycler.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2947659 /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11671_EXE_04_2024_1B1_unicycler.fna /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11671_EXE_04_2024_1B1_unicycler.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2947659.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2947659.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11671_EXE_23_2024_1_unicycler.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2947722 /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11671_EXE_23_2024_1_unicycler.fna /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11671_EXE_23_2024_1_unicycler.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2947722.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2947722.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11813_EXE_13_2025_P_PBC74148_final.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2947785 /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11813_EXE_13_2025_P_PBC74148_final.fna /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11813_EXE_13_2025_P_PBC74148_final.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2947785.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2947785.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11813_EXE_28_2025_A_PBC74148_final.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2947864 /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11813_EXE_28_2025_A_PBC74148_final.fna /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11813_EXE_28_2025_A_PBC74148_final.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2947864.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2947864.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11813_EXE_06_2024_E_PBC74148_final.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2947951 /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11813_EXE_06_2024_E_PBC74148_final.fna /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11813_EXE_06_2024_E_PBC74148_final.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2947951.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2947951.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11671_EXE_02_2024_3B1_unicycler.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2948014 /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11671_EXE_02_2024_3B1_unicycler.fna /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11671_EXE_02_2024_3B1_unicycler.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2948014.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2948014.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11813_EXE_29_2025_HH_PBC74148_final.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2948077 /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11813_EXE_29_2025_HH_PBC74148_final.fna /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11813_EXE_29_2025_HH_PBC74148_final.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2948077.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2948077.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11813_EXE_12_2025_A_PBC74148_final.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2948133 /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11813_EXE_12_2025_A_PBC74148_final.fna /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11813_EXE_12_2025_A_PBC74148_final.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2948133.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2948133.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/V__cholerae_FDAARGOS_103.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2948195 /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/V__cholerae_FDAARGOS_103.fna /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/V__cholerae_FDAARGOS_103.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2948195.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2948195.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11813_EXE_32_2024_G_PBC74148_final.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2948275 /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11813_EXE_32_2024_G_PBC74148_final.fna /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11813_EXE_32_2024_G_PBC74148_final.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2948275.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2948275.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11813_EXE_25_2025_25N_PBC74148_final.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2948330 /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11813_EXE_25_2025_25N_PBC74148_final.fna /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11813_EXE_25_2025_25N_PBC74148_final.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2948330.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2948330.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11813_EXE_30_2024_G_PBC74148_final.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2948345 /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11813_EXE_30_2024_G_PBC74148_final.fna /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11813_EXE_30_2024_G_PBC74148_final.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2948345.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2948345.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11813_EXE_13_2025_H_PBC74148_final.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2948432 /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11813_EXE_13_2025_H_PBC74148_final.fna /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11813_EXE_13_2025_H_PBC74148_final.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2948432.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2948432.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11813_EXE_20_2025_B_PBC74148_final.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2948487 /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11813_EXE_20_2025_B_PBC74148_final.fna /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11813_EXE_20_2025_B_PBC74148_final.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2948487.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2948487.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11671_EXE_04_2024_2B3_unicycler.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2948558 /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11671_EXE_04_2024_2B3_unicycler.fna /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/11671_EXE_04_2024_2B3_unicycler.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2948558.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2948558.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/EXE08_2023B5_unicycler.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2948605 /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/EXE08_2023B5_unicycler.fna /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/EXE08_2023B5_unicycler.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2948605.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2948605.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/EXE07_2023A4_unicycler.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2948668 /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/EXE07_2023A4_unicycler.fna /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/EXE07_2023A4_unicycler.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2948668.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2948668.coords
+
+Repeat coords for all references found.
+Self-NUCmer complete
+==================================================================
+Aligning to the reference genome /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/V__cholerae_FDAARGOS_103.fna
+
+Running nucmer on V__cholerae_FDAARGOS_103_11813_EXE_29_2025_V_PBC74148_final
+Running nucmer on V__cholerae_FDAARGOS_103_11813_EXE_30_2025_R_PBC74148_final
+Running nucmer on V__cholerae_FDAARGOS_103_11813_EXE_29_2025_K_PBC74148_final
+Running nucmer on V__cholerae_FDAARGOS_103_11813_EXE_20_2024_J_PBC74148_final
+Running nucmer on V__cholerae_FDAARGOS_103_11813_EXE_30_2025_L_PBC74148_final
+Running nucmer on V__cholerae_FDAARGOS_103_11813_EXE_09_2024_B_PBC74148_final
+Running nucmer on V__cholerae_FDAARGOS_103_11813_EX_23_2024_K_PBC74148_final
+Running nucmer on V__cholerae_FDAARGOS_103_11813_EXE_28_2025_W_PBC74148_final
+Running nucmer on V__cholerae_FDAARGOS_103_EXE_01_2025_M_final
+Running nucmer on V__cholerae_FDAARGOS_103_EXE_33_2024_E_final
+Running nucmer on V__cholerae_FDAARGOS_103_11813_EXE22_2025_IVF5LA_PBC74148_final
+Running nucmer on V__cholerae_FDAARGOS_103_11813_EXE_03_2025_A_PBC74148_final
+Running nucmer on V__cholerae_FDAARGOS_103_11813_EXE_26_2025_C_PBC74148_final
+Running nucmer on V__cholerae_FDAARGOS_103_11813_EXE_33_2024_F_PBC74148_final
+Running nucmer on V__cholerae_FDAARGOS_103_11813_EXE_22_2025_DG1LF_PBC7_final
+Running nucmer on V__cholerae_FDAARGOS_103_11671_EXE_02_2024_3B2_unicycler
+Running nucmer on V__cholerae_FDAARGOS_103_11813_EXE_23_2025_L_PBC74148_final
+Running nucmer on V__cholerae_FDAARGOS_103_11813_EXE_33_2024_E_PBC74148_final
+Running nucmer on V__cholerae_FDAARGOS_103_EXE_30_2025_R_final
+Running nucmer on V__cholerae_FDAARGOS_103_11671_Guernsey_unicycler
+Running nucmer on V__cholerae_FDAARGOS_103_11813_EXE_22_2025_DG3A_PBC74148_barcode18_final
+Running nucmer on V__cholerae_FDAARGOS_103_11671_EXE_19_2024_C_unicycler
+Running nucmer on V__cholerae_FDAARGOS_103_11671_EXE_26_2024_C_unicycler
+Running nucmer on V__cholerae_FDAARGOS_103_11813_EXE_24_2025_E_PBC74148_final
+Running nucmer on V__cholerae_FDAARGOS_103_11671_EXE_45_2024_E_unicycler
+Running nucmer on V__cholerae_FDAARGOS_103_11671_EXE_25_2024_H_unicycler
+Running nucmer on V__cholerae_FDAARGOS_103_11813_EXE_26_2025_A_PBC74148_final
+Running nucmer on V__cholerae_FDAARGOS_103_11813_EXE_01_2024_7_PBC74148_final
+Running nucmer on V__cholerae_FDAARGOS_103_11813_EXE_19_2024_M_PBC74148_final
+Running nucmer on V__cholerae_FDAARGOS_103_11813_EXE_30_2024_F_PBC74148_final
+Running nucmer on V__cholerae_FDAARGOS_103_11813_EXE_30_2025_S_PBC74148_final
+Running nucmer on V__cholerae_FDAARGOS_103_11671_EXE_22_2024_B_unicycler
+Running nucmer on V__cholerae_FDAARGOS_103_11813_EXE_34_2024_C_PBC74148_final
+Running nucmer on V__cholerae_FDAARGOS_103_11813_EXE_22_2025_T1A_PBC74148_final
+Running nucmer on V__cholerae_FDAARGOS_103_11813_EXE_21_2025_F_PBC74148_final
+Running nucmer on V__cholerae_FDAARGOS_103_11671_EXE_04_2024_1A1_unicycler
+Running nucmer on V__cholerae_FDAARGOS_103_11813_EXE_27_2025_D_PBC74148_final
+Running nucmer on V__cholerae_FDAARGOS_103_EXE_08_2024_A_final
+Running nucmer on V__cholerae_FDAARGOS_103_11813_EXE_01_2025_M_PBC74148_final
+Running nucmer on V__cholerae_FDAARGOS_103_11813_EXE_05_2024_A_PBC74148_final
+Running nucmer on V__cholerae_FDAARGOS_103_EXE_32_2024_G_final
+Running nucmer on V__cholerae_FDAARGOS_103_11813_EXE_27_2025_A_PBC74148_final
+Running nucmer on V__cholerae_FDAARGOS_103_EXE_03_2025_A_final
+Running nucmer on V__cholerae_FDAARGOS_103_EXE_23_2025_L_final
+Running nucmer on V__cholerae_FDAARGOS_103_EXE09_2023D7_unicycler
+Running nucmer on V__cholerae_FDAARGOS_103_EXE_15_2024_J_unicycler
+Running nucmer on V__cholerae_FDAARGOS_103_11813_EXE_34_2024_P_PBC74148_final
+Running nucmer on V__cholerae_FDAARGOS_103_11813_EXE_33_2024_C_PBC74148_final
+Running nucmer on V__cholerae_FDAARGOS_103_EXE_20_2025_B_final
+Running nucmer on V__cholerae_FDAARGOS_103_EXE10_2023G3_unicycler
+Running nucmer on V__cholerae_FDAARGOS_103_EXE07_2023A1_unicycler
+Running nucmer on V__cholerae_FDAARGOS_103_EXE_13_2025_A_final
+Running nucmer on V__cholerae_FDAARGOS_103_11671_EXE_04_2024_1B1_unicycler
+Running nucmer on V__cholerae_FDAARGOS_103_11671_EXE_23_2024_1_unicycler
+Running nucmer on V__cholerae_FDAARGOS_103_11813_EXE_13_2025_P_PBC74148_final
+Running nucmer on V__cholerae_FDAARGOS_103_11813_EXE_28_2025_A_PBC74148_final
+Running nucmer on V__cholerae_FDAARGOS_103_11813_EXE_06_2024_E_PBC74148_final
+Running nucmer on V__cholerae_FDAARGOS_103_11671_EXE_02_2024_3B1_unicycler
+Running nucmer on V__cholerae_FDAARGOS_103_11813_EXE_29_2025_HH_PBC74148_final
+Running nucmer on V__cholerae_FDAARGOS_103_11813_EXE_12_2025_A_PBC74148_final
+Running nucmer on V__cholerae_FDAARGOS_103_V__cholerae_FDAARGOS_103
+Running nucmer on V__cholerae_FDAARGOS_103_11813_EXE_32_2024_G_PBC74148_final
+Running nucmer on V__cholerae_FDAARGOS_103_11813_EXE_25_2025_25N_PBC74148_final
+Running nucmer on V__cholerae_FDAARGOS_103_11813_EXE_30_2024_G_PBC74148_final
+Running nucmer on V__cholerae_FDAARGOS_103_11813_EXE_13_2025_H_PBC74148_final
+Running nucmer on V__cholerae_FDAARGOS_103_11813_EXE_20_2025_B_PBC74148_final
+Running nucmer on V__cholerae_FDAARGOS_103_11671_EXE_04_2024_2B3_unicycler
+Running nucmer on V__cholerae_FDAARGOS_103_EXE08_2023B5_unicycler
+Running nucmer on V__cholerae_FDAARGOS_103_EXE07_2023A4_unicycler
+
+NUCmer on all reference genomes complete.
+==================================================================
+
+runContigNUCmer.pl -r /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/V__cholerae_FDAARGOS_103.fna -q /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir -d /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/results -l /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/contigs_list.txt -t 1 -y 2 2>>/data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/results/all_vibrio_fastree.error >> /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/results/all_vibrio_fastree.log
+
+
+Using given reference:  /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/V__cholerae_FDAARGOS_103.fna
+Running nucmer on V__cholerae_FDAARGOS_103_V__sonorensis_CAIM_1076_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__lentus_CECT_5110_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__anguillarum_DSM_21597_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__algicola_SM1977_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__misgurnus_GVC_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__bivalvicida_605_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__glycogenivorans_WXL210_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__rhizosphaerae_DSM_18581_DSM_18581_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__maerlii_G62_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__panuliri_JCM_19500_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__zhugei_HBUAS61001_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__inusitatus_NBRC_102082_NBRC_102082_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__celticus_Rd_8_15_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__anguillarum_NCTC12159_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__methylphosphonaticus_S4B1_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__coralliirubri_DSM_27495_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__ruber_DSM_16370_CECT_7878T_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__clamense_JAMM0920_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__sabulosilitoris_MAO6_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__owensii_LMG_25430_LMG_25430_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__pectenicida_CAIM_594_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__agarivorans_CECT_5085_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__celticus_CECT_7224_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__proteolyticus_NBRC_13287_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__campbellii_CAIM_519___NBRC_15631___ATCC_25920_CAIM_519___NBRC_15631_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__natriegens_CCUG_16371_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__gangliei_DSM_104291_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__aestuarianus_subsp__francensis_CIP109791T_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__toranzoniae_Vb_10_8_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__furnissii_CIP_102972_CIP_102972_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__tritonius_AM2_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__cortegadensis_CECT_7227_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__stylophorae_CECT_7929_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__hyugaensis_NBRC_110633_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__splendidus_CECT_8714_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__orientalis_CIP_102891___ATCC_33934_ATCC_33934_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__toranzoniae_CECT_7225_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__ordalii_ATCC_33509_ATCC_33509_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__harveyi_FDAARGOS_109_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__paucivorans_DBSS07_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__jasicida_CAIM_1864___LMG_25398_CAIM_1864___LMG_25398_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__aphrogenes_CA_1004_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__mangrovi_CECT_7927_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__hippocampi_CECT_8226_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__sinaloensis_CECT_7298_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__rhizosphaerae_LMG_23790_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__diazotrophicus_ATCC_33466_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__kagoshimensis_JAMM0761_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__vulnificus_NBRC_15645___ATCC_27562_ATCC_27562_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__natriegens_NBRC_15636___ATCC_14048___DSM_759_ATCC_14048_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__hibernica_B1_19_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__xiamenensis_CGMCC_1_10228_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__azureus_NBRC_104587_NBRC_104587_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__atlanticus_CECT_7223_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__cincinnatiensis_DSM_19608_DSM_19608_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__caribbeanicus_ATCC_BAA_2122_ATCC_BAA_2122_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__aquimaris_CIP111709T_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__pomeroyi_LMG_20537_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__algarum_KJ40_1_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__gallaecicus_CECT_7244_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__gelatinilyticus_ZSDZ34_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__owensii_CAIM_1854___LMG_25443_CAIM_1854___LMG_25443_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__navarrensis_ATCC_51183_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__natriegens_NBRC_15636___ATCC_14048___DSM_759_DSM_759_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__vulnificus_NBRC_15645___ATCC_27562_NBRC_15645_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__crassostreae_LGP7_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__halioticoli_NBRC_102217_NBRC_102217_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__coralliilyticus_ATCC_BAA_450_ATCC_BAA_450_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__natriegens_NBRC_15636___ATCC_14048___DSM_759_NBRC_15636_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__vulnificus_2142_77_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__apostichopi_FE10_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__ziniensis_ZWAL4003_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__ouci_BEI176_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__echinoideorum_NFH_MB010_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__aestuarianus_LMG_7909_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__ulleungensis_188UL20_2_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__porteresiae_DSM_19223_MSSRF30_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__sagamiensis_NBRC_104589_NBRC_104589_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__mangrovi_MSSRF38_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__scophthalmi_LMG_19158_LMG_19158_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__rarus_LMG_23674_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__algivorus_NBRC_111146_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__mexicanus_CAIM_1540_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__spartinae_CECT_9026_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__rhodolitus_G98_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__jasicida_CECT_7692_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__makurazakiensis_JAMM1826_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__tasmaniensis_LMG_20012_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__nigripulchritudo_ATCC_27043_ATCC_27043_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__cholerae__contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__zhugei_KCTC_62784_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__fortis_LMG_21557_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__tetraodonis_subsp__pristinus_OCN044_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__agarilyticus_SM6_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__ostreae_OG9_811_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__alginolyticus_NCTC12160_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__furnissii_PartQ_Vfurnissii_RM8376_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__tetraodonis_A511_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__penaeicida_CAIM_285_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__lamellibrachiae_JAMM2626_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__palustris_CECT_9027T_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__hepatarius_DSM_19134_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__mediterranei_AK1_AK1_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__kanaloae_CCUG_56968_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__amylolyticus_ZSDE26_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__wakamikoensis_JAMM2464_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__aquaticus_BEI207_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__superstes_JCM_21480_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__proteolyticus_NBRC_13287_NBRC_13287_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__cholerae_ATCC_14547_ATCC_14547_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__lentus_40M4T_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__albus_E4404_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__hangzhouensis_CGMCC_1_7062_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__fujianensis_FJ201301_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__parahaemolyticus_ATCC_17802_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__ordalii_CIP103205T_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__mimicus_CAIM_602_CAIM_602_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__hannami_KACC_19277_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__fluvialis_NCTC11327_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__kasasachensis_JAMM1812_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__gazogenes_DSM_21264___NBRC_103151_DSM_21264_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__harveyi_NBRC_15634___ATCC_14126___KCTC_12724_NBRC_15634___ATCC_14126_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__splendidus_LMG_19031_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__gigantis_LMG_22741_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__mimicus_NCTC11435_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__natriegens_14048_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__pectenicida_LMG_19642_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__fluvialis_CIP103355T_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__barjaei_3062_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__taketomensis_C4III282_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__litoralis_DSM_17657_DSM_17657_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__metschnikovii_NCTC8443_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__parahaemolyticus_NCTC10903_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__ponticus_DSM_16217_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__gazogenes_ATCC_29988_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__kanaloae_LMG_20539_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__alginolyticus_NBRC_15630___ATCC_17749_ATCC_17749_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__alginolyticus_NBRC_15630___ATCC_17749_NBRC_15630_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__floridensis_IRLE0018_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__fluvialis_ATCC_33809_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__tapetis_subsp__tapetis__contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__halioticoli_IAM_14596_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__gallaecicus_VB_8_9_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__gazogenes_CECT_5068T_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__qinghaiensis_Q67_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__mediterranei_NBRC_15635_NBRC_15635_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__gangliei_SZDIS_1_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__mediterranei__contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__nomapromontoriensis_JAMM1728_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__minamisatsumaniensis_JAMM0571_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__coralliirubri_Corallo1_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__azureus_LC2_005_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__harveyi_NCTC12970_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__gallicus_CIP_107863_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__galatheae_S2757_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__hyugaensis_090810a_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__parahaemolyticus_NBRC_12711_NBRC_12711_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__kyushuensis_JAMM1822_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__proteolyticus_ATCC_15338_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__paracholerae_EDC_792_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__orientalis_CIP_102891___ATCC_33934_CIP_102891_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__artabrorum_CECT_7226_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__nereis_DSM_19584_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__thalassae_KCTC_32373_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__panuliri_LBS_2_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__europaeus_PP_638_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__neonatus_JCM_21521_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__iocasae_HN007_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__ostreicida_PP_203_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__renipiscarius_DCR_1_4_2_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__superstes_NBRC_103154_NBRC_103154_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__pacinii_DSM_19139_DSM_19139_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__splendidus_NCCB_53037_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__ichthyoenteri_ATCC_700023_ATCC_700023_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__cholerae_ATCC_14035_ATCC_14035_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__thalassae_CECT8203_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__penaeicida_IFO_15640T_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__chanodichtyis_DSL_7_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__diazotrophicus_NBRC_103148_NBRC_103148_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__brasiliensis_LMG_20546_LMG_20546_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__cyclitrophicus_LMG_21359_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__syngnathi_K08M4_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__diazotrophicus_CIP103191T_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__mytili_CAIM_528_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__rotiferianus_CAIM_577___LMG_21460_CAIM_577___LMG_21460_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__injensis_M12_1144_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__campbellii_CAIM_519___NBRC_15631___ATCC_25920_CAIM_519_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__aquimaris_THAF100_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__breoganii_CECT_7222_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__bathopelagicus_Sal10_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__ezurae_NBRC_102218_NBRC_102218_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__gazogenes_DSM_21264_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__chemaguriensis_Iso1_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__comitans_LMG_23416_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__sinensis_BEI233_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__ishigakensis_C1_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__aerogenes_CECT_7868_CECT_7868_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__aerogenes_LMG_19650_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__cincinnatiensis_NCTC12012_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__zhanjiangensis_NBRC_108723_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__olivae_CECT_8064_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__qingdaonensis_ZSDZ65_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__ostreicida_CECT_7398_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__harveyi_NBRC_15634___ATCC_14126___KCTC_12724_NBRC_15634_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__owensii_CAIM_1854___LMG_25443_DY05_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__inusitatus_LMG_23434_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__harveyi_NBRC_15634___ATCC_14126___KCTC_12724_ATCC_14126_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__metschnikovii_CIP_69_14_CIP_69_14_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__tarriae_2521_89_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__eleionomae_CAIM_722_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__cionasavignyae_JAMM2507_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__pelagius_ATCC_25916_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__rotiferianus_CAIM_577___LMG_21460_CAIM_577_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__variabilis_CAIM_1454_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__vulnificus_NCTC13647_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__mytili_CIP103929T_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__nereis_NBRC_15637_NBRC_15637_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__splendidus_DSM_19640_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__plantisponsor_MSSRF60_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__sinus_S4M6_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__atypicus_DSM_25292_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__tapetis_subsp__quintayensis_CECT_8851_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__palustris_CECT_9027_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__viridaestus_LJC006_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__profundum_JAMM1780_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__salilacus_DSG_S6_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__quintilis_CECT_7734_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__marisflavi_CECT_7928_CECT_7928_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__nitrifigilis_NFV_1_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__tubiashii_CIP102760T_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__satsumensis_JAMM0822_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__spartinae_CECT_9026T_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__furnissii_NCTC13120_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__plantisponsor_LMG_24470_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__chagasii_CCUG_48643_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__alginolyticus_FDAARGOS_97_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__rumoiensis_FERM_P_14531_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__intestinalis_YLB_11_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__profundi_TP187_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__casei_DSM_22364_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__gazogenes_PB1_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__tubiashii_ATCC_19109_19109_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__gigantis_LGP_13_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__salinus_DNF_1_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__chagasii_LMG_21353_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__japonicus_JCM_31412_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__marinisediminis_404_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__tubiashii_ATCC_19109_ATCC_19109_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__antiquarius_EX25_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__parahaemolyticus_CIP75_2T_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__penaeicida_NBRC_15640_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__echinoideorum_DSM_107264_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__fluminensis_A621_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__coralliilyticus_DSM_19607_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__furnissii_FDAARGOS_777_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__gallaecicus_DSM_23502_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__comitans_NBRC_102076_NBRC_102076_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__quintilis__contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__ezurae_JCM_21522_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__crassostreae_LMG_22240_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__fluvialis_NBRC_103150_NBRC_103150_contig
+Running nucmer on V__cholerae_FDAARGOS_103_V__chaetopteri_CB1_14_contig
+NUCmer on all contig/draft genomes complete.
+
+
+buildSNPDB.pl -i /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/results -r /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/files/V__cholerae_FDAARGOS_103.fna -l /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/working_list.txt -p all_vibrio_fastree -c 0 -g 0.1 2>>/data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/results/all_vibrio_fastree.error >> /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/results/all_vibrio_fastree.log
+
+Reading Gaps file.
+Warnings: V__bathopelagicus_Sal10_contig covered only 0.05533 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__crassostreae_LGP7_contig covered only 0.05318 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__rhizosphaerae_DSM_18581_DSM_18581_contig covered only 0.02746 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__aquimaris_CIP111709T_contig covered only 0.04250 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__celticus_Rd_8_15_contig covered only 0.05139 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__rumoiensis_FERM_P_14531_contig covered only 0.03529 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__rhodolitus_G98_contig covered only 0.07044 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+11813_EXE_23_2025_L_PBC74148_final covered 0.10455 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Warnings: V__iocasae_HN007_contig covered only 0.04905 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__nitrifigilis_NFV_1_contig covered only 0.05659 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__ponticus_DSM_16217_contig covered only 0.07107 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+V__cholerae__contig covered 0.88367 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Warnings: V__mexicanus_CAIM_1540_contig covered only 0.05532 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__pelagius_ATCC_25916_contig covered only 0.06064 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+EXE_23_2025_L_final covered 0.10504 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Warnings: V__variabilis_CAIM_1454_contig covered only 0.06011 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__echinoideorum_DSM_107264_contig covered only 0.05164 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__ulleungensis_188UL20_2_contig covered only 0.03013 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__comitans_NBRC_102076_NBRC_102076_contig covered only 0.03164 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__penaeicida_NBRC_15640_contig covered only 0.05083 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__nomapromontoriensis_JAMM1728_contig covered only 0.04462 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__amylolyticus_ZSDE26_contig covered only 0.05002 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+EXE_20_2025_B_final covered 0.10023 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Warnings: V__aerogenes_CECT_7868_CECT_7868_contig covered only 0.02807 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__coralliilyticus_DSM_19607_contig covered only 0.06542 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__ezurae_NBRC_102218_NBRC_102218_contig covered only 0.04151 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__aphrogenes_CA_1004_contig covered only 0.03413 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__mangrovi_CECT_7927_contig covered only 0.03844 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+EXE_08_2024_A_final covered 0.10033 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Warnings: V__crassostreae_LMG_22240_contig covered only 0.05503 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__neonatus_JCM_21521_contig covered only 0.03721 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+11813_EXE_34_2024_P_PBC74148_final covered 0.10666 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Warnings: V__bivalvicida_605_contig covered only 0.06750 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+EXE_32_2024_G_final covered 0.10134 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+V__furnissii_NCTC13120_contig covered 0.13832 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+EXE09_2023D7_unicycler covered 0.10171 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Warnings: V__ishigakensis_C1_contig covered only 0.03552 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+11813_EXE_30_2025_S_PBC74148_final covered 0.10636 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+11813_EXE_22_2025_T1A_PBC74148_final covered 0.10027 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Warnings: V__ezurae_JCM_21522_contig covered only 0.03636 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__palustris_CECT_9027_contig covered only 0.04264 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__natriegens_NBRC_15636___ATCC_14048___DSM_759_DSM_759_contig covered only 0.06324 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__gazogenes_DSM_21264_contig covered only 0.03730 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__cincinnatiensis_DSM_19608_DSM_19608_contig covered only 0.07825 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__halioticoli_NBRC_102217_NBRC_102217_contig covered only 0.03168 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+V__anguillarum_DSM_21597_contig covered 0.11705 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Warnings: V__superstes_JCM_21480_contig covered only 0.03237 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+11813_EX_23_2024_K_PBC74148_final covered 0.10362 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+11813_EXE_01_2024_7_PBC74148_final covered 0.10023 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Warnings: V__gallaecicus_VB_8_9_contig covered only 0.04509 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+V__vulnificus_2142_77_contig covered 0.10082 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Warnings: V__owensii_CAIM_1854___LMG_25443_CAIM_1854___LMG_25443_contig covered only 0.06847 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__minamisatsumaniensis_JAMM0571_contig covered only 0.04840 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+V__cholerae_ATCC_14547_ATCC_14547_contig covered 0.99194 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+11813_EXE_20_2024_J_PBC74148_final covered 0.10014 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Warnings: V__agarivorans_CECT_5085_contig covered only 0.04728 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__hyugaensis_090810a_contig covered only 0.06699 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__alginolyticus_NCTC12160_contig covered only 0.06837 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__tubiashii_ATCC_19109_19109_contig covered only 0.06777 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__olivae_CECT_8064_contig covered only 0.05646 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__natriegens_CCUG_16371_contig covered only 0.07287 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__pacinii_DSM_19139_DSM_19139_contig covered only 0.05223 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__aquaticus_BEI207_contig covered only 0.06516 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__zhugei_HBUAS61001_contig covered only 0.04958 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__metschnikovii_NCTC8443_contig covered only 0.07891 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__litoralis_DSM_17657_DSM_17657_contig covered only 0.02554 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__vulnificus_NBRC_15645___ATCC_27562_ATCC_27562_contig covered only 0.08617 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__artabrorum_CECT_7226_contig covered only 0.04355 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+EXE_33_2024_E_final covered 0.10667 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Warnings: V__tasmaniensis_LMG_20012_contig covered only 0.05167 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__ichthyoenteri_ATCC_700023_ATCC_700023_contig covered only 0.06462 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__echinoideorum_NFH_MB010_contig covered only 0.05158 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__eleionomae_CAIM_722_contig covered only 0.05689 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+V__cholerae_ATCC_14035_ATCC_14035_contig covered 0.88616 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Warnings: V__ostreicida_PP_203_contig covered only 0.03829 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__galatheae_S2757_contig covered only 0.06872 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__zhanjiangensis_NBRC_108723_contig covered only 0.03498 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__hepatarius_DSM_19134_contig covered only 0.07555 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+11813_EXE_13_2025_H_PBC74148_final covered 0.12102 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Warnings: V__hyugaensis_NBRC_110633_contig covered only 0.06572 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__floridensis_IRLE0018_contig covered only 0.09095 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__kanaloae_CCUG_56968_contig covered only 0.05233 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__gigantis_LMG_22741_contig covered only 0.05253 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+11813_EXE_22_2025_DG3A_PBC74148_barcode18_final covered 0.10340 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Warnings: V__tubiashii_ATCC_19109_ATCC_19109_contig covered only 0.06642 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__algarum_KJ40_1_contig covered only 0.02791 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__tapetis_subsp__quintayensis_CECT_8851_contig covered only 0.03422 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__cionasavignyae_JAMM2507_contig covered only 0.04540 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+EXE08_2023B5_unicycler covered 0.10141 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Warnings: V__aerogenes_LMG_19650_contig covered only 0.02953 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__plantisponsor_LMG_24470_contig covered only 0.08814 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__hippocampi_CECT_8226_contig covered only 0.04500 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__gazogenes_ATCC_29988_contig covered only 0.03730 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+11813_EXE_33_2024_F_PBC74148_final covered 0.10671 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Warnings: 11813_EXE_01_2025_M_PBC74148_final covered only 0.08869 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__azureus_NBRC_104587_NBRC_104587_contig covered only 0.04586 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__gangliei_DSM_104291_contig covered only 0.04245 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__lentus_CECT_5110_contig covered only 0.05324 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: 11671_EXE_04_2024_1A1_unicycler covered only 0.04545 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__alginolyticus_FDAARGOS_97_contig covered only 0.06870 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__albus_E4404_contig covered only 0.03957 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+V__fluvialis_NCTC11327_contig covered 0.14714 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+EXE10_2023G3_unicycler covered 0.10487 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+V__tarriae_2521_89_contig covered 0.84073 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+11671_EXE_45_2024_E_unicycler covered 0.91011 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+REPEATS covered 0.95442 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Warnings: V__parahaemolyticus_NBRC_12711_NBRC_12711_contig covered only 0.07221 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+11813_EXE_29_2025_HH_PBC74148_final covered 0.10451 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Warnings: 11813_EXE_30_2025_R_PBC74148_final covered only 0.07449 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__campbellii_CAIM_519___NBRC_15631___ATCC_25920_CAIM_519___NBRC_15631_contig covered only 0.06827 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__spartinae_CECT_9026T_contig covered only 0.03397 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+V__ostreae_OG9_811_contig covered 0.10192 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Warnings: V__gigantis_LGP_13_contig covered only 0.05210 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__maerlii_G62_contig covered only 0.05660 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__harveyi_NBRC_15634___ATCC_14126___KCTC_12724_ATCC_14126_contig covered only 0.06729 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__celticus_CECT_7224_contig covered only 0.05229 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: 11671_EXE_02_2024_3B1_unicycler covered only 0.04545 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__orientalis_CIP_102891___ATCC_33934_CIP_102891_contig covered only 0.06409 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+V__qinghaiensis_Q67_contig covered 0.12361 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Warnings: V__alginolyticus_NBRC_15630___ATCC_17749_ATCC_17749_contig covered only 0.06854 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__gallaecicus_DSM_23502_contig covered only 0.04509 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__satsumensis_JAMM0822_contig covered only 0.05554 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__rhizosphaerae_LMG_23790_contig covered only 0.03551 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__quintilis_CECT_7734_contig covered only 0.03064 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__fortis_LMG_21557_contig covered only 0.05704 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: 11813_EXE_33_2024_E_PBC74148_final covered only 0.07553 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+V__fluvialis_ATCC_33809_contig covered 0.14714 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Warnings: V__taketomensis_C4III282_contig covered only 0.06193 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__fujianensis_FJ201301_contig covered only 0.07561 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__toranzoniae_CECT_7225_contig covered only 0.04958 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+V__cholerae_FDAARGOS_103 covered 0.99992 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Warnings: V__zhugei_KCTC_62784_contig covered only 0.04960 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__lamellibrachiae_JAMM2626_contig covered only 0.04777 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__gangliei_SZDIS_1_contig covered only 0.04155 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__sabulosilitoris_MAO6_contig covered only 0.04848 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__kyushuensis_JAMM1822_contig covered only 0.04944 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+V__ordalii_CIP103205T_contig covered 0.12355 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Warnings: V__profundum_JAMM1780_contig covered only 0.04668 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__tritonius_AM2_contig covered only 0.06812 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+11671_EXE_25_2024_H_unicycler covered 0.10632 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Warnings: 11813_EXE_25_2025_25N_PBC74148_final covered only 0.04587 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+V__vulnificus_NBRC_15645___ATCC_27562_NBRC_15645_contig covered 0.10057 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Warnings: V__hangzhouensis_CGMCC_1_7062_contig covered only 0.04225 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+11813_EXE_30_2025_L_PBC74148_final covered 0.10196 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+11813_EXE22_2025_IVF5LA_PBC74148_final covered 0.10376 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+11813_EXE_09_2024_B_PBC74148_final covered 0.10023 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+11813_EXE_34_2024_C_PBC74148_final covered 0.10037 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+11813_EXE_32_2024_G_PBC74148_final covered 0.10553 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Warnings: V__sinus_S4M6_contig covered only 0.03716 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+11813_EXE_19_2024_M_PBC74148_final covered 0.10039 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Warnings: V__fluminensis_A621_contig covered only 0.07187 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__japonicus_JCM_31412_contig covered only 0.06834 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__splendidus_CECT_8714_contig covered only 0.05636 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__chemaguriensis_Iso1_contig covered only 0.06635 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__atlanticus_CECT_7223_contig covered only 0.05097 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__aquimaris_THAF100_contig covered only 0.04303 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__antiquarius_EX25_contig covered only 0.05367 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: 11813_EXE_22_2025_DG1LF_PBC7_final covered only 0.09951 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+V__misgurnus_GVC_contig covered 0.34636 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Warnings: V__pectenicida_CAIM_594_contig covered only 0.03656 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__harveyi_NBRC_15634___ATCC_14126___KCTC_12724_NBRC_15634___ATCC_14126_contig covered only 0.06848 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__ouci_BEI176_contig covered only 0.07294 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__azureus_LC2_005_contig covered only 0.04730 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__rotiferianus_CAIM_577___LMG_21460_CAIM_577_contig covered only 0.07097 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__nigripulchritudo_ATCC_27043_ATCC_27043_contig covered only 0.05743 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__hibernica_B1_19_contig covered only 0.02495 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__hannami_KACC_19277_contig covered only 0.04133 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__nereis_NBRC_15637_NBRC_15637_contig covered only 0.06225 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+EXE_13_2025_A_final covered 0.10501 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+EXE_30_2025_R_final covered 0.10634 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Warnings: V__inusitatus_LMG_23434_contig covered only 0.03007 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__ziniensis_ZWAL4003_contig covered only 0.08174 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__pomeroyi_LMG_20537_contig covered only 0.05715 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__mediterranei_AK1_AK1_contig covered only 0.04141 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__tetraodonis_A511_contig covered only 0.04674 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+V__paracholerae_EDC_792_contig covered 0.87125 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Warnings: V__penaeicida_IFO_15640T_contig covered only 0.05204 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+11813_EXE_33_2024_C_PBC74148_final covered 0.10137 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Warnings: V__rotiferianus_CAIM_577___LMG_21460_CAIM_577___LMG_21460_contig covered only 0.07039 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__sagamiensis_NBRC_104589_NBRC_104589_contig covered only 0.04405 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__porteresiae_DSM_19223_MSSRF30_contig covered only 0.07462 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__tetraodonis_subsp__pristinus_OCN044_contig covered only 0.03940 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__jasicida_CECT_7692_contig covered only 0.07001 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__aestuarianus_subsp__francensis_CIP109791T_contig covered only 0.08386 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__splendidus_DSM_19640_contig covered only 0.06050 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__viridaestus_LJC006_contig covered only 0.04048 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__harveyi_FDAARGOS_109_contig covered only 0.06934 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: 11671_EXE_04_2024_1B1_unicycler covered only 0.04545 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__thalassae_KCTC_32373_contig covered only 0.04305 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__splendidus_NCCB_53037_contig covered only 0.06102 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__gazogenes_CECT_5068T_contig covered only 0.02805 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__coralliirubri_DSM_27495_contig covered only 0.05428 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+V__furnissii_CIP_102972_CIP_102972_contig covered 0.13445 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+11813_EXE_27_2025_D_PBC74148_final covered 0.10132 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+11813_EXE_12_2025_A_PBC74148_final covered 0.10148 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+11671_EXE_19_2024_C_unicycler covered 0.10632 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Warnings: V__harveyi_NCTC12970_contig covered only 0.06926 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+11813_EXE_13_2025_P_PBC74148_final covered 0.10533 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Warnings: V__coralliirubri_Corallo1_contig covered only 0.05353 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__cortegadensis_CECT_7227_contig covered only 0.04364 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__parahaemolyticus_ATCC_17802_contig covered only 0.06333 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+V__fluvialis_CIP103355T_contig covered 0.14663 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Warnings: V__toranzoniae_Vb_10_8_contig covered only 0.04873 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+EXE07_2023A1_unicycler covered 0.10145 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Warnings: V__renipiscarius_DCR_1_4_2_contig covered only 0.06194 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__syngnathi_K08M4_contig covered only 0.05174 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__superstes_NBRC_103154_NBRC_103154_contig covered only 0.03220 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+V__anguillarum_NCTC12159_contig covered 0.11887 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Warnings: V__kagoshimensis_JAMM0761_contig covered only 0.04834 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__halioticoli_IAM_14596_contig covered only 0.02864 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__ostreicida_CECT_7398_contig covered only 0.03904 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__gazogenes_DSM_21264___NBRC_103151_DSM_21264_contig covered only 0.02763 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+V__furnissii_PartQ_Vfurnissii_RM8376_contig covered 0.13835 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Warnings: V__campbellii_CAIM_519___NBRC_15631___ATCC_25920_CAIM_519_contig covered only 0.06909 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__owensii_LMG_25430_LMG_25430_contig covered only 0.06775 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__kasasachensis_JAMM1812_contig covered only 0.05078 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__algicola_SM1977_contig covered only 0.02891 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+V__mimicus_NCTC11435_contig covered 0.67628 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Warnings: V__penaeicida_CAIM_285_contig covered only 0.05105 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+11813_EXE_26_2025_A_PBC74148_final covered 0.10243 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Warnings: V__gelatinilyticus_ZSDZ34_contig covered only 0.03933 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__parahaemolyticus_CIP75_2T_contig covered only 0.07195 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__clamense_JAMM0920_contig covered only 0.04490 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+11813_EXE_29_2025_K_PBC74148_final covered 0.10369 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Warnings: V__chagasii_CCUG_48643_contig covered only 0.05545 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__lentus_40M4T_contig covered only 0.05332 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__makurazakiensis_JAMM1826_contig covered only 0.04912 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__casei_DSM_22364_contig covered only 0.02854 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+11671_EXE_26_2024_C_unicycler covered 0.10455 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Warnings: V__europaeus_PP_638_contig covered only 0.07268 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+11813_EXE_28_2025_A_PBC74148_final covered 0.10221 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Warnings: 11813_EXE_24_2025_E_PBC74148_final covered only 0.04545 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: 11813_EXE_28_2025_W_PBC74148_final covered only 0.09394 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__ruber_DSM_16370_CECT_7878T_contig covered only 0.03484 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__caribbeanicus_ATCC_BAA_2122_ATCC_BAA_2122_contig covered only 0.03237 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__quintilis__contig covered only 0.03020 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__scophthalmi_LMG_19158_LMG_19158_contig covered only 0.06443 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__coralliilyticus_ATCC_BAA_450_ATCC_BAA_450_contig covered only 0.06457 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__navarrensis_ATCC_51183_contig covered only 0.09824 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__algivorus_NBRC_111146_contig covered only 0.03216 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__mangrovi_MSSRF38_contig covered only 0.03886 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+V__vulnificus_NCTC13647_contig covered 0.10174 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Warnings: V__chagasii_LMG_21353_contig covered only 0.05580 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__injensis_M12_1144_contig covered only 0.08374 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__brasiliensis_LMG_20546_LMG_20546_contig covered only 0.06636 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__cyclitrophicus_LMG_21359_contig covered only 0.05126 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__proteolyticus_NBRC_13287_contig covered only 0.06945 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__agarilyticus_SM6_contig covered only 0.04983 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__natriegens_NBRC_15636___ATCC_14048___DSM_759_NBRC_15636_contig covered only 0.06350 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__gazogenes_PB1_contig covered only 0.03730 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+11813_EXE_21_2025_F_PBC74148_final covered 0.10023 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Warnings: V__inusitatus_NBRC_102082_NBRC_102082_contig covered only 0.02972 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+EXE_01_2025_M_final covered 0.12845 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Warnings: V__proteolyticus_NBRC_13287_NBRC_13287_contig covered only 0.07439 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__sinensis_BEI233_contig covered only 0.05614 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+V__chanodichtyis_DSL_7_contig covered 0.34736 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Warnings: V__apostichopi_FE10_contig covered only 0.05445 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__thalassae_CECT8203_contig covered only 0.04661 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__wakamikoensis_JAMM2464_contig covered only 0.05565 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__methylphosphonaticus_S4B1_contig covered only 0.04400 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+V__ordalii_ATCC_33509_ATCC_33509_contig covered 0.12312 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+V__fluvialis_NBRC_103150_NBRC_103150_contig covered 0.14567 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Warnings: V__comitans_LMG_23416_contig covered only 0.03191 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+11813_EXE_05_2024_A_PBC74148_final covered 0.92055 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Warnings: V__salilacus_DSG_S6_contig covered only 0.05760 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__salinus_DNF_1_contig covered only 0.03093 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__profundi_TP187_contig covered only 0.05620 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__diazotrophicus_CIP103191T_contig covered only 0.09322 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__rarus_LMG_23674_contig covered only 0.03100 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__mytili_CAIM_528_contig covered only 0.05803 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+11813_EXE_30_2024_G_PBC74148_final covered 0.10501 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Warnings: V__alginolyticus_NBRC_15630___ATCC_17749_NBRC_15630_contig covered only 0.06743 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__breoganii_CECT_7222_contig covered only 0.03048 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__gallicus_CIP_107863_contig covered only 0.02917 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__harveyi_NBRC_15634___ATCC_14126___KCTC_12724_NBRC_15634_contig covered only 0.06647 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: 11671_EXE_02_2024_3B2_unicycler covered only 0.04545 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+EXE_15_2024_J_unicycler covered 0.10652 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Warnings: V__marinisediminis_404_contig covered only 0.06033 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__intestinalis_YLB_11_contig covered only 0.07315 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: 11671_EXE_04_2024_2B3_unicycler covered only 0.04545 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+11671_EXE_23_2024_1_unicycler covered 0.10462 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Warnings: V__pectenicida_LMG_19642_contig covered only 0.03759 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__gallaecicus_CECT_7244_contig covered only 0.04414 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__natriegens_14048_contig covered only 0.06515 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__panuliri_LBS_2_contig covered only 0.06683 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__splendidus_LMG_19031_contig covered only 0.06114 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__xiamenensis_CGMCC_1_10228_contig covered only 0.06514 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__owensii_CAIM_1854___LMG_25443_DY05_contig covered only 0.06927 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__paucivorans_DBSS07_contig covered only 0.06591 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__jasicida_CAIM_1864___LMG_25398_CAIM_1864___LMG_25398_contig covered only 0.07659 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+V__mimicus_CAIM_602_CAIM_602_contig covered 0.67497 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Warnings: V__stylophorae_CECT_7929_contig covered only 0.02934 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__tubiashii_CIP102760T_contig covered only 0.06738 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__kanaloae_LMG_20539_contig covered only 0.05276 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+11671_Guernsey_unicycler covered 0.10168 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Warnings: V__plantisponsor_MSSRF60_contig covered only 0.08886 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__sonorensis_CAIM_1076_contig covered only 0.05915 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__mediterranei_NBRC_15635_NBRC_15635_contig covered only 0.04850 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__metschnikovii_CIP_69_14_CIP_69_14_contig covered only 0.07884 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+11671_EXE_22_2024_B_unicycler covered 0.10569 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Warnings: V__atypicus_DSM_25292_contig covered only 0.06593 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__proteolyticus_ATCC_15338_contig covered only 0.07565 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__natriegens_NBRC_15636___ATCC_14048___DSM_759_ATCC_14048_contig covered only 0.06515 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__cincinnatiensis_NCTC12012_contig covered only 0.08407 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__aestuarianus_LMG_7909_contig covered only 0.08664 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: 11813_EXE_26_2025_C_PBC74148_final covered only 0.09493 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__barjaei_3062_contig covered only 0.04799 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__sinaloensis_CECT_7298_contig covered only 0.06441 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__mediterranei__contig covered only 0.05064 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+11813_EXE_06_2024_E_PBC74148_final covered 0.10259 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Warnings: 11813_EXE_20_2025_B_PBC74148_final covered only 0.09717 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+V__furnissii_FDAARGOS_777_contig covered 0.13835 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Warnings: 11813_EXE_03_2025_A_PBC74148_final covered only 0.07290 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__mytili_CIP103929T_contig covered only 0.05855 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+11813_EXE_30_2024_F_PBC74148_final covered 0.10023 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Warnings: V__orientalis_CIP_102891___ATCC_33934_ATCC_33934_contig covered only 0.06306 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__chaetopteri_CB1_14_contig covered only 0.05633 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+EXE07_2023A4_unicycler covered 0.10132 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Warnings: V__glycogenivorans_WXL210_contig covered only 0.04594 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__diazotrophicus_ATCC_33466_contig covered only 0.09340 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+EXE_03_2025_A_final covered 0.10420 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+11813_EXE_27_2025_A_PBC74148_final covered 0.10335 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Warnings: V__panuliri_JCM_19500_contig covered only 0.06706 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__nereis_DSM_19584_contig covered only 0.06427 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__marisflavi_CECT_7928_CECT_7928_contig covered only 0.03926 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__palustris_CECT_9027T_contig covered only 0.04091 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__parahaemolyticus_NCTC10903_contig covered only 0.07231 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__diazotrophicus_NBRC_103148_NBRC_103148_contig covered only 0.09251 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__spartinae_CECT_9026_contig covered only 0.03981 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: V__tapetis_subsp__tapetis__contig covered only 0.04294 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+11813_EXE_29_2025_V_PBC74148_final covered 0.10212 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Warnings: V__qingdaonensis_ZSDZ65_contig covered only 0.04842 of the V__cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Printing Summary Statistics.
+Creating SNP alignment.
+11671_EXE_02_2024_3B1_unicycler
+11671_EXE_02_2024_3B2_unicycler
+11671_EXE_04_2024_1A1_unicycler
+11671_EXE_04_2024_1B1_unicycler
+11671_EXE_04_2024_2B3_unicycler
+11813_EXE_01_2025_M_PBC74148_final
+11813_EXE_03_2025_A_PBC74148_final
+11813_EXE_20_2025_B_PBC74148_final
+11813_EXE_22_2025_DG1LF_PBC7_final
+11813_EXE_24_2025_E_PBC74148_final
+11813_EXE_25_2025_25N_PBC74148_final
+11813_EXE_26_2025_C_PBC74148_final
+11813_EXE_28_2025_W_PBC74148_final
+11813_EXE_30_2025_R_PBC74148_final
+11813_EXE_33_2024_E_PBC74148_final
+V__aerogenes_CECT_7868_CECT_7868_contig
+V__aerogenes_LMG_19650_contig
+V__aestuarianus_LMG_7909_contig
+V__aestuarianus_subsp__francensis_CIP109791T_contig
+V__agarilyticus_SM6_contig
+V__agarivorans_CECT_5085_contig
+V__albus_E4404_contig
+V__algarum_KJ40_1_contig
+V__algicola_SM1977_contig
+V__alginolyticus_FDAARGOS_97_contig
+V__alginolyticus_NBRC_15630___ATCC_17749_ATCC_17749_contig
+V__alginolyticus_NBRC_15630___ATCC_17749_NBRC_15630_contig
+V__alginolyticus_NCTC12160_contig
+V__algivorus_NBRC_111146_contig
+V__amylolyticus_ZSDE26_contig
+V__antiquarius_EX25_contig
+V__aphrogenes_CA_1004_contig
+V__apostichopi_FE10_contig
+V__aquaticus_BEI207_contig
+V__aquimaris_CIP111709T_contig
+V__aquimaris_THAF100_contig
+V__artabrorum_CECT_7226_contig
+V__atlanticus_CECT_7223_contig
+V__atypicus_DSM_25292_contig
+V__azureus_LC2_005_contig
+V__azureus_NBRC_104587_NBRC_104587_contig
+V__barjaei_3062_contig
+V__bathopelagicus_Sal10_contig
+V__bivalvicida_605_contig
+V__brasiliensis_LMG_20546_LMG_20546_contig
+V__breoganii_CECT_7222_contig
+V__campbellii_CAIM_519___NBRC_15631___ATCC_25920_CAIM_519___NBRC_15631_contig
+V__campbellii_CAIM_519___NBRC_15631___ATCC_25920_CAIM_519_contig
+V__caribbeanicus_ATCC_BAA_2122_ATCC_BAA_2122_contig
+V__casei_DSM_22364_contig
+V__celticus_CECT_7224_contig
+V__celticus_Rd_8_15_contig
+V__chaetopteri_CB1_14_contig
+V__chagasii_CCUG_48643_contig
+V__chagasii_LMG_21353_contig
+V__chemaguriensis_Iso1_contig
+V__cincinnatiensis_DSM_19608_DSM_19608_contig
+V__cincinnatiensis_NCTC12012_contig
+V__cionasavignyae_JAMM2507_contig
+V__clamense_JAMM0920_contig
+V__comitans_LMG_23416_contig
+V__comitans_NBRC_102076_NBRC_102076_contig
+V__coralliilyticus_ATCC_BAA_450_ATCC_BAA_450_contig
+V__coralliilyticus_DSM_19607_contig
+V__coralliirubri_Corallo1_contig
+V__coralliirubri_DSM_27495_contig
+V__cortegadensis_CECT_7227_contig
+V__crassostreae_LGP7_contig
+V__crassostreae_LMG_22240_contig
+V__cyclitrophicus_LMG_21359_contig
+V__diazotrophicus_ATCC_33466_contig
+V__diazotrophicus_CIP103191T_contig
+V__diazotrophicus_NBRC_103148_NBRC_103148_contig
+V__echinoideorum_DSM_107264_contig
+V__echinoideorum_NFH_MB010_contig
+V__eleionomae_CAIM_722_contig
+V__europaeus_PP_638_contig
+V__ezurae_JCM_21522_contig
+V__ezurae_NBRC_102218_NBRC_102218_contig
+V__floridensis_IRLE0018_contig
+V__fluminensis_A621_contig
+V__fortis_LMG_21557_contig
+V__fujianensis_FJ201301_contig
+V__galatheae_S2757_contig
+V__gallaecicus_CECT_7244_contig
+V__gallaecicus_DSM_23502_contig
+V__gallaecicus_VB_8_9_contig
+V__gallicus_CIP_107863_contig
+V__gangliei_DSM_104291_contig
+V__gangliei_SZDIS_1_contig
+V__gazogenes_ATCC_29988_contig
+V__gazogenes_CECT_5068T_contig
+V__gazogenes_DSM_21264___NBRC_103151_DSM_21264_contig
+V__gazogenes_DSM_21264_contig
+V__gazogenes_PB1_contig
+V__gelatinilyticus_ZSDZ34_contig
+V__gigantis_LGP_13_contig
+V__gigantis_LMG_22741_contig
+V__glycogenivorans_WXL210_contig
+V__halioticoli_IAM_14596_contig
+V__halioticoli_NBRC_102217_NBRC_102217_contig
+V__hangzhouensis_CGMCC_1_7062_contig
+V__hannami_KACC_19277_contig
+V__harveyi_FDAARGOS_109_contig
+V__harveyi_NBRC_15634___ATCC_14126___KCTC_12724_ATCC_14126_contig
+V__harveyi_NBRC_15634___ATCC_14126___KCTC_12724_NBRC_15634___ATCC_14126_contig
+V__harveyi_NBRC_15634___ATCC_14126___KCTC_12724_NBRC_15634_contig
+V__harveyi_NCTC12970_contig
+V__hepatarius_DSM_19134_contig
+V__hibernica_B1_19_contig
+V__hippocampi_CECT_8226_contig
+V__hyugaensis_090810a_contig
+V__hyugaensis_NBRC_110633_contig
+V__ichthyoenteri_ATCC_700023_ATCC_700023_contig
+V__injensis_M12_1144_contig
+V__intestinalis_YLB_11_contig
+V__inusitatus_LMG_23434_contig
+V__inusitatus_NBRC_102082_NBRC_102082_contig
+V__iocasae_HN007_contig
+V__ishigakensis_C1_contig
+V__japonicus_JCM_31412_contig
+V__jasicida_CAIM_1864___LMG_25398_CAIM_1864___LMG_25398_contig
+V__jasicida_CECT_7692_contig
+V__kagoshimensis_JAMM0761_contig
+V__kanaloae_CCUG_56968_contig
+V__kanaloae_LMG_20539_contig
+V__kasasachensis_JAMM1812_contig
+V__kyushuensis_JAMM1822_contig
+V__lamellibrachiae_JAMM2626_contig
+V__lentus_40M4T_contig
+V__lentus_CECT_5110_contig
+V__litoralis_DSM_17657_DSM_17657_contig
+V__maerlii_G62_contig
+V__makurazakiensis_JAMM1826_contig
+V__mangrovi_CECT_7927_contig
+V__mangrovi_MSSRF38_contig
+V__marinisediminis_404_contig
+V__marisflavi_CECT_7928_CECT_7928_contig
+V__mediterranei_AK1_AK1_contig
+V__mediterranei_NBRC_15635_NBRC_15635_contig
+V__mediterranei__contig
+V__methylphosphonaticus_S4B1_contig
+V__metschnikovii_CIP_69_14_CIP_69_14_contig
+V__metschnikovii_NCTC8443_contig
+V__mexicanus_CAIM_1540_contig
+V__minamisatsumaniensis_JAMM0571_contig
+V__mytili_CAIM_528_contig
+V__mytili_CIP103929T_contig
+V__natriegens_14048_contig
+V__natriegens_CCUG_16371_contig
+V__natriegens_NBRC_15636___ATCC_14048___DSM_759_ATCC_14048_contig
+V__natriegens_NBRC_15636___ATCC_14048___DSM_759_DSM_759_contig
+V__natriegens_NBRC_15636___ATCC_14048___DSM_759_NBRC_15636_contig
+V__navarrensis_ATCC_51183_contig
+V__neonatus_JCM_21521_contig
+V__nereis_DSM_19584_contig
+V__nereis_NBRC_15637_NBRC_15637_contig
+V__nigripulchritudo_ATCC_27043_ATCC_27043_contig
+V__nitrifigilis_NFV_1_contig
+V__nomapromontoriensis_JAMM1728_contig
+V__olivae_CECT_8064_contig
+V__orientalis_CIP_102891___ATCC_33934_ATCC_33934_contig
+V__orientalis_CIP_102891___ATCC_33934_CIP_102891_contig
+V__ostreicida_CECT_7398_contig
+V__ostreicida_PP_203_contig
+V__ouci_BEI176_contig
+V__owensii_CAIM_1854___LMG_25443_CAIM_1854___LMG_25443_contig
+V__owensii_CAIM_1854___LMG_25443_DY05_contig
+V__owensii_LMG_25430_LMG_25430_contig
+V__pacinii_DSM_19139_DSM_19139_contig
+V__palustris_CECT_9027T_contig
+V__palustris_CECT_9027_contig
+V__panuliri_JCM_19500_contig
+V__panuliri_LBS_2_contig
+V__parahaemolyticus_ATCC_17802_contig
+V__parahaemolyticus_CIP75_2T_contig
+V__parahaemolyticus_NBRC_12711_NBRC_12711_contig
+V__parahaemolyticus_NCTC10903_contig
+V__paucivorans_DBSS07_contig
+V__pectenicida_CAIM_594_contig
+V__pectenicida_LMG_19642_contig
+V__pelagius_ATCC_25916_contig
+V__penaeicida_CAIM_285_contig
+V__penaeicida_IFO_15640T_contig
+V__penaeicida_NBRC_15640_contig
+V__plantisponsor_LMG_24470_contig
+V__plantisponsor_MSSRF60_contig
+V__pomeroyi_LMG_20537_contig
+V__ponticus_DSM_16217_contig
+V__porteresiae_DSM_19223_MSSRF30_contig
+V__profundi_TP187_contig
+V__profundum_JAMM1780_contig
+V__proteolyticus_ATCC_15338_contig
+V__proteolyticus_NBRC_13287_NBRC_13287_contig
+V__proteolyticus_NBRC_13287_contig
+V__qingdaonensis_ZSDZ65_contig
+V__quintilis_CECT_7734_contig
+V__quintilis__contig
+V__rarus_LMG_23674_contig
+V__renipiscarius_DCR_1_4_2_contig
+V__rhizosphaerae_DSM_18581_DSM_18581_contig
+V__rhizosphaerae_LMG_23790_contig
+V__rhodolitus_G98_contig
+V__rotiferianus_CAIM_577___LMG_21460_CAIM_577___LMG_21460_contig
+V__rotiferianus_CAIM_577___LMG_21460_CAIM_577_contig
+V__ruber_DSM_16370_CECT_7878T_contig
+V__rumoiensis_FERM_P_14531_contig
+V__sabulosilitoris_MAO6_contig
+V__sagamiensis_NBRC_104589_NBRC_104589_contig
+V__salilacus_DSG_S6_contig
+V__salinus_DNF_1_contig
+V__satsumensis_JAMM0822_contig
+V__scophthalmi_LMG_19158_LMG_19158_contig
+V__sinaloensis_CECT_7298_contig
+V__sinensis_BEI233_contig
+V__sinus_S4M6_contig
+V__sonorensis_CAIM_1076_contig
+V__spartinae_CECT_9026T_contig
+V__spartinae_CECT_9026_contig
+V__splendidus_CECT_8714_contig
+V__splendidus_DSM_19640_contig
+V__splendidus_LMG_19031_contig
+V__splendidus_NCCB_53037_contig
+V__stylophorae_CECT_7929_contig
+V__superstes_JCM_21480_contig
+V__superstes_NBRC_103154_NBRC_103154_contig
+V__syngnathi_K08M4_contig
+V__taketomensis_C4III282_contig
+V__tapetis_subsp__quintayensis_CECT_8851_contig
+V__tapetis_subsp__tapetis__contig
+V__tasmaniensis_LMG_20012_contig
+V__tetraodonis_A511_contig
+V__tetraodonis_subsp__pristinus_OCN044_contig
+V__thalassae_CECT8203_contig
+V__thalassae_KCTC_32373_contig
+V__toranzoniae_CECT_7225_contig
+V__toranzoniae_Vb_10_8_contig
+V__tritonius_AM2_contig
+V__tubiashii_ATCC_19109_19109_contig
+V__tubiashii_ATCC_19109_ATCC_19109_contig
+V__tubiashii_CIP102760T_contig
+V__ulleungensis_188UL20_2_contig
+V__variabilis_CAIM_1454_contig
+V__viridaestus_LJC006_contig
+V__vulnificus_NBRC_15645___ATCC_27562_ATCC_27562_contig
+V__wakamikoensis_JAMM2464_contig
+V__xiamenensis_CGMCC_1_10228_contig
+V__zhanjiangensis_NBRC_108723_contig
+V__zhugei_HBUAS61001_contig
+V__zhugei_KCTC_62784_contig
+V__ziniensis_ZWAL4003_contig
+11671_EXE_02_2024_3B1_unicycler
+11671_EXE_02_2024_3B2_unicycler
+11671_EXE_04_2024_1A1_unicycler
+11671_EXE_04_2024_1B1_unicycler
+11671_EXE_04_2024_2B3_unicycler
+11813_EXE_01_2025_M_PBC74148_final
+11813_EXE_03_2025_A_PBC74148_final
+11813_EXE_20_2025_B_PBC74148_final
+11813_EXE_22_2025_DG1LF_PBC7_final
+11813_EXE_24_2025_E_PBC74148_final
+11813_EXE_25_2025_25N_PBC74148_final
+11813_EXE_26_2025_C_PBC74148_final
+11813_EXE_28_2025_W_PBC74148_final
+11813_EXE_30_2025_R_PBC74148_final
+11813_EXE_33_2024_E_PBC74148_final
+V__aerogenes_CECT_7868_CECT_7868_contig
+V__aerogenes_LMG_19650_contig
+V__aestuarianus_LMG_7909_contig
+V__aestuarianus_subsp__francensis_CIP109791T_contig
+V__agarilyticus_SM6_contig
+V__agarivorans_CECT_5085_contig
+V__albus_E4404_contig
+V__algarum_KJ40_1_contig
+V__algicola_SM1977_contig
+V__alginolyticus_FDAARGOS_97_contig
+V__alginolyticus_NBRC_15630___ATCC_17749_ATCC_17749_contig
+V__alginolyticus_NBRC_15630___ATCC_17749_NBRC_15630_contig
+V__alginolyticus_NCTC12160_contig
+V__algivorus_NBRC_111146_contig
+V__amylolyticus_ZSDE26_contig
+V__antiquarius_EX25_contig
+V__aphrogenes_CA_1004_contig
+V__apostichopi_FE10_contig
+V__aquaticus_BEI207_contig
+V__aquimaris_CIP111709T_contig
+V__aquimaris_THAF100_contig
+V__artabrorum_CECT_7226_contig
+V__atlanticus_CECT_7223_contig
+V__atypicus_DSM_25292_contig
+V__azureus_LC2_005_contig
+V__azureus_NBRC_104587_NBRC_104587_contig
+V__barjaei_3062_contig
+V__bathopelagicus_Sal10_contig
+V__bivalvicida_605_contig
+V__brasiliensis_LMG_20546_LMG_20546_contig
+V__breoganii_CECT_7222_contig
+V__campbellii_CAIM_519___NBRC_15631___ATCC_25920_CAIM_519___NBRC_15631_contig
+V__campbellii_CAIM_519___NBRC_15631___ATCC_25920_CAIM_519_contig
+V__caribbeanicus_ATCC_BAA_2122_ATCC_BAA_2122_contig
+V__casei_DSM_22364_contig
+V__celticus_CECT_7224_contig
+V__celticus_Rd_8_15_contig
+V__chaetopteri_CB1_14_contig
+V__chagasii_CCUG_48643_contig
+V__chagasii_LMG_21353_contig
+V__chemaguriensis_Iso1_contig
+V__cincinnatiensis_DSM_19608_DSM_19608_contig
+V__cincinnatiensis_NCTC12012_contig
+V__cionasavignyae_JAMM2507_contig
+V__clamense_JAMM0920_contig
+V__comitans_LMG_23416_contig
+V__comitans_NBRC_102076_NBRC_102076_contig
+V__coralliilyticus_ATCC_BAA_450_ATCC_BAA_450_contig
+V__coralliilyticus_DSM_19607_contig
+V__coralliirubri_Corallo1_contig
+V__coralliirubri_DSM_27495_contig
+V__cortegadensis_CECT_7227_contig
+V__crassostreae_LGP7_contig
+V__crassostreae_LMG_22240_contig
+V__cyclitrophicus_LMG_21359_contig
+V__diazotrophicus_ATCC_33466_contig
+V__diazotrophicus_CIP103191T_contig
+V__diazotrophicus_NBRC_103148_NBRC_103148_contig
+V__echinoideorum_DSM_107264_contig
+V__echinoideorum_NFH_MB010_contig
+V__eleionomae_CAIM_722_contig
+V__europaeus_PP_638_contig
+V__ezurae_JCM_21522_contig
+V__ezurae_NBRC_102218_NBRC_102218_contig
+V__floridensis_IRLE0018_contig
+V__fluminensis_A621_contig
+V__fortis_LMG_21557_contig
+V__fujianensis_FJ201301_contig
+V__galatheae_S2757_contig
+V__gallaecicus_CECT_7244_contig
+V__gallaecicus_DSM_23502_contig
+V__gallaecicus_VB_8_9_contig
+V__gallicus_CIP_107863_contig
+V__gangliei_DSM_104291_contig
+V__gangliei_SZDIS_1_contig
+V__gazogenes_ATCC_29988_contig
+V__gazogenes_CECT_5068T_contig
+V__gazogenes_DSM_21264___NBRC_103151_DSM_21264_contig
+V__gazogenes_DSM_21264_contig
+V__gazogenes_PB1_contig
+V__gelatinilyticus_ZSDZ34_contig
+V__gigantis_LGP_13_contig
+V__gigantis_LMG_22741_contig
+V__glycogenivorans_WXL210_contig
+V__halioticoli_IAM_14596_contig
+V__halioticoli_NBRC_102217_NBRC_102217_contig
+V__hangzhouensis_CGMCC_1_7062_contig
+V__hannami_KACC_19277_contig
+V__harveyi_FDAARGOS_109_contig
+V__harveyi_NBRC_15634___ATCC_14126___KCTC_12724_ATCC_14126_contig
+V__harveyi_NBRC_15634___ATCC_14126___KCTC_12724_NBRC_15634___ATCC_14126_contig
+V__harveyi_NBRC_15634___ATCC_14126___KCTC_12724_NBRC_15634_contig
+V__harveyi_NCTC12970_contig
+V__hepatarius_DSM_19134_contig
+V__hibernica_B1_19_contig
+V__hippocampi_CECT_8226_contig
+V__hyugaensis_090810a_contig
+V__hyugaensis_NBRC_110633_contig
+V__ichthyoenteri_ATCC_700023_ATCC_700023_contig
+V__injensis_M12_1144_contig
+V__intestinalis_YLB_11_contig
+V__inusitatus_LMG_23434_contig
+V__inusitatus_NBRC_102082_NBRC_102082_contig
+V__iocasae_HN007_contig
+V__ishigakensis_C1_contig
+V__japonicus_JCM_31412_contig
+V__jasicida_CAIM_1864___LMG_25398_CAIM_1864___LMG_25398_contig
+V__jasicida_CECT_7692_contig
+V__kagoshimensis_JAMM0761_contig
+V__kanaloae_CCUG_56968_contig
+V__kanaloae_LMG_20539_contig
+V__kasasachensis_JAMM1812_contig
+V__kyushuensis_JAMM1822_contig
+V__lamellibrachiae_JAMM2626_contig
+V__lentus_40M4T_contig
+V__lentus_CECT_5110_contig
+V__litoralis_DSM_17657_DSM_17657_contig
+V__maerlii_G62_contig
+V__makurazakiensis_JAMM1826_contig
+V__mangrovi_CECT_7927_contig
+V__mangrovi_MSSRF38_contig
+V__marinisediminis_404_contig
+V__marisflavi_CECT_7928_CECT_7928_contig
+V__mediterranei_AK1_AK1_contig
+V__mediterranei_NBRC_15635_NBRC_15635_contig
+V__mediterranei__contig
+V__methylphosphonaticus_S4B1_contig
+V__metschnikovii_CIP_69_14_CIP_69_14_contig
+V__metschnikovii_NCTC8443_contig
+V__mexicanus_CAIM_1540_contig
+V__minamisatsumaniensis_JAMM0571_contig
+V__mytili_CAIM_528_contig
+V__mytili_CIP103929T_contig
+V__natriegens_14048_contig
+V__natriegens_CCUG_16371_contig
+V__natriegens_NBRC_15636___ATCC_14048___DSM_759_ATCC_14048_contig
+V__natriegens_NBRC_15636___ATCC_14048___DSM_759_DSM_759_contig
+V__natriegens_NBRC_15636___ATCC_14048___DSM_759_NBRC_15636_contig
+V__navarrensis_ATCC_51183_contig
+V__neonatus_JCM_21521_contig
+V__nereis_DSM_19584_contig
+V__nereis_NBRC_15637_NBRC_15637_contig
+V__nigripulchritudo_ATCC_27043_ATCC_27043_contig
+V__nitrifigilis_NFV_1_contig
+V__nomapromontoriensis_JAMM1728_contig
+V__olivae_CECT_8064_contig
+V__orientalis_CIP_102891___ATCC_33934_ATCC_33934_contig
+V__orientalis_CIP_102891___ATCC_33934_CIP_102891_contig
+V__ostreicida_CECT_7398_contig
+V__ostreicida_PP_203_contig
+V__ouci_BEI176_contig
+V__owensii_CAIM_1854___LMG_25443_CAIM_1854___LMG_25443_contig
+V__owensii_CAIM_1854___LMG_25443_DY05_contig
+V__owensii_LMG_25430_LMG_25430_contig
+V__pacinii_DSM_19139_DSM_19139_contig
+V__palustris_CECT_9027T_contig
+V__palustris_CECT_9027_contig
+V__panuliri_JCM_19500_contig
+V__panuliri_LBS_2_contig
+V__parahaemolyticus_ATCC_17802_contig
+V__parahaemolyticus_CIP75_2T_contig
+V__parahaemolyticus_NBRC_12711_NBRC_12711_contig
+V__parahaemolyticus_NCTC10903_contig
+V__paucivorans_DBSS07_contig
+V__pectenicida_CAIM_594_contig
+V__pectenicida_LMG_19642_contig
+V__pelagius_ATCC_25916_contig
+V__penaeicida_CAIM_285_contig
+V__penaeicida_IFO_15640T_contig
+V__penaeicida_NBRC_15640_contig
+V__plantisponsor_LMG_24470_contig
+V__plantisponsor_MSSRF60_contig
+V__pomeroyi_LMG_20537_contig
+V__ponticus_DSM_16217_contig
+V__porteresiae_DSM_19223_MSSRF30_contig
+V__profundi_TP187_contig
+V__profundum_JAMM1780_contig
+V__proteolyticus_ATCC_15338_contig
+V__proteolyticus_NBRC_13287_NBRC_13287_contig
+V__proteolyticus_NBRC_13287_contig
+V__qingdaonensis_ZSDZ65_contig
+V__quintilis_CECT_7734_contig
+V__quintilis__contig
+V__rarus_LMG_23674_contig
+V__renipiscarius_DCR_1_4_2_contig
+V__rhizosphaerae_DSM_18581_DSM_18581_contig
+V__rhizosphaerae_LMG_23790_contig
+V__rhodolitus_G98_contig
+V__rotiferianus_CAIM_577___LMG_21460_CAIM_577___LMG_21460_contig
+V__rotiferianus_CAIM_577___LMG_21460_CAIM_577_contig
+V__ruber_DSM_16370_CECT_7878T_contig
+V__rumoiensis_FERM_P_14531_contig
+V__sabulosilitoris_MAO6_contig
+V__sagamiensis_NBRC_104589_NBRC_104589_contig
+V__salilacus_DSG_S6_contig
+V__salinus_DNF_1_contig
+V__satsumensis_JAMM0822_contig
+V__scophthalmi_LMG_19158_LMG_19158_contig
+V__sinaloensis_CECT_7298_contig
+V__sinensis_BEI233_contig
+V__sinus_S4M6_contig
+V__sonorensis_CAIM_1076_contig
+V__spartinae_CECT_9026T_contig
+V__spartinae_CECT_9026_contig
+V__splendidus_CECT_8714_contig
+V__splendidus_DSM_19640_contig
+V__splendidus_LMG_19031_contig
+V__splendidus_NCCB_53037_contig
+V__stylophorae_CECT_7929_contig
+V__superstes_JCM_21480_contig
+V__superstes_NBRC_103154_NBRC_103154_contig
+V__syngnathi_K08M4_contig
+V__taketomensis_C4III282_contig
+V__tapetis_subsp__quintayensis_CECT_8851_contig
+V__tapetis_subsp__tapetis__contig
+V__tasmaniensis_LMG_20012_contig
+V__tetraodonis_A511_contig
+V__tetraodonis_subsp__pristinus_OCN044_contig
+V__thalassae_CECT8203_contig
+V__thalassae_KCTC_32373_contig
+V__toranzoniae_CECT_7225_contig
+V__toranzoniae_Vb_10_8_contig
+V__tritonius_AM2_contig
+V__tubiashii_ATCC_19109_19109_contig
+V__tubiashii_ATCC_19109_ATCC_19109_contig
+V__tubiashii_CIP102760T_contig
+V__ulleungensis_188UL20_2_contig
+V__variabilis_CAIM_1454_contig
+V__viridaestus_LJC006_contig
+V__vulnificus_NBRC_15645___ATCC_27562_ATCC_27562_contig
+V__wakamikoensis_JAMM2464_contig
+V__xiamenensis_CGMCC_1_10228_contig
+V__zhanjiangensis_NBRC_108723_contig
+V__zhugei_HBUAS61001_contig
+V__zhugei_KCTC_62784_contig
+V__ziniensis_ZWAL4003_contig
+11671_EXE_02_2024_3B1_unicycler
+11671_EXE_02_2024_3B2_unicycler
+11671_EXE_04_2024_1A1_unicycler
+11671_EXE_04_2024_1B1_unicycler
+11671_EXE_04_2024_2B3_unicycler
+11813_EXE_01_2025_M_PBC74148_final
+11813_EXE_03_2025_A_PBC74148_final
+11813_EXE_20_2025_B_PBC74148_final
+11813_EXE_22_2025_DG1LF_PBC7_final
+11813_EXE_24_2025_E_PBC74148_final
+11813_EXE_25_2025_25N_PBC74148_final
+11813_EXE_26_2025_C_PBC74148_final
+11813_EXE_28_2025_W_PBC74148_final
+11813_EXE_30_2025_R_PBC74148_final
+11813_EXE_33_2024_E_PBC74148_final
+V__aerogenes_CECT_7868_CECT_7868_contig
+V__aerogenes_LMG_19650_contig
+V__aestuarianus_LMG_7909_contig
+V__aestuarianus_subsp__francensis_CIP109791T_contig
+V__agarilyticus_SM6_contig
+V__agarivorans_CECT_5085_contig
+V__albus_E4404_contig
+V__algarum_KJ40_1_contig
+V__algicola_SM1977_contig
+V__alginolyticus_FDAARGOS_97_contig
+V__alginolyticus_NBRC_15630___ATCC_17749_ATCC_17749_contig
+V__alginolyticus_NBRC_15630___ATCC_17749_NBRC_15630_contig
+V__alginolyticus_NCTC12160_contig
+V__algivorus_NBRC_111146_contig
+V__amylolyticus_ZSDE26_contig
+V__antiquarius_EX25_contig
+V__aphrogenes_CA_1004_contig
+V__apostichopi_FE10_contig
+V__aquaticus_BEI207_contig
+V__aquimaris_CIP111709T_contig
+V__aquimaris_THAF100_contig
+V__artabrorum_CECT_7226_contig
+V__atlanticus_CECT_7223_contig
+V__atypicus_DSM_25292_contig
+V__azureus_LC2_005_contig
+V__azureus_NBRC_104587_NBRC_104587_contig
+V__barjaei_3062_contig
+V__bathopelagicus_Sal10_contig
+V__bivalvicida_605_contig
+V__brasiliensis_LMG_20546_LMG_20546_contig
+V__breoganii_CECT_7222_contig
+V__campbellii_CAIM_519___NBRC_15631___ATCC_25920_CAIM_519___NBRC_15631_contig
+V__campbellii_CAIM_519___NBRC_15631___ATCC_25920_CAIM_519_contig
+V__caribbeanicus_ATCC_BAA_2122_ATCC_BAA_2122_contig
+V__casei_DSM_22364_contig
+V__celticus_CECT_7224_contig
+V__celticus_Rd_8_15_contig
+V__chaetopteri_CB1_14_contig
+V__chagasii_CCUG_48643_contig
+V__chagasii_LMG_21353_contig
+V__chemaguriensis_Iso1_contig
+V__cincinnatiensis_DSM_19608_DSM_19608_contig
+V__cincinnatiensis_NCTC12012_contig
+V__cionasavignyae_JAMM2507_contig
+V__clamense_JAMM0920_contig
+V__comitans_LMG_23416_contig
+V__comitans_NBRC_102076_NBRC_102076_contig
+V__coralliilyticus_ATCC_BAA_450_ATCC_BAA_450_contig
+V__coralliilyticus_DSM_19607_contig
+V__coralliirubri_Corallo1_contig
+V__coralliirubri_DSM_27495_contig
+V__cortegadensis_CECT_7227_contig
+V__crassostreae_LGP7_contig
+V__crassostreae_LMG_22240_contig
+V__cyclitrophicus_LMG_21359_contig
+V__diazotrophicus_ATCC_33466_contig
+V__diazotrophicus_CIP103191T_contig
+V__diazotrophicus_NBRC_103148_NBRC_103148_contig
+V__echinoideorum_DSM_107264_contig
+V__echinoideorum_NFH_MB010_contig
+V__eleionomae_CAIM_722_contig
+V__europaeus_PP_638_contig
+V__ezurae_JCM_21522_contig
+V__ezurae_NBRC_102218_NBRC_102218_contig
+V__floridensis_IRLE0018_contig
+V__fluminensis_A621_contig
+V__fortis_LMG_21557_contig
+V__fujianensis_FJ201301_contig
+V__galatheae_S2757_contig
+V__gallaecicus_CECT_7244_contig
+V__gallaecicus_DSM_23502_contig
+V__gallaecicus_VB_8_9_contig
+V__gallicus_CIP_107863_contig
+V__gangliei_DSM_104291_contig
+V__gangliei_SZDIS_1_contig
+V__gazogenes_ATCC_29988_contig
+V__gazogenes_CECT_5068T_contig
+V__gazogenes_DSM_21264___NBRC_103151_DSM_21264_contig
+V__gazogenes_DSM_21264_contig
+V__gazogenes_PB1_contig
+V__gelatinilyticus_ZSDZ34_contig
+V__gigantis_LGP_13_contig
+V__gigantis_LMG_22741_contig
+V__glycogenivorans_WXL210_contig
+V__halioticoli_IAM_14596_contig
+V__halioticoli_NBRC_102217_NBRC_102217_contig
+V__hangzhouensis_CGMCC_1_7062_contig
+V__hannami_KACC_19277_contig
+V__harveyi_FDAARGOS_109_contig
+V__harveyi_NBRC_15634___ATCC_14126___KCTC_12724_ATCC_14126_contig
+V__harveyi_NBRC_15634___ATCC_14126___KCTC_12724_NBRC_15634___ATCC_14126_contig
+V__harveyi_NBRC_15634___ATCC_14126___KCTC_12724_NBRC_15634_contig
+V__harveyi_NCTC12970_contig
+V__hepatarius_DSM_19134_contig
+V__hibernica_B1_19_contig
+V__hippocampi_CECT_8226_contig
+V__hyugaensis_090810a_contig
+V__hyugaensis_NBRC_110633_contig
+V__ichthyoenteri_ATCC_700023_ATCC_700023_contig
+V__injensis_M12_1144_contig
+V__intestinalis_YLB_11_contig
+V__inusitatus_LMG_23434_contig
+V__inusitatus_NBRC_102082_NBRC_102082_contig
+V__iocasae_HN007_contig
+V__ishigakensis_C1_contig
+V__japonicus_JCM_31412_contig
+V__jasicida_CAIM_1864___LMG_25398_CAIM_1864___LMG_25398_contig
+V__jasicida_CECT_7692_contig
+V__kagoshimensis_JAMM0761_contig
+V__kanaloae_CCUG_56968_contig
+V__kanaloae_LMG_20539_contig
+V__kasasachensis_JAMM1812_contig
+V__kyushuensis_JAMM1822_contig
+V__lamellibrachiae_JAMM2626_contig
+V__lentus_40M4T_contig
+V__lentus_CECT_5110_contig
+V__litoralis_DSM_17657_DSM_17657_contig
+V__maerlii_G62_contig
+V__makurazakiensis_JAMM1826_contig
+V__mangrovi_CECT_7927_contig
+V__mangrovi_MSSRF38_contig
+V__marinisediminis_404_contig
+V__marisflavi_CECT_7928_CECT_7928_contig
+V__mediterranei_AK1_AK1_contig
+V__mediterranei_NBRC_15635_NBRC_15635_contig
+V__mediterranei__contig
+V__methylphosphonaticus_S4B1_contig
+V__metschnikovii_CIP_69_14_CIP_69_14_contig
+V__metschnikovii_NCTC8443_contig
+V__mexicanus_CAIM_1540_contig
+V__minamisatsumaniensis_JAMM0571_contig
+V__mytili_CAIM_528_contig
+V__mytili_CIP103929T_contig
+V__natriegens_14048_contig
+V__natriegens_CCUG_16371_contig
+V__natriegens_NBRC_15636___ATCC_14048___DSM_759_ATCC_14048_contig
+V__natriegens_NBRC_15636___ATCC_14048___DSM_759_DSM_759_contig
+V__natriegens_NBRC_15636___ATCC_14048___DSM_759_NBRC_15636_contig
+V__navarrensis_ATCC_51183_contig
+V__neonatus_JCM_21521_contig
+V__nereis_DSM_19584_contig
+V__nereis_NBRC_15637_NBRC_15637_contig
+V__nigripulchritudo_ATCC_27043_ATCC_27043_contig
+V__nitrifigilis_NFV_1_contig
+V__nomapromontoriensis_JAMM1728_contig
+V__olivae_CECT_8064_contig
+V__orientalis_CIP_102891___ATCC_33934_ATCC_33934_contig
+V__orientalis_CIP_102891___ATCC_33934_CIP_102891_contig
+V__ostreicida_CECT_7398_contig
+V__ostreicida_PP_203_contig
+V__ouci_BEI176_contig
+V__owensii_CAIM_1854___LMG_25443_CAIM_1854___LMG_25443_contig
+V__owensii_CAIM_1854___LMG_25443_DY05_contig
+V__owensii_LMG_25430_LMG_25430_contig
+V__pacinii_DSM_19139_DSM_19139_contig
+V__palustris_CECT_9027T_contig
+V__palustris_CECT_9027_contig
+V__panuliri_JCM_19500_contig
+V__panuliri_LBS_2_contig
+V__parahaemolyticus_ATCC_17802_contig
+V__parahaemolyticus_CIP75_2T_contig
+V__parahaemolyticus_NBRC_12711_NBRC_12711_contig
+V__parahaemolyticus_NCTC10903_contig
+V__paucivorans_DBSS07_contig
+V__pectenicida_CAIM_594_contig
+V__pectenicida_LMG_19642_contig
+V__pelagius_ATCC_25916_contig
+V__penaeicida_CAIM_285_contig
+V__penaeicida_IFO_15640T_contig
+V__penaeicida_NBRC_15640_contig
+V__plantisponsor_LMG_24470_contig
+V__plantisponsor_MSSRF60_contig
+V__pomeroyi_LMG_20537_contig
+V__ponticus_DSM_16217_contig
+V__porteresiae_DSM_19223_MSSRF30_contig
+V__profundi_TP187_contig
+V__profundum_JAMM1780_contig
+V__proteolyticus_ATCC_15338_contig
+V__proteolyticus_NBRC_13287_NBRC_13287_contig
+V__proteolyticus_NBRC_13287_contig
+V__qingdaonensis_ZSDZ65_contig
+V__quintilis_CECT_7734_contig
+V__quintilis__contig
+V__rarus_LMG_23674_contig
+V__renipiscarius_DCR_1_4_2_contig
+V__rhizosphaerae_DSM_18581_DSM_18581_contig
+V__rhizosphaerae_LMG_23790_contig
+V__rhodolitus_G98_contig
+V__rotiferianus_CAIM_577___LMG_21460_CAIM_577___LMG_21460_contig
+V__rotiferianus_CAIM_577___LMG_21460_CAIM_577_contig
+V__ruber_DSM_16370_CECT_7878T_contig
+V__rumoiensis_FERM_P_14531_contig
+V__sabulosilitoris_MAO6_contig
+V__sagamiensis_NBRC_104589_NBRC_104589_contig
+V__salilacus_DSG_S6_contig
+V__salinus_DNF_1_contig
+V__satsumensis_JAMM0822_contig
+V__scophthalmi_LMG_19158_LMG_19158_contig
+V__sinaloensis_CECT_7298_contig
+V__sinensis_BEI233_contig
+V__sinus_S4M6_contig
+V__sonorensis_CAIM_1076_contig
+V__spartinae_CECT_9026T_contig
+V__spartinae_CECT_9026_contig
+V__splendidus_CECT_8714_contig
+V__splendidus_DSM_19640_contig
+V__splendidus_LMG_19031_contig
+V__splendidus_NCCB_53037_contig
+V__stylophorae_CECT_7929_contig
+V__superstes_JCM_21480_contig
+V__superstes_NBRC_103154_NBRC_103154_contig
+V__syngnathi_K08M4_contig
+V__taketomensis_C4III282_contig
+V__tapetis_subsp__quintayensis_CECT_8851_contig
+V__tapetis_subsp__tapetis__contig
+V__tasmaniensis_LMG_20012_contig
+V__tetraodonis_A511_contig
+V__tetraodonis_subsp__pristinus_OCN044_contig
+V__thalassae_CECT8203_contig
+V__thalassae_KCTC_32373_contig
+V__toranzoniae_CECT_7225_contig
+V__toranzoniae_Vb_10_8_contig
+V__tritonius_AM2_contig
+V__tubiashii_ATCC_19109_19109_contig
+V__tubiashii_ATCC_19109_ATCC_19109_contig
+V__tubiashii_CIP102760T_contig
+V__ulleungensis_188UL20_2_contig
+V__variabilis_CAIM_1454_contig
+V__viridaestus_LJC006_contig
+V__vulnificus_NBRC_15645___ATCC_27562_ATCC_27562_contig
+V__wakamikoensis_JAMM2464_contig
+V__xiamenensis_CGMCC_1_10228_contig
+V__zhanjiangensis_NBRC_108723_contig
+V__zhugei_HBUAS61001_contig
+V__zhugei_KCTC_62784_contig
+V__ziniensis_ZWAL4003_contig
+11671_EXE_02_2024_3B1_unicycler
+11671_EXE_02_2024_3B2_unicycler
+11671_EXE_04_2024_1A1_unicycler
+11671_EXE_04_2024_1B1_unicycler
+11671_EXE_04_2024_2B3_unicycler
+11813_EXE_01_2025_M_PBC74148_final
+11813_EXE_03_2025_A_PBC74148_final
+11813_EXE_20_2025_B_PBC74148_final
+11813_EXE_22_2025_DG1LF_PBC7_final
+11813_EXE_24_2025_E_PBC74148_final
+11813_EXE_25_2025_25N_PBC74148_final
+11813_EXE_26_2025_C_PBC74148_final
+11813_EXE_28_2025_W_PBC74148_final
+11813_EXE_30_2025_R_PBC74148_final
+11813_EXE_33_2024_E_PBC74148_final
+V__aerogenes_CECT_7868_CECT_7868_contig
+V__aerogenes_LMG_19650_contig
+V__aestuarianus_LMG_7909_contig
+V__aestuarianus_subsp__francensis_CIP109791T_contig
+V__agarilyticus_SM6_contig
+V__agarivorans_CECT_5085_contig
+V__albus_E4404_contig
+V__algarum_KJ40_1_contig
+V__algicola_SM1977_contig
+V__alginolyticus_FDAARGOS_97_contig
+V__alginolyticus_NBRC_15630___ATCC_17749_ATCC_17749_contig
+V__alginolyticus_NBRC_15630___ATCC_17749_NBRC_15630_contig
+V__alginolyticus_NCTC12160_contig
+V__algivorus_NBRC_111146_contig
+V__amylolyticus_ZSDE26_contig
+V__antiquarius_EX25_contig
+V__aphrogenes_CA_1004_contig
+V__apostichopi_FE10_contig
+V__aquaticus_BEI207_contig
+V__aquimaris_CIP111709T_contig
+V__aquimaris_THAF100_contig
+V__artabrorum_CECT_7226_contig
+V__atlanticus_CECT_7223_contig
+V__atypicus_DSM_25292_contig
+V__azureus_LC2_005_contig
+V__azureus_NBRC_104587_NBRC_104587_contig
+V__barjaei_3062_contig
+V__bathopelagicus_Sal10_contig
+V__bivalvicida_605_contig
+V__brasiliensis_LMG_20546_LMG_20546_contig
+V__breoganii_CECT_7222_contig
+V__campbellii_CAIM_519___NBRC_15631___ATCC_25920_CAIM_519___NBRC_15631_contig
+V__campbellii_CAIM_519___NBRC_15631___ATCC_25920_CAIM_519_contig
+V__caribbeanicus_ATCC_BAA_2122_ATCC_BAA_2122_contig
+V__casei_DSM_22364_contig
+V__celticus_CECT_7224_contig
+V__celticus_Rd_8_15_contig
+V__chaetopteri_CB1_14_contig
+V__chagasii_CCUG_48643_contig
+V__chagasii_LMG_21353_contig
+V__chemaguriensis_Iso1_contig
+V__cincinnatiensis_DSM_19608_DSM_19608_contig
+V__cincinnatiensis_NCTC12012_contig
+V__cionasavignyae_JAMM2507_contig
+V__clamense_JAMM0920_contig
+V__comitans_LMG_23416_contig
+V__comitans_NBRC_102076_NBRC_102076_contig
+V__coralliilyticus_ATCC_BAA_450_ATCC_BAA_450_contig
+V__coralliilyticus_DSM_19607_contig
+V__coralliirubri_Corallo1_contig
+V__coralliirubri_DSM_27495_contig
+V__cortegadensis_CECT_7227_contig
+V__crassostreae_LGP7_contig
+V__crassostreae_LMG_22240_contig
+V__cyclitrophicus_LMG_21359_contig
+V__diazotrophicus_ATCC_33466_contig
+V__diazotrophicus_CIP103191T_contig
+V__diazotrophicus_NBRC_103148_NBRC_103148_contig
+V__echinoideorum_DSM_107264_contig
+V__echinoideorum_NFH_MB010_contig
+V__eleionomae_CAIM_722_contig
+V__europaeus_PP_638_contig
+V__ezurae_JCM_21522_contig
+V__ezurae_NBRC_102218_NBRC_102218_contig
+V__floridensis_IRLE0018_contig
+V__fluminensis_A621_contig
+V__fortis_LMG_21557_contig
+V__fujianensis_FJ201301_contig
+V__galatheae_S2757_contig
+V__gallaecicus_CECT_7244_contig
+V__gallaecicus_DSM_23502_contig
+V__gallaecicus_VB_8_9_contig
+V__gallicus_CIP_107863_contig
+V__gangliei_DSM_104291_contig
+V__gangliei_SZDIS_1_contig
+V__gazogenes_ATCC_29988_contig
+V__gazogenes_CECT_5068T_contig
+V__gazogenes_DSM_21264___NBRC_103151_DSM_21264_contig
+V__gazogenes_DSM_21264_contig
+V__gazogenes_PB1_contig
+V__gelatinilyticus_ZSDZ34_contig
+V__gigantis_LGP_13_contig
+V__gigantis_LMG_22741_contig
+V__glycogenivorans_WXL210_contig
+V__halioticoli_IAM_14596_contig
+V__halioticoli_NBRC_102217_NBRC_102217_contig
+V__hangzhouensis_CGMCC_1_7062_contig
+V__hannami_KACC_19277_contig
+V__harveyi_FDAARGOS_109_contig
+V__harveyi_NBRC_15634___ATCC_14126___KCTC_12724_ATCC_14126_contig
+V__harveyi_NBRC_15634___ATCC_14126___KCTC_12724_NBRC_15634___ATCC_14126_contig
+V__harveyi_NBRC_15634___ATCC_14126___KCTC_12724_NBRC_15634_contig
+V__harveyi_NCTC12970_contig
+V__hepatarius_DSM_19134_contig
+V__hibernica_B1_19_contig
+V__hippocampi_CECT_8226_contig
+V__hyugaensis_090810a_contig
+V__hyugaensis_NBRC_110633_contig
+V__ichthyoenteri_ATCC_700023_ATCC_700023_contig
+V__injensis_M12_1144_contig
+V__intestinalis_YLB_11_contig
+V__inusitatus_LMG_23434_contig
+V__inusitatus_NBRC_102082_NBRC_102082_contig
+V__iocasae_HN007_contig
+V__ishigakensis_C1_contig
+V__japonicus_JCM_31412_contig
+V__jasicida_CAIM_1864___LMG_25398_CAIM_1864___LMG_25398_contig
+V__jasicida_CECT_7692_contig
+V__kagoshimensis_JAMM0761_contig
+V__kanaloae_CCUG_56968_contig
+V__kanaloae_LMG_20539_contig
+V__kasasachensis_JAMM1812_contig
+V__kyushuensis_JAMM1822_contig
+V__lamellibrachiae_JAMM2626_contig
+V__lentus_40M4T_contig
+V__lentus_CECT_5110_contig
+V__litoralis_DSM_17657_DSM_17657_contig
+V__maerlii_G62_contig
+V__makurazakiensis_JAMM1826_contig
+V__mangrovi_CECT_7927_contig
+V__mangrovi_MSSRF38_contig
+V__marinisediminis_404_contig
+V__marisflavi_CECT_7928_CECT_7928_contig
+V__mediterranei_AK1_AK1_contig
+V__mediterranei_NBRC_15635_NBRC_15635_contig
+V__mediterranei__contig
+V__methylphosphonaticus_S4B1_contig
+V__metschnikovii_CIP_69_14_CIP_69_14_contig
+V__metschnikovii_NCTC8443_contig
+V__mexicanus_CAIM_1540_contig
+V__minamisatsumaniensis_JAMM0571_contig
+V__mytili_CAIM_528_contig
+V__mytili_CIP103929T_contig
+V__natriegens_14048_contig
+V__natriegens_CCUG_16371_contig
+V__natriegens_NBRC_15636___ATCC_14048___DSM_759_ATCC_14048_contig
+V__natriegens_NBRC_15636___ATCC_14048___DSM_759_DSM_759_contig
+V__natriegens_NBRC_15636___ATCC_14048___DSM_759_NBRC_15636_contig
+V__navarrensis_ATCC_51183_contig
+V__neonatus_JCM_21521_contig
+V__nereis_DSM_19584_contig
+V__nereis_NBRC_15637_NBRC_15637_contig
+V__nigripulchritudo_ATCC_27043_ATCC_27043_contig
+V__nitrifigilis_NFV_1_contig
+V__nomapromontoriensis_JAMM1728_contig
+V__olivae_CECT_8064_contig
+V__orientalis_CIP_102891___ATCC_33934_ATCC_33934_contig
+V__orientalis_CIP_102891___ATCC_33934_CIP_102891_contig
+V__ostreicida_CECT_7398_contig
+V__ostreicida_PP_203_contig
+V__ouci_BEI176_contig
+V__owensii_CAIM_1854___LMG_25443_CAIM_1854___LMG_25443_contig
+V__owensii_CAIM_1854___LMG_25443_DY05_contig
+V__owensii_LMG_25430_LMG_25430_contig
+V__pacinii_DSM_19139_DSM_19139_contig
+V__palustris_CECT_9027T_contig
+V__palustris_CECT_9027_contig
+V__panuliri_JCM_19500_contig
+V__panuliri_LBS_2_contig
+V__parahaemolyticus_ATCC_17802_contig
+V__parahaemolyticus_CIP75_2T_contig
+V__parahaemolyticus_NBRC_12711_NBRC_12711_contig
+V__parahaemolyticus_NCTC10903_contig
+V__paucivorans_DBSS07_contig
+V__pectenicida_CAIM_594_contig
+V__pectenicida_LMG_19642_contig
+V__pelagius_ATCC_25916_contig
+V__penaeicida_CAIM_285_contig
+V__penaeicida_IFO_15640T_contig
+V__penaeicida_NBRC_15640_contig
+V__plantisponsor_LMG_24470_contig
+V__plantisponsor_MSSRF60_contig
+V__pomeroyi_LMG_20537_contig
+V__ponticus_DSM_16217_contig
+V__porteresiae_DSM_19223_MSSRF30_contig
+V__profundi_TP187_contig
+V__profundum_JAMM1780_contig
+V__proteolyticus_ATCC_15338_contig
+V__proteolyticus_NBRC_13287_NBRC_13287_contig
+V__proteolyticus_NBRC_13287_contig
+V__qingdaonensis_ZSDZ65_contig
+V__quintilis_CECT_7734_contig
+V__quintilis__contig
+V__rarus_LMG_23674_contig
+V__renipiscarius_DCR_1_4_2_contig
+V__rhizosphaerae_DSM_18581_DSM_18581_contig
+V__rhizosphaerae_LMG_23790_contig
+V__rhodolitus_G98_contig
+V__rotiferianus_CAIM_577___LMG_21460_CAIM_577___LMG_21460_contig
+V__rotiferianus_CAIM_577___LMG_21460_CAIM_577_contig
+V__ruber_DSM_16370_CECT_7878T_contig
+V__rumoiensis_FERM_P_14531_contig
+V__sabulosilitoris_MAO6_contig
+V__sagamiensis_NBRC_104589_NBRC_104589_contig
+V__salilacus_DSG_S6_contig
+V__salinus_DNF_1_contig
+V__satsumensis_JAMM0822_contig
+V__scophthalmi_LMG_19158_LMG_19158_contig
+V__sinaloensis_CECT_7298_contig
+V__sinensis_BEI233_contig
+V__sinus_S4M6_contig
+V__sonorensis_CAIM_1076_contig
+V__spartinae_CECT_9026T_contig
+V__spartinae_CECT_9026_contig
+V__splendidus_CECT_8714_contig
+V__splendidus_DSM_19640_contig
+V__splendidus_LMG_19031_contig
+V__splendidus_NCCB_53037_contig
+V__stylophorae_CECT_7929_contig
+V__superstes_JCM_21480_contig
+V__superstes_NBRC_103154_NBRC_103154_contig
+V__syngnathi_K08M4_contig
+V__taketomensis_C4III282_contig
+V__tapetis_subsp__quintayensis_CECT_8851_contig
+V__tapetis_subsp__tapetis__contig
+V__tasmaniensis_LMG_20012_contig
+V__tetraodonis_A511_contig
+V__tetraodonis_subsp__pristinus_OCN044_contig
+V__thalassae_CECT8203_contig
+V__thalassae_KCTC_32373_contig
+V__toranzoniae_CECT_7225_contig
+V__toranzoniae_Vb_10_8_contig
+V__tritonius_AM2_contig
+V__tubiashii_ATCC_19109_19109_contig
+V__tubiashii_ATCC_19109_ATCC_19109_contig
+V__tubiashii_CIP102760T_contig
+V__ulleungensis_188UL20_2_contig
+V__variabilis_CAIM_1454_contig
+V__viridaestus_LJC006_contig
+V__vulnificus_NBRC_15645___ATCC_27562_ATCC_27562_contig
+V__wakamikoensis_JAMM2464_contig
+V__xiamenensis_CGMCC_1_10228_contig
+V__zhanjiangensis_NBRC_108723_contig
+V__zhugei_HBUAS61001_contig
+V__zhugei_KCTC_62784_contig
+V__ziniensis_ZWAL4003_contig
+Creating SNP stats file. 
+SNP alignment complete.
+Reconstructing phylogeny using FastTree
+export OMP_NUM_THREADS=1; FastTree -quiet -nt -gtr < /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/results/all_vibrio_fastree_all_snp_alignment.fna > /data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/results/all_vibrio_fastree_all.fasttree 2>>/data/djs217/PROJECTS/56_Vibrio_phaME/03_workdir/results/all_vibrio_fastree.error 
+
+Tree phylogeny complete.
