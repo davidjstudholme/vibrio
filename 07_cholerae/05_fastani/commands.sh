@@ -13,3 +13,4 @@ for i in chunk_*; do
     echo $i
     fastANI --ql query_list.txt --rl $i -o cholerae-fastANI.$i.short.out -t 6 --visualize --matrix
 done
+cat cholerae-fastANI.chunk_*.short.out > cholerae-fastANI.combined.short.out
