@@ -2,7 +2,7 @@
       workdir = ../03_workdir # directory where contigs/reads files are located and output is stored
 
     reference = 1  # 0:pick a random reference; 1:use given reference; 2: use ANI based reference
-      reffile = GCA_001471585.2_ASM147158v2_genomic.fna   # reference filename 
+      reffile = Vibrio_cholerae_FDAARGOS_103.fasta    # reference filename 
 
       project = all_vibrio_fastree  # main alignment file name
 
