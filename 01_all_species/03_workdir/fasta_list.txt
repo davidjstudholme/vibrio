@@ -67,3 +67,4 @@ EXE_30_2025_R_final
 EXE_32_2024_G_final
 EXE_33_2024_E_final
 Vibrio_cholerae_FDAARGOS_103
+Vibrio_jasicida_CAIM_1864
