@@ -1,4 +1,0 @@
-
-Vibrio_fluminensis_A621 size:	4854211
-Repeats segment #:	197
-Repeats total length:	105974 (2.18%)

@@ -1,2 +1,0 @@
-Reference	Length	Non-Repeat	Repeat size
-Vibrio_galatheae_S2757	4065199	4061555	3644

@@ -1,4 +1,0 @@
-
-Vibrio_pomeroyi_LMG_20537 size:	5659581
-Repeats segment #:	82
-Repeats total length:	145951 (2.58%)

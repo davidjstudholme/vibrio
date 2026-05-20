@@ -1,4 +1,0 @@
-
-Vibrio_marisflavi_CECT_7928 size:	4782088
-Repeats segment #:	71
-Repeats total length:	113733 (2.38%)

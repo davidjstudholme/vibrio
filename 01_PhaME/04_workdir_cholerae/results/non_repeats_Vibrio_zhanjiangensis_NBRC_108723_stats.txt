@@ -1,2 +1,0 @@
-Reference	Length	Non-Repeat	Repeat size
-Vibrio_zhanjiangensis_NBRC_108723	4782196	4758198	23998

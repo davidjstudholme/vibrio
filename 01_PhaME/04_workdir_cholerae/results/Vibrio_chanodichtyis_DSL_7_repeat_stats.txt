@@ -1,4 +1,0 @@
-
-Vibrio_chanodichtyis_DSL_7 size:	3070936
-Repeats segment #:	85
-Repeats total length:	15161 (0.49%)

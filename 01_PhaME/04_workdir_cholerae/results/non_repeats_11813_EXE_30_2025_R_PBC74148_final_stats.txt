@@ -1,2 +1,0 @@
-Reference	Length	Non-Repeat	Repeat size
-11813_EXE_30_2025_R_PBC74148_final	2778219	2555932	222287

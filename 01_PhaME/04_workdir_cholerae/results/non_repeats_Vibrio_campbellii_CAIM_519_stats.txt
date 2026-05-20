@@ -1,2 +1,0 @@
-Reference	Length	Non-Repeat	Repeat size
-Vibrio_campbellii_CAIM_519	5116899	5104106	12793

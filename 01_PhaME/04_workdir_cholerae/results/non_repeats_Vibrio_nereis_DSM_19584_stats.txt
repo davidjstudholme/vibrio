@@ -1,2 +1,0 @@
-Reference	Length	Non-Repeat	Repeat size
-Vibrio_nereis_DSM_19584	4096630	4085811	10819

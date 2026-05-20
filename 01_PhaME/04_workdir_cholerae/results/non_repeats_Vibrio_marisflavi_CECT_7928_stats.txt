@@ -1,2 +1,0 @@
-Reference	Length	Non-Repeat	Repeat size
-Vibrio_marisflavi_CECT_7928	4782088	4668567	113521

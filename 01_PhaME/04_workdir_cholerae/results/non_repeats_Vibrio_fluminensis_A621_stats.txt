@@ -1,2 +1,0 @@
-Reference	Length	Non-Repeat	Repeat size
-Vibrio_fluminensis_A621	4854211	4748825	105386

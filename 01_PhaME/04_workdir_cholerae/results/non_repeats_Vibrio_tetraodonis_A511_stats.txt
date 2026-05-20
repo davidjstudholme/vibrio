@@ -1,2 +1,0 @@
-Reference	Length	Non-Repeat	Repeat size
-Vibrio_tetraodonis_A511	4360861	4320553	40308

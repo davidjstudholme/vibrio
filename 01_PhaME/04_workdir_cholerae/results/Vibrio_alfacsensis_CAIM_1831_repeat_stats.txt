@@ -1,4 +1,0 @@
-
-Vibrio_alfacsensis_CAIM_1831 size:	4910231
-Repeats segment #:	135
-Repeats total length:	137866 (2.81%)

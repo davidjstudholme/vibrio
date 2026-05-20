@@ -1,2 +1,0 @@
-Reference	Length	Non-Repeat	Repeat size
-EXE_01_2025_M_final	3956415	3818889	137526

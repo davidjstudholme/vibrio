@@ -1,4 +1,0 @@
-
-Vibrio_crassostreae_LMG_22240 size:	5804381
-Repeats segment #:	113
-Repeats total length:	234066 (4.03%)

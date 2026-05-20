@@ -1,4 +1,0 @@
-
-EXE_33_2024_E_final size:	5019674
-Repeats segment #:	103
-Repeats total length:	112581 (2.24%)

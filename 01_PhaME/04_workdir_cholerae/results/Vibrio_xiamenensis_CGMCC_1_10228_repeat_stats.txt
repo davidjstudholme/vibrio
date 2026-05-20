@@ -1,4 +1,0 @@
-
-Vibrio_xiamenensis_CGMCC_1_10228 size:	5501246
-Repeats segment #:	120
-Repeats total length:	373975 (6.80%)

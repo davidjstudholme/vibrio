@@ -1,2 +1,0 @@
-Reference	Length	Non-Repeat	Repeat size
-Vibrio_diabolicus_CNCM_I_1629	5132517	5122212	10305

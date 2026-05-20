@@ -1,4 +1,0 @@
-
-Vibrio_cortegadensis_CECT_7227 size:	4668569
-Repeats segment #:	129
-Repeats total length:	148625 (3.18%)

@@ -1,4 +1,0 @@
-
-Vibrio_zhanjiangensis_NBRC_108723 size:	4782196
-Repeats segment #:	114
-Repeats total length:	24340 (0.51%)

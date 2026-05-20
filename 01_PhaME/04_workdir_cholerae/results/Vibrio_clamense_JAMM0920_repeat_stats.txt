@@ -1,4 +1,0 @@
-
-Vibrio_clamense_JAMM0920 size:	4410606
-Repeats segment #:	256
-Repeats total length:	83449 (1.89%)

@@ -1,4 +1,0 @@
-
-Vibrio_tetraodonis_A511 size:	4360861
-Repeats segment #:	83
-Repeats total length:	40554 (0.93%)

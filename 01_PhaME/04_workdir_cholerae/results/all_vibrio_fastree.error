@@ -1,1 +1,6 @@
 Smartmatch is experimental at /data/djs217/miniconda3/envs/phame_env/bin/../lib/misc_funcs.pm line 26.
+mv: cannot stat '/data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/results/*.snps': No such file or directory
+mv: cannot stat '/data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/results/*.gaps': No such file or directory
+mv: cannot stat '/data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/results/*_snp_INDEL.txt': No such file or directory
+mv: cannot stat '/data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/results/*_gaps.txt': No such file or directory
+mv: cannot stat '/data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/results/*.coords': No such file or directory

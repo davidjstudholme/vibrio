@@ -1,2 +1,0 @@
-Reference	Length	Non-Repeat	Repeat size
-11813_EXE22_2025_IVF5LA_PBC74148_final	6142252	5908047	234205

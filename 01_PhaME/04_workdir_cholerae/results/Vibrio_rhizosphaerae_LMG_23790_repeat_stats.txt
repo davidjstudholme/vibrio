@@ -1,4 +1,0 @@
-
-Vibrio_rhizosphaerae_LMG_23790 size:	4557402
-Repeats segment #:	100
-Repeats total length:	99867 (2.19%)

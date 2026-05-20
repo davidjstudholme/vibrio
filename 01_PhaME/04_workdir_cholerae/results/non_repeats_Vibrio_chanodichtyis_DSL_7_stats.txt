@@ -1,2 +1,0 @@
-Reference	Length	Non-Repeat	Repeat size
-Vibrio_chanodichtyis_DSL_7	3070936	3056029	14907

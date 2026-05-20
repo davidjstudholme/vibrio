@@ -1,2 +1,0 @@
-Reference	Length	Non-Repeat	Repeat size
-EXE_33_2024_E_final	5019674	4907402	112272

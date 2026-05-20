@@ -1,2 +1,0 @@
-Reference	Length	Non-Repeat	Repeat size
-Vibrio_caribbeanicus_ATCC_BAA_2122	4410536	4376198	34338

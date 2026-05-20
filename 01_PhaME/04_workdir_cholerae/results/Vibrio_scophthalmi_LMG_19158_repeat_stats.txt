@@ -1,4 +1,0 @@
-
-Vibrio_scophthalmi_LMG_19158 size:	4854288
-Repeats segment #:	114
-Repeats total length:	39174 (0.81%)

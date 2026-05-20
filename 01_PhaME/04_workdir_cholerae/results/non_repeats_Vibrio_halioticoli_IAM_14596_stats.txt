@@ -1,2 +1,0 @@
-Reference	Length	Non-Repeat	Repeat size
-Vibrio_halioticoli_IAM_14596	4092510	4067209	25301

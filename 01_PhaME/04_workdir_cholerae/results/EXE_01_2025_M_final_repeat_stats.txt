@@ -1,4 +1,0 @@
-
-EXE_01_2025_M_final size:	3956415
-Repeats segment #:	124
-Repeats total length:	137897 (3.49%)
