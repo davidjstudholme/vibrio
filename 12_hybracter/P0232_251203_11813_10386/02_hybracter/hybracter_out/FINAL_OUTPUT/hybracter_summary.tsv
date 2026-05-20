@@ -1,0 +1,10 @@
+Sample	Complete	Total_assembly_length	Number_of_contigs	Most_accurate_polishing_round	Longest_contig_length	Longest_contig_coverage	Number_circular_plasmids
+EXE_23_2025_L	True	4301131	3	medaka_rd_2	2934587	42	2
+EXE_08_2024_A	True	5148281	13	medaka_rd_2	3315925	56	0
+EXE_03_2025_A	True	6094541	6	medaka_rd_2	3704101	48	1
+EXE_32_2024_G	True	5193039	9	medaka_rd_2	3389646	35	0
+EXE_13_2025_A	True	6099648	4	medaka_rd_2	3717676	48	3
+EXE_20_2025_B	True	5336330	15	medaka_rd_2	3351839	44	1
+EXE_30_2025_R	True	4981339	2	medaka_rd_1	3201229	34	1
+EXE_01_2025_M	True	3956415	2	medaka_rd_2	2939626	64	1
+EXE_33_2024_E	True	5019674	5	medaka_rd_2	3267359	57	0
