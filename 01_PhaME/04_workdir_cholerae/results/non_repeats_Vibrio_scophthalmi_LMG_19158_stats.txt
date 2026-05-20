@@ -1,0 +1,2 @@
+Reference	Length	Non-Repeat	Repeat size
+Vibrio_scophthalmi_LMG_19158	4854288	4815456	38832

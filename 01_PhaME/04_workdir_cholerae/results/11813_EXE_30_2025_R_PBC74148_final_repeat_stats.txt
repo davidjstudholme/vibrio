@@ -1,0 +1,4 @@
+
+11813_EXE_30_2025_R_PBC74148_final size:	2778219
+Repeats segment #:	378
+Repeats total length:	223420 (8.04%)

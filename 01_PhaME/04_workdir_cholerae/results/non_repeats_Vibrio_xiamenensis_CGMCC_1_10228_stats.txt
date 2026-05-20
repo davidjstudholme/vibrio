@@ -1,0 +1,2 @@
+Reference	Length	Non-Repeat	Repeat size
+Vibrio_xiamenensis_CGMCC_1_10228	5501246	5127629	373617

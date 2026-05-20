@@ -1,0 +1,2 @@
+Reference	Length	Non-Repeat	Repeat size
+Vibrio_pomeroyi_LMG_20537	5659581	5513876	145705

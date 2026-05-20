@@ -1,0 +1,4 @@
+
+Vibrio_rotiferianus_CAIM_577 size:	5368584
+Repeats segment #:	206
+Repeats total length:	128566 (2.39%)

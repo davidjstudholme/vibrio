@@ -1,0 +1,4 @@
+
+11813_EX_23_2024_K_PBC74148_final size:	5334063
+Repeats segment #:	102
+Repeats total length:	115577 (2.17%)

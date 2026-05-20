@@ -1,0 +1,4 @@
+
+Vibrio_galatheae_S2757 size:	4065199
+Repeats segment #:	33
+Repeats total length:	3743 (0.09%)

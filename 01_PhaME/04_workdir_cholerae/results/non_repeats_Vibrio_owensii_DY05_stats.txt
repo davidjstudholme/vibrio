@@ -1,0 +1,2 @@
+Reference	Length	Non-Repeat	Repeat size
+Vibrio_owensii_DY05	6345380	6331812	13568

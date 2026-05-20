@@ -1,0 +1,4 @@
+
+Vibrio_owensii_DY05 size:	6345380
+Repeats segment #:	91
+Repeats total length:	13839 (0.22%)

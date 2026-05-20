@@ -1,0 +1,4 @@
+
+Vibrio_halioticoli_IAM_14596 size:	4092510
+Repeats segment #:	113
+Repeats total length:	25640 (0.63%)

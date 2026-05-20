@@ -1,0 +1,2 @@
+Reference	Length	Non-Repeat	Repeat size
+Vibrio_kyushuensis_JAMM1822	5381169	5359695	21474

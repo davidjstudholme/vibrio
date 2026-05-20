@@ -1,0 +1,2 @@
+Reference	Length	Non-Repeat	Repeat size
+Vibrio_crassostreae_LMG_22240	5804381	5570654	233727

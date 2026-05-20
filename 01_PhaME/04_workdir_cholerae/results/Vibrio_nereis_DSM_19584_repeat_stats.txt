@@ -1,0 +1,4 @@
+
+Vibrio_nereis_DSM_19584 size:	4096630
+Repeats segment #:	91
+Repeats total length:	11092 (0.27%)

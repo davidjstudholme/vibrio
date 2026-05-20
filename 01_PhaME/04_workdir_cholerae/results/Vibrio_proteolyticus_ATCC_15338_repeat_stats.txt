@@ -1,0 +1,4 @@
+
+Vibrio_proteolyticus_ATCC_15338 size:	4814227
+Repeats segment #:	99
+Repeats total length:	85650 (1.78%)

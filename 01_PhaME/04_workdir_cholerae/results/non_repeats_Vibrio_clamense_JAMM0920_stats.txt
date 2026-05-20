@@ -1,0 +1,2 @@
+Reference	Length	Non-Repeat	Repeat size
+Vibrio_clamense_JAMM0920	4410606	4327925	82681

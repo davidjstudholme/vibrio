@@ -1,0 +1,4 @@
+
+Vibrio_anguillarum_NCTC12159 size:	4416484
+Repeats segment #:	221
+Repeats total length:	395746 (8.96%)

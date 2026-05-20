@@ -1,0 +1,4 @@
+
+Vibrio_lamellibrachiae_JAMM2626 size:	5341820
+Repeats segment #:	75
+Repeats total length:	21121 (0.40%)

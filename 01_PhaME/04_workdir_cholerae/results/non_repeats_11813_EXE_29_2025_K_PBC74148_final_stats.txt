@@ -1,0 +1,2 @@
+Reference	Length	Non-Repeat	Repeat size
+11813_EXE_29_2025_K_PBC74148_final	5837471	5637824	199647

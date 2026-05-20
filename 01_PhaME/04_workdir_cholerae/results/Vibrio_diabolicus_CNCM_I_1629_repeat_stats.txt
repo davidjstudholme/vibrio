@@ -1,0 +1,4 @@
+
+Vibrio_diabolicus_CNCM_I_1629 size:	5132517
+Repeats segment #:	83
+Repeats total length:	10554 (0.21%)

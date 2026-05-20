@@ -1,0 +1,304 @@
+AssemblyAccession	AssemblyName	Organism	SpeciesTaxid	BioSampleAccn	ContigN50	Coverage	Strain	Pathovar	Owner	Link
+GCF_000024825.1	ASM2482v1	Vibrio antiquarius (g-proteobacteria)	150340	SAMN02603570	3259580		EX25		NCBI	40507
+GCF_000152485.1	ASM15248v1	Vibrio antiquarius (g-proteobacteria)	150340	SAMN02435854	54690		EX25		NCBI	15693
+GCF_000165125.1	Vcar_1.0	Vibrio caribbeanicus ATCC BAA-2122 (g-proteobacteria)	701175	SAMN02952911	122512	20	ATCC BAA-2122		United States Food and Drug Administration, Center for Food Safety and Nutrition	49601
+GCF_000176135.1	ASM17613v1	Vibrio coralliilyticus ATCC BAA-450 (g-proteobacteria)	190893	SAMN02393819	919232		ATCC BAA-450		Argonne National Laboratory	40491
+GCF_000176155.1	ASM17615v1	Vibrio metschnikovii CIP 69.14 (g-proteobacteria)	28172	SAMN02393820	877075		CIP 69.14		Argonne National Laboratory	40493
+GCF_000176175.1	ASM17617v1	Vibrio furnissii CIP 102972 (g-proteobacteria)	29494	SAMN02393822	1355700		CIP 102972		Argonne National Laboratory
+EBI	40497
+GCF_000176235.1	ASM17623v1	Vibrio orientalis CIP 102891 = ATCC 33934 (g-proteobacteria)	28175	SAMN02393817	2361996		CIP 102891		Argonne National Laboratory	40487
+GCF_000181535.1	ASM18153v1	Vibrio mediterranei AK1 (g-proteobacteria)	689	SAMN02436099	95350		AK1		NCBI	19397
+GCF_000189255.1	ASM18925v1	Vibrio brasiliensis LMG 20546 (g-proteobacteria)	170652	SAMN02952918	90830	14	LMG 20546		United States Food and Drug Administration, Center for Food Safety and Nutrition	61943
+GCF_000222585.1	ASM22258v1	Vibrio scophthalmi LMG 19158 (g-proteobacteria)	45658	SAMN02951901	72536	20	LMG 19158		United States Food and Drug Administration, Center for Food Safety and Nutrition	51215
+GCF_000222605.1	ASM22260v1	Vibrio ichthyoenteri ATCC 700023 (g-proteobacteria)	142461	SAMN02951902	45976	20	ATCC 700023		United States Food and Drug Administration, Center for Food Safety and Nutrition	51217
+GCF_000222645.1	ASM22264v2	Vibrio orientalis CIP 102891 = ATCC 33934 (g-proteobacteria)	28175	SAMN02951904	125886	20	ATCC 33934		United States Food and Drug Administration, Center for Food Safety and Applied Nutrition	68623
+GCF_000222665.1	ASM22266v1	Vibrio tubiashii ATCC 19109 (g-proteobacteria)	29498	SAMN02951905	51475	20	ATCC 19109		United States Food and Drug Administration, Center for Food Safety and Applied Nutrition	68625
+GCF_000222685.1	ASM22268v1	Vibrio nigripulchritudo ATCC 27043 (g-proteobacteria)	28173	SAMN02951906	35691	20	ATCC 27043		United States Food and Drug Administration, Center for Food Safety and Applied Nutrition	68627
+GCF_000257205.1	ASM25720v1	Vibrio ordalii ATCC 33509 (g-proteobacteria)	28174	SAMN02470772	29345	31	ATCC 33509		NCBI	63225
+GCF_000299635.1	ASM29963v1	Vibrio vulnificus NBRC 15645 = ATCC 27562 (g-proteobacteria)	672	SAMN02469425	119940	100	ATCC 27562		NCBI	172642
+GCF_000334195.1	Vc-CAIM519	Vibrio campbellii CAIM 519 = NBRC 15631 = ATCC 25920 (g-proteobacteria)	680	SAMN02469609	46294	15	CAIM 519		NCBI	173088
+GCF_000338875.1	CAIM_602T_1.0	Vibrio mimicus CAIM 602 (g-proteobacteria)	674	SAMN02469605	159054	20	CAIM 602		NCBI	179483
+GCF_000354175.2	ASM35417v2	Vibrio alginolyticus NBRC 15630 = ATCC 17749 (g-proteobacteria)	663	SAMN02603463	3334467	20	ATCC 17749		NCBI	184046
+GCF_000400265.1	ASM40026v1	Vibrio azureus NBRC 104587 (g-proteobacteria)	512649	SAMD00036655	25467	81	NBRC 104587		DDBJ	202999
+GCF_000400305.1	ASM40030v1	Vibrio harveyi NBRC 15634 = ATCC 14126 = KCTC 12724 (g-proteobacteria)	669	SAMD00036657	95039	88	NBRC 15634 = ATCC 14126		DDBJ	203003
+GCF_000400325.1	ASM40032v1	Vibrio owensii LMG 25430 (g-proteobacteria)	696485	SAMD00036658	63024	80	LMG 25430		DDBJ	203002
+GCF_000400345.1	ASM40034v1	Vibrio campbellii CAIM 519 = NBRC 15631 = ATCC 25920 (g-proteobacteria)	680	SAMD00036659	73528	99	CAIM 519 = NBRC 15631		DDBJ	203001
+GCF_000400365.1	ASM40036v1	Vibrio jasicida CAIM 1864 = LMG 25398 (g-proteobacteria)	766224	SAMD00036660	109122	79	CAIM 1864 = LMG 25398		DDBJ	203004
+GCF_000400385.1	ASM40038v1	Vibrio owensii CAIM 1854 = LMG 25443 (g-proteobacteria)	696485	SAMD00036661	89583	80	CAIM 1854 = LMG 25443		DDBJ	203005
+GCF_000400405.1	ASM40040v1	Vibrio rotiferianus CAIM 577 = LMG 21460 (g-proteobacteria)	190895	SAMD00036662	52095	65	CAIM 577 = LMG 21460		DDBJ	203006
+GCF_000400425.1	ASM40042v1	Vibrio sagamiensis NBRC 104589 (g-proteobacteria)	512650	SAMD00036663	50295	84	NBRC 104589		DDBJ	203007
+GCF_000417905.1	ASM41790v1	Vibrio natriegens NBRC 15636 = ATCC 14048 = DSM 759 (g-proteobacteria)	691	SAMN02472057	192071	779	ATCC 14048		NCBI	207547
+GCF_000426765.1	ASM42676v1	Vibrio litoralis DSM 17657 (g-proteobacteria)	335972	SAMN02440646	344268		DSM 17657		NCBI	195825
+GCF_000438785.2	ASM43878v2	Vibrio natriegens NBRC 15636 = ATCC 14048 = DSM 759 (g-proteobacteria)	691	SAMN02471760	62844	300	DSM 759		NCBI	208003
+GCF_000467125.1	ASM46712v1	Vibrio proteolyticus NBRC 13287 (g-proteobacteria)	671	SAMD00041816	227034	101	NBRC 13287		National Institute of Technology and Evaluation Biological Resource Center	http://www.nite.go.jp/en/nbrc/genome/project/wgs/project_wgs2.html 172313
+GCF_000467145.1	ASM46714v1	Vibrio alginolyticus NBRC 15630 = ATCC 17749 (g-proteobacteria)	663	SAMD00041824	221121	93	NBRC 15630		National Institute of Technology and Evaluation Biological Resource Center	http://www.nite.go.jp/en/nbrc/genome/project/wgs/project_wgs2.html 172324
+GCF_000467165.1	ASM46716v1	Vibrio azureus NBRC 104587 (g-proteobacteria)	512649	SAMD00041797	60692	101	NBRC 104587		National Institute of Technology and Evaluation Biological Resource Center	http://www.nite.go.jp/en/nbrc/genome/project/wgs/project_wgs2.html 172325
+GCF_000467185.1	ASM46718v1	Vibrio ezurae NBRC 102218 (g-proteobacteria)	252583	SAMD00041795	112764	131	NBRC 102218		National Institute of Technology and Evaluation Biological Resource Center	http://www.nite.go.jp/en/nbrc/genome/project/wgs/project_wgs2.html 172328
+GCF_000496695.1	ASM49669v1	Vibrio halioticoli NBRC 102217 (g-proteobacteria)	71388	SAMD00041794	61825	109	NBRC 102217		National Institute of Technology and Evaluation Biological Resource Center	http://www.nite.go.jp/en/nbrc/genome/project/wgs/project_wgs2.html 172320
+GCF_000518145.1	ASM51814v1	Vibrio cholerae ATCC 14547 (g-proteobacteria)	666	SAMN02585008	124945		ATCC 14547		NCBI	223123
+GCF_000621645.1	ASM62164v1	Vibrio cholerae ATCC 14035 (g-proteobacteria)	666	SAMN02744003	168747		ATCC 14035		DOE Joint Genome Institute	223104
+GCF_000711795.1	ASM71179v1	Vibrio pacinii DSM 19139 (g-proteobacteria)	170674	SAMN02745241	243217		DSM 19139		DOE Joint Genome Institute	234841 http://genomesonline.org/cgi-bin/GOLD/GOLDCards.cgi?goldstamp=Gi12046
+GCF_000711805.1	ASM71180v1	Vibrio rhizosphaerae DSM 18581 (g-proteobacteria)	398736	SAMN02745802	167608		DSM 18581		DOE Joint Genome Institute	234834 http://genomesonline.org/cgi-bin/GOLD/GOLDCards.cgi?goldstamp=Gi12049
+GCF_000740015.1	ASM74001v1	Vibrio diazotrophicus NBRC 103148 (g-proteobacteria)	685	SAMD00018681	250787	140	NBRC 103148		National Institute of Technology and Evaluation Biological Resource Center	http://www.bio.nite.go.jp/ngac/e/project_wgs-e.html 231383
+GCF_000764325.1	2540-90v1.0	Vibrio navarrensis (g-proteobacteria)	29495	SAMN02708866	3244259	15	ATCC 51183		CDC	
+GCF_000772105.1	ASM77210v1	Vibrio tubiashii ATCC 19109 (g-proteobacteria)	29498	SAMN02940924	3294490	20	19109		USDA-Agricultural Research Service-Eastern Regional Research Center	
+GCF_000813305.1	ASM81330v1	Vibrio parahaemolyticus NBRC 12711 (g-proteobacteria)	670	SAMD00018682	381903	109	NBRC 12711		National Institute of Technology and Evaluation Biological Resource Center	14071901 http://www.bio.nite.go.jp/ngac/e/project_wgs-e.html 172314
+GCF_000817815.1	ASM81781v1	Vibrio owensii CAIM 1854 = LMG 25443 (g-proteobacteria)	696485	SAMN02946409	124014	77	DY05		Australian Institute of Marine Science	
+GCF_000818435.1	ASM81843v1	Vibrio hyugaensis (g-proteobacteria)	1534743	SAMD00019133	191228	51	090810a		University of Miyazaki	271954
+GCF_000827885.1	ASM82788v1	Vibrio renipiscarius (g-proteobacteria)	1461322	SAMN03176898	515942	109	DCR 1-4-2		University of Valencia	265934
+GCF_000830505.1	ASM83050v1	Vibrio mytili (g-proteobacteria)	50718	SAMN03285415	122372	80	CAIM 528		CIAD, A.C. Mazatlan Unit for Aquaculture	
+GCF_000967545.1	S2757	Vibrio galatheae (g-proteobacteria)	579748	SAMN03323928	228481	152	S2757		Technical University of Denmark	
+GCF_001011015.1	ASM101101v1	Vibrio parahaemolyticus (g-proteobacteria)	670	SAMN03458146	260767	100	ATCC 17802		Huazhong Agricultural University	
+GCF_001012815.1	ASM101281v1	Vibrio mexicanus (g-proteobacteria)	1004326	SAMN03339753	88203	23	CAIM 1540		CIAD, A.C. Mazatlan Unit for Aquaculture	275160
+GCF_001048535.1	VLGP7_PRJEB5883	Vibrio crassostreae (g-proteobacteria)	246167	SAMEA2591296	270473	50	LGP7		EBI	
+GCF_001263135.1	Vh-14126.1	Vibrio harveyi NBRC 15634 = ATCC 14126 = KCTC 12724 (g-proteobacteria)	669	SAMN03968604	45628	15	ATCC 14126		CIAD, A.C., Mazatlan Unit for Aquaculture	173085
+GCF_001274785.1	ASM127478v1	Vibrio hepatarius (g-proteobacteria)	171383	SAMN03951930	292816	205	DSM 19134		Technical University of Denmark	290060
+GCF_001274805.1	ASM127480v1	Vibrio nereis (g-proteobacteria)	693	SAMN03952449	285193	143	DSM 19584		Technical University of Denmark	
+GCF_001399455.2	ASM139945v2	Vibrio bivalvicida (g-proteobacteria)	1276888	SAMN04145357	173172	100	605		University of Santiago de Compostela	297724
+GCF_001456255.1	ASM145625v1	Vibrio natriegens NBRC 15636 = ATCC 14048 = DSM 759 (g-proteobacteria)	691	SAMN03178087	3248023	96.48	ATCC 14048		Harvard Medical School	
+GCF_001471275.2	ASM147127v2	Vibrio alginolyticus (g-proteobacteria)	663	SAMN03996338	3345160	349	FDAARGOS_97		US Food and Drug Administration	231221
+GCF_001471575.2	ASM147157v2	Vibrio harveyi (g-proteobacteria)	669	SAMN03996325	3540268	452	FDAARGOS_109		US Food and Drug Administration	231221
+GCF_001471585.2	ASM147158v2	Vibrio cholerae (g-proteobacteria)	666	SAMN03996320	2902028	342	FDAARGOS_103		US Food and Drug Administration	231221
+GCF_001541335.1	ASM154133v1	Vibrio toranzoniae (g-proteobacteria)	1194427	SAMN04155649	221494	100	Vb 10.8		Universidad de Santiago de Compostela	
+GCF_001547935.1	ASM154793v1	Vibrio tritonius (g-proteobacteria)	1435069	SAMD00019582	3434724	29	AM2		Hokkaido University Faculty of Fisheries Sciences Division of Marine Life Science Laboratory of Microbiology	http://dx.doi.org/10.3389/fmicb.2013.00414 295458
+GCF_001558015.1	ASM155801v1	Vibrio splendidus (g-proteobacteria)	29497	SAMN04279321	290730	37.5	NCCB 53037		University of Cambridge	302718
+GCF_001558415.2	ASM155841v2	Vibrio fluvialis (g-proteobacteria)	676	SAMN03996321	3155838	493.223	ATCC 33809		US Food and Drug Administration	231221
+GCF_001558495.2	ASM155849v2	Vibrio parahaemolyticus (g-proteobacteria)	670	SAMN03996250	3286802	385.419	ATCC 17802		US Food and Drug Administration	231221
+GCF_001591065.1	ASM159106v1	Vibrio vulnificus NBRC 15645 = ATCC 27562 (g-proteobacteria)	672	SAMD00046713	117751	113	NBRC 15645		National Institute of Technology and Evaluation Biological Resource Center	http://www.nite.go.jp/en/nbrc/genome/project/wgs/project_wgs2.html 172309
+GCF_001591085.1	ASM159108v1	Vibrio natriegens NBRC 15636 = ATCC 14048 = DSM 759 (g-proteobacteria)	691	SAMD00046757	753868	104	NBRC 15636		National Institute of Technology and Evaluation Biological Resource Center	http://www.nite.go.jp/en/nbrc/genome/project/wgs/project_wgs2.html 172315
+GCF_001591105.1	ASM159110v1	Vibrio nereis NBRC 15637 (g-proteobacteria)	693	SAMD00046758	227762	120	NBRC 15637		National Institute of Technology and Evaluation Biological Resource Center	http://www.nite.go.jp/en/nbrc/genome/project/wgs/project_wgs2.html 172316
+GCF_001591125.1	ASM159112v1	Vibrio mediterranei NBRC 15635 (g-proteobacteria)	689	SAMD00046756	241418	165	NBRC 15635		National Institute of Technology and Evaluation Biological Resource Center	http://www.nite.go.jp/en/nbrc/genome/project/wgs/project_wgs2.html 172317
+GCF_001591145.1	ASM159114v1	Vibrio harveyi NBRC 15634 = ATCC 14126 = KCTC 12724 (g-proteobacteria)	669	SAMD00046755	92314	159	NBRC 15634		National Institute of Technology and Evaluation Biological Resource Center	http://www.nite.go.jp/en/nbrc/genome/project/wgs/project_wgs2.html 172319
+GCF_001598835.1	ASM159883v1	Vibrio fluvialis NBRC 103150 (g-proteobacteria)	676	SAMD00046905	244887	113	NBRC 103150		National Institute of Technology and Evaluation Biological Resource Center
+EBI	http://www.nite.go.jp/en/nbrc/genome/project/wgs/project_wgs2.html 172322
+GCF_001625175.1	ViCECT7692_1.0	Vibrio jasicida (g-proteobacteria)	766224	SAMD00043915	43831	132	CECT 7692		Department of Bacteriology, Faculty of Medical Sciences, Kyushu university	317453
+GCF_001639065.2	ASM163906v2	Vibrio barjaei (g-proteobacteria)	1676683	SAMN04221167	286196	100	3062		University of Santiago de Compostela	
+GCF_001680025.1	ASM168002v1	Vibrio natriegens NBRC 15636 = ATCC 14048 = DSM 759 (g-proteobacteria)	691	SAMN05302747	3241530	178.8	ATCC 14048		Synthetic Genomics, Inc.	327130
+GCF_001680045.1	ASM168004v1	Vibrio natriegens (g-proteobacteria)	691	SAMN05302748	3311485	172.1	CCUG 16371		Synthetic Genomics, Inc.	327130
+GCF_001695575.1	ASM169557v1	Vibrio europaeus (g-proteobacteria)	300876	SAMN04508217	1788614	220	PP-638		University of Santiago de Compostela	
+GCF_001854765.1	ASM185476v1	Vibrio sonorensis (g-proteobacteria)	1004316	SAMN04029016	189594	28	CAIM 1076		CIAD, A.C. Mazatlan Unit for Aquaculture	294717
+GCF_001895205.1	ASM189520v1	Vibrio injensis (g-proteobacteria)	1307414	SAMD00066877	445489	690	M12-1144		Korea Research Institute of Bioscience and Biotechnology	354994
+GCF_001989995.2	ASM198999v2	Vibrio anguillarum (g-proteobacteria)	55601	SAMN03177464	72773	88	DSM 21597		University of Copenhagen	
+GCF_001998785.1	ASM199878v1	Vibrio parahaemolyticus (g-proteobacteria)	670	SAMN06076928	309969	92	ATCC 17802		FDA/CFSAN	
+GCF_002119525.1	ASM211952v1	Vibrio syngnathi (g-proteobacteria)	3034029	SAMN05860643	3298328	141.45	K08M4		Georg-August-University Goettingen, Genomic and Applied Microbiology, Goettingen Genomics Laboratory	345286
+GCF_002156455.1	ASM215645v1	Vibrio coralliirubri (g-proteobacteria)	1516159	SAMN06344317	57851	60	Corallo1		Universiti Teknologi Malaysia	
+GCF_002156475.1	ASM215647v1	Vibrio gigantis (g-proteobacteria)	296199	SAMN06344326	187546	60	LGP 13		Universiti Teknologi Malaysia	
+GCF_002156525.1	ASM215652v1	Vibrio celticus (g-proteobacteria)	446372	SAMN06344327	68631	60	Rd 8.15		Universiti Teknologi Malaysia	
+GCF_002157735.2	ASM215773v2	Vibrio aphrogenes (g-proteobacteria)	1891186	SAMD00057777	2494640	549	CA-1004		Laboratory of Microbiology, Division of Marine Life Science, Faculty of Fisheries Sciences, Hokkaido University	391150
+GCF_002216685.1	ASM221668v1	Vibrio tarriae (g-proteobacteria)	2014742	SAMN07258286	3017468	15	2521-89		university of alberta	391152
+GCF_002218025.2	ASM221802v2	Vibrio casei (g-proteobacteria)	673372	SAMD00080446	2756634	964	DSM 22364		Laboratory of Microbiology, Division of Marine Life Science, Faculty of Fisheries Sciences, Hokkaido University	391150
+GCF_002218045.2	ASM221804v2	Vibrio rumoiensis (g-proteobacteria)	76258	SAMD00080447	2768302	658	FERM P-14531		Laboratory of Microbiology, Division of Marine Life Science, Faculty of Fisheries Sciences, Hokkaido University	391150
+GCF_002224265.1	ASM222426v1	Vibrio vulnificus NBRC 15645 = ATCC 27562 (g-proteobacteria)	672	SAMN04097182	3266118		ATCC 27562		Center for Genomics and Bioinformatics	295776
+GCF_002257545.1	ASM225754v1	Vibrio qinghaiensis (g-proteobacteria)	2025808	SAMN07178513	2872911	134	Q67		South China Botanical Garden, Chinese Academy of Sciences	
+GCF_002737025.1	ASM273702v1	Vibrio splendidus (g-proteobacteria)	29497	SAMN07709073	300419	188.76	DSM 19640		Georg-August-University Goettingen	412290
+GCF_002741985.1	ASM274198v1	Vibrio rotiferianus CAIM 577 = LMG 21460 (g-proteobacteria)	190895	SAMN07819046	188275	73	CAIM 577		CIAD, A.C., Mazatlan Unit for Aquaculture	173029
+GCF_002749895.1	ASM274989v1	Vibrio fujianensis (g-proteobacteria)	1974215	SAMN06673307	11563	125	FJ201301		National Institute for Communicable Disease Control and Prevention, China CDC	
+GCF_002811245.1	ASM281124v1	Vibrio salilacus (g-proteobacteria)	1323749	SAMN07212053	149445	200	DSG-S6		National Institute for Communicable Disease Control and Prevention, China CDC	
+GCF_002849855.1	ASM284985v1	Vibrio azureus (g-proteobacteria)	512649	SAMN06105395	3027709	55.6	LC2-005		Atmosphere and Ocean Research Institute, The University of Tokyo	
+GCF_002906655.1	ASM290665v1	Vibrio hyugaensis (g-proteobacteria)	1534743	SAMD00019133	3530957	262	090810a		University of Miyazaki	271954
+GCF_002930005.1	ASM293000v1	Vibrio jasicida (g-proteobacteria)	766224	SAMN08238102	44761	171	CECT 7692		Academia Sinica	427410
+GCF_002934045.1	ASM293404v1	Vibrio gangliei (g-proteobacteria)	2077090	SAMN08378960	187731	1108	SZDIS-1		Gui Zhou Medical University	430964
+GCF_003144035.1	ASM314403v1	Vibrio albus (g-proteobacteria)	2200953	SAMN09205056	353509	140	E4404		Shandong University at Weihai	
+GCF_003263785.1	ASM326378v1	Vibrio variabilis (g-proteobacteria)	990271	SAMN03338703	81551	17	CAIM 1454		CIAD, A.C. Mazatlan Unit for Aquaculture	275013
+GCF_003350295.1	ASM335029v1	Vibrio tetraodonis (g-proteobacteria)	2231647	SAMN09437379	183738	145	A511		Federal University of Rio de Janeiro	
+GCF_003350325.1	ASM335032v1	Vibrio rhodolitus (g-proteobacteria)	2231649	SAMN09437463	161850	94	G98		Federal University of Rio de Janeiro	
+GCF_003415655.1	ASM341565v1	Vibrio maerlii (g-proteobacteria)	2231648	SAMN09437435	369373	106	G62		Federal University of Rio de Janeiro	
+GCF_003568965.1	Vhalioticoli	Vibrio halioticoli (g-proteobacteria)	71388	SAMD00047014	230151	37	IAM 14596		Laboratory of Microbiology, Division of Marine Life Science, Faculty of Fisheries Sciences, Hokkaido University	487844
+GCF_003568985.1	Vezurae	Vibrio ezurae (g-proteobacteria)	252583	SAMD00047015	157552	148	JCM 21522		Laboratory of Microbiology, Division of Marine Life Science, Faculty of Fisheries Sciences, Hokkaido University	487844
+GCF_003569005.1	Vsuperstes	Vibrio superstes (g-proteobacteria)	198815	SAMD00047016	607752	113	JCM 21480		Laboratory of Microbiology, Division of Marine Life Science, Faculty of Fisheries Sciences, Hokkaido University	487844
+GCF_003605645.1	ASM360564v1	Vibrio sinensis (g-proteobacteria)	2302434	SAMN09835476	170405	100	BEI233		Ocean University of China	486078
+GCF_003716875.1	ASM371687v1	Vibrio zhugei (g-proteobacteria)	2479546	SAMN10245970	2901449	100	HBUAS61001		Hubei University of Arts and Science	496585
+GCF_003856525.1	ASM385652v1	Vibrio viridaestus (g-proteobacteria)	2487322	SAMN10372278	355290	100	LJC006		Ocean University of China	503719
+GCF_003937805.1	ASM393780v1	Vibrio pectenicida (g-proteobacteria)	62763	SAMN10524535	38980	55	CAIM 594		CIAD, A.C.	508521
+GCF_003970385.1	ASM397038v1	Vibrio aquaticus (g-proteobacteria)	2496559	SAMN10584482	361544	100	BEI207		Ocean University of China	509551
+GCF_003970425.1	ASM397042v1	Vibrio penaeicida (g-proteobacteria)	104609	SAMN10612036	25726	22	CAIM 285		CIAD, A.C.	510613
+GCF_004551525.1	ASM455152v1	Vibrio ouci (g-proteobacteria)	2499078	SAMN10644111	118840	100	BEI176		Ocean University of China	511808
+GCF_004764665.1	ASM476466v1	Vibrio echinoideorum (g-proteobacteria)	2100116	SAMEA4755329	214063	99.84			EBI	
+GCF_005281815.1	ASM528181v1	Vibrio chagasii (g-proteobacteria)	170679	SAMN11536919	79875	100	LMG 21353		Institute of Oceanology, Chinese Academy of Sciences	
+GCF_005281825.1	ASM528182v1	Vibrio gallaecicus (g-proteobacteria)	552386	SAMN11536724	316420	100	DSM 23502		Institute of Oceanology, Chinese Academy of Sciences	
+GCF_005281835.1	ASM528183v1	Vibrio profundi (g-proteobacteria)	1774960	SAMN10654000	488354	100	TP187		Institute of Oceanology, Chinese Academy of Sciences	
+GCF_006333845.1	ASM633384v1	Vibrio tasmaniensis (g-proteobacteria)	212663	SAMN11618414	106221	70	LMG 20012		Station Biologique Roscoff (CNRS/UMPC)	
+GCF_006364355.1	ASM636435v1	Vibrio furnissii (g-proteobacteria)	29494	SAMN11056492	3275692	790.51	FDAARGOS_777		US Food and Drug Administration	231221
+GCF_006538525.1	ASM653852v1	Vibrio inusitatus NBRC 102082 (g-proteobacteria)	413402	SAMD00018680	196672	128	NBRC 102082		National Institute of Technology and Evaluation Biological Resource Center	17473233 http://www.bio.nite.go.jp/ngac/e/project_wgs-e.html 172318
+GCF_006538565.1	ASM653856v1	Vibrio comitans NBRC 102076 (g-proteobacteria)	413401	SAMD00018781	236561	63	NBRC 102076		National Institute of Technology and Evaluation Biological Resource Center	17473233 http://www.bio.nite.go.jp/ngac/e/project_wgs-e.html 172326
+GCF_007990935.1	ASM799093v1	Vibrio sagamiensis NBRC 104589 (g-proteobacteria)	512650	SAMD00169732	96784	102	NBRC 104589		National Institute of Technology and Evaluation Biological Resource Center	http://www.nite.go.jp/en/nbrc/genome/project/wgs/project_wgs2.html 172312
+GCF_007990955.1	ASM799095v1	Vibrio superstes NBRC 103154 (g-proteobacteria)	198815	SAMD00169733	238540	114	NBRC 103154		National Institute of Technology and Evaluation Biological Resource Center	http://www.nite.go.jp/en/nbrc/genome/project/wgs/project_wgs2.html 172310
+GCF_008801285.1	ASM880128v1	Vibrio kanaloae (g-proteobacteria)	170673	SAMN12697599	298987	113.06	CCUG 56968		University of Gothenburg - CCUG	563568
+GCF_008801295.1	ASM880129v1	Vibrio chagasii (g-proteobacteria)	170679	SAMN12697598	79875	65.11	CCUG 48643		University of Gothenburg - CCUG	563568
+GCF_008830195.1	ASM883019v1	Vibrio panuliri (g-proteobacteria)	1381081	SAMN12855858	1570740	18	LBS 2		Institute of Life Sciences	
+GCF_009363415.1	ASM936341v1	Vibrio aquimaris (g-proteobacteria)	2587862	SAMN11996127	3138671	121.9	THAF100		Uni Bielefeld	547984
+GCF_009601765.2	ASM960176v2	Vibrio algicola (g-proteobacteria)	2662262	SAMN13112826	2518765	215	SM1977		Shangdong University Qingdao CAMPUS	579497
+GCF_009665475.1	ASM966547v1	Vibrio vulnificus (g-proteobacteria)	672	SAMN10702673	3294783	87	2142-77		CDC	266293
+GCF_009811315.1	ASM981131v1	Vibrio atypicus (g-proteobacteria)	558271	SAMD00183390	494603	30	DSM 25292		Laboratory of Genome Science, Graduate School of Marine Science and Technology, Tokyo University of Marine Science and Technology	
+GCF_009857245.1	ASM985724v1	Vibrio tetraodonis subsp. pristinus (g-proteobacteria)	2231647	SAMN13735740	666375	58	OCN044		Southern Oregon Univeristy	
+GCF_009874545.1	ASM987454v1	Vibrio eleionomae (g-proteobacteria)	2653505	SAMN12993430	65885	37	CAIM 722		CIAD, A.C.	576428
+GCF_009938165.1	ASM993816v1	Vibrio taketomensis (g-proteobacteria)	2572923	SAMD00167058	2963883	33.9	C4III282		Laboratory of Microbiology, Division of Marine Life Science, Faculty of Fisheries Sciences, Hokkaido University	
+GCF_009938205.1	ASM993820v1	Vibrio panuliri (g-proteobacteria)	1381081	SAMD00167060	3237261	265	JCM 19500		Laboratory of Microbiology, Division of Marine Life Science, Faculty of Fisheries Sciences, Hokkaido University	
+GCF_009938225.1	ASM993822v1	Vibrio ponticus (g-proteobacteria)	265668	SAMD00167061	3215656	110	DSM 16217		Laboratory of Microbiology, Division of Marine Life Science, Faculty of Fisheries Sciences, Hokkaido University	
+GCF_011064285.1	ASM1106428v1	Vibrio ziniensis (g-proteobacteria)	2711221	SAMN14142770	3207372	941	ZWAL4003		Third Institute of Oceanography	607666
+GCF_011090275.1	ASM1109027v1	Vibrio aestuarianus subsp. cardii (g-proteobacteria)	28171	SAMN14133997	50782	21	12/122 3T3		IFREMER	607444
+GCF_012275705.1	ASM1227570v1	Vibrio chemaguriensis (g-proteobacteria)	2527672	SAMN10952912	188182	95	Iso1		Indian Institute of Science Education and Research Kolkata	
+GCF_012395185.1	ASM1239518v1	Vibrio aestuarianus (g-proteobacteria)	28171	SAMN14562735	96002	50	LMG 7909		IFREMER	623953
+GCF_012395215.1	ASM1239521v1	Vibrio aestuarianus subsp. francensis (g-proteobacteria)	28171	SAMN14562733	2394840	100	02/041		IFREMER	623953
+GCF_012641465.1	ASM1264146v1	Vibrio agarilyticus (g-proteobacteria)	2726741	SAMN14599479	211829	205	SM6		Third Institute of Oceanography China	
+GCF_013041605.1	ASM1304160v1	Vibrio plantisponsor (g-proteobacteria)	664643	SAMN14766778	275298	270	LMG 24470		Third Institute of Oceanography China	
+GCF_013074385.2	ASM1307438v2	Vibrio ostreicida (g-proteobacteria)	526588	SAMN14842399	213925	502	PP-203		Southern Oregon Univeristy	
+GCF_013416885.1	ASM1341688v1	Vibrio gallaecicus (g-proteobacteria)	552386	SAMN11584348	316420	100	VB 8.9		Institute of Oceanology, Chinese Academy of Sciences	
+GCF_014050145.1	ASM1405014v1	Vibrio marinisediminis (g-proteobacteria)	2758441	SAMN15636989	242929	299.2	404		Binzhou Medical University	
+GCF_014878155.1	ASM1487815v1	Vibrio lentus (g-proteobacteria)	136468	SAMN16339786	169299	20	40M4T		Universidad de Santiago de Compostela	
+GCF_014879975.1	ASM1487997v1	Vibrio bathopelagicus (g-proteobacteria)	2777577	SAMN16339685	3649238	50	Sal10		Universidad de Santiago de Compostela	
+GCF_015223435.1	ASM1522343v1	Vibrio hibernica (g-proteobacteria)	2587465	SAMN11954197	60909	117	B1.19		University College Cork	
+GCF_015278125.1	ASM1527812v1	Vibrio fluminensis (g-proteobacteria)	2783614	SAMN16595172	111428	654	A621		UFRJ	
+GCF_015686695.1	ASM1568669v1	Vibrio nitrifigilis (g-proteobacteria)	2789781	SAMN16824175	3086989	298	NFV-1		Food Industry Research and Development Institute	679095
+GCF_016900875.1	ASM1690087v1	Vibrio ulleungensis (g-proteobacteria)	2807619	SAMN17718628	448823	19.2	188UL20-2		Hannam University	698438
+GCF_017169525.1	ASM1716952v1	Vibrio paracholerae (g-proteobacteria)	650003	SAMN13704163	181406	100	EDC-792		University of Alberta	266293 598367
+GCF_019226825.1	ASM1922682v1	Vibrio ostreae (g-proteobacteria)	2841925	SAMN19522531	3397178	77.5	OG9-811		Korea Research Institute of Bioscience and Biotechnology	734724
+GCF_019977755.1	ASM1997775v1	Vibrio penaeicida (g-proteobacteria)	104609	SAMD00318911	4134604	225	IFO 15640T		Laboratory of Genome Science Graduate School of Marine Science and Technology, Tokyo University of Marine Science and Technology	
+GCF_021272385.1	ASM2127238v1	Vibrio salinus (g-proteobacteria)	2899784	SAMN23555486	1209233	413	DNF-1		Food Industry Research and Development Institute	785371
+GCF_021852965.1	ASM2185296v1	Vibrio floridensis (g-proteobacteria)	2908007	SAMN24611338	367296	50	IRLE0018		University of Central Florida	794138
+GCF_022836845.1	ASM2283684v1	Vibrio gelatinilyticus (g-proteobacteria)	2893468	SAMN22999944	214014	100	ZSDZ34		Ocean University of China	778879
+GCF_022869905.1	ASM2286990v1	Vibrio furnissii (g-proteobacteria)	29494	SAMN14078808	3275680	700	PartQ-Vfurnissii-RM8376		National Institute of Advanced Industrial Science and Technology, Biomedical Research Institute	605254
+GCF_023145695.1	ASM2314569v1	Vibrio amylolyticus (g-proteobacteria)	2847292	SAMN19664016	358791	100	ZSDE26		Ocean University of China	736808
+GCF_023634645.1	ASM2363464v1	Vibrio sinus (g-proteobacteria)	2946865	SAMN28614167	203739	100	S4M6		Ocean University of China	841761
+GCF_023634655.1	ASM2363465v1	Vibrio methylphosphonaticus (g-proteobacteria)	2946866	SAMN28614169	250504	100	S4B1		Ocean University of China	841763
+GCF_023920225.1	ASM2392022v1	Vibrio gazogenes (g-proteobacteria)	687	SAMN26029349	3516273	293	PB1		United Arab Emirates University	808157
+GCF_024346755.1	ASM2434675v1	Vibrio aerogenes (g-proteobacteria)	92172	SAMD00393681	3934686	209	LMG 19650		Laboratory of Microbiology, Division of Marine Life Science, Faculty of Fisheries Sciences, Hokkaido University	858687
+GCF_024346835.1	ASM2434683v1	Vibrio comitans (g-proteobacteria)	413401	SAMD00393683	3011658	50	LMG 23416		Laboratory of Microbiology, Division of Marine Life Science, Faculty of Fisheries Sciences, Hokkaido University	858687
+GCF_024346875.1	ASM2434687v1	Vibrio gallicus (g-proteobacteria)	190897	SAMD00393684	2528163	253	CIP 107863		Laboratory of Microbiology, Division of Marine Life Science, Faculty of Fisheries Sciences, Hokkaido University	858687
+GCF_024346915.1	ASM2434691v1	Vibrio gazogenes (g-proteobacteria)	687	SAMD00393685	3516247	126	ATCC 29988		Laboratory of Microbiology, Division of Marine Life Science, Faculty of Fisheries Sciences, Hokkaido University	858687
+GCF_024346935.1	ASM2434693v1	Vibrio inusitatus (g-proteobacteria)	413402	SAMD00393686	2861464	36	LMG 23434		Laboratory of Microbiology, Division of Marine Life Science, Faculty of Fisheries Sciences, Hokkaido University	858687
+GCF_024346955.1	ASM2434695v1	Vibrio mangrovi (g-proteobacteria)	474394	SAMD00393687	3674542	72	CECT 7927		Laboratory of Microbiology, Division of Marine Life Science, Faculty of Fisheries Sciences, Hokkaido University	858687
+GCF_024346975.1	ASM2434697v1	Vibrio neonatus (g-proteobacteria)	278860	SAMD00393688	2746110	231	JCM 21521		Laboratory of Microbiology, Division of Marine Life Science, Faculty of Fisheries Sciences, Hokkaido University	858687
+GCF_024346995.1	ASM2434699v1	Vibrio palustris (g-proteobacteria)	1918946	SAMD00393689	2654073	301	CECT 9027		Laboratory of Microbiology, Division of Marine Life Science, Faculty of Fisheries Sciences, Hokkaido University	858687
+GCF_024347015.1	ASM2434701v1	Vibrio pectenicida (g-proteobacteria)	62763	SAMD00393690	3227122	246	LMG 19642		Laboratory of Microbiology, Division of Marine Life Science, Faculty of Fisheries Sciences, Hokkaido University	858687
+GCF_024347055.1	ASM2434705v1	Vibrio porteresiae DSM 19223 (g-proteobacteria)	435912	SAMD00393692	3625884	284	MSSRF30		Laboratory of Microbiology, Division of Marine Life Science, Faculty of Fisheries Sciences, Hokkaido University	858687
+GCF_024347075.1	ASM2434707v1	Vibrio rarus (g-proteobacteria)	413403	SAMD00393694	2846978	912	LMG 23674		Laboratory of Microbiology, Division of Marine Life Science, Faculty of Fisheries Sciences, Hokkaido University	858687
+GCF_024347095.1	ASM2434709v1	Vibrio rhizosphaerae (g-proteobacteria)	398736	SAMD00393695	3506364	262	LMG 23790		Laboratory of Microbiology, Division of Marine Life Science, Faculty of Fisheries Sciences, Hokkaido University	858687
+GCF_024347135.1	ASM2434713v1	Vibrio spartinae (g-proteobacteria)	1918945	SAMD00393697	4003627	66	CECT 9026		Laboratory of Microbiology, Division of Marine Life Science, Faculty of Fisheries Sciences, Hokkaido University	858687
+GCF_024347155.1	ASM2434715v1	Vibrio zhugei (g-proteobacteria)	2479546	SAMD00393698	2901597	51	KCTC 62784		Laboratory of Microbiology, Division of Marine Life Science, Faculty of Fisheries Sciences, Hokkaido University	858687
+GCF_024347295.1	ASM2434729v1	Vibrio artabrorum (g-proteobacteria)	446374	SAMD00428683	3104862	310	CECT 7226		Laboratory of Microbiology, Division of Marine Life Science, Faculty of Fisheries Sciences, Hokkaido University	858689
+GCF_024347315.1	ASM2434731v1	Vibrio atlanticus (g-proteobacteria)	693153	SAMD00428684	3469123	157	CECT 7223		Laboratory of Microbiology, Division of Marine Life Science, Faculty of Fisheries Sciences, Hokkaido University	858689
+GCF_024347335.1	ASM2434733v1	Vibrio celticus (g-proteobacteria)	446372	SAMD00428685	3620060	210	CECT 7224		Laboratory of Microbiology, Division of Marine Life Science, Faculty of Fisheries Sciences, Hokkaido University	858689
+GCF_024347355.1	ASM2434735v1	Vibrio chagasii (g-proteobacteria)	170679	SAMD00428686	3413052	140	LMG 21353		Laboratory of Microbiology, Division of Marine Life Science, Faculty of Fisheries Sciences, Hokkaido University	858689
+GCF_024347375.1	ASM2434737v1	Vibrio coralliirubri (g-proteobacteria)	1516159	SAMD00428687	3681934	226	DSM 27495		Laboratory of Microbiology, Division of Marine Life Science, Faculty of Fisheries Sciences, Hokkaido University	858689
+GCF_024347395.1	ASM2434739v1	Vibrio cortegadensis (g-proteobacteria)	1328770	SAMD00428688	3116092	208	CECT 7227		Laboratory of Microbiology, Division of Marine Life Science, Faculty of Fisheries Sciences, Hokkaido University	858689
+GCF_024347415.1	ASM2434741v1	Vibrio crassostreae (g-proteobacteria)	246167	SAMD00428689	3475743	495	LMG 22240		Laboratory of Microbiology, Division of Marine Life Science, Faculty of Fisheries Sciences, Hokkaido University	858689
+GCF_024347435.1	ASM2434743v1	Vibrio cyclitrophicus (g-proteobacteria)	47951	SAMD00428690	3415033	106	LMG 21359		Laboratory of Microbiology, Division of Marine Life Science, Faculty of Fisheries Sciences, Hokkaido University	858689
+GCF_024347455.1	ASM2434745v1	Vibrio echinoideorum (g-proteobacteria)	2100116	SAMD00428691	3599125	78	DSM 107264		Laboratory of Microbiology, Division of Marine Life Science, Faculty of Fisheries Sciences, Hokkaido University	858689
+GCF_024347475.1	ASM2434747v1	Vibrio fortis (g-proteobacteria)	212667	SAMD00428692	3262072	95	LMG 21557		Laboratory of Microbiology, Division of Marine Life Science, Faculty of Fisheries Sciences, Hokkaido University	858689
+GCF_024347495.1	ASM2434749v1	Vibrio gallaecicus (g-proteobacteria)	552386	SAMD00428693	3292782	98	CECT 7244		Laboratory of Microbiology, Division of Marine Life Science, Faculty of Fisheries Sciences, Hokkaido University	858689
+GCF_024347515.1	ASM2434751v1	Vibrio gigantis (g-proteobacteria)	296199	SAMD00428694	3575998	155	LMG 22741		Laboratory of Microbiology, Division of Marine Life Science, Faculty of Fisheries Sciences, Hokkaido University	858689
+GCF_024347535.1	ASM2434753v1	Vibrio kanaloae (g-proteobacteria)	170673	SAMD00428695	3174145	132	LMG 20539		Laboratory of Microbiology, Division of Marine Life Science, Faculty of Fisheries Sciences, Hokkaido University	858689
+GCF_024347575.1	ASM2434757v1	Vibrio pelagius (g-proteobacteria)	28169	SAMD00428697	3187009	28	ATCC 25916		Laboratory of Microbiology, Division of Marine Life Science, Faculty of Fisheries Sciences, Hokkaido University	858689
+GCF_024347595.1	ASM2434759v1	Vibrio pomeroyi (g-proteobacteria)	198832	SAMD00428698	3635862	141	LMG 20537		Laboratory of Microbiology, Division of Marine Life Science, Faculty of Fisheries Sciences, Hokkaido University	858689
+GCF_024347615.1	ASM2434761v1	Vibrio splendidus (g-proteobacteria)	29497	SAMD00428699	3869574	50	LMG 19031		Laboratory of Microbiology, Division of Marine Life Science, Faculty of Fisheries Sciences, Hokkaido University	858689
+GCF_024347635.1	ASM2434763v1	Vibrio tasmaniensis (g-proteobacteria)	212663	SAMD00428700	3226267	125	LMG 20012		Laboratory of Microbiology, Division of Marine Life Science, Faculty of Fisheries Sciences, Hokkaido University	858689
+GCF_024347655.1	ASM2434765v1	Vibrio toranzoniae (g-proteobacteria)	1194427	SAMD00428701	3169590	180	CECT 7225		Laboratory of Microbiology, Division of Marine Life Science, Faculty of Fisheries Sciences, Hokkaido University	858689
+GCF_024347675.1	ASM2434767v1	Vibrio ishigakensis (g-proteobacteria)	1481914	SAMD00512237	2969692	74	C1		Laboratory of Microbiology, Division of Marine Life Science, Faculty of Fisheries Sciences, Hokkaido University	858687
+GCF_024508015.1	ASM2450801v1	Vibrio natriegens (g-proteobacteria)	691	SAMN29939551	3253273	211.27	14048		Lawrence Berkeley National Laboratory
+Lawrence Berkeley National Lab	607328
+607328
+GCF_024529975.1	ASM2452997v1	Vibrio quintilis (g-proteobacteria)	1117707	SAMD00393693	4117920	144	CECT 7734		Laboratory of Microbiology, Division of Marine Life Science, Faculty of Fisheries Sciences, Hokkaido University	858687
+GCF_024582835.1	ASM2458283v1	Vibrio japonicus (g-proteobacteria)	1824638	SAMN29984769	2783552	140	JCM 31412		Southern Oregon University Biology Department	862624
+GCF_025195085.2	ASM2519508v2	Vibrio intestinalis (g-proteobacteria)	2933291	SAMN27393812	150477	200	YLB-11		Third Institute of Oceanography, Ministry of Natural Resources	824146
+GCF_025996475.1	ASM2599647v1	Vibrio agarivorans (g-proteobacteria)	153622	SAMD00191213	403846	50	CECT 5085		Laboratory of Microbiology, Division of Marine Life Science, Faculty of Fisheries Sciences, Hokkaido University	658019
+GCF_026001925.1	ASM2600192v1	Vibrio gangliei (g-proteobacteria)	2077090	SAMD00191212	2595401	1192	DSM 104291		Laboratory of Microbiology, Division of Marine Life Science, Faculty of Fisheries Sciences, Hokkaido University	658019
+GCF_026191655.1	ASM2619165v1	Vibrio paucivorans (g-proteobacteria)	2829489	SAMN25824116	26243	100	DBSS07		ocean university of china	805051
+GCF_026191675.1	ASM2619167v1	Vibrio qingdaonensis (g-proteobacteria)	2829491	SAMN25825935	117086	100	ZSDZ65		ocean university of china	805062
+GCF_028120825.1	PDT001589074.1	Vibrio cholerae (g-proteobacteria)	666	SAMN32378349	35807	115			Queensland University of Technology	915130
+GCF_028204155.1	ASM2820415v1	Vibrio algarum (g-proteobacteria)	3020714	SAMN32723003	3253011	396	KJ40-1		Chung-Ang university	923473
+GCF_028863985.1	ASM2886398v1	Vibrio chanodichtyis (g-proteobacteria)	3027932	SAMN33318269	218056	100	DSL-7		Nanjing Agriculteral University	934106
+GCF_029589055.1	ASM2958905v1	Vibrio hannami (g-proteobacteria)	2717094	SAMN33963878	1999375	14	KACC 19277		Chung-Ang university	949952
+GCF_029635775.1	ASM2963577v1	Vibrio misgurnus (g-proteobacteria)	2993714	SAMN31601653	2483391	80.65	GVC		Sichuan Agricultural University	898135
+GCF_030160215.1	ASM3016021v1	Vibrio penaeicida (g-proteobacteria)	104609	SAMD00238649	216650	138	NBRC 15640		Institution of Microbiology, Chinese Academy of Science(WDCM)	http://gctype.wdcm.org/sequencing/GCM10007932 649463
+GCF_030160355.1	ASM3016035v1	Vibrio hyugaensis (g-proteobacteria)	1534743	SAMD00238695	220503	65	NBRC 110633		Institution of Microbiology, Chinese Academy of Science(WDCM)	http://gctype.wdcm.org/sequencing/GCM10007906 649470
+GCF_030161215.1	ASM3016121v1	Vibrio algivorus (g-proteobacteria)	1667024	SAMD00576824	562727	138	NBRC 111146		WFCC-MIRCEN World Data Centre for Microorganisms (WDCM)	918567
+GCF_030161235.1	ASM3016123v1	Vibrio zhanjiangensis (g-proteobacteria)	1046128	SAMD00576825	71402	138	NBRC 108723		WFCC-MIRCEN World Data Centre for Microorganisms (WDCM)	918567
+GCF_030297155.1	ASM3029715v1	Vibrio apostichopi (g-proteobacteria)	3035453	SAMD00603155	3808076	23	FE10		Laboratory of Microbiology, Division of Marine Life Science, Faculty of Fisheries Sciences, Hokkaido University	387272
+GCF_030398735.1	ASM3039873v1	Vibrio parahaemolyticus (g-proteobacteria)	670	SAMN31360219	403192	120	ATCC 17802		Shanghai Ocean University	891919
+GCF_030409575.1	ASM3040957v1	Vibrio ostreicida (g-proteobacteria)	526588	SAMN35653712	3099831	362	CECT 7398		The Institute of Microbiology of the Chinese Academy of Sciences	980407
+GCF_030409595.1	ASM3040959v1	Vibrio gallaecicus (g-proteobacteria)	552386	SAMN35653711	1377293	573	CECT 7244		The Institute of Microbiology of the Chinese Academy of Sciences	980407
+GCF_030409635.1	ASM3040963v1	Vibrio agarivorans (g-proteobacteria)	153622	SAMN35653709	2672749	830	CECT 5085		The Institute of Microbiology of the Chinese Academy of Sciences	980407
+GCF_030409755.1	ASM3040975v1	Vibrio lentus (g-proteobacteria)	136468	SAMN35653710	3699116	537	CECT 5110		The Institute of Microbiology of the Chinese Academy of Sciences	980407
+GCF_030409945.1	ASM3040994v1	Vibrio tapetis subsp. quintayensis (g-proteobacteria)	52443	SAMN35653671	358735	149	CECT 8851		The Institute of Microbiology of the Chinese Academy of Sciences	980407
+GCF_030409995.1	ASM3040999v1	Vibrio artabrorum (g-proteobacteria)	446374	SAMN35653667	3138694	103	CECT 7226		The Institute of Microbiology of the Chinese Academy of Sciences	980407
+GCF_030410015.1	ASM3041001v1	Vibrio cortegadensis (g-proteobacteria)	1328770	SAMN35653668	287246	149	CECT 7227		The Institute of Microbiology of the Chinese Academy of Sciences	980407
+GCF_030410025.1	ASM3041002v1	Vibrio breoganii (g-proteobacteria)	553239	SAMN35653666	133131	149	CECT 7222		The Institute of Microbiology of the Chinese Academy of Sciences	980407
+GCF_033542575.1	ASM3354257v1	Vibrio mangrovi (g-proteobacteria)	474394	SAMN38072521	3671360	60	MSSRF38		National Institute for Interdisciplinary Science and Technology (CSIR)	1034771
+GCF_033542615.1	ASM3354261v1	Vibrio plantisponsor (g-proteobacteria)	664643	SAMN38072522	3183634	60	MSSRF60		National Institute for Interdisciplinary Science and Technology (CSIR)	1034771
+GCF_033566895.1	ASM3356689v1	Vibrio porteresiae DSM 19223 (g-proteobacteria)	435912	SAMN38055186	3625883	67	MSSRF30		National Institute for Interdisciplinary Science and Technology (CSIR)	1034238
+GCF_033843085.1	ASM3384308v1	Vibrio natriegens NBRC 15636 = ATCC 14048 = DSM 759 (g-proteobacteria)	691	SAMN38186253	3253271	269	ATCC 14048		Cultivarium	1037563
+GCF_035621455.1	ASM3562145v1	Vibrio natriegens NBRC 15636 = ATCC 14048 = DSM 759 (g-proteobacteria)	691	SAMN39198438	3178004	60	ATCC 14048		Binomica Labs	1059042
+GCF_037162445.1	ASM3716244v1	Vibrio coralliilyticus (g-proteobacteria)	190893	SAMN33769421	3452511	41	DSM 19607		GEOMAR Helmholtz Centre for Ocean Research	944971
+GCF_038452265.1	ASM3845226v1	Vibrio diazotrophicus (g-proteobacteria)	685	SAMN40924084	3324879	100	ATCC 33466		Zhejiang Ocean University	
+GCF_039544775.1	ASM3954477v1	Vibrio proteolyticus (g-proteobacteria)	671	SAMD00537523	267191	234	NBRC 13287		Biological Resource Center, NITE (NBRC)	1092441
+GCF_040412085.2	ASM4041208v1	Vibrio chaetopteri (g-proteobacteria)	3016528	SAMN32381379	3497892	141	CB1-14		G.B. Elyakov Pacific Institute of Bioorganic Chemistry	816275
+GCF_041860215.1	ASM4186021v1	Vibrio gazogenes (g-proteobacteria)	687	SAMN40870277	3516262	134	DSM 21264		Georg-August-University Goettingen	1097500
+GCF_042245395.1	ASM4224539v1	Vibrio iocasae (g-proteobacteria)	3098914	SAMN38455655	3689496	253	HN007		Institute of Oceanology, Chinese Academy of Sciences	1045832
+GCF_042428525.1	ASM4242852v1	Vibrio olivae (g-proteobacteria)	1243002	SAMN43281873	349365	100	CECT 8064		The Institute of Microbiology of the Chinese Academy of Sciences	595761
+GCF_042430065.1	ASM4243006v1	Vibrio gallaecicus (g-proteobacteria)	552386	SAMN43281870	316295	99	CECT 7244		The Institute of Microbiology of the Chinese Academy of Sciences	595761
+GCF_042430445.1	ASM4243044v1	Vibrio ostreicida (g-proteobacteria)	526588	SAMN43281872	184709	114	CECT 7398		The Institute of Microbiology of the Chinese Academy of Sciences	595761
+GCF_042430465.1	ASM4243046v1	Vibrio sinaloensis (g-proteobacteria)	379097	SAMN43281871	328957	100	CECT 7298		The Institute of Microbiology of the Chinese Academy of Sciences	595761
+GCF_042430505.1	ASM4243050v1	Vibrio agarivorans (g-proteobacteria)	153622	SAMN43281867	173133	100	CECT 5085		The Institute of Microbiology of the Chinese Academy of Sciences	595761
+GCF_042430545.1	ASM4243054v1	Vibrio artabrorum (g-proteobacteria)	446374	SAMN43281869	172921	66	CECT 7226		The Institute of Microbiology of the Chinese Academy of Sciences	595761
+GCF_042430565.1	ASM4243056v1	Vibrio lentus (g-proteobacteria)	136468	SAMN43281868	156148	100	CECT 5110		The Institute of Microbiology of the Chinese Academy of Sciences	595761
+GCF_042643505.1	ASM4264350v1	Vibrio zhugei (g-proteobacteria)	2479546	SAMN43282305	59308	139	KCTC 62784		The Institute of Microbiology of the Chinese Academy of Sciences	595761
+GCF_042653465.1	ASM4265346v1	Vibrio thalassae (g-proteobacteria)	1243014	SAMN43282974	3519357	695.92	KCTC 32373		The Institute of Microbiology of the Chinese Academy of Sciences	595761
+GCF_042682965.1	ASM4268296v1	Vibrio thalassae (g-proteobacteria)	1243014	SAMN43282520	67696	110	KCTC 32373		The Institute of Microbiology of the Chinese Academy of Sciences	595761
+GCF_050337155.1	ASM5033715v1	Vibrio cionasavignyae (g-proteobacteria)	2910252	SAMN24907486	203367	100	JAMM2507		Universidade Federal do Rio de Janeiro	796716
+GCF_050337205.1	ASM5033720v1	Vibrio nomapromontoriensis (g-proteobacteria)	2910246	SAMN24907485	454362	100	JAMM1728		Universidade Federal do Rio de Janeiro	796716
+GCF_050337265.1	ASM5033726v1	Vibrio lamellibrachiae (g-proteobacteria)	2910253	SAMN24907483	443869	100	JAMM2626		Universidade Federal do Rio de Janeiro	796716
+GCF_050337275.1	ASM5033727v1	Vibrio wakamikoensis (g-proteobacteria)	2910251	SAMN24907484	199133	100	JAMM2464		Universidade Federal do Rio de Janeiro	796716
+GCF_050337325.1	ASM5033732v1	Vibrio kyushuensis (g-proteobacteria)	2910249	SAMN24907482	461557	100	JAMM1822		Universidade Federal do Rio de Janeiro	796716
+GCF_050337375.1	ASM5033737v1	Vibrio makurazakiensis (g-proteobacteria)	2910250	SAMN24907481	17330	100	JAMM1826		Universidade Federal do Rio de Janeiro	796716
+GCF_050337435.1	ASM5033743v1	Vibrio satsumensis (g-proteobacteria)	2910245	SAMN24907480	364208	100	JAMM0822		Universidade Federal do Rio de Janeiro	796716
+GCF_050337445.1	ASM5033744v1	Vibrio minamisatsumaniensis (g-proteobacteria)	2910243	SAMN24907479	42222	100	JAMM0571		Universidade Federal do Rio de Janeiro	796716
+GCF_050337535.1	ASM5033753v1	Vibrio kagoshimensis (g-proteobacteria)	2910244	SAMN24907478	229709	100	JAMM0761		Universidade Federal do Rio de Janeiro	796716
+GCF_050337555.1	ASM5033755v1	Vibrio profundum (g-proteobacteria)	2910247	SAMN24907477	212126	100	JAMM1780		Universidade Federal do Rio de Janeiro	796716
+GCF_050337565.1	ASM5033756v1	Vibrio kasasachensis (g-proteobacteria)	2910248	SAMN24907476	234290	100	JAMM1812		Universidade Federal do Rio de Janeiro	796716
+GCF_050337905.1	ASM5033790v1	Vibrio clamense (g-proteobacteria)	2910254	SAMN24907468	369338	100	JAMM0920		Universidade Federal do Rio de Janeiro	796716
+GCF_050870795.1	ASM5087079v1	Vibrio sinus (g-proteobacteria)	2946865	SAMN48721177	3276461	577	S4M6		Ocean university of China	126747
+GCF_051660965.1	ASM5166096v1	Vibrio glycogenivorans (g-proteobacteria)	3450709	SAMN50024600	398256	458	WXL210		Ocean university of China	1293533
+GCF_053890595.1	ASM5389059v1	Vibrio proteolyticus (g-proteobacteria)	671	SAMN53664419	3242352	137	ATCC 15338		Tel Aviv University	1373524
+GCF_054783715.1	ASM5478371v1	Vibrio panuliri (g-proteobacteria)	1381081	SAMD00809334	567807	127	JCM 19500		Japan Collection of Microorganisms	661485
+GCF_055391395.1	ASM5539139v1	Vibrio sabulosilitoris (g-proteobacteria)	3119826	SAMD00746872	3418677	41	MAO6		Fukui Prefectural University	1078604
+GCF_900088415.1	VmediterraneiCECT0621_SPAdes_Prokka	Vibrio mediterranei (g-proteobacteria)	689	SAMEA2343670	523683	83			EBI	
+GCF_900089765.1	VtoranzoniaeCECT7225_SPAdes_Prokka	Vibrio toranzoniae (g-proteobacteria)	1194427	SAMEA4016015	418274	113	CECT 7225		EBI	
+GCF_900089835.1	VthalassaeCECT8203_Velvet_Prokka	Vibrio thalassae (g-proteobacteria)	1243014	SAMEA2343672	74766	92	CECT8203		EBI	
+GCF_900089845.1	VhemicentrotiCECT8714_SPAdes_Prokka	Vibrio splendidus (g-proteobacteria)	29497	SAMEA4028999	295020	137	CECT 8714		EBI	
+GCF_900089855.1	VatlanticusCECT7223_Velvet_Prokka	Vibrio atlanticus (g-proteobacteria)	693153	SAMEA4029004	100357	78	CECT 7223		EBI	
+GCF_900089965.1	VcelticusCECT7224_Velvet_Prokka	Vibrio celticus (g-proteobacteria)	446372	SAMEA4029005	67475	48	CECT 7224		EBI	
+GCF_900100015.1	IMG-taxon 2617270927 annotated assembly	Vibrio xiamenensis (g-proteobacteria)	861298	SAMN04488136	141346	237	CGMCC 1.10228		DOE Joint Genome Institute	https://gold.jgi.doe.gov/projects?id=Gp0113069 303881
+GCF_900107935.1	IMG-taxon 2617270906 annotated assembly	Vibrio hangzhouensis (g-proteobacteria)	462991	SAMN04488244	171219	246	CGMCC 1.7062		DOE Joint Genome Institute	https://gold.jgi.doe.gov/projects?id=Gp0112595 303530
+GCF_900129185.1	IMG-taxon 2582581274 annotated assembly	Vibrio gazogenes DSM 21264 = NBRC 103151 (g-proteobacteria)	687	SAMN02745781	163466	427	DSM 21264		DOE Joint Genome Institute	245744 http://genomesonline.org/cgi-bin/GOLD/GOLDCards.cgi?goldstamp=Gi12044
+GCF_900130105.1	Vibrio.aerogenes_CECT 7868_Velvet_Prokka	Vibrio aerogenes CECT 7868 (g-proteobacteria)	92172	SAMEA4552037	132421	103	CECT 7868		EBI	
+GCF_900143745.1	V.quintilis_CECT7734T_Velvet_Prokka_EMBL	Vibrio quintilis (g-proteobacteria)	1117707	SAMEA18850168	87700	98			EBI	
+GCF_900149295.1	V.spartinae_CECT9026T_Velvet_Prokka	Vibrio spartinae (g-proteobacteria)	1918945	SAMEA26613418	241858	183	CECT 9026T		EBI	
+GCF_900162645.1	V_palustris_CECT9027T_Velvet_Prokka_EMBL	Vibrio palustris (g-proteobacteria)	1918946	SAMEA26629168	1061100	182	CECT 9027T		EBI	
+GCF_900163915.1	V_gazogenes _CECT5068T_Velvet_Prokka_EMBL	Vibrio gazogenes (g-proteobacteria)	687	SAMEA78796918	45732	107	CECT 5068T		EBI	
+GCF_900163965.1	V_ruber_CECT7878T_Velvet_Prokka_EMBL	Vibrio ruber DSM 16370 (g-proteobacteria)	184755	SAMEA78797668	110014	114	CECT 7878T		EBI	
+GCF_900167345.1	IMG-taxon 2568526007 annotated assembly	Vibrio cincinnatiensis DSM 19608 (g-proteobacteria)	675	SAMN02745782	185712	409	DSM 19608		DOE Joint Genome Institute	234794 http://genomesonline.org/cgi-bin/GOLD/GOLDCards.cgi?goldstamp=Gi12043
+GCF_900184095.1	Vmangrovi_CECT7927_Spades_Prokka	Vibrio mangrovi (g-proteobacteria)	474394	SAMEA103894552	523667	128	CECT 7927		EBI	
+GCF_900233005.1	Vibrio tapetis CECT4600	Vibrio tapetis subsp. tapetis (g-proteobacteria)	52443	SAMEA104345892	3788452	100			EBI	
+GCF_900452855.1	51765_A01	Vibrio anguillarum (g-proteobacteria)	55601	SAMEA4504064	3192191	100	NCTC12159		EBI	
+GCF_900460165.1	51765_C01	Vibrio harveyi (g-proteobacteria)	669	SAMEA4504066	389611	100	NCTC12970		EBI	
+GCF_900460225.1	52191_B01	Vibrio furnissii (g-proteobacteria)	29494	SAMEA4530654	3275677	100	NCTC13120		EBI	
+GCF_900460245.1	41665_F02	Vibrio fluvialis (g-proteobacteria)	676	SAMEA3539715	3169234	100	NCTC11327		EBI	
+GCF_900460255.1	34500_B01	Vibrio cincinnatiensis (g-proteobacteria)	675	SAMEA3121335	2772819	100	NCTC12012		EBI	
+GCF_900460285.1	50465_H01	Vibrio alginolyticus (g-proteobacteria)	663	SAMEA4384071	393735	100	NCTC12160		EBI	
+GCF_900460295.1	51108_A01	Vibrio metschnikovii (g-proteobacteria)	28172	SAMEA4442457	2829732	100	NCTC8443		EBI	
+GCF_900460385.1	42650_F01	Vibrio mimicus (g-proteobacteria)	674	SAMEA3643325	2982507	100	NCTC11435		EBI	
+GCF_900460535.1	42650_C02	Vibrio parahaemolyticus (g-proteobacteria)	670	SAMEA3649022	3297116	100	NCTC10903		EBI	
+GCF_900460565.1	34500_C01	Vibrio vulnificus (g-proteobacteria)	672	SAMEA3121336	3251517	100	NCTC13647		EBI	
+GCF_921292975.1	V_hippocampi_CECT8226	Vibrio hippocampi (g-proteobacteria)	654686	SAMEA10829610	2415900	190	CECT 8226		EBI	
+GCF_921293875.1	V_stylophorae_CECT7929	Vibrio stylophorae (g-proteobacteria)	659351	SAMEA10829028	2875824	218	CECT 7929		EBI	
+GCF_921294215.1	V_marisflavi_CECT7928	Vibrio marisflavi CECT 7928 (g-proteobacteria)	1216040	SAMEA10813684	2906288	314	CECT 7928		EBI	
+GCF_944737995.1	Vibrio_aestuarianus_02_041	Vibrio aestuarianus subsp. francensis (g-proteobacteria)	28171	SAMEA110138230	2394840	100	02/041		EBI	
+GCF_965135895.1	CIP103191T	Vibrio diazotrophicus (g-proteobacteria)	685	SAMEA117660290	79684	130	CIP103191T		EBI	
+GCF_965135965.1	CIP102760T	Vibrio tubiashii (g-proteobacteria)	29498	SAMEA117660281	570224	101	CIP102760T		EBI	
+GCF_965136005.1	CIP103205T	Vibrio ordalii (g-proteobacteria)	28174	SAMEA117660291	29202	129	CIP103205T		EBI	
+GCF_965136035.1	CIP103355T	Vibrio fluvialis (g-proteobacteria)	676	SAMEA117660297	188807	160	CIP103355T		EBI	
+GCF_965136275.1	CIP103929T	Vibrio mytili (g-proteobacteria)	50718	SAMEA117660314	139973	152	CIP103929T		EBI	
+GCF_965138405.1	CIP111709T	Vibrio aquimaris (g-proteobacteria)	2587862	SAMEA117660635	177755	143	CIP111709T		EBI	
+GCF_965138855.1	CIP109791T	Vibrio aestuarianus subsp. francensis (g-proteobacteria)	28171	SAMEA117660479	67913	199	CIP109791T		EBI	
+GCF_965139125.1	CIP75.2T	Vibrio parahaemolyticus (g-proteobacteria)	670	SAMEA117660724	521324	341	CIP75.2T		EBI	

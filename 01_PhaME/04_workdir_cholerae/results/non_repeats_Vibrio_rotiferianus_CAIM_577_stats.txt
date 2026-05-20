@@ -1,0 +1,2 @@
+Reference	Length	Non-Repeat	Repeat size
+Vibrio_rotiferianus_CAIM_577	5368584	5240636	127948

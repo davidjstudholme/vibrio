@@ -1,0 +1,4 @@
+
+Vibrio_campbellii_CAIM_519 size:	5116899
+Repeats segment #:	80
+Repeats total length:	13033 (0.25%)

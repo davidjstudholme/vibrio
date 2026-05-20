@@ -1,0 +1,4 @@
+
+Vibrio_kyushuensis_JAMM1822 size:	5381169
+Repeats segment #:	74
+Repeats total length:	21693 (0.40%)

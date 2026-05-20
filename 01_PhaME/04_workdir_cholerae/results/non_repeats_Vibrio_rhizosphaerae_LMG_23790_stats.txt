@@ -1,0 +1,2 @@
+Reference	Length	Non-Repeat	Repeat size
+Vibrio_rhizosphaerae_LMG_23790	4557402	4457835	99567

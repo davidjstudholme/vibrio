@@ -1,0 +1,2 @@
+Reference	Length	Non-Repeat	Repeat size
+Vibrio_cortegadensis_CECT_7227	4668569	4520331	148238

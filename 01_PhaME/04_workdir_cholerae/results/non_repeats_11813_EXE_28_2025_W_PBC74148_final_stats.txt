@@ -1,0 +1,2 @@
+Reference	Length	Non-Repeat	Repeat size
+11813_EXE_28_2025_W_PBC74148_final	4234954	4081127	153827

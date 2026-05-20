@@ -1,0 +1,2 @@
+Reference	Length	Non-Repeat	Repeat size
+11813_EXE_09_2024_B_PBC74148_final	5333978	5203820	130158

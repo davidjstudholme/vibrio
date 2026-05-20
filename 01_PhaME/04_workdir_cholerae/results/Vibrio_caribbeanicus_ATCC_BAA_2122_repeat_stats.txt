@@ -1,0 +1,4 @@
+
+Vibrio_caribbeanicus_ATCC_BAA_2122 size:	4410536
+Repeats segment #:	119
+Repeats total length:	34695 (0.79%)
