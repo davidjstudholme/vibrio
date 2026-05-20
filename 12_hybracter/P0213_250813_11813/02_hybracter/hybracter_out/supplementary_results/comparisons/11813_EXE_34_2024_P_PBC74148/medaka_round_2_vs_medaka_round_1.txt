@@ -1,0 +1,41 @@
+  10 differences
+    medaka_round_1:contig_1 1033518-1033548: CAGGTTCAACATATACTTTCATGGCGTTATC
+    medaka_round_2:contig_1 1033518-1033548: CAGGTTCAACATATATTTTCATGGCGTTATC
+                                                           *               
+
+    medaka_round_1:contig_1 1354026-1354056: AGGTGCTCCAGCAATGATGTTACCTCAGTTT
+    medaka_round_2:contig_1 1354026-1354056: AGGTGCTCCAGCAATTATGTTACCTCAGTTT
+                                                           *               
+
+    medaka_round_1:contig_1 1354140-1354170: CCGTCATTCGATTAACTAAGCTTATAAACGT
+    medaka_round_2:contig_1 1354140-1354169: CCGTCATTCGATTAA-TAAGCTTATAAACGT
+                                                           *               
+
+    medaka_round_1:contig_1 1354345-1354375: TGTTTAAGAGTGATTCCGCAACGCTTGGCAT
+    medaka_round_2:contig_1 1354344-1354373: TGTTTAAGAGTGATT-CGCAACGCTTGGCAT
+                                                           *               
+
+    medaka_round_1:contig_1 1746036-1746066: ATGCCTCAAAGTTTAAATCTGAGAGTTTAGG
+    medaka_round_2:contig_1 1746034-1746064: ATGCCTCAAAGTTTAGATCTGAGAGTTTAGG
+                                                           *               
+
+    medaka_round_1:contig_1 2709582-2709612: ACCACAAGCGATCCCGGGATGGAATCCATCT
+    medaka_round_2:contig_1 2709580-2709609: ACCACAAGCGATCCC-GGATGGAATCCATCT
+                                                           *               
+
+    medaka_round_1:contig_1 2994646-2994675: TACATTTAAGAAAAA-CCCAGAAAACTCGAT
+    medaka_round_2:contig_1 2994643-2994673: TACATTTAAGAAAAACCCCAGAAAACTCGAT
+                                                           *               
+
+    medaka_round_1:contig_1 2997163-2997193: TAGTCAGATCGAAACTTGATACCAGCTCTAG
+    medaka_round_2:contig_1 2997161-2997191: TAGTCAGATCGAAACCTGATACCAGCTCTAG
+                                                           *               
+
+    medaka_round_1:contig_1 2997208-2997238: TGAGCTAAAAATCATTAAAAAACCAACTAAA
+    medaka_round_2:contig_1 2997206-2997236: TGAGCTAAAAATCATCAAAAAACCAACTAAA
+                                                           *               
+
+    medaka_round_1:contig_1 2997803-2997833: GAACCTACCACAAAAGAAAACAGAAATGGTC
+    medaka_round_2:contig_1 2997801-2997831: GAACCTACCACAAAAAAAAACAGAAATGGTC
+                                                           *               
+

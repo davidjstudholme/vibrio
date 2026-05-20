@@ -1,0 +1,64 @@
+[2025-10-16 04:17:37] INFO: Starting Flye 2.9.6-b1802
+[2025-10-16 04:17:37] INFO: >>>STAGE: configure
+[2025-10-16 04:17:37] INFO: Configuring run
+[2025-10-16 04:17:41] INFO: Total read length: 239989658
+[2025-10-16 04:17:41] INFO: Reads N50/N90: 3494 / 1269
+[2025-10-16 04:17:41] INFO: Minimum overlap set to 1000
+[2025-10-16 04:17:41] INFO: >>>STAGE: assembly
+[2025-10-16 04:17:41] INFO: Assembling disjointigs
+[2025-10-16 04:17:41] INFO: Reading sequences
+[2025-10-16 04:17:45] INFO: Building minimizer index
+[2025-10-16 04:17:45] INFO: Pre-calculating index storage
+0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100% 
+[2025-10-16 04:18:01] INFO: Filling index
+0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100% 
+[2025-10-16 04:18:29] INFO: Extending reads
+[2025-10-16 04:18:38] INFO: Overlap-based coverage: 28
+[2025-10-16 04:18:38] INFO: Median overlap divergence: 0.0282752
+0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100% 
+[2025-10-16 04:21:34] INFO: Assembled 147 disjointigs
+[2025-10-16 04:21:34] INFO: Generating sequence
+0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100% 
+[2025-10-16 04:21:37] INFO: Filtering contained disjointigs
+0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100% 
+[2025-10-16 04:21:39] INFO: Contained seqs: 9
+[2025-10-16 04:21:39] INFO: >>>STAGE: consensus
+[2025-10-16 04:21:39] INFO: Running Minimap2
+[2025-10-16 04:23:20] INFO: Computing consensus
+[2025-10-16 04:24:58] INFO: Alignment error rate: 0.038390
+[2025-10-16 04:24:58] INFO: >>>STAGE: repeat
+[2025-10-16 04:24:58] INFO: Building and resolving repeat graph
+[2025-10-16 04:24:58] INFO: Parsing disjointigs
+[2025-10-16 04:24:58] INFO: Building repeat graph
+0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100% 
+[2025-10-16 04:25:03] INFO: Median overlap divergence: 0.021092
+[2025-10-16 04:25:03] INFO: Parsing reads
+[2025-10-16 04:25:07] INFO: Aligning reads to the graph
+0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100% 
+[2025-10-16 04:26:29] INFO: Aligned read sequence: 217711981 / 232819420 (0.935111)
+[2025-10-16 04:26:29] INFO: Median overlap divergence: 0.0114943
+[2025-10-16 04:26:29] INFO: Mean edge coverage: 35
+[2025-10-16 04:26:29] INFO: Simplifying the graph
+[2025-10-16 04:26:30] INFO: >>>STAGE: contigger
+[2025-10-16 04:26:30] INFO: Generating contigs
+[2025-10-16 04:26:30] INFO: Reading sequences
+[2025-10-16 04:26:34] INFO: Generated 124 contigs
+[2025-10-16 04:26:34] INFO: Added 0 scaffold connections
+[2025-10-16 04:26:34] INFO: >>>STAGE: polishing
+[2025-10-16 04:26:34] INFO: Polishing genome (1/1)
+[2025-10-16 04:26:34] INFO: Running minimap2
+[2025-10-16 04:28:15] INFO: Separating alignment into bubbles
+[2025-10-16 04:30:15] INFO: Alignment error rate: 0.026209
+[2025-10-16 04:30:15] INFO: Correcting bubbles
+0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100% 
+[2025-10-16 04:34:55] INFO: >>>STAGE: finalize
+[2025-10-16 04:34:55] INFO: Assembly statistics:
+
+	Total length:	6035470
+	Fragments:	112
+	Fragments N50:	134733
+	Largest frg:	520797
+	Scaffolds:	0
+	Mean coverage:	37
+
+[2025-10-16 04:34:55] INFO: Final assembly: /data/djs217/vibrio/P0213_250813_11813/01_raw_reads/hybracter_out/processing/assemblies/11813_EXE_22_2025_DG3A_PBC74148_barcode18/assembly.fasta

@@ -1,0 +1,41 @@
+  10 differences
+        pre_polish:contig_1 45233-45263: TCACGATATGGGTGTTGTCTCCAACGTCACC
+    medaka_round_1:contig_1 45233-45263: TCACGATATGGGTGTCGTCTCCAACGTCACC
+                                                       *               
+
+      pre_polish:contig_1 520341-520371: CGCCGACCGGATGTTTGGTTTGAGCTATGAG
+  medaka_round_1:contig_1 520341-520371: CGCCGACCGGATGTTCGGTTTGAGCTATGAG
+                                                       *               
+
+      pre_polish:contig_1 655459-655488: GTCTTGTCCTCAAAT-CCCCCCCCCTAACCC
+  medaka_round_1:contig_1 655459-655489: GTCTTGTCCTCAAATCCCCCCCCCCTAACCC
+                                                       *               
+
+    pre_polish:contig_1 1015991-1016021: GGTCGAACTCTAGGTTGCAAAAACCGTGCGC
+medaka_round_1:contig_1 1015992-1016022: GGTCGAACTCTAGGTCGCAAAAACCGTGCGC
+                                                       *               
+
+    pre_polish:contig_1 1454763-1454793: CGACGAACAGCTAGTTGAAATGGCGAACGAC
+medaka_round_1:contig_1 1454764-1454794: CGACGAACAGCTAGTCGAAATGGCGAACGAC
+                                                       *               
+
+    pre_polish:contig_1 1483413-1483443: CTTCGACCCATGCGTTGAACTTTTTCTGGTT
+medaka_round_1:contig_1 1483414-1483444: CTTCGACCCATGCGTCGAACTTTTTCTGGTT
+                                                       *               
+
+    pre_polish:contig_1 2107931-2107961: GGCGAAGGTACACTCGACACATGTATCGTAA
+medaka_round_1:contig_1 2107932-2107962: GGCGAAGGTACACTCAACACATGTATCGTAA
+                                                       *               
+
+    pre_polish:contig_1 2233968-2233998: AATCGAACGCTACGTTGACAGGGAAGAACCT
+medaka_round_1:contig_1 2233969-2233999: AATCGAACGCTACGTCGACAGGGAAGAACCT
+                                                       *               
+
+    pre_polish:contig_1 2827483-2827512: ATGGATACTTTCCAT-CCCCCCCCCAAATTA
+medaka_round_1:contig_1 2827484-2827514: ATGGATACTTTCCATCCCCCCCCCCAAATTA
+                                                       *               
+
+    pre_polish:contig_1 2845078-2845107: TTCAAATACCTATAA-TTTTTTTTTTTTAAA
+medaka_round_1:contig_1 2845080-2845110: TTCAAATACCTATAATTTTTTTTTTTTTAAA
+                                                       *               
+

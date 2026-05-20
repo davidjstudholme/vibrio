@@ -1,0 +1,253 @@
+  97 differences
+        pre_polish:contig_1 70842-70872: GGGTTGCGAACGGATCTGAGTTCCCTATAAT
+    medaka_round_1:contig_1 70842-70872: GGGTTGCGAACGGATTTGAGTTCCCTATAAT
+                                                       *               
+
+      pre_polish:contig_1 145813-145843: ATCGATAGAAATGTTCTAGCAATGACTCTTA
+  medaka_round_1:contig_1 145813-145842: ATCGATAGAAATGTT-TAGCAATGACTCTTA
+                                                       *               
+
+      pre_polish:contig_1 528276-528306: GTGACAGAGTACGATTGTAGTACCCTCCGCC
+  medaka_round_1:contig_1 528275-528305: GTGACAGAGTACGATCGTAGTACCCTCCGCC
+                                                       *               
+
+      pre_polish:contig_1 529908-529938: TGCCAAATTAGGCATTGATGAAGATGACGAT
+  medaka_round_1:contig_1 529907-529937: TGCCAAATTAGGCATCGATGAAGATGACGAT
+                                                       *               
+
+      pre_polish:contig_1 622130-622160: CACCAGTATCGAGCTCGATATCGGCAAGAAA
+  medaka_round_1:contig_1 622129-622159: CACCAGTATCGAGCTGGATATCGGCAAGAAA
+                                                       *               
+
+      pre_polish:contig_1 648175-648205: ACGACCTTTGTACTCAATGATGCCATCCGTT
+  medaka_round_1:contig_1 648174-648204: ACGACCTTTGTACTCGATGATGCCATCCGTT
+                                                       *               
+
+      pre_polish:contig_1 725403-725433: TTCTGGTTACTCCTCAATTAGCAACCCCAAT
+  medaka_round_1:contig_1 725402-725432: TTCTGGTTACTCCTCGATTAGCAACCCCAAT
+                                                       *               
+
+    pre_polish:contig_1 1087224-1087254: CTCTTCAACTAGGGCAAACTACTATATCAGA
+medaka_round_1:contig_1 1087223-1087253: CTCTTCAACTAGGGCGAACTACTATATCAGA
+                                                       *               
+
+    pre_polish:contig_1 1353938-1353968: CCTGATATGACGGTTCAGTCAACTGCTAACA
+medaka_round_1:contig_1 1353937-1353967: CCTGATATGACGGTTTAGTCAACTGCTAACA
+                                                       *               
+
+    pre_polish:contig_1 1437490-1437520: ATCAGCTTGCTACTCAATATCACGGCCATGT
+medaka_round_1:contig_1 1437489-1437519: ATCAGCTTGCTACTCGATATCACGGCCATGT
+                                                       *               
+
+    pre_polish:contig_1 1513244-1513274: TCACGTCTACATGAAGATCATCTAGCATTAG
+medaka_round_1:contig_1 1513243-1513272: TCACGTCTACATGAA-ATCATCTAGCATTAG
+                                                       *               
+
+    pre_polish:contig_1 1513321-1513351: AGGTTGTAGATAGAGTTTTTCCAAATAATGT
+medaka_round_1:contig_1 1513319-1513348: AGGTTGTAGATAGAG-TTTTCCAAATAATGT
+                                                       *               
+
+    pre_polish:contig_1 1513465-1513495: CGACTTGCGTTAATGAAAAGAGAGCGAGTTG
+medaka_round_1:contig_1 1513462-1513491: CGACTTGCGTTAATG-AAAGAGAGCGAGTTG
+                                                       *               
+
+    pre_polish:contig_1 1513639-1513669: GCTAAATCCACAATGTTTTATCCAAGTTAGA
+medaka_round_1:contig_1 1513635-1513664: GCTAAATCCACAATG-TTTATCCAAGTTAGA
+                                                       *               
+
+    pre_polish:contig_1 1514225-1514255: TAAACTCTCGTACTGCCGAAGCTAGCACCAT
+medaka_round_1:contig_1 1514220-1514249: TAAACTCTCGTACTG-CGAAGCTAGCACCAT
+                                                       *               
+
+    pre_polish:contig_1 1514272-1514302: ACAAGTGGGAATATATTACACCATCGTGTTA
+medaka_round_1:contig_1 1514266-1514295: ACAAGTGGGAATATA-TACACCATCGTGTTA
+                                                       *               
+
+    pre_polish:contig_1 1516293-1516323: TGTTGGTTTTGAGATTGGACGGCTGAGACAA
+medaka_round_1:contig_1 1516286-1516316: TGTTGGTTTTGAGATCGGACGGCTGAGACAA
+                                                       *               
+
+    pre_polish:contig_1 1517421-1517478: TAGTTCAAGACGAGTGGGTAAGTTAGAGTCGGCATTGATTGTCAGAAGTAACGGTTCC
+medaka_round_1:contig_1 1517414-1517469: TAGTTCAAGACGAGT-GGTAAGTTAGAGTCGGCATTGATTGT-AGAAGTAACGGTTCC
+                                                       *                          *               
+
+    pre_polish:contig_1 1518796-1518826: CACTTTCTTTGGCAGAAGCATACTTAAATCA
+medaka_round_1:contig_1 1518787-1518816: CACTTTCTTTGGCAG-AGCATACTTAAATCA
+                                                       *               
+
+    pre_polish:contig_1 1621184-1621214: GCAATGGCCGCGCTCAATGCGGCCGACAAAC
+medaka_round_1:contig_1 1621174-1621204: GCAATGGCCGCGCTCGATGCGGCCGACAAAC
+                                                       *               
+
+    pre_polish:contig_1 1621679-1621709: TGAACAGTTAGAGGTAAGTGACGCCGTCACA
+medaka_round_1:contig_1 1621669-1621699: TGAACAGTTAGAGGTGAGTGACGCCGTCACA
+                                                       *               
+
+    pre_polish:contig_1 1622530-1622560: GGCCGTTAAGCACTTAGGTTTGGTGCCAAAA
+medaka_round_1:contig_1 1622520-1622550: GGCCGTTAAGCACTTGGGTTTGGTGCCAAAA
+                                                       *               
+
+    pre_polish:contig_1 1623573-1623603: GTGACGGACATTCTCAATGCGGCAGACATTG
+medaka_round_1:contig_1 1623563-1623593: GTGACGGACATTCTCGATGCGGCAGACATTG
+                                                       *               
+
+    pre_polish:contig_1 1625137-1625167: TGCGTTCGGGCATCAAACAACTGGTTAATGT
+medaka_round_1:contig_1 1625127-1625157: TGCGTTCGGGCATCATACAACTGGTTAATGT
+                                                       *               
+
+    pre_polish:contig_1 1625180-1625210: GGGGATGCAATCGCTATCTGCGGATACGGCG
+medaka_round_1:contig_1 1625170-1625200: GGGGATGCAATCGCTGTCTGCGGATACGGCG
+                                                       *               
+
+    pre_polish:contig_1 1625622-1625652: AACAGTGAAAACCTCAATATGTTGGCGGGAC
+medaka_round_1:contig_1 1625612-1625642: AACAGTGAAAACCTCGATATGTTGGCGGGAC
+                                                       *               
+
+    pre_polish:contig_1 1625842-1625872: CATCCCGCTGACGCCAGATGGTAATTGGCTG
+medaka_round_1:contig_1 1625832-1625862: CATCCCGCTGACGCCTGATGGTAATTGGCTG
+                                                       *               
+
+    pre_polish:contig_1 1626221-1626251: CTGGCAGCCAATCAGAAATTGGCGGTGACGT
+medaka_round_1:contig_1 1626211-1626241: CTGGCAGCCAATCAGTAATTGGCGGTGACGT
+                                                       *               
+
+    pre_polish:contig_1 1627667-1627697: TGTAACTATGCCGCTATTTATCTTTGTCATC
+medaka_round_1:contig_1 1627657-1627687: TGTAACTATGCCGCTGTTTATCTTTGTCATC
+                                                       *               
+
+    pre_polish:contig_1 1631268-1631309: TGGTGCGCATTATATCTGCTTATGTTGAATGCGATTGCATAT
+medaka_round_1:contig_1 1631258-1631299: TGGTGCGCATTATATGTGCTTATGTTAAATGCGATTGCATAT
+                                                       *          *               
+
+    pre_polish:contig_1 1631712-1631742: ATGTAAAGAGTGGCCCCTTTAGGGGCCACTC
+medaka_round_1:contig_1 1631702-1631732: ATGTAAAGAGTGGCCACTTTAGGGGCCACTC
+                                                       *               
+
+    pre_polish:contig_1 1631758-1631787: TACTGCTTTATGAGC----------CAACTAAAACAGACA
+medaka_round_1:contig_1 1631748-1631787: TACTGCTTTATGAGCCCCCCCCCCTCAACTAAAACAGACA
+                                                       **********               
+
+    pre_polish:contig_1 1785602-1785632: TATGATATGAATATTCACAATATAATCGGAA
+medaka_round_1:contig_1 1785602-1785632: TATGATATGAATATTTACAATATAATCGGAA
+                                                       *               
+
+    pre_polish:contig_1 1791538-1791568: ATCAAGCATTTGAATCGATGATTGACAACCA
+medaka_round_1:contig_1 1791538-1791568: ATCAAGCATTTGAATTGATGATTGACAACCA
+                                                       *               
+
+    pre_polish:contig_1 2170851-2170880: TGTAAAATATACTTT-CCCCCCTATGCTTCT
+medaka_round_1:contig_1 2170851-2170881: TGTAAAATATACTTTCCCCCCCTATGCTTCT
+                                                       *               
+
+    pre_polish:contig_1 2217640-2217670: TATTTCAGTAGCTCGAATACAGGACACCATT
+medaka_round_1:contig_1 2217641-2217670: TATTTCAGTAGCTCG-ATACAGGACACCATT
+                                                       *               
+
+    pre_polish:contig_1 2284594-2284624: TATAGGGTTCAGCTCGATGCATGACTCACAA
+medaka_round_1:contig_1 2284594-2284624: TATAGGGTTCAGCTCAATGCATGACTCACAA
+                                                       *               
+
+    pre_polish:contig_1 2312032-2312081: AGATAAAACAAGTCTCTAAGAAACAAGAAGGGATCGAGCCTTGTTCGATA
+medaka_round_1:contig_1 2312032-2312078: AGATAAAACAAGTCT-TA--AAACAAGAAGGGATTGAGCCTTGTTCGATA
+                                                       *  **              *               
+
+    pre_polish:contig_1 2312111-2312141: AAGTAAAAAAGAATTACCTTTCGAATGCCTG
+medaka_round_1:contig_1 2312108-2312137: AAGTAAAAAAGAATT-CCTTTCGAATGCCTG
+                                                       *               
+
+    pre_polish:contig_1 2312463-2312504: TGGAACAAGAGCGGCACTGATTCCGGAATCAATTACCAGTTG
+medaka_round_1:contig_1 2312459-2312498: TGGAACAAGAGCGGC-CTGATTCCGG-ATCAATTACCAGTTG
+                                                       *          *               
+
+    pre_polish:contig_1 2312698-2312765: TTGTAACCTTAGTGATCTGGCTCTCCTAATATCCCGATCAGCACCCTAAAATCCCGTCCATGCCGCAC
+medaka_round_1:contig_1 2312692-2312755: TTGTAACCTTAGTGA--TGGCTATCCTAATATCCCGATC-G-ACCCTAAAATACCGTCCATGCCGCAC
+                                                       **     *                * *          *               
+
+    pre_polish:contig_1 2315318-2315377: AAAATAACACGCATGAAAAAAGAAACAGGCTGAAGATCAACGTCAGCCCACGGATAATAT
+medaka_round_1:contig_1 2315308-2315365: AAAATAACACGCATG-AAAAAGAAACAGGCTGAAGATCAACGTC-GCCCACGGATAATAT
+                                                       *                            *               
+
+    pre_polish:contig_1 2315462-2315496: CTTTGGAAAAGTTCTTGCTGAATGCATAAGTAAGA
+medaka_round_1:contig_1 2315450-2315481: CTTTGGAAAAGTTCT---TAAATGCATAAGTAAGA
+                                                       *** *               
+
+    pre_polish:contig_1 2316995-2317025: GCCAGAGCAATTGTCGAGCATTCGAAGCCCG
+medaka_round_1:contig_1 2316980-2317009: GCCAGAGCAATTGTC-AGCATTCGAAGCCCG
+                                                       *               
+
+    pre_polish:contig_1 2317639-2317675: AAATTGAGTTGCCATGTTATACCCTCTAATACAAAAA
+medaka_round_1:contig_1 2317623-2317658: AAATTGAGTTGCCAT-ATATATCCTCTAATACAAAAA
+                                                       **    *               
+
+    pre_polish:contig_1 2317752-2317782: TTATTTGATTTTAGCTTTTCCTCTTATAAGA
+medaka_round_1:contig_1 2317735-2317764: TTATTTGATTTTAGC-TTTCCTCTTATAAGA
+                                                       *               
+
+    pre_polish:contig_1 2318123-2318153: TATAAATTAGCGCCTACTCTTTGGCTAACTA
+medaka_round_1:contig_1 2318105-2318134: TATAAATTAGCGCCT-CTCTTTGGCTAACTA
+                                                       *               
+
+    pre_polish:contig_1 2318383-2318413: AGCGTAGAATACTTTCTGTAATTAGTATAAA
+medaka_round_1:contig_1 2318364-2318394: AGCGTAGAATACTTTGTGTAATTAGTATAAA
+                                                       *               
+
+    pre_polish:contig_1 2318534-2318568: TAACTCTTCTAGAATCCACAGCTGTTCAGGGGTCT
+medaka_round_1:contig_1 2318515-2318549: TAACTCTTCTAGAATACACTGCTGTTCAGGGGTCT
+                                                       *   *               
+
+    pre_polish:contig_1 2318596-2318626: CAAATCCCTTTGCGACGTTGACAATGCCGGA
+medaka_round_1:contig_1 2318577-2318607: CAAATCCCTTTGCGATGTTGACAATGCCGGA
+                                                       *               
+
+    pre_polish:contig_1 2349399-2349429: AAACTTTAAATAACCAAACACAATTATCAGC
+medaka_round_1:contig_1 2349380-2349410: AAACTTTAAATAACCGAACACAATTATCAGC
+                                                       *               
+
+    pre_polish:contig_1 2389489-2389519: GATCGCACAGCGTATCGATACCGAGCAAACT
+medaka_round_1:contig_1 2389470-2389500: GATCGCACAGCGTATTGATACCGAGCAAACT
+                                                       *               
+
+    pre_polish:contig_1 2782404-2782434: ATCGCTTGATCATATCGATATTCTCTTGAGA
+medaka_round_1:contig_1 2782385-2782415: ATCGCTTGATCATATTGATATTCTCTTGAGA
+                                                       *               
+
+    pre_polish:contig_1 2886757-2886787: AGCGGCATTCGTAATTGATACGCAGTAATAT
+medaka_round_1:contig_1 2886738-2886768: AGCGGCATTCGTAATCGATACGCAGTAATAT
+                                                       *               
+
+    pre_polish:contig_1 2947619-2947649: AGCGATGGTAGCATCAATATTAATAGCTATC
+medaka_round_1:contig_1 2947600-2947630: AGCGATGGTAGCATCGATATTAATAGCTATC
+                                                       *               
+
+    pre_polish:contig_1 3004182-3004212: GGTTGCGTCAGGCATTGATGTTGACCAAGAT
+medaka_round_1:contig_1 3004163-3004193: GGTTGCGTCAGGCATCGATGTTGACCAAGAT
+                                                       *               
+
+    pre_polish:contig_1 3037801-3037831: TGCAAGGTTAGACTCAATACTCTGTGTGTCA
+medaka_round_1:contig_1 3037782-3037812: TGCAAGGTTAGACTCGATACTCTGTGTGTCA
+                                                       *               
+
+    pre_polish:contig_1 3094857-3094887: TTAGGTACTCCCTCTCGATCGAATGAAGGAA
+medaka_round_1:contig_1 3094838-3094868: TTAGGTACTCCCTCTGGATCGAATGAAGGAA
+                                                       *               
+
+    pre_polish:contig_1 3099069-3099109: TAGTATATGTGGATTCAGACTCTAGAGAATAATATTTCCAA
+medaka_round_1:contig_1 3099050-3099088: TAGTATATGTGGATTTTG-CTTTA-TGAATAATATTTCCAA
+                                                       ** *  *  **               
+
+    pre_polish:contig_1 3099156-3099186: GGTTCTAGAGCTGGAGGGCTGGATAATAAAA
+medaka_round_1:contig_1 3099135-3099165: GGTTCTAGAGCTGGAAGGCTGGATAATAAAA
+                                                       *               
+
+    pre_polish:contig_1 3100071-3100101: TAGTGAAAGAATTGCAAAATCTGAAAAACTC
+medaka_round_1:contig_1 3100050-3100079: TAGTGAAAGAATTGC-AAATCTGAAAAACTC
+                                                       *               
+
+    pre_polish:contig_1 3100203-3100255: ACCTAGAGAATTCGGCTGAATAGTTGCTGTTCTAGGGCATATCTTGGTACTCC
+medaka_round_1:contig_1 3100181-3100232: ACCTAGAGAATTCGGGTGAATAGTTGCTGTTGTAGGG-ATATCTTGGTACTCC
+                                                       *               *     *               
+
+    pre_polish:contig_1 3115950-3115980: TTTGTCTTGAGTTATCGAGAATACATCATTG
+medaka_round_1:contig_1 3115927-3115957: TTTGTCTTGAGTTATTGAGAATACATCATTG
+                                                       *               
+

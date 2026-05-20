@@ -1,0 +1,157 @@
+  64 differences
+            medaka_round_1:contig_1 700-730: GATAAAACTAAAGCCGGGTAAAAATGTATAT
+            medaka_round_2:contig_1 700-730: GATAAAACTAAAGCCCGGTAAAAATGTATAT
+                                                           *               
+
+            medaka_round_1:contig_1 752-784: TTCTAACTTGCTAACGTGATAGGCGATGAATCG
+            medaka_round_2:contig_1 752-783: TTCTAACTTGCTAACCT-ATAGGCGATGAATCG
+                                                           * *               
+
+            medaka_round_1:contig_1 803-833: TCGTCGAAAAGTTCGAACATATCTAACACTA
+            medaka_round_2:contig_1 802-831: TCGTCGAAAAGTTCG-ACATATCTAACACTA
+                                                           *               
+
+    medaka_round_1:contig_1 1221909-1221939: CTTGTTGTCCCAGATCGTTGATTTCATGAAA
+    medaka_round_2:contig_1 1221907-1221937: CTTGTTGTCCCAGATTGTTGATTTCATGAAA
+                                                           *               
+
+    medaka_round_1:contig_1 1319456-1319516: ATAAGTAGCAACCAATGGCAAAAACGCACAACGAGGCAACAAGAATCCCCGACCATGAGAG
+    medaka_round_2:contig_1 1319454-1319514: ATAAGTAGCAACCAACGGCAAAAACGCACAACGAGGCAACAAGAACCCCCGACCATGAGAG
+                                                           *                             *               
+
+    medaka_round_1:contig_1 1319533-1319563: AAAAACATACAAGCCCCTACTACCAAGTGAA
+    medaka_round_2:contig_1 1319531-1319561: AAAAACATACAAGCCACTACTACCAAGTGAA
+                                                           *               
+
+    medaka_round_1:contig_1 1320276-1320306: CTAATAAGGAACCAACCCACACAATCAGGCC
+    medaka_round_2:contig_1 1320274-1320304: CTAATAAGGAACCAAACCACACAATCAGGCC
+                                                           *               
+
+    medaka_round_1:contig_1 1320421-1320451: CTCTGAGGTCAGCTCCGGTAACGAGTCGACA
+    medaka_round_2:contig_1 1320419-1320449: CTCTGAGGTCAGCTCTGGTAACGAGTCGACA
+                                                           *               
+
+    medaka_round_1:contig_1 1321213-1321243: GAAGTTAATGGCCAACATCCACCCATTTAGC
+    medaka_round_2:contig_1 1321211-1321241: GAAGTTAATGGCCAATATCCACCCATTTAGC
+                                                           *               
+
+    medaka_round_1:contig_1 1321367-1321397: CTTTTTGATGCTGAGAAATCTTCTACGACTT
+    medaka_round_2:contig_1 1321365-1321395: CTTTTTGATGCTGAGTAATCTTCTACGACTT
+                                                           *               
+
+    medaka_round_1:contig_1 1830818-1830848: CCTGATATTGTGTTGCCATCAACTTTCTTTG
+    medaka_round_2:contig_1 1830816-1830845: CCTGATATTGTGTTG-CATCAACTTTCTTTG
+                                                           *               
+
+    medaka_round_1:contig_1 2184417-2184447: TGAATATATATAATCTAGTATAGACAACATT
+    medaka_round_2:contig_1 2184414-2184444: TGAATATATATAATCCAGTATAGACAACATT
+                                                           *               
+
+    medaka_round_1:contig_1 2186078-2186108: GATTCAAAACTAGATCACAATTCGTTGCGCT
+    medaka_round_2:contig_1 2186075-2186104: GATTCAAAACTAGAT-ACAATTCGTTGCGCT
+                                                           *               
+
+    medaka_round_1:contig_1 2803895-2803925: CGTCGGTAGAGCTGCAATGATGGCTGCGGCC
+    medaka_round_2:contig_1 2803891-2803921: CGTCGGTAGAGCTGCGATGATGGCTGCGGCC
+                                                           *               
+
+    medaka_round_1:contig_1 2893848-2893878: TAGAACCCGTTCATCAACAAAAAACTCTAAG
+    medaka_round_2:contig_1 2893844-2893874: TAGAACCCGTTCATCGACAAAAAACTCTAAG
+                                                           *               
+
+    medaka_round_1:contig_1 3124295-3124325: TTTAATTTTATTACTAAACAAGACTCATGGT
+    medaka_round_2:contig_1 3124291-3124320: TTTAATTTTATTACT-AACAAGACTCATGGT
+                                                           *               
+
+    medaka_round_1:contig_1 3124332-3124384: TCAACACCTTGGTTAGGAACCGTTTTCTGATTTGATCGATTCTTTCAATGACT
+    medaka_round_2:contig_1 3124327-3124377: TCAACACCTTGGTTA--AACCGTTTTCTGATTTGATCCATTCTTTCAATGACT
+                                                           **                    *               
+
+    medaka_round_1:contig_1 3124648-3124692: TTAATCATTGGCTCCAAAAAGTACTTCAGAAATAATTAAAAGCAA
+    medaka_round_2:contig_1 3124641-3124685: TTAATCATTGGCTCCTAAAAGTACTTCAGTAATAATTAAAAGCAA
+                                                           *             *               
+
+    medaka_round_1:contig_1 3124709-3124739: TCTTTGGGCCCAGTTCGGTGGCAGGCCGTTT
+    medaka_round_2:contig_1 3124702-3124731: TCTTTGGGCCCAGTT-GGTGGCAGGCCGTTT
+                                                           *               
+
+    medaka_round_1:contig_1 3124771-3124883: TGGAGAGCTTTGATTGAGATTGACTCAGCTTGTTTCACTAACCAGCCTCGAGCGTCATGACATAAAACTCTCAATCCAGTGACTTGTTCTGGATGCATTTGCCGTCTTACCAA
+    medaka_round_2:contig_1 3124763-3124870: TGGAGAGCTTTGATT-AGATTGACTCA-CTTGTTTTACTAACCA-CCTCGAGCGTCATGACATAAAACTC-CAATCCAGTGACTTGTTCTGGATGCA-TTGCCGTCTTACCAA
+                                                           *           *       *        *                         *                          *               
+
+    medaka_round_1:contig_1 3124884-3124946: AAAAACCAAAAATCGTATTTATGCGAGCATCCTTTCTCAAGATCACTCTCACCTTCAAAAAAA
+    medaka_round_2:contig_1 3124871-3124932: AAAAACCAAAAATCG-ATTCATGCGAGCATCCTTTCTCAAGATCAATTTCACCTTCAAAAAAA
+                                                           *   *                         * *               
+
+    medaka_round_1:contig_1 3125019-3125049: AAAAGGTGTTATAGACAGCTGTCTAGGCATT
+    medaka_round_2:contig_1 3125005-3125035: AAAAGGTGTTATAGATAGCTGTCTAGGCATT
+                                                           *               
+
+    medaka_round_1:contig_1 3125309-3125339: TTTAGTACCACAGCATTTCTTGGGCGAATAA
+    medaka_round_2:contig_1 3125295-3125324: TTTAGTACCACAGCA-TTCTTGGGCGAATAA
+                                                           *               
+
+    medaka_round_1:contig_1 3125379-3125415: GCATTTTTTAGGCTATCTGAAATCAGTTTTAGTTGAT
+    medaka_round_2:contig_1 3125364-3125400: GCATTTTTTAGGCTACCTAAACTCAGTTTTAGTTGAT
+                                                           *  *  *               
+
+    medaka_round_1:contig_1 3125492-3125534: GTCATGAGTACATGTGTATAAGTAGCTCCGAGTGAAAAGTACA
+    medaka_round_2:contig_1 3125477-3125519: GTCATGAGTACATGTATATAAATAGCTTCGAGTGAAAAGTACA
+                                                           *     *     *               
+
+    medaka_round_1:contig_1 3125601-3125653: TTTTTTCTGTTCAAC-ACGTAACATTTTTTTCTTTGGCAAAGAATCAAGTGTTG
+    medaka_round_2:contig_1 3125586-3125638: TTTTTTCTGTTCAACAACGTAACATTTTTTTCTTTGGC-AAGAATCAAGTGTTG
+                                                           *                      *               
+
+    medaka_round_1:contig_1 3125701-3125730: GTCGGAGCATTACTC-AGTTGACTCCGCAAT
+    medaka_round_2:contig_1 3125686-3125716: GTCGGAGCATTACTCGAGTTGACTCCGCAAT
+                                                           *               
+
+    medaka_round_1:contig_1 3125988-3126018: GACGGTGGAATTGCAGCATGGATGAAGGAGC
+    medaka_round_2:contig_1 3125974-3126004: GACGGTGGAATTGCAACATGGATGAAGGAGC
+                                                           *               
+
+    medaka_round_1:contig_1 3126039-3126069: GCACACAAGTCAGCACAACCACCACTGTCAA
+    medaka_round_2:contig_1 3126025-3126054: GCACACAAGTCAGCA-AACCACCACTGTCAA
+                                                           *               
+
+    medaka_round_1:contig_1 3126093-3126123: TCATGGTATTGTTGTCTAAATTATATCGCTC
+    medaka_round_2:contig_1 3126078-3126108: TCATGGTATTGTTGTTTAAATTATATCGCTC
+                                                           *               
+
+    medaka_round_1:contig_1 3126129-3126159: ATGACTTTAACTCTCCAGTTATCACCCCTTT
+    medaka_round_2:contig_1 3126114-3126144: ATGACTTTAACTCTCGAGTTATCACCCCTTT
+                                                           *               
+
+    medaka_round_1:contig_1 3126185-3126215: ATCGATGAATGCAAAGATTTTCTTTTCAATC
+    medaka_round_2:contig_1 3126170-3126200: ATCGATGAATGCAAAAATTTTCTTTTCAATC
+                                                           *               
+
+    medaka_round_1:contig_1 3126336-3126366: CCAGTCAGCCAACTATAACTATCTCTCCTGG
+    medaka_round_2:contig_1 3126321-3126351: CCAGTCAGCCAACTAGAACTATCTCTCCTGG
+                                                           *               
+
+    medaka_round_1:contig_1 3126430-3126473: TTTCGTAAAAGTAAAGAAAAGTTCCTTGTATTTATCATTCCATT
+    medaka_round_2:contig_1 3126415-3126458: TTTCGTAAAAGTAAAAAAAAGTTCCTTGCATTTATCATTCCATT
+                                                           *            *               
+
+    medaka_round_1:contig_1 3126777-3126807: TGACAGTGGACCGACGATATCCAGCAAAAAT
+    medaka_round_2:contig_1 3126762-3126792: TGACAGTGGACCGACTATATCCAGCAAAAAT
+                                                           *               
+
+    medaka_round_1:contig_1 3126833-3126908: GTAATGGGTTCATTTAGCTATACATTTTCATTACCATGAGCACCTCGGCCAGAATCACGTCCGTTTGGCATCATGC
+    medaka_round_2:contig_1 3126818-3126890: GTAATGGGTTCATTT-GCTATACATTTTCATTACCATGAGCACCT-GGCCAGAATTACGT-CGTTTGGCATCATGC
+                                                           *                             *         *    *               
+
+    medaka_round_1:contig_1 3126976-3127008: TTGTCTGATGGAATGTGATTTAATTGAAATACT
+    medaka_round_2:contig_1 3126958-3126988: TTGTCTGATGGAATG-G-TTTAATTGAAATACT
+                                                           * *               
+
+    medaka_round_1:contig_1 3127042-3127084: GTAATGCCACATTGCTACGTATTACGATTATTTCGAGTTGTAG
+    medaka_round_2:contig_1 3127022-3127062: GTAATGCCACATTGC-ACG-ATTACGAGTATTTCGAGTTGTAG
+                                                           *   *       *               
+
+    medaka_round_1:contig_1 3587828-3587858: ATTCATTATACCATTAATCTGGGAAATATAT
+    medaka_round_2:contig_1 3587806-3587836: ATTCATTATACCATTGATCTGGGAAATATAT
+                                                           *               
+

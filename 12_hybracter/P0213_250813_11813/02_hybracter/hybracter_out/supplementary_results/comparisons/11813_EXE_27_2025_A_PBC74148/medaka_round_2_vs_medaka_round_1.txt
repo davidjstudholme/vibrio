@@ -1,0 +1,5 @@
+  1 difference
+      medaka_round_1:contig_2 620253-620283: TTCGTTCCTGTTTTAGGGGGGGGGGGGACAT
+      medaka_round_2:contig_2 620253-620282: TTCGTTCCTGTTTTA-GGGGGGGGGGGACAT
+                                                           *               
+

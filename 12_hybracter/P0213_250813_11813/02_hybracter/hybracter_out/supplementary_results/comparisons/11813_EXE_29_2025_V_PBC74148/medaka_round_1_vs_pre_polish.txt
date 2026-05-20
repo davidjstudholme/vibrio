@@ -1,0 +1,13 @@
+  3 differences
+      pre_polish:contig_3 504229-504259: AAAAAATGCACAAACAATCTCAAGAAAACGA
+  medaka_round_1:contig_3 504229-504259: AAAAAATGCACAAACGATCTCAAGAAAACGA
+                                                       *               
+
+      pre_polish:contig_3 849028-849058: TTAGTTCTTCAAGGAAATCTGCACCCATATC
+  medaka_round_1:contig_3 849028-849058: TTAGTTCTTCAAGGAGATCTGCACCCATATC
+                                                       *               
+
+    pre_polish:contig_3 1488411-1488441: GGAATACCTTCATCGAAAAAAGCGGCCAGCC
+medaka_round_1:contig_3 1488411-1488440: GGAATACCTTCATCG-AAAAAGCGGCCAGCC
+                                                       *               
+

@@ -1,0 +1,33 @@
+  10 differences
+      medaka_round_1:contig_2 234892-234922: TACAAATTGTATTAAGTCGTTCATATCGGCA
+      medaka_round_2:contig_2 234892-234922: TACAAATTGTATTAAATCGTTCATATCGGCA
+                                                           *               
+
+      medaka_round_1:contig_2 235747-235777: AATAAAATCGAGCACTTTTCTCTCTTTGATG
+      medaka_round_2:contig_2 235747-235776: AATAAAATCGAGCAC-TTTCTCTCTTTGATG
+                                                           *               
+
+      medaka_round_1:contig_2 236142-236173: ATCTATTTTACACATCATAAACCTCACTCGGC
+      medaka_round_2:contig_2 236141-236172: ATCTATTTTACACATAGTAAACCTCACTCGGC
+                                                           **               
+
+      medaka_round_1:contig_2 236461-236501: TATTATGACGGAATATGTTCATAAAGAAAATTGTAAGGTCT
+      medaka_round_2:contig_2 236460-236500: TATTATGACGGAATAAGTTCATAAAAAAAATTGTAAGGTCT
+                                                           *         *               
+
+      medaka_round_1:contig_2 239979-240009: GTTGAGCCTGATTTATGACATGTTAGTTAGC
+      medaka_round_2:contig_2 239978-240007: GTTGAGCCTGATTTA-GACATGTTAGTTAGC
+                                                           *               
+
+      medaka_round_1:contig_2 240358-240388: AGCTTCAAAATGACCATGTCATCGGCGGTAT
+      medaka_round_2:contig_2 240356-240386: AGCTTCAAAATGACCGTGTCATCGGCGGTAT
+                                                           *               
+
+      medaka_round_1:contig_2 240433-240463: CGTCATGGGAAAATGCCGCAATTACTAACGC
+      medaka_round_2:contig_2 240431-240460: CGTCATGGGAAAATG-CGCAATTACTAACGC
+                                                           *               
+
+    medaka_round_1:contig_2 1332354-1332384: TGTAGATGAGAGATTCGACTCCCGAATACTT
+    medaka_round_2:contig_2 1332351-1332381: TGTAGATGAGAGATTTGACTCCCGAATACTT
+                                                           *               
+

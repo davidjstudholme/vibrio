@@ -1,0 +1,5 @@
+  1 difference
+    medaka_round_1:contig_3 3292286-3292316: GGCGAAGGTACACTCAACACATGTATCGTAA
+    medaka_round_2:contig_3 3292286-3292316: GGCGAAGGTACACTCGACACATGTATCGTAA
+                                                           *               
+

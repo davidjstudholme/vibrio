@@ -1,0 +1,5 @@
+  1 difference
+      pre_polish:contig_1 957944-957974: AAGCACTGCGCTCGATTCTTTTTCGCAACCA
+  medaka_round_1:contig_1 957944-957973: AAGCACTGCGCTCGA-TCTTTTTCGCAACCA
+                                                       *               
+

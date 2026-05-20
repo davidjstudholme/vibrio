@@ -1,0 +1,13 @@
+  3 differences
+      medaka_round_1:contig_3 245172-245202: ACGTCAGAGGAGGACAAAAACAGTAATGAAT
+      medaka_round_2:contig_3 245172-245201: ACGTCAGAGGAGGAC-AAAACAGTAATGAAT
+                                                           *               
+
+      medaka_round_1:contig_3 504229-504259: AAAAAATGCACAAACGATCTCAAGAAAACGA
+      medaka_round_2:contig_3 504228-504258: AAAAAATGCACAAACAATCTCAAGAAAACGA
+                                                           *               
+
+      medaka_round_1:contig_3 849028-849058: TTAGTTCTTCAAGGAGATCTGCACCCATATC
+      medaka_round_2:contig_3 849027-849057: TTAGTTCTTCAAGGAAATCTGCACCCATATC
+                                                           *               
+

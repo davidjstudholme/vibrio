@@ -1,0 +1,5 @@
+  1 difference
+      medaka_round_1:contig_1 187816-187845: GGCTTTTGTCGTTTT-GAGGCTGTCATTTTC
+      medaka_round_2:contig_1 187816-187846: GGCTTTTGTCGTTTTAGAGGCTGTCATTTTC
+                                                           *               
+

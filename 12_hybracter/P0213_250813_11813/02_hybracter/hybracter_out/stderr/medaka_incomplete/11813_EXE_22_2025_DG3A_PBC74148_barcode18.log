@@ -1,0 +1,531 @@
+/data/djs217/miniconda3/lib/python3.12/site-packages/hybracter/workflow/conda/f3634b33ec8fb5711a0153c480705631_/lib/python3.11/site-packages/medaka/common.py:16: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+  from pkg_resources import resource_filename
+/data/djs217/miniconda3/lib/python3.12/site-packages/hybracter/workflow/conda/f3634b33ec8fb5711a0153c480705631_/lib/python3.11/site-packages/medaka/common.py:16: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+  from pkg_resources import resource_filename
+/data/djs217/miniconda3/lib/python3.12/site-packages/hybracter/workflow/conda/f3634b33ec8fb5711a0153c480705631_/lib/python3.11/site-packages/medaka/common.py:16: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+  from pkg_resources import resource_filename
+[04:38:59 - MdlStrTGZ] Successfully removed temporary files from /tmp/tmpzgsnt667.
+/data/djs217/miniconda3/lib/python3.12/site-packages/hybracter/workflow/conda/f3634b33ec8fb5711a0153c480705631_/lib/python3.11/site-packages/medaka/common.py:16: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+  from pkg_resources import resource_filename
+[04:39:01 - MdlStrTGZ] Successfully removed temporary files from /tmp/tmpvqb7zpzq.
+Creating fai index file /data/djs217/vibrio/P0213_250813_11813/01_raw_reads/hybracter_out/processing/incomp_pre_polish/11813_EXE_22_2025_DG3A_PBC74148_barcode18.fasta.fai
+Creating mmi index file /data/djs217/vibrio/P0213_250813_11813/01_raw_reads/hybracter_out/processing/incomp_pre_polish/11813_EXE_22_2025_DG3A_PBC74148_barcode18.fasta.map-ont.mmi
+[M::mm_idx_gen::0.171*1.02] collected minimizers
+[M::mm_idx_gen::0.249*1.60] sorted minimizers
+[M::main::0.317*1.47] loaded/built the index for 112 target sequence(s)
+[M::mm_idx_stat] kmer size: 15; skip: 10; is_hpc: 0; #seq: 112
+[M::mm_idx_stat::0.333*1.45] distinct minimizers: 1071234 (97.13% are singletons); average occurrences: 1.056; average spacing: 5.337; total length: 6035470
+[M::main] Version: 2.30-r1287
+[M::main] CMD: minimap2 -I 16G -x map-ont -d /data/djs217/vibrio/P0213_250813_11813/01_raw_reads/hybracter_out/processing/incomp_pre_polish/11813_EXE_22_2025_DG3A_PBC74148_barcode18.fasta.map-ont.mmi /data/djs217/vibrio/P0213_250813_11813/01_raw_reads/hybracter_out/processing/incomp_pre_polish/11813_EXE_22_2025_DG3A_PBC74148_barcode18.fasta
+[M::main] Real time: 0.342 sec; CPU: 0.492 sec; Peak RSS: 0.057 GB
+[M::main::0.084*1.04] loaded/built the index for 112 target sequence(s)
+[M::mm_mapopt_update::0.106*1.03] mid_occ = 25
+[M::mm_idx_stat] kmer size: 15; skip: 10; is_hpc: 0; #seq: 112
+[M::mm_idx_stat::0.122*1.03] distinct minimizers: 1071234 (97.13% are singletons); average occurrences: 1.056; average spacing: 5.337; total length: 6035470
+[M::worker_pipeline::89.826*0.94] mapped 87357 sequences
+[M::main] Version: 2.30-r1287
+[M::main] CMD: minimap2 -x map-ont --secondary=no -L --MD -A 2 -B 4 -O 4,24 -E 2,1 -t 1 -a /data/djs217/vibrio/P0213_250813_11813/01_raw_reads/hybracter_out/processing/incomp_pre_polish/11813_EXE_22_2025_DG3A_PBC74148_barcode18.fasta.map-ont.mmi /data/djs217/vibrio/P0213_250813_11813/01_raw_reads/hybracter_out/processing/qc/11813_EXE_22_2025_DG3A_PBC74148_barcode18_filt_trim.fastq.gz
+[M::main] Real time: 89.837 sec; CPU: 84.260 sec; Peak RSS: 0.654 GB
+/data/djs217/miniconda3/lib/python3.12/site-packages/hybracter/workflow/conda/f3634b33ec8fb5711a0153c480705631_/lib/python3.11/site-packages/medaka/common.py:16: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+  from pkg_resources import resource_filename
+[04:40:45 - Predict] Processing region(s): contig_1:0-188867 contig_10:0-121222 contig_100:0-21217 contig_101:0-17704 contig_102:0-14754 contig_103:0-14709 contig_104:0-5730 contig_105:0-13879 contig_106:0-3152 contig_107:0-4449 contig_108:0-73517 contig_109:0-13854 contig_11:0-9422 contig_110:0-22518 contig_111:0-43458 contig_112:0-45766 contig_114:0-20714 contig_115:0-9771 contig_116:0-7518 contig_117:0-100326 contig_118:0-87959 contig_119:0-19134 contig_12:0-39971 contig_121:0-31471 contig_122:0-142218 contig_123:0-41511 contig_124:0-59366 contig_125:0-29494 contig_126:0-110913 contig_127:0-15934 contig_128:0-79241 contig_129:0-65595 contig_13:0-176334 contig_14:0-62859 contig_15:0-664 contig_17:0-147218 contig_18:0-74738 contig_19:0-12035 contig_20:0-71794 contig_21:0-520797 contig_22:0-8417 contig_23:0-17077 contig_24:0-32127 contig_25:0-9805 contig_26:0-2768 contig_28:0-10340 contig_29:0-6063 contig_3:0-183566 contig_30:0-4357 contig_31:0-8672 contig_32:0-19793 contig_33:0-105721 contig_34:0-22583 contig_35:0-249546 contig_36:0-5045 contig_37:0-70446 contig_38:0-224057 contig_39:0-4048 contig_4:0-252194 contig_40:0-152479 contig_41:0-1278 contig_43:0-5431 contig_44:0-9356 contig_45:0-13444 contig_46:0-134733 contig_47:0-70182 contig_48:0-9670 contig_49:0-5321 contig_5:0-35858 contig_50:0-3085 contig_51:0-7389 contig_55:0-87723 contig_56:0-17874 contig_57:0-15033 contig_58:0-1692 contig_59:0-152628 contig_6:0-232136 contig_61:0-15214 contig_62:0-13820 contig_63:0-6693 contig_64:0-5162 contig_67:0-77415 contig_7:0-121067 contig_70:0-2281 contig_71:0-3971 contig_72:0-2813 contig_73:0-40880 contig_74:0-17056 contig_76:0-1471 contig_77:0-6906 contig_78:0-10298 contig_79:0-211917 contig_8:0-82002 contig_80:0-144362 contig_81:0-61784 contig_82:0-25317 contig_83:0-34800 contig_84:0-3518 contig_85:0-54402 contig_87:0-4407 contig_89:0-2684 contig_9:0-17259 contig_90:0-38920 contig_91:0-46602 contig_92:0-7850 contig_93:0-37552 contig_94:0-22586 contig_95:0-14573 contig_96:0-10870 contig_97:0-14475 contig_98:0-23543 contig_99:0-117270
+[04:40:45 - Predict] Using model: /data/djs217/miniconda3/lib/python3.12/site-packages/hybracter/workflow/conda/f3634b33ec8fb5711a0153c480705631_/lib/python3.11/site-packages/medaka/data/r1041_e82_400bps_sup_v5.0.0_model_pt.tar.gz.
+[04:40:45 - Predict] Using minimum mapQ threshold of 1 for read filtering.
+[04:40:45 - MdlStrTGZ] Model GRUModel(
+  (gru): GRU(10, 128, num_layers=2, batch_first=True, bidirectional=True)
+  (linear): Linear(in_features=256, out_features=5, bias=True)
+)
+[04:40:45 - MdlStrTGZ] loading weights from /tmp/tmphtqfva1x/model/weights.pt
+[04:40:45 - MdlStrTGZ] Successfully removed temporary files from /tmp/tmphtqfva1x.
+[04:40:45 - Predict] Model device: cpu
+[04:40:45 - Predict] Running prediction at full precision
+[04:40:45 - BAMFile] Creating pool of 16 BAM file sets.
+[04:40:45 - Predict] Processing 78 long region(s) with batching.
+[04:40:45 - Sampler] Initializing sampler for consensus of region contig_1:0-188867.
+[04:40:45 - Sampler] Initializing sampler for consensus of region contig_10:0-121222.
+[04:40:45 - PWorker] Running inference for 5.9M draft bases.
+[04:40:46 - Feature] Processed contig_10:0.0-121221.0 (median depth 30.0)
+[04:40:46 - Sampler] Took 0.60s to make features.
+[04:40:46 - Sampler] Initializing sampler for consensus of region contig_100:0-21217.
+[04:40:46 - Feature] Processed contig_1:0.0-188866.0 (median depth 43.0)
+[04:40:46 - Sampler] Took 0.74s to make features.
+[04:40:46 - Sampler] Initializing sampler for consensus of region contig_101:0-17704.
+[04:40:46 - Feature] Processed contig_100:0.0-21216.0 (median depth 15.0)
+[04:40:46 - Sampler] Took 0.39s to make features.
+[04:40:46 - Sampler] Initializing sampler for consensus of region contig_102:0-14754.
+[04:40:46 - Feature] Processed contig_101:0.0-17703.0 (median depth 50.0)
+[04:40:46 - Sampler] Took 0.44s to make features.
+[04:40:46 - Sampler] Initializing sampler for consensus of region contig_103:0-14709.
+[04:40:46 - Feature] Processed contig_102:0.0-14753.0 (median depth 20.0)
+[04:40:46 - Sampler] Took 0.31s to make features.
+[04:40:46 - Sampler] Initializing sampler for consensus of region contig_105:0-13879.
+[04:40:46 - Feature] Processed contig_103:0.0-14708.0 (median depth 23.0)
+[04:40:46 - Sampler] Took 0.29s to make features.
+[04:40:46 - Sampler] Initializing sampler for consensus of region contig_108:0-73517.
+[04:40:46 - Feature] Pileup counts do not span requested region, requested contig_105:0-13879, received 61-13878.
+[04:40:47 - Feature] Processed contig_105:61.0-13878.0 (median depth 15.0)
+[04:40:47 - Sampler] Took 0.34s to make features.
+[04:40:47 - Sampler] Initializing sampler for consensus of region contig_109:0-13854.
+[04:40:47 - Feature] Processed contig_109:0.0-13853.0 (median depth 74.0)
+[04:40:47 - Sampler] Took 0.17s to make features.
+[04:40:47 - Sampler] Initializing sampler for consensus of region contig_110:0-22518.
+[04:40:47 - Feature] Processed contig_108:0.0-73516.0 (median depth 28.0)
+[04:40:47 - Sampler] Took 0.39s to make features.
+[04:40:47 - Sampler] Initializing sampler for consensus of region contig_111:0-43458.
+[04:40:47 - Feature] Processed contig_110:0.0-22517.0 (median depth 21.0)
+[04:40:47 - Sampler] Took 0.28s to make features.
+[04:40:47 - Sampler] Initializing sampler for consensus of region contig_112:0-45766.
+[04:40:47 - Feature] Processed contig_111:0.0-43457.0 (median depth 21.0)
+[04:40:47 - Sampler] Took 0.62s to make features.
+[04:40:47 - Sampler] Initializing sampler for consensus of region contig_114:0-20714.
+[04:40:48 - Feature] Processed contig_112:0.0-45765.0 (median depth 26.0)
+[04:40:48 - Sampler] Took 0.47s to make features.
+[04:40:48 - Sampler] Initializing sampler for consensus of region contig_117:0-100326.
+[04:40:48 - Feature] Processed contig_114:0.0-20713.0 (median depth 12.0)
+[04:40:48 - Sampler] Took 0.34s to make features.
+[04:40:48 - Sampler] Initializing sampler for consensus of region contig_118:0-87959.
+[04:40:48 - Feature] Processed contig_117:0.0-100325.0 (median depth 32.0)
+[04:40:48 - Sampler] Took 0.48s to make features.
+[04:40:48 - Sampler] Initializing sampler for consensus of region contig_119:0-19134.
+[04:40:48 - Feature] Processed contig_118:0.0-87958.0 (median depth 31.0)
+[04:40:48 - Sampler] Took 0.42s to make features.
+[04:40:48 - Sampler] Initializing sampler for consensus of region contig_12:0-39971.
+[04:40:48 - Feature] Processed contig_119:0.0-19133.0 (median depth 38.0)
+[04:40:48 - Sampler] Took 0.23s to make features.
+[04:40:48 - Sampler] Initializing sampler for consensus of region contig_121:0-31471.
+[04:40:48 - Feature] Processed contig_12:0.0-39970.0 (median depth 26.0)
+[04:40:48 - Sampler] Took 0.19s to make features.
+[04:40:48 - Sampler] Initializing sampler for consensus of region contig_122:0-142218.
+[04:40:49 - Feature] Processed contig_121:0.0-31470.0 (median depth 33.0)
+[04:40:49 - Sampler] Took 0.30s to make features.
+[04:40:49 - Sampler] Initializing sampler for consensus of region contig_123:0-41511.
+[04:40:49 - Feature] Processed contig_123:0.0-41510.0 (median depth 18.0)
+[04:40:49 - Sampler] Took 0.23s to make features.
+[04:40:49 - Sampler] Initializing sampler for consensus of region contig_124:0-59366.
+[04:40:49 - Feature] Processed contig_122:0.0-142217.0 (median depth 27.0)
+[04:40:49 - Sampler] Took 0.44s to make features.
+[04:40:49 - Sampler] Initializing sampler for consensus of region contig_125:0-29494.
+[04:40:49 - Feature] Processed contig_125:0.0-29493.0 (median depth 19.0)
+[04:40:49 - Sampler] Took 0.14s to make features.
+[04:40:49 - Sampler] Initializing sampler for consensus of region contig_126:0-110913.
+[04:40:49 - Feature] Processed contig_124:0.0-59365.0 (median depth 29.0)
+[04:40:49 - Sampler] Took 0.25s to make features.
+[04:40:49 - Sampler] Initializing sampler for consensus of region contig_127:0-15934.
+[04:40:49 - Feature] Processed contig_127:0.0-15933.0 (median depth 31.0)
+[04:40:49 - Sampler] Took 0.18s to make features.
+[04:40:49 - Sampler] Initializing sampler for consensus of region contig_128:0-79241.
+[04:40:49 - Feature] Processed contig_126:0.0-110912.0 (median depth 28.0)
+[04:40:49 - Sampler] Took 0.34s to make features.
+[04:40:49 - Sampler] Initializing sampler for consensus of region contig_129:0-65595.
+[04:40:50 - Feature] Processed contig_128:0.0-79240.0 (median depth 27.0)
+[04:40:50 - Sampler] Took 0.30s to make features.
+[04:40:50 - Sampler] Initializing sampler for consensus of region contig_13:0-176334.
+[04:40:50 - Feature] Processed contig_129:0.0-65594.0 (median depth 33.0)
+[04:40:50 - Sampler] Took 0.27s to make features.
+[04:40:50 - Sampler] Initializing sampler for consensus of region contig_14:0-62859.
+[04:40:50 - Feature] Pileup counts do not span requested region, requested contig_14:0-62859, received 1-62858.
+[04:40:50 - Feature] Processed contig_14:1.0-62858.0 (median depth 29.0)
+[04:40:50 - Sampler] Took 0.25s to make features.
+[04:40:50 - Sampler] Initializing sampler for consensus of region contig_17:0-147218.
+[04:40:50 - Feature] Processed contig_13:0.0-176333.0 (median depth 33.0)
+[04:40:50 - Sampler] Took 0.42s to make features.
+[04:40:50 - Sampler] Initializing sampler for consensus of region contig_18:0-74738.
+[04:40:50 - Feature] Processed contig_17:0.0-147217.0 (median depth 47.0)
+[04:40:50 - Sampler] Took 0.37s to make features.
+[04:40:50 - Sampler] Initializing sampler for consensus of region contig_19:0-12035.
+[04:40:50 - Feature] Processed contig_18:0.0-74737.0 (median depth 44.0)
+[04:40:50 - Sampler] Took 0.32s to make features.
+[04:40:50 - Sampler] Initializing sampler for consensus of region contig_20:0-71794.
+[04:40:50 - Feature] Processed contig_19:0.0-12034.0 (median depth 14.0)
+[04:40:50 - Sampler] Took 0.17s to make features.
+[04:40:50 - Sampler] Initializing sampler for consensus of region contig_21:0-520797.
+[04:40:51 - Feature] Processed contig_20:0.0-71793.0 (median depth 39.0)
+[04:40:51 - Sampler] Took 0.30s to make features.
+[04:40:51 - Sampler] Initializing sampler for consensus of region contig_23:0-17077.
+[04:40:51 - Feature] Processed contig_23:0.0-17076.0 (median depth 32.0)
+[04:40:51 - Sampler] Took 0.26s to make features.
+[04:40:51 - Sampler] Initializing sampler for consensus of region contig_24:0-32127.
+[04:40:51 - Feature] Processed contig_24:0.0-32126.0 (median depth 38.0)
+[04:40:51 - Sampler] Took 0.19s to make features.
+[04:40:51 - Sampler] Initializing sampler for consensus of region contig_28:0-10340.
+[04:40:51 - Feature] Processed contig_21:0.0-520796.0 (median depth 46.0)
+[04:40:51 - Sampler] Took 0.74s to make features.
+[04:40:51 - Sampler] Initializing sampler for consensus of region contig_3:0-183566.
+[04:40:51 - Feature] Processed contig_28:0.0-10339.0 (median depth 23.0)
+[04:40:51 - Sampler] Took 0.09s to make features.
+[04:40:51 - Sampler] Initializing sampler for consensus of region contig_32:0-19793.
+[04:40:51 - Feature] Processed contig_32:0.0-19792.0 (median depth 15.0)
+[04:40:51 - Sampler] Took 0.06s to make features.
+[04:40:51 - Sampler] Initializing sampler for consensus of region contig_33:0-105721.
+[04:40:52 - Feature] Processed contig_3:0.0-183565.0 (median depth 50.0)
+[04:40:52 - Sampler] Took 0.46s to make features.
+[04:40:52 - Sampler] Initializing sampler for consensus of region contig_34:0-22583.
+[04:40:52 - Feature] Processed contig_33:0.0-105720.0 (median depth 51.0)
+[04:40:52 - Sampler] Took 0.41s to make features.
+[04:40:52 - Sampler] Initializing sampler for consensus of region contig_35:0-249546.
+[04:40:52 - Feature] Pileup counts do not span requested region, requested contig_34:0-22583, received 0-21993.
+[04:40:52 - Feature] Processed contig_34:0.0-21993.0 (median depth 41.0)
+[04:40:52 - Sampler] Took 0.20s to make features.
+[04:40:52 - Sampler] Initializing sampler for consensus of region contig_37:0-70446.
+[04:40:52 - Feature] Processed contig_35:0.0-249545.0 (median depth 42.0)
+[04:40:52 - Sampler] Took 0.49s to make features.
+[04:40:52 - Sampler] Initializing sampler for consensus of region contig_38:0-224057.
+[04:40:52 - Feature] Processed contig_37:0.0-70445.0 (median depth 56.0)
+[04:40:52 - Sampler] Took 0.35s to make features.
+[04:40:52 - Sampler] Initializing sampler for consensus of region contig_4:0-252194.
+[04:40:53 - Feature] Processed contig_38:0.0-224056.0 (median depth 45.0)
+[04:40:53 - Sampler] Took 0.47s to make features.
+[04:40:53 - Sampler] Initializing sampler for consensus of region contig_40:0-152479.
+[04:40:53 - Feature] Processed contig_4:0.0-252193.0 (median depth 45.0)
+[04:40:53 - Sampler] Took 0.54s to make features.
+[04:40:53 - Sampler] Initializing sampler for consensus of region contig_45:0-13444.
+[04:40:53 - Feature] Processed contig_40:0.0-152478.0 (median depth 31.0)
+[04:40:53 - Sampler] Took 0.22s to make features.
+[04:40:53 - Sampler] Initializing sampler for consensus of region contig_46:0-134733.
+[04:40:53 - Feature] Processed contig_45:0.0-13443.0 (median depth 26.0)
+[04:40:53 - Sampler] Took 0.11s to make features.
+[04:40:53 - Sampler] Initializing sampler for consensus of region contig_47:0-70182.
+[04:40:53 - Feature] Processed contig_47:0.0-70181.0 (median depth 44.0)
+[04:40:53 - Sampler] Took 0.28s to make features.
+[04:40:53 - Sampler] Initializing sampler for consensus of region contig_5:0-35858.
+[04:40:53 - Feature] Processed contig_46:0.0-134732.0 (median depth 49.0)
+[04:40:53 - Sampler] Took 0.34s to make features.
+[04:40:53 - Sampler] Initializing sampler for consensus of region contig_55:0-87723.
+[04:40:53 - Feature] Processed contig_5:0.0-35857.0 (median depth 32.0)
+[04:40:53 - Sampler] Took 0.21s to make features.
+[04:40:53 - Sampler] Initializing sampler for consensus of region contig_56:0-17874.
+[04:40:53 - Feature] Processed contig_55:0.0-87722.0 (median depth 27.0)
+[04:40:53 - Sampler] Took 0.26s to make features.
+[04:40:53 - Sampler] Initializing sampler for consensus of region contig_57:0-15033.
+[04:40:54 - Feature] Processed contig_56:0.0-17873.0 (median depth 24.0)
+[04:40:54 - Sampler] Took 0.18s to make features.
+[04:40:54 - Sampler] Initializing sampler for consensus of region contig_59:0-152628.
+[04:40:54 - Feature] Processed contig_57:0.0-15032.0 (median depth 27.0)
+[04:40:54 - Sampler] Took 0.14s to make features.
+[04:40:54 - Sampler] Initializing sampler for consensus of region contig_6:0-232136.
+[04:40:54 - Feature] Processed contig_59:0.0-152627.0 (median depth 34.0)
+[04:40:54 - Sampler] Took 0.35s to make features.
+[04:40:54 - Sampler] Initializing sampler for consensus of region contig_61:0-15214.
+[04:40:54 - Feature] Processed contig_61:0.0-15213.0 (median depth 25.0)
+[04:40:54 - Sampler] Took 0.12s to make features.
+[04:40:54 - Sampler] Initializing sampler for consensus of region contig_62:0-13820.
+[04:40:54 - Feature] Processed contig_6:0.0-232135.0 (median depth 45.0)
+[04:40:54 - Sampler] Took 0.43s to make features.
+[04:40:54 - Sampler] Initializing sampler for consensus of region contig_67:0-77415.
+[04:40:54 - Feature] Processed contig_62:0.0-13819.0 (median depth 37.0)
+[04:40:54 - Sampler] Took 0.15s to make features.
+[04:40:54 - Sampler] Initializing sampler for consensus of region contig_7:0-121067.
+[04:40:54 - Feature] Processed contig_67:0.0-77414.0 (median depth 22.0)
+[04:40:54 - Sampler] Took 0.27s to make features.
+[04:40:54 - Sampler] Initializing sampler for consensus of region contig_73:0-40880.
+[04:40:54 - Feature] Pileup counts do not span requested region, requested contig_73:0-40880, received 0-35342.
+[04:40:54 - Feature] Processed contig_73:0.0-35342.0 (median depth 14.0)
+[04:40:55 - Feature] Pileup counts do not span requested region, requested contig_73:0-40880, received 38060-40876.
+[04:40:55 - Feature] Processed contig_7:0.0-121066.0 (median depth 59.0)
+[04:40:55 - Sampler] Took 0.39s to make features.
+[04:40:55 - Sampler] Initializing sampler for consensus of region contig_74:0-17056.
+[04:40:55 - Feature] Processed contig_73:38060.0-40876.0 (median depth 1.0)
+[04:40:55 - Sampler] Took 0.28s to make features.
+[04:40:55 - Sampler] Region contig_73:38060.0-40876.0 (2843 positions) is smaller than inference chunk length 10000, quarantining.
+[04:40:55 - Sampler] Initializing sampler for consensus of region contig_78:0-10298.
+[04:40:55 - Feature] Pileup counts do not span requested region, requested contig_78:0-10298, received 198-10297.
+[04:40:55 - Feature] Processed contig_74:0.0-17055.0 (median depth 24.0)
+[04:40:55 - Sampler] Took 0.14s to make features.
+[04:40:55 - Sampler] Initializing sampler for consensus of region contig_79:0-211917.
+[04:40:55 - Feature] Processed contig_78:198.0-10297.0 (median depth 1.0)
+[04:40:55 - Sampler] Took 0.18s to make features.
+[04:40:55 - Sampler] Initializing sampler for consensus of region contig_8:0-82002.
+[04:40:55 - Feature] Processed contig_8:0.0-82001.0 (median depth 33.0)
+[04:40:55 - Sampler] Took 0.33s to make features.
+[04:40:55 - Sampler] Initializing sampler for consensus of region contig_80:0-144362.
+[04:40:55 - Feature] Processed contig_79:0.0-211916.0 (median depth 56.0)
+[04:40:55 - Sampler] Took 0.48s to make features.
+[04:40:55 - Sampler] Initializing sampler for consensus of region contig_81:0-61784.
+[04:40:55 - Feature] Processed contig_80:0.0-144361.0 (median depth 29.0)
+[04:40:55 - Sampler] Took 0.31s to make features.
+[04:40:55 - Sampler] Initializing sampler for consensus of region contig_82:0-25317.
+[04:40:55 - Feature] Processed contig_81:0.0-61783.0 (median depth 32.0)
+[04:40:55 - Sampler] Took 0.24s to make features.
+[04:40:55 - Sampler] Initializing sampler for consensus of region contig_83:0-34800.
+[04:40:56 - Feature] Processed contig_82:0.0-25316.0 (median depth 28.0)
+[04:40:56 - Sampler] Took 0.21s to make features.
+[04:40:56 - Sampler] Initializing sampler for consensus of region contig_85:0-54402.
+[04:40:56 - Feature] Processed contig_83:0.0-34799.0 (median depth 49.0)
+[04:40:56 - Sampler] Took 0.23s to make features.
+[04:40:56 - Sampler] Initializing sampler for consensus of region contig_9:0-17259.
+[04:40:56 - Feature] Processed contig_9:0.0-17258.0 (median depth 25.0)
+[04:40:56 - Sampler] Took 0.23s to make features.
+[04:40:56 - Sampler] Initializing sampler for consensus of region contig_90:0-38920.
+[04:40:56 - Feature] Processed contig_85:0.0-54401.0 (median depth 27.0)
+[04:40:56 - Sampler] Took 0.29s to make features.
+[04:40:56 - Sampler] Initializing sampler for consensus of region contig_91:0-46602.
+[04:40:56 - Feature] Processed contig_91:0.0-46601.0 (median depth 25.0)
+[04:40:56 - Sampler] Took 0.23s to make features.
+[04:40:56 - Sampler] Initializing sampler for consensus of region contig_93:0-37552.
+[04:40:56 - Feature] Processed contig_90:0.0-38919.0 (median depth 26.0)
+[04:40:56 - Sampler] Took 0.27s to make features.
+[04:40:56 - Sampler] Initializing sampler for consensus of region contig_94:0-22586.
+[04:40:56 - Feature] Processed contig_94:0.0-22585.0 (median depth 29.0)
+[04:40:56 - Sampler] Took 0.20s to make features.
+[04:40:56 - Sampler] Initializing sampler for consensus of region contig_95:0-14573.
+[04:40:56 - Feature] Processed contig_93:0.0-37551.0 (median depth 23.0)
+[04:40:56 - Sampler] Took 0.23s to make features.
+[04:40:56 - Sampler] Initializing sampler for consensus of region contig_96:0-10870.
+[04:40:56 - Feature] Processed contig_95:0.0-14572.0 (median depth 13.0)
+[04:40:56 - Sampler] Took 0.07s to make features.
+[04:40:56 - Sampler] Initializing sampler for consensus of region contig_97:0-14475.
+[04:40:57 - Feature] Processed contig_96:0.0-10869.0 (median depth 36.0)
+[04:40:57 - Sampler] Took 0.19s to make features.
+[04:40:57 - Sampler] Initializing sampler for consensus of region contig_98:0-23543.
+[04:40:57 - Feature] Processed contig_97:0.0-14474.0 (median depth 30.0)
+[04:40:57 - Sampler] Took 0.15s to make features.
+[04:40:57 - Sampler] Initializing sampler for consensus of region contig_99:0-117270.
+[04:40:57 - Feature] Processed contig_98:0.0-23542.0 (median depth 23.0)
+[04:40:57 - Sampler] Took 0.20s to make features.
+[04:40:57 - Feature] Processed contig_99:0.0-117269.0 (median depth 37.0)
+[04:40:57 - Sampler] Took 0.34s to make features.
+[04:41:03 - PWorker] Batches in cache: 8.
+[04:41:03 - PWorker] 12.9% Done (0.8/5.9 Mbases) in 18.3s
+[04:41:16 - PWorker] Batches in cache: 8.
+[04:41:16 - PWorker] 26.0% Done (1.5/5.9 Mbases) in 30.5s
+[04:41:28 - PWorker] Batches in cache: 7.
+[04:41:28 - PWorker] 38.5% Done (2.3/5.9 Mbases) in 42.8s
+[04:41:40 - PWorker] Batches in cache: 6.
+[04:41:40 - PWorker] 50.5% Done (3.0/5.9 Mbases) in 55.2s
+[04:41:52 - PWorker] Batches in cache: 5.
+[04:41:52 - PWorker] 62.6% Done (3.7/5.9 Mbases) in 67.4s
+[04:42:05 - PWorker] Batches in cache: 4.
+[04:42:05 - PWorker] 75.1% Done (4.4/5.9 Mbases) in 79.5s
+[04:42:17 - PWorker] Batches in cache: 3.
+[04:42:17 - PWorker] 87.6% Done (5.1/5.9 Mbases) in 91.6s
+[04:42:29 - PWorker] Batches in cache: 2.
+[04:42:29 - PWorker] 100.0% Done (5.9/5.9 Mbases) in 103.8s
+[04:42:33 - PWorker] Processed 9 batches
+[04:42:33 - PWorker] All done, 1 remainder regions.
+[04:42:33 - Predict] Processing 35 short region(s).
+[04:42:33 - Sampler] Initializing sampler for consensus of region contig_104:0-5730.
+[04:42:33 - Sampler] Initializing sampler for consensus of region contig_106:0-3152.
+[04:42:33 - PWorker] Running inference for 0.2M draft bases.
+[04:42:33 - Feature] Processed contig_104:0.0-5729.0 (median depth 10.0)
+[04:42:33 - Sampler] Took 0.06s to make features.
+[04:42:33 - Sampler] Initializing sampler for consensus of region contig_107:0-4449.
+[04:42:33 - Feature] Processed contig_106:0.0-3151.0 (median depth 16.0)
+[04:42:33 - Sampler] Took 0.09s to make features.
+[04:42:33 - Sampler] Initializing sampler for consensus of region contig_11:0-9422.
+[04:42:33 - Feature] Processed contig_11:0.0-9421.0 (median depth 44.0)
+[04:42:33 - Sampler] Took 0.12s to make features.
+[04:42:33 - Sampler] Initializing sampler for consensus of region contig_115:0-9771.
+[04:42:33 - Feature] Processed contig_107:0.0-4448.0 (median depth 18.0)
+[04:42:33 - Sampler] Took 0.16s to make features.
+[04:42:33 - Sampler] Initializing sampler for consensus of region contig_116:0-7518.
+[04:42:33 - Feature] Processed contig_115:0.0-9770.0 (median depth 16.0)
+[04:42:33 - Sampler] Took 0.12s to make features.
+[04:42:33 - Sampler] Initializing sampler for consensus of region contig_15:0-664.
+[04:42:33 - Sampler] Took 0.03s to make features.
+[04:42:33 - Sampler] Initializing sampler for consensus of region contig_22:0-8417.
+[04:42:33 - Feature] Processed contig_22:0.0-8416.0 (median depth 20.0)
+[04:42:33 - Sampler] Took 0.12s to make features.
+[04:42:33 - Sampler] Initializing sampler for consensus of region contig_25:0-9805.
+[04:42:33 - Feature] Processed contig_116:0.0-7517.0 (median depth 24.0)
+[04:42:33 - Sampler] Took 0.30s to make features.
+[04:42:33 - Sampler] Initializing sampler for consensus of region contig_26:0-2768.
+[04:42:33 - Sampler] Took 0.02s to make features.
+[04:42:33 - Sampler] Initializing sampler for consensus of region contig_29:0-6063.
+[04:42:33 - Feature] Processed contig_25:0.0-9804.0 (median depth 14.0)
+[04:42:33 - Sampler] Took 0.05s to make features.
+[04:42:33 - Sampler] Initializing sampler for consensus of region contig_30:0-4357.
+[04:42:33 - Feature] Processed contig_30:0.0-4356.0 (median depth 16.0)
+[04:42:33 - Sampler] Took 0.08s to make features.
+[04:42:33 - Sampler] Initializing sampler for consensus of region contig_31:0-8672.
+[04:42:33 - Feature] Processed contig_31:0.0-8671.0 (median depth 12.0)
+[04:42:33 - Sampler] Took 0.09s to make features.
+[04:42:33 - Feature] Processed contig_29:0.0-6062.0 (median depth 11.0)
+[04:42:33 - Sampler] Took 0.17s to make features.
+[04:42:33 - Sampler] Initializing sampler for consensus of region contig_36:0-5045.
+[04:42:33 - Sampler] Initializing sampler for consensus of region contig_39:0-4048.
+[04:42:33 - Feature] Processed contig_39:0.0-4047.0 (median depth 11.0)
+[04:42:33 - Sampler] Took 0.01s to make features.
+[04:42:33 - Sampler] Initializing sampler for consensus of region contig_41:0-1278.
+[04:42:33 - Sampler] Took 0.00s to make features.
+[04:42:33 - Sampler] Initializing sampler for consensus of region contig_43:0-5431.
+[04:42:34 - Feature] Processed contig_36:0.0-5044.0 (median depth 38.0)
+[04:42:34 - Sampler] Took 0.02s to make features.
+[04:42:34 - Sampler] Initializing sampler for consensus of region contig_44:0-9356.
+[04:42:34 - Feature] Processed contig_43:0.0-5430.0 (median depth 12.0)
+[04:42:34 - Sampler] Took 0.01s to make features.
+[04:42:34 - Sampler] Initializing sampler for consensus of region contig_48:0-9670.
+[04:42:34 - Feature] Processed contig_44:0.0-9355.0 (median depth 12.0)
+[04:42:34 - Sampler] Took 0.01s to make features.
+[04:42:34 - Sampler] Initializing sampler for consensus of region contig_49:0-5321.
+[04:42:34 - Feature] Processed contig_49:0.0-5320.0 (median depth 11.0)
+[04:42:34 - Sampler] Took 0.01s to make features.
+[04:42:34 - Sampler] Initializing sampler for consensus of region contig_50:0-3085.
+[04:42:34 - Feature] Processed contig_50:0.0-3084.0 (median depth 15.0)
+[04:42:34 - Sampler] Took 0.01s to make features.
+[04:42:34 - Sampler] Initializing sampler for consensus of region contig_51:0-7389.
+[04:42:34 - Feature] Processed contig_48:0.0-9669.0 (median depth 42.0)
+[04:42:34 - Sampler] Took 0.03s to make features.
+[04:42:34 - Sampler] Initializing sampler for consensus of region contig_58:0-1692.
+[04:42:34 - Feature] Processed contig_58:0.0-1691.0 (median depth 15.0)
+[04:42:34 - Sampler] Took 0.01s to make features.
+[04:42:34 - Sampler] Initializing sampler for consensus of region contig_63:0-6693.
+[04:42:34 - Feature] Processed contig_51:0.0-7388.0 (median depth 34.0)
+[04:42:34 - Sampler] Took 0.01s to make features.
+[04:42:34 - Feature] Processed contig_63:0.0-6692.0 (median depth 8.0)
+[04:42:34 - Sampler] Took 0.01s to make features.
+[04:42:34 - Sampler] Initializing sampler for consensus of region contig_64:0-5162.
+[04:42:34 - Feature] Processed contig_64:0.0-5161.0 (median depth 18.0)
+[04:42:34 - Sampler] Took 0.01s to make features.
+[04:42:35 - Sampler] Initializing sampler for consensus of region contig_70:0-2281.
+[04:42:35 - Feature] Processed contig_70:0.0-2280.0 (median depth 15.0)
+[04:42:35 - Sampler] Took 0.01s to make features.
+[04:42:35 - Sampler] Initializing sampler for consensus of region contig_71:0-3971.
+[04:42:35 - Feature] Processed contig_71:0.0-3970.0 (median depth 14.0)
+[04:42:35 - Sampler] Took 0.01s to make features.
+[04:42:36 - Sampler] Initializing sampler for consensus of region contig_72:0-2813.
+[04:42:36 - Feature] Processed contig_72:0.0-2812.0 (median depth 12.0)
+[04:42:36 - Sampler] Took 0.01s to make features.
+[04:42:37 - Sampler] Initializing sampler for consensus of region contig_76:0-1471.
+[04:42:37 - Sampler] Took 0.00s to make features.
+[04:42:37 - Sampler] Initializing sampler for consensus of region contig_77:0-6906.
+[04:42:37 - Feature] Processed contig_77:0.0-6905.0 (median depth 21.0)
+[04:42:37 - Sampler] Took 0.02s to make features.
+[04:42:38 - Sampler] Initializing sampler for consensus of region contig_84:0-3518.
+[04:42:38 - Feature] Processed contig_84:0.0-3517.0 (median depth 15.0)
+[04:42:38 - Sampler] Took 0.01s to make features.
+[04:42:39 - PWorker] Batches in cache: 8.
+[04:42:39 - Sampler] Initializing sampler for consensus of region contig_87:0-4407.
+[04:42:39 - Feature] Processed contig_87:0.0-4406.0 (median depth 13.0)
+[04:42:39 - Sampler] Took 0.01s to make features.
+[04:42:39 - Sampler] Initializing sampler for consensus of region contig_89:0-2684.
+[04:42:39 - Feature] Pileup counts do not span requested region, requested contig_89:0-2684, received 1773-2683.
+[04:42:39 - Feature] Processed contig_89:1773.0-2683.0 (median depth 1.0)
+[04:42:39 - Sampler] Took 0.00s to make features.
+[04:42:40 - Sampler] Initializing sampler for consensus of region contig_92:0-7850.
+[04:42:40 - Feature] Processed contig_92:0.0-7849.0 (median depth 22.0)
+[04:42:40 - Sampler] Took 0.02s to make features.
+[04:42:40 - Sampler] Initializing sampler for consensus of region contig_73:38060-40877.
+[04:42:40 - Feature] Processed contig_73:38060.0-40876.0 (median depth 1.0)
+[04:42:40 - Sampler] Took 0.01s to make features.
+[04:42:43 - PWorker] 49.9% Done (0.1/0.2 Mbases) in 10.2s
+[04:42:44 - PWorker] Batches in cache: 8.
+[04:42:49 - PWorker] Batches in cache: 2.
+[04:42:50 - PWorker] Processed 31 batches
+[04:42:50 - PWorker] All done, 0 remainder regions.
+[04:42:50 - Predict] Finished processing all regions.
+/data/djs217/miniconda3/lib/python3.12/site-packages/hybracter/workflow/conda/f3634b33ec8fb5711a0153c480705631_/lib/python3.11/site-packages/medaka/common.py:16: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+  from pkg_resources import resource_filename
+[04:42:53 - DataIndx] Loaded 1/1 (100.00%) sample files.
+[04:42:53 - Stitcher] Stitching contig_31:0-8672
+[04:42:53 - Stitcher] Stitching contig_4:0-252194
+[04:42:53 - Stitcher] Stitching contig_107:0-4449
+[04:42:53 - Stitcher] Stitching contig_13:0-176334
+[04:42:53 - Stitcher] Stitching contig_92:0-7850
+[04:42:53 - Stitcher] Stitching contig_89:0-2684
+[04:42:53 - Stitcher] Stitching contig_114:0-20714
+[04:42:53 - Stitcher] Stitching contig_128:0-79241
+[04:42:53 - Stitcher] Stitching contig_85:0-54402
+[04:42:53 - Stitcher] Stitching contig_118:0-87959
+[04:42:53 - Stitcher] Stitching contig_64:0-5162
+[04:42:53 - Stitcher] Stitching contig_123:0-41511
+[04:42:53 - Stitcher] Stitching contig_39:0-4048
+[04:42:53 - Stitcher] Stitching contig_96:0-10870
+[04:42:53 - Stitcher] Stitching contig_127:0-15934
+[04:42:53 - Stitcher] Stitching contig_93:0-37552
+[04:42:53 - Stitcher] Stitching contig_74:0-17056
+[04:42:53 - Stitcher] Stitching contig_58:0-1692
+[04:42:53 - Stitcher] Stitching contig_17:0-147218
+[04:42:53 - Stitcher] Stitching contig_91:0-46602
+[04:42:53 - Stitcher] Stitching contig_19:0-12035
+[04:42:53 - Stitcher] Stitching contig_3:0-183566
+[04:42:53 - Stitcher] Stitching contig_105:0-13879
+[04:42:53 - Stitcher] Stitching contig_121:0-31471
+[04:42:53 - Stitcher] Stitching contig_67:0-77415
+[04:42:53 - Stitcher] Stitching contig_14:0-62859
+[04:42:53 - Stitcher] Stitching contig_30:0-4357
+[04:42:53 - Stitcher] Stitching contig_84:0-3518
+[04:42:53 - Stitcher] Stitching contig_10:0-121222
+[04:42:53 - Stitcher] Stitching contig_106:0-3152
+[04:42:53 - Stitcher] Stitching contig_11:0-9422
+[04:42:53 - Stitcher] Stitching contig_98:0-23543
+[04:42:54 - Stitcher] Stitching contig_57:0-15033
+[04:42:54 - Stitcher] Stitching contig_36:0-5045
+[04:42:54 - Stitcher] Stitching contig_119:0-19134
+[04:42:54 - Stitcher] Stitching contig_8:0-82002
+[04:42:54 - Stitcher] Stitching contig_20:0-71794
+[04:42:54 - Stitcher] Stitching contig_117:0-100326
+[04:42:54 - Stitcher] Stitching contig_34:0-22583
+[04:42:54 - Stitcher] Stitching contig_70:0-2281
+[04:42:54 - Stitcher] Stitching contig_55:0-87723
+[04:42:54 - Stitcher] Stitching contig_97:0-14475
+[04:42:54 - Stitcher] Stitching contig_81:0-61784
+[04:42:54 - Stitcher] Stitching contig_61:0-15214
+[04:42:54 - Stitcher] Stitching contig_90:0-38920
+[04:42:54 - Stitcher] Stitching contig_79:0-211917
+[04:42:54 - Stitcher] Stitching contig_43:0-5431
+[04:42:54 - Stitcher] Stitching contig_1:0-188867
+[04:42:54 - Stitcher] Stitching contig_38:0-224057
+[04:42:54 - Stitcher] Stitching contig_78:0-10298
+[04:42:54 - Stitcher] Stitching contig_46:0-134733
+[04:42:54 - Stitcher] Stitching contig_77:0-6906
+[04:42:54 - Stitcher] Stitching contig_44:0-9356
+[04:42:54 - Stitcher] Stitching contig_21:0-520797
+[04:42:54 - Stitcher] Stitching contig_125:0-29494
+[04:42:54 - Stitcher] Stitching contig_59:0-152628
+[04:42:54 - Stitcher] Stitching contig_126:0-110913
+[04:42:54 - Stitcher] Stitching contig_87:0-4407
+[04:42:54 - Stitcher] Stitching contig_35:0-249546
+[04:42:54 - Stitcher] Stitching contig_9:0-17259
+[04:42:54 - Stitcher] Stitching contig_122:0-142218
+[04:42:54 - Stitcher] Stitching contig_82:0-25317
+[04:42:54 - Stitcher] Stitching contig_100:0-21217
+[04:42:54 - Stitcher] Stitching contig_95:0-14573
+[04:42:54 - Stitcher] Stitching contig_50:0-3085
+[04:42:54 - Stitcher] Stitching contig_80:0-144362
+[04:42:55 - Stitcher] Stitching contig_28:0-10340
+[04:42:55 - Stitcher] Stitching contig_73:0-40880
+[04:42:55 - TrimOlap] contig_73:26011.0-35342.0 and contig_73:38060.0-40876.0 cannot be concatenated as there is no overlap and they do not abut.
+[04:42:55 - Stitcher] Stitching contig_33:0-105721
+[04:42:55 - Stitcher] Stitching contig_116:0-7518
+[04:42:55 - Stitcher] Stitching contig_49:0-5321
+[04:42:55 - Stitcher] Stitching contig_110:0-22518
+[04:42:55 - Stitcher] Stitching contig_71:0-3971
+[04:42:55 - Stitcher] Stitching contig_72:0-2813
+[04:42:55 - Stitcher] Stitching contig_12:0-39971
+[04:42:55 - Stitcher] Stitching contig_56:0-17874
+[04:42:55 - Stitcher] Stitching contig_51:0-7389
+[04:42:55 - Stitcher] Stitching contig_23:0-17077
+[04:42:55 - Stitcher] Stitching contig_102:0-14754
+[04:42:55 - Stitcher] Stitching contig_109:0-13854
+[04:42:55 - Stitcher] Stitching contig_124:0-59366
+[04:42:55 - Stitcher] Stitching contig_99:0-117270
+[04:42:55 - Stitcher] Stitching contig_5:0-35858
+[04:42:55 - Stitcher] Stitching contig_22:0-8417
+[04:42:55 - Stitcher] Stitching contig_25:0-9805
+[04:42:55 - Stitcher] Stitching contig_108:0-73517
+[04:42:55 - Stitcher] Stitching contig_32:0-19793
+[04:42:55 - Stitcher] Stitching contig_40:0-152479
+[04:42:55 - Stitcher] Stitching contig_62:0-13820
+[04:42:55 - Stitcher] Stitching contig_104:0-5730
+[04:42:55 - Stitcher] Stitching contig_18:0-74738
+[04:42:55 - Stitcher] Stitching contig_29:0-6063
+[04:42:55 - Stitcher] Stitching contig_48:0-9670
+[04:42:55 - Stitcher] Stitching contig_103:0-14709
+[04:42:55 - Stitcher] Stitching contig_83:0-34800
+[04:42:55 - Stitcher] Stitching contig_111:0-43458
+[04:42:55 - Stitcher] Stitching contig_115:0-9771
+[04:42:55 - Stitcher] Stitching contig_7:0-121067
+[04:42:55 - Stitcher] Stitching contig_101:0-17704
+[04:42:55 - Stitcher] Stitching contig_94:0-22586
+[04:42:55 - Stitcher] Stitching contig_112:0-45766
+[04:42:55 - Stitcher] Stitching contig_24:0-32127
+[04:42:55 - Stitcher] Stitching contig_47:0-70182
+[04:42:55 - Stitcher] Stitching contig_6:0-232136
+[04:42:55 - Stitcher] Stitching contig_129:0-65595
+[04:42:55 - Stitcher] Stitching contig_63:0-6693
+[04:42:55 - Stitcher] Stitching contig_45:0-13444
+[04:42:55 - Stitcher] Stitching contig_37:0-70446
+[04:42:55 - Stitcher] Copying contig 'contig_15' verbatim from input.
+[04:42:55 - Stitcher] Copying contig 'contig_26' verbatim from input.
+[04:42:55 - Stitcher] Copying contig 'contig_76' verbatim from input.
+[04:42:55 - Stitcher] Copying contig 'contig_41' verbatim from input.

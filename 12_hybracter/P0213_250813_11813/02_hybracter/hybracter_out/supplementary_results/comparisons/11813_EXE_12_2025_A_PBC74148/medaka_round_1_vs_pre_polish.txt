@@ -1,0 +1,5 @@
+  1 difference
+    pre_polish:contig_1 2963019-2963049: GGCTTCTCTGAGTATCTCTCGATACCCCCTC
+medaka_round_1:contig_1 2963019-2963048: GGCTTCTCTGAGTAT-TCTCGATACCCCCTC
+                                                       *               
+

@@ -1,0 +1,34 @@
+2025-10-17 02:12:16.206 | INFO     | dnaapler.utils.validation:instantiate_dirs:24 - Checking the output directory hybracter_out/processing/complete/dnaapler/11813_EXE_01_2024_7_PBC74148_pre_chrom
+2025-10-17 02:12:16.216 | INFO     | dnaapler.utils.util:begin_dnaapler:74 - You are using dnaapler version 1.3.0
+2025-10-17 02:12:16.217 | INFO     | dnaapler.utils.util:begin_dnaapler:75 - Repository homepage is https://github.com/gbouras13/dnaapler
+2025-10-17 02:12:16.217 | INFO     | dnaapler.utils.util:begin_dnaapler:76 - Written by George Bouras: george.bouras@adelaide.edu.au
+2025-10-17 02:12:16.217 | INFO     | dnaapler.utils.util:begin_dnaapler:77 - Your input file is hybracter_out/processing/pre_polish/11813_EXE_01_2024_7_PBC74148_chromosome.fasta
+2025-10-17 02:12:16.217 | INFO     | dnaapler.utils.util:begin_dnaapler:78 - Your output directory  is hybracter_out/processing/complete/dnaapler/11813_EXE_01_2024_7_PBC74148_pre_chrom
+2025-10-17 02:12:16.217 | INFO     | dnaapler.utils.util:begin_dnaapler:79 - You have specified 1 threads to use with MMseqs2
+2025-10-17 02:12:16.217 | INFO     | dnaapler.utils.util:begin_dnaapler:80 - You have specified all gene(s) to reorient your sequence
+2025-10-17 02:12:16.217 | INFO     | dnaapler.utils.util:check_mmseqs2_version:122 - Checking MMseqs2 installation.
+2025-10-17 02:12:16.227 | INFO     | dnaapler.utils.util:check_mmseqs2_version:142 - MMseqs2 version found is 18.8cc5c
+2025-10-17 02:12:16.228 | INFO     | dnaapler.utils.util:check_mmseqs2_version:156 - MMseqs2 version is ok.
+2025-10-17 02:12:16.228 | INFO     | dnaapler.utils.util:check_pyrodigal_version:95 - Checking pyrodigal installation.
+2025-10-17 02:12:16.228 | INFO     | dnaapler.utils.util:check_pyrodigal_version:106 - Pyrodigal version is v3.6.3
+2025-10-17 02:12:16.228 | INFO     | dnaapler.utils.util:check_pyrodigal_version:107 - Pyrodigal version is ok.
+2025-10-17 02:12:16.228 | INFO     | dnaapler.utils.util:begin_dnaapler:85 - Parameter: --input hybracter_out/processing/pre_polish/11813_EXE_01_2024_7_PBC74148_chromosome.fasta
+2025-10-17 02:12:16.228 | INFO     | dnaapler.utils.util:begin_dnaapler:85 - Parameter: --output hybracter_out/processing/complete/dnaapler/11813_EXE_01_2024_7_PBC74148_pre_chrom
+2025-10-17 02:12:16.228 | INFO     | dnaapler.utils.util:begin_dnaapler:85 - Parameter: --threads 1
+2025-10-17 02:12:16.228 | INFO     | dnaapler.utils.util:begin_dnaapler:85 - Parameter: --force True
+2025-10-17 02:12:16.228 | INFO     | dnaapler.utils.util:begin_dnaapler:85 - Parameter: --prefix 11813_EXE_01_2024_7_PBC74148
+2025-10-17 02:12:16.228 | INFO     | dnaapler.utils.util:begin_dnaapler:85 - Parameter: --evalue 1e-10
+2025-10-17 02:12:16.228 | INFO     | dnaapler.utils.util:begin_dnaapler:85 - Parameter: --autocomplete nearest
+2025-10-17 02:12:16.228 | INFO     | dnaapler.utils.util:begin_dnaapler:85 - Parameter: --seed_value 13
+2025-10-17 02:12:16.228 | INFO     | dnaapler.utils.util:begin_dnaapler:85 - Parameter: --ignore hybracter_out/processing/pre_polish/11813_EXE_01_2024_7_PBC74148_ignore_list.txt
+2025-10-17 02:12:16.228 | INFO     | dnaapler.utils.util:begin_dnaapler:85 - Parameter: --custom_db 
+2025-10-17 02:12:16.228 | INFO     | dnaapler.utils.util:begin_dnaapler:85 - Parameter: --db dnaa,cog1474,repa
+2025-10-17 02:12:16.228 | INFO     | dnaapler.utils.validation:validate_input_all:112 - Checking that the input file hybracter_out/processing/pre_polish/11813_EXE_01_2024_7_PBC74148_chromosome.fasta is in FASTA or GFA format and has at least 1 entry.
+2025-10-17 02:12:16.256 | INFO     | dnaapler.utils.validation:check_file_format:61 - hybracter_out/processing/pre_polish/11813_EXE_01_2024_7_PBC74148_chromosome.fasta is in FASTA format.
+2025-10-17 02:12:16.287 | INFO     | dnaapler.utils.validation:validate_input_all:117 - hybracter_out/processing/pre_polish/11813_EXE_01_2024_7_PBC74148_chromosome.fasta has only one entry.
+2025-10-17 02:12:16.317 | INFO     | dnaapler.utils.validation:check_evalue:184 - You have specified an evalue of 1e-10.
+2025-10-17 02:12:16.317 | INFO     | dnaapler:all:967 - No contigs specified to ignore.
+2025-10-17 02:12:16.375 | INFO     | dnaapler.utils.external_tools:run:52 - Started running mmseqs easy-search hybracter_out/processing/complete/dnaapler/11813_EXE_01_2024_7_PBC74148_pre_chrom/rotated_input.fasta /data/djs217/miniconda3/lib/python3.12/site-packages/hybracter/workflow/conda/8976c4285be5734311dfbcebf557f5fd_/lib/python3.13/site-packages/dnaapler/db/all_db hybracter_out/processing/complete/dnaapler/11813_EXE_01_2024_7_PBC74148_pre_chrom/11813_EXE_01_2024_7_PBC74148_MMseqs2_output.txt hybracter_out/processing/complete/dnaapler/11813_EXE_01_2024_7_PBC74148_pre_chrom/tmp_MMseqs2_output --search-type 2 --threads 1 -e 1e-10 --format-output query,qlen,target,tlen,alnlen,qstart,qend,tstart,tend,fident,nident,gapopen,mismatch,evalue,bits,qaln,taln ...
+2025-10-17 02:13:22.936 | INFO     | dnaapler.utils.external_tools:run:54 - Done running mmseqs easy-search hybracter_out/processing/complete/dnaapler/11813_EXE_01_2024_7_PBC74148_pre_chrom/rotated_input.fasta /data/djs217/miniconda3/lib/python3.12/site-packages/hybracter/workflow/conda/8976c4285be5734311dfbcebf557f5fd_/lib/python3.13/site-packages/dnaapler/db/all_db hybracter_out/processing/complete/dnaapler/11813_EXE_01_2024_7_PBC74148_pre_chrom/11813_EXE_01_2024_7_PBC74148_MMseqs2_output.txt hybracter_out/processing/complete/dnaapler/11813_EXE_01_2024_7_PBC74148_pre_chrom/tmp_MMseqs2_output --search-type 2 --threads 1 -e 1e-10 --format-output query,qlen,target,tlen,alnlen,qstart,qend,tstart,tend,fident,nident,gapopen,mismatch,evalue,bits,qaln,taln
+2025-10-17 02:13:23.021 | INFO     | dnaapler.utils.util:end_dnaapler:173 - dnaapler has finished
+2025-10-17 02:13:23.021 | INFO     | dnaapler.utils.util:end_dnaapler:174 - Elapsed time: 66.81 seconds
