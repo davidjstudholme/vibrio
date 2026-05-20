@@ -1,0 +1,1 @@
+Command line: mash dist hybracter_out/processing/plassembler/EXE_08_2024_A/plasmids.fasta.msh /data/djs217/miniconda3/envs/hybracter_env/lib/python3.11/site-packages/hybracter/workflow/../databases/plsdb_2023_11_03_v2.msh -v 0.1 -d 0.1 -i

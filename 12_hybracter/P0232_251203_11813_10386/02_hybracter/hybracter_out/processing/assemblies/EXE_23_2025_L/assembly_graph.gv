@@ -1,0 +1,12 @@
+digraph {
+nodesep = 0.5;
+node [shape = circle, label = "", height = 0.3];
+"0" -> "0" [label = "id 1\l2934k 36x", color = "black"] ;
+"1" -> "1" [label = "id -1\l2934k 36x", color = "black"] ;
+"2" -> "2" [label = "id 2\l5k 310x", color = "darkorchid" , penwidth = 3] ;
+"3" -> "3" [label = "id -2\l5k 310x", color = "darkorchid" , penwidth = 3] ;
+"4" -> "4" [label = "id 3\l1324k 34x", color = "black"] ;
+"5" -> "5" [label = "id -3\l1324k 34x", color = "black"] ;
+"6" -> "6" [label = "id 4\l41k 122x", color = "red" , penwidth = 3] ;
+"7" -> "7" [label = "id -4\l41k 122x", color = "red" , penwidth = 3] ;
+}

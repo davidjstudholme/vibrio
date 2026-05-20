@@ -1,0 +1,38 @@
+[2026:03:25 20:40:45] Copying system default config to hybracter_install_intermediate_files/config.yaml
+[2026:03:25 20:40:45] Updating config file with new values
+[2026:03:25 20:40:45] Writing config file to hybracter_install_intermediate_files/config.yaml
+[2026:03:25 20:40:45] ------------------
+[2026:03:25 20:40:45] | Runtime config |
+[2026:03:25 20:40:45] ------------------
+
+args:
+  databases: null
+  log: hybracter_install_intermediate_files/hybracter.log
+  mac: false
+  medaka: false
+  output: hybracter_install_intermediate_files
+qc:
+  compression: 5
+  hostRemoveFlagstat: -f 4 -F 3584
+  minimapIndex: -I 8G
+  minimapModel: map-ont
+resources:
+  big:
+    cpu: 16
+    mem: 32000
+    time: '23:59:00'
+  med:
+    cpu: 8
+    mem: 16000
+    time: 08:00:00
+  sml:
+    cpu: 1
+    mem: 4000
+    time: 00:00:05
+
+[2026:03:25 20:40:45] ---------------------
+[2026:03:25 20:40:45] | Snakemake command |
+[2026:03:25 20:40:45] ---------------------
+
+snakemake -s /data/djs217/miniconda3/envs/hybracter_env/lib/python3.11/site-packages/hybracter/workflow/install.smk --configfile hybracter_install_intermediate_files/config.yaml --jobs 1 --use-conda --rerun-incomplete --printshellcmds --nolock --show-failed-logs --conda-frontend conda
+[2026:03:25 20:44:05] Snakemake finished successfully

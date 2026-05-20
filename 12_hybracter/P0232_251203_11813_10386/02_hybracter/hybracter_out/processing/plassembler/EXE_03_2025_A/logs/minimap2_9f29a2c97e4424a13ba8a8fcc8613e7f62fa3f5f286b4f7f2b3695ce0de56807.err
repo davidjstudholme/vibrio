@@ -1,0 +1,11 @@
+[M::mm_idx_gen::0.210*1.01] collected minimizers
+[M::mm_idx_gen::0.398*1.00] sorted minimizers
+[M::main::0.398*1.00] loaded/built the index for 3 target sequence(s)
+[M::mm_mapopt_update::0.423*1.00] mid_occ = 19
+[M::mm_idx_stat] kmer size: 15; skip: 10; is_hpc: 0; #seq: 3
+[M::mm_idx_stat::0.441*1.00] distinct minimizers: 1091006 (98.24% are singletons); average occurrences: 1.045; average spacing: 5.346; total length: 6097470
+[M::worker_pipeline::94.373*1.00] mapped 14685 sequences
+[M::main] Version: 2.30-r1287
+[M::main] CMD: minimap2 -ax map-ont -t 1 hybracter_out/processing/plassembler/EXE_03_2025_A/flye_renamed.fasta hybracter_out/processing/plassembler/EXE_03_2025_A/chopper_long_reads.fastq.gz
+[M::main] Real time: 94.424 sec; CPU: 94.361 sec; Peak RSS: 0.696 GB
+Command line: minimap2 -ax map-ont -t 1 hybracter_out/processing/plassembler/EXE_03_2025_A/flye_renamed.fasta hybracter_out/processing/plassembler/EXE_03_2025_A/chopper_long_reads.fastq.gz

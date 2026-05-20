@@ -1,0 +1,29 @@
+  7 differences
+      pre_polish:contig_1 344311-344341: CACCAAATCAGGGCCGATCCCCGCAGGTTCC
+  medaka_round_1:contig_1 344311-344341: CACCAAATCAGGGCCAATCCCCGCAGGTTCC
+                                                       *               
+
+      pre_polish:contig_1 777646-777676: GAATTACACGGTTTAGACCAGGTTCTTCGAT
+  medaka_round_1:contig_1 777646-777676: GAATTACACGGTTTACACCAGGTTCTTCGAT
+                                                       *               
+
+    pre_polish:contig_1 1717060-1717090: GTGAGGCTTCTCCTGGAAGGTTGATTTGGAC
+medaka_round_1:contig_1 1717060-1717090: GTGAGGCTTCTCCTGAAAGGTTGATTTGGAC
+                                                       *               
+
+    pre_polish:contig_1 1909969-1909999: AACTCAATTAACCTTTCAGGAATAGCAACGA
+medaka_round_1:contig_1 1909969-1909999: AACTCAATTAACCTTCCAGGAATAGCAACGA
+                                                       *               
+
+    pre_polish:contig_1 1973258-1973288: AACTGATAGGGGCTTGGCCGGCCATTGACCA
+medaka_round_1:contig_1 1973258-1973288: AACTGATAGGGGCTTCGCCGGCCATTGACCA
+                                                       *               
+
+    pre_polish:contig_1 2455594-2455624: CTTCGACCACTCCTGGAAATACAGTAATCAT
+medaka_round_1:contig_1 2455594-2455624: CTTCGACCACTCCTGAAAATACAGTAATCAT
+                                                       *               
+
+    pre_polish:contig_1 3604168-3604198: ATTATAGGGAACTCAGATCCGTTCGCAACCC
+medaka_round_1:contig_1 3604168-3604198: ATTATAGGGAACTCAAATCCGTTCGCAACCC
+                                                       *               
+

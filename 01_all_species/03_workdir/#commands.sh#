@@ -1,5 +1,0 @@
-ln -s ../01_genomes/*.contig .
-ln -s ../01_genomes/exeter_genomes/* .
-rm Vibrio_cholera
-
-

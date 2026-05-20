@@ -1,0 +1,1335 @@
+Error: could not find /data/djs217/PROJECTS/19_vibrio/02_illumina_trimmed/11671_EXE_26_2024_C_R1_001_val_1.fq.gz
+
+
+
+
+
+
+
+
+
+
+
+
+
+Starting Unicycler (2025-07-14 09:07:07)
+----------------------------------------
+    Welcome to Unicycler, an assembly pipeline for bacterial genomes. Since you provided both short and long reads, Unicycler will perform a hybrid assembly. It will first use SPAdes to make a short-read assembly graph, and then it will use various methods to scaffold that graph with the long reads.
+    For more information, please see https://github.com/rrwick/Unicycler
+
+Command: /data/djs217/miniconda3/envs/unicycler_env/bin/unicycler -1 ../02_illumina_trimmed/11671_EXE_26_2024_C_S463_R1_001_val_1.fq.gz -2 ../02_illumina_trimmed/11671_EXE_26_2024_C_S463_R2_001_val_2.fq.gz -l ../04_ont_trimmed/11671_EXE_26_2024_C.filtlong.fastq.gz -o 11671_EXE_26_2024_C.unicycler
+
+Unicycler version: v0.5.1
+Using 8 threads
+
+The output directory already exists and files may be reused or overwritten:
+  /data/djs217/PROJECTS/19_vibrio/06_unicycler/11671_EXE_26_2024_C.unicycler
+
+Dependencies:
+  Program       Version   Status
+  spades.py     4.0.0     good  
+  racon         1.5.0     good  
+  makeblastdb   2.16.0+   good  
+  tblastn       2.16.0+   good  
+
+
+
+
+
+
+
+
+
+
+
+
+
+Starting Unicycler (2025-07-14 09:07:28)
+----------------------------------------
+    Welcome to Unicycler, an assembly pipeline for bacterial genomes. Since you provided both short and long reads, Unicycler will perform a hybrid assembly. It will first use SPAdes to make a short-read assembly graph, and then it will use various methods to scaffold that graph with the long reads.
+    For more information, please see https://github.com/rrwick/Unicycler
+
+Command: /data/djs217/miniconda3/envs/unicycler_env/bin/unicycler -1 ../02_illumina_trimmed/11671_EXE_26_2024_C_S463_R1_001_val_1.fq.gz -2 ../02_illumina_trimmed/11671_EXE_26_2024_C_S463_R2_001_val_2.fq.gz -l ../04_ont_trimmed/11671_EXE_26_2024_C.filtlong.fastq.gz -o 11671_EXE_26_2024_C.unicycler
+
+Unicycler version: v0.5.1
+Using 8 threads
+
+The output directory already exists and files may be reused or overwritten:
+  /data/djs217/PROJECTS/19_vibrio/06_unicycler/11671_EXE_26_2024_C.unicycler
+
+Dependencies:
+  Program       Version   Status
+  spades.py     4.0.0     good  
+  racon         1.5.0     good  
+  makeblastdb   2.16.0+   good  
+  tblastn       2.16.0+   good  
+
+
+Choosing k-mer range for assembly (2025-07-14 09:07:46)
+-------------------------------------------------------
+    Unicycler chooses a k-mer range for SPAdes based on the length of the input reads. It uses a wide range of many k-mer sizes to maximise the chance of finding an ideal assembly.
+
+SPAdes maximum k-mer: 127
+Median read length: 150
+K-mer range: 27, 53, 71, 87, 99, 111, 119, 127
+
+
+SPAdes assemblies (2025-07-14 09:07:57)
+---------------------------------------
+    Unicycler now uses SPAdes to assemble the short reads. It scores the assembly graph for each k-mer using the number of contigs (fewer is better) and the number of dead ends (fewer is better). The score function is 1/(c*(d+2)), where c is the contig count and d is the dead end count.
+
+spades.py -o /data/djs217/PROJECTS/19_vibrio/06_unicycler/11671_EXE_26_2024_C.unicycler/spades_assembly -k 27 --threads 8 --gfa11 --isolate -1 /data/djs217/PROJECTS/19_vibrio/02_illumina_trimmed/11671_EXE_26_2024_C_S463_R1_001_val_1.fq.gz -2 /data/djs217/PROJECTS/19_vibrio/02_illumina_trimmed/11671_EXE_26_2024_C_S463_R2_001_val_2.fq.gz -m 1024
+
+spades.py -o /data/djs217/PROJECTS/19_vibrio/06_unicycler/11671_EXE_26_2024_C.unicycler/spades_assembly -k 27,53 --threads 8 --gfa11 --restart-from k27 -m 1024
+
+spades.py -o /data/djs217/PROJECTS/19_vibrio/06_unicycler/11671_EXE_26_2024_C.unicycler/spades_assembly -k 27,53,71 --threads 8 --gfa11 --restart-from k53 -m 1024
+
+spades.py -o /data/djs217/PROJECTS/19_vibrio/06_unicycler/11671_EXE_26_2024_C.unicycler/spades_assembly -k 27,53,71,87 --threads 8 --gfa11 --restart-from k71 -m 1024
+
+spades.py -o /data/djs217/PROJECTS/19_vibrio/06_unicycler/11671_EXE_26_2024_C.unicycler/spades_assembly -k 27,53,71,87,99 --threads 8 --gfa11 --restart-from k87 -m 1024
+
+spades.py -o /data/djs217/PROJECTS/19_vibrio/06_unicycler/11671_EXE_26_2024_C.unicycler/spades_assembly -k 27,53,71,87,99,111 --threads 8 --gfa11 --restart-from k99 -m 1024
+
+spades.py -o /data/djs217/PROJECTS/19_vibrio/06_unicycler/11671_EXE_26_2024_C.unicycler/spades_assembly -k 27,53,71,87,99,111,119 --threads 8 --gfa11 --restart-from k111 -m 1024
+
+spades.py -o /data/djs217/PROJECTS/19_vibrio/06_unicycler/11671_EXE_26_2024_C.unicycler/spades_assembly -k 27,53,71,87,99,111,119,127 --threads 8 --gfa11 --restart-from k119 -m 1024
+
+K-mer   Contigs   Dead ends   Score      
+   27                         too complex
+   53     1,014           1      3.29e-04
+   71       684           0      7.31e-04
+   87       449           0      1.11e-03
+   99       339           0      1.47e-03
+  111       314           1      1.06e-03
+  119       291           0      1.72e-03
+  127       267           0      1.87e-03 <-best
+
+Read depth filter: removed 9 contigs totalling 2574 bp
+Deleting /data/djs217/PROJECTS/19_vibrio/06_unicycler/11671_EXE_26_2024_C.unicycler/spades_assembly/
+
+
+Determining graph multiplicity (2025-07-14 09:31:21)
+----------------------------------------------------
+    Multiplicity is the number of times a sequence occurs in the underlying sequence. Single-copy contigs (those with a multiplicity of one, occurring only once in the underlying sequence) are particularly useful.
+
+Saving /data/djs217/PROJECTS/19_vibrio/06_unicycler/11671_EXE_26_2024_C.unicycler/002_depth_filter.gfa
+
+
+Cleaning graph (2025-07-14 09:31:21)
+------------------------------------
+    Unicycler now performs various cleaning procedures on the graph to remove overlaps and simplify the graph structure. The end result is a graph ready for bridging.
+
+Graph overlaps removed
+
+Removed zero-length segments:
+    140, 141, 143, 144, 147, 148, 152, 153, 155, 156, 161, 164, 172, 173, 174, 175, 179, 187, 189, 190, 192, 193, 197, 201, 209, 211, 217, 218, 220, 227, 232, 235, 240, 241, 244, 248, 249, 263, 265
+
+Removed zero-length segments:
+    215
+
+Merged small segments:
+    246, 250, 256, 258, 259, 260, 261, 262
+
+Saving /data/djs217/PROJECTS/19_vibrio/06_unicycler/11671_EXE_26_2024_C.unicycler/003_overlaps_removed.gfa
+
+    Unicycler now selects a set of anchor contigs from the single-copy contigs. These are the contigs which will be connected via bridges to form the final assembly.
+
+45 anchor segments (5,051,836 bp) out of 220 total segments (5,102,680 bp)
+
+
+Creating SPAdes contig bridges (2025-07-14 09:31:21)
+----------------------------------------------------
+    SPAdes uses paired-end information to perform repeat resolution (RR) and produce contigs from the assembly graph. SPAdes saves the graph paths corresponding to these contigs in the contigs.paths file. When one of these paths contains two or more anchor contigs, Unicycler can create a bridge from the path.
+
+                                                                               Bridge
+Start                               Path                              End     quality
+   -9                        -96 -> -200 -> 115                       30         62.9
+   -6                               -109                              32         63.2
+   -5                               194                               24         38.5
+   -3                               193                               16         13.6
+    1           -120 -> 65 -> 129 -> 50 -> -120 -> 64 -> 129          -7          4.9
+    4                110 -> -75 -> -105 -> -214 -> 131                -24        30.5
+    8                -131 -> -216 -> 105 -> -76 -> -110               20         30.6
+    9                        106 -> -88 -> -126                       15         45.8
+   12                        114 -> -59 -> 114                        10         18.1
+   13                -97 -> -100 -> -79 -> 206 -> -111                19         30.1
+   16         -121 -> 147 -> 128 -> -159 -> -85 -> 107 -> -175        28         29.9
+   21                               -109                              12         63.2
+   25                  111 -> 213 -> 79 -> -101 -> 97                 -36        30.0
+   26   128 -> -80 -> 107 -> -175 -> 52 -> -121 -> 90 -> -85 -> 107   22         14.7
+   27                        106 -> -87 -> -126                       4          45.9
+   30                        -96 -> -201 -> 115                       7          63.1
+   31                            -78 -> 122                           -39        52.3
+   33                               -72                               -43        48.9
+   37                               122                               41         63.1
+   41                     118 -> -46 -> -78 -> 122                    29         13.5
+   44                           -71 -> -189                           40         43.5
+
+
+Creating loop unrolling bridges (2025-07-14 09:31:21)
+-----------------------------------------------------
+    When a SPAdes contig path connects an anchor contig with the middle contig of a simple loop, Unicycler concludes that the sequences are contiguous (i.e. the loop is not a separate piece of DNA). It then uses the read depth of the middle and repeat contigs to guess the number of times to traverse the loop and makes a bridge.
+
+                                  Loop count   Loop count    Loop    Bridge
+Start   Repeat   Middle     End    by repeat    by middle   count   quality
+   38     -112      103      27         0.33         0.58       1      29.7
+  -10     -114       59     -12         0.23         0.68       1      34.8
+   11      104       84     -20         0.27         0.68       1      32.0
+
+
+Loading reads (2025-07-14 09:31:21)
+-----------------------------------
+96,048 / 96,048 (100.0%) - 544,103,574 bp
+
+
+Assembling contigs and long reads with miniasm (2025-07-14 09:31:43)
+--------------------------------------------------------------------
+    Unicycler uses miniasm to construct a string graph assembly using both the short read contigs and the long reads. It will then use the resulting string graph to produce bridges between contigs. This method requires decent coverage of long reads and therefore may not be fruitful if long reads are sparse. However, it does not rely on the short read assembly graph having good connectivity and is able to bridge an assembly graph even when it contains many dead ends.
+    Unicycler uses two types of "reads" as assembly input: anchor contigs from the short-read assembly and actual long reads which overlap two or more of these contigs. It then assembles them with miniasm.
+
+Aligning long reads to graph using minimap
+
+Saving to /data/djs217/PROJECTS/19_vibrio/06_unicycler/11671_EXE_26_2024_C.unicycler/miniasm_assembly/01_assembly_reads.fastq:
+  45 short-read contigs
+  5,709 long reads
+
+Finding overlaps with minimap... 
+success
+  964,668 overlaps
+
+Assembling reads with miniasm... 
+success
+  182 segments, 182 links
+
+Saving /data/djs217/PROJECTS/19_vibrio/06_unicycler/11671_EXE_26_2024_C.unicycler/miniasm_assembly/11_branching_paths_removed.gfa
+Merging segments into unitigs:
+  2 circular unitigs
+  total size = 5,169,864 bp
+Saving /data/djs217/PROJECTS/19_vibrio/06_unicycler/11671_EXE_26_2024_C.unicycler/miniasm_assembly/12_unitig_graph.gfa
+
+
+Polishing miniasm assembly with Racon (2025-07-14 09:32:07)
+-----------------------------------------------------------
+    Unicycler now uses Racon to polish the miniasm assembly. It does multiple rounds of polishing to get the best consensus. Circular unitigs are rotated between rounds such that all parts (including the ends) are polished well.
+
+Saving to /data/djs217/PROJECTS/19_vibrio/06_unicycler/11671_EXE_26_2024_C.unicycler/miniasm_assembly/racon_polish/polishing_reads.fastq:
+  45 short-read contigs
+  96,048 long reads
+
+Polish       Assembly          Mapping
+round            size          quality
+begin       5,169,864        90,986.58
+1           5,173,903        92,164.69
+
+Best polish: /data/djs217/PROJECTS/19_vibrio/06_unicycler/11671_EXE_26_2024_C.unicycler/miniasm_assembly/racon_polish/006_rotated.fasta
+Saving /data/djs217/PROJECTS/19_vibrio/06_unicycler/11671_EXE_26_2024_C.unicycler/miniasm_assembly/13_racon_polished.gfa
+Saving /data/djs217/PROJECTS/19_vibrio/06_unicycler/11671_EXE_26_2024_C.unicycler/004_long_read_assembly.gfa
+
+    Contigs in the short-read assembly graph which end in dead ends may contain bogus sequence near the dead end. Unicycler therefore uses the read clipping values from the miniasm assembly to trim these dead ends to only the parts which aligned well to long reads.
+
+No dead ends required trimming.
+
+    Unicycler now places the single copy contigs back into the unitig graph. This serves two purposes: a) it replaces long read assembly sequences (which may be error prone) with Illumina assembly sequence (which is probably quite accurate), improving the assembly quality, and b) it defines inter-contig sequences for use in building bridges.
+
+Searching for contigs using 5,000 bp of contig ends.
+
+Contig   Result              Start pos   End pos   Strand
+     1   found in unitig 2     1294265   1844300        -
+     2   found in unitig 1     1928236   2436402        +
+     3   found in unitig 2      -26262    427888        -
+     4   found in unitig 1      984243   1358033        -
+     5   found in unitig 1      580400    949229        -
+     6   found in unitig 1     -324902     39443        -
+     7   found in unitig 2      944846   1290753        +
+     8   found in unitig 1     2674284   2971600        -
+     9   found in unitig 2      734676    932371        -
+    10   found in unitig 1      285748    466658        +
+    11   found in unitig 1     2441767   2621381        +
+    12   found in unitig 1      105007    284483        +
+    13   found in unitig 1     1556427   1678820        -
+    14   found in unitig 1     1391239   1498895        -
+    15   found in unitig 2      631000    734107        -
+    16   found in unitig 2      428110    529758        +
+    17   found in unitig 1     1840886   1922501        -
+    18   found in unitig 1     1739796   1793913        -
+    19   found in unitig 1     1504080   1555491        -
+    20   found in unitig 1     2622165   2673370        -
+    21   found in unitig 1       53856    104825        +
+    22   found in unitig 2      588558    629758        +
+    23   found in unitig 1     1799471   1834984        -
+    24   found in unitig 1      949253    983329        +
+    25   found in unitig 1     1689954   1721607        +
+    26   found in unitig 2      555129    585553        +
+    27   found in unitig 1     1358602   1379971        -
+    28   found in unitig 2      530660    550358        +
+    29   found in unitig 1      518512    534441        -
+    30   found in unitig 2      932749    944468        +
+    31   found in unitig 1      567409    576911        -
+    32   found in unitig 1       39625     48954        +
+    33   found in unitig 1      481581    490581        -
+    34   found in unitig 1      467210    475703        +
+    35   found in unitig 1      496819    504651        -
+    36   found in unitig 1     1722543   1728814        -
+    37   found in unitig 1      542831    548547        -
+    38   found in unitig 1     1380521   1385857        -
+    39   found in unitig 1      561690    566905        +
+    40   found in unitig 1      552881    557753        +
+    41   found in unitig 1      537928    542687        -
+    42   found in unitig 1      491181    494891        +
+    43   found in unitig 1      477770    481047        +
+    44   found in unitig 1      549192    552329        +
+   130   not found                                       
+
+Searching for contigs using 2,500 bp of contig ends.
+
+Contig   Result      Start pos   End pos   Strand
+   130   not found                               
+
+Searching for contigs using 1,000 bp of contig ends.
+
+Contig   Result      Start pos   End pos   Strand
+   130   not found                               
+
+Searching for contigs using 500 bp of contig ends.
+
+Contig   Result      Start pos   End pos   Strand
+   130   not found                               
+
+Saving /data/djs217/PROJECTS/19_vibrio/06_unicycler/11671_EXE_26_2024_C.unicycler/miniasm_assembly/14_contigs_placed.gfa
+
+
+Creating miniasm/Racon bridges (2025-07-14 09:35:41)
+----------------------------------------------------
+    Now that the miniasm/Racon string graph is complete, Unicycler will use it to build bridges between anchor segments.
+
+       Start -> end    Best path                                 Quality
+ 1/44    -6 -> 32      -109                                       98.194
+ 2/44   -35 -> -29     63, 51, 67, -45, -71, 49, -61, 47, 196,    50.952
+                       72, 139, -77, -74, -203, -113                    
+ 3/44   -29 -> -41     -122, 78, 46, -118                         76.674
+ 4/44   -41 -> -37     -122                                       98.383
+ 5/44   -37 -> 44      66                                         89.402
+ 6/44    44 -> 40      -71, -189                                  87.224
+ 7/44    40 -> 39      55, 48, -118                               74.640
+ 8/44    39 -> -31     -122, 78                                   95.170
+ 9/44   -31 -> -5      73, -61, 54, -98, -219, 93, 196, 72        76.468
+10/44    -5 -> 24      194, 194, 194, 194                         98.277
+11/44    24 -> -4      -131, 214, 105, 75, -110                   91.490
+12/44    32 -> 21      -160, -140, 174, 144, -89, 168, -156,      70.583
+                       -140, 174, 70, 138, -154, -117, -169,            
+                       199, -160, -140, 174, 138, 157, -117,            
+                       -169, -156, -140, 174, 144, -89, -169,           
+                       -156, -140, -69, 174, 138, -57, 144              
+13/44    -4 -> -27     126, 87, -106                              94.753
+14/44   -27 -> -38     112, -103, 112                             92.345
+15/44   -38 -> -14     -195, -125, 185, 172, 62, -217, 162,       67.530
+                       -178, 58, 187, 53, -152, 188, -86, -170,         
+                       191, 83, 215, 56, -180, 164, -192, 148,          
+                       124                                              
+16/44   -14 -> -19     -141, -195, -125, 185, 208, 173, 62,       70.008
+                       -217, 162, -178, 58, 187, 53, -152, 188,         
+                       -176, 153, 136, -190, 83, -218, 56,              
+                       -180, 198, -163                                  
+17/44   -19 -> -13     111, -206, 79, 100, 97                     91.758
+18/44   -13 -> 25      -141, -195, -125, 185, 172, 62, -217,      55.571
+                       162, -178, 58, 187, 53, 142, 94, 143,            
+                       -135, -170, 191, 83, 215, 56, -180, 198,         
+                       -163, 119, 158, 127, -125, 185, 172, 62,         
+                       -217, 162, -178, 58, 187, 53, -152, 167,         
+                       -190, 83, -218, 56, 184, 197, -166, 145,         
+                       -155, 123, -209, 132                             
+19/44    25 -> -36     111, 213, 79, -101, 97                     91.561
+20/44   -36 -> -18     161, -141, -195, -125, 185, 172, 62,       55.933
+                       -217, 162, -178, 58, 187, 53, -152, 188,         
+                       -86, -170, 191, 83, 215, 56, -180, 198,          
+                       -163, 119, 158, 127, -125, 185, 172, 62,         
+                       -217, 162, -178, 58, 187, 53, -152, 167,         
+                       -190, 83, 215, 56, 184, 165, -192, 119,          
+                       204, 123, 132                                    
+21/44   -18 -> -23     116, 202, -177, -195, -125, 185, 172,      68.282
+                       62, -217, 162, -178, 58, 187, 53, -152,          
+                       188, -86, -170, 191, 83, 215, 56, 184,           
+                       165, 145, 124                                    
+22/44   -23 -> -17     161, -141, -195, -125, 185, 172, 62,       67.682
+                       -217, 162, 179, 58, 186, 53, -152, -99,          
+                       143, 136, -210, 191, 83, -218, 56, -180,         
+                       198, -163, 119, 158, 92                          
+23/44    21 -> 12      -109                                       98.197
+24/44   -17 -> 2       -92, -158, -119, 163, -197, -184, -56,     67.389
+                       218, -83, -191, 210, -136, -143, 99,             
+                       152, -53, -186, -58, -179, -162, 217,            
+                       -62, -172, -185, 125, 195                        
+25/44     2 -> 11      -148, 192, -165, -184, -56, -215, -83,     69.433
+                       190, 95, -153, -142, -53, -186, -58,             
+                       -179, -162, -211, -62, -173, 181, 125,           
+                       195, 141                                         
+26/44    11 -> -20                                                77.609
+27/44   -20 -> -8      110, 76, -105, 216, 131                    91.913
+28/44    -8 -> -6      55                                         89.472
+29/44    -3 -> 16      193, 193, 193, 193, 193, 193, 193, 193,    97.808
+                       193, 193, 193, 193, 193, 193, 193, 193,          
+                       193, 193, 193, 193, 193, 193, 193, 193,          
+                       193, 193, 193, 193, 193, 193, 193, 193,          
+                       193, 193, 193, 193, 193                          
+30/44    16 -> 28      -121, 147, 128, -159, -85, 107, -175       88.998
+31/44    28 -> 26      -82, 151, -149, 171, -108, -81, -150,      70.909
+                       102, -146, -81, -150, -149, 133, -146,           
+                       -81, -150, -149, 133, -146, -81, -150,           
+                       -149, 133, -60, -182, 151, 91, -82,              
+                       -150, -149, 171                                  
+32/44    26 -> 22      128, -80, 107, -175, 52, -121, 90, -85,    78.944
+                       107                                              
+33/44    22 -> -15     -55                                        88.334
+34/44    12 -> 10      114, -59, 114                              89.268
+35/44   -15 -> -9      126, 88, -106                              94.635
+36/44    -9 -> 30      -96, -200, 115                             95.912
+37/44    30 -> 7       -96, -201, 115                             96.238
+38/44     7 -> -1      -129, -64, 120, -50, -129, -65, 120        76.599
+39/44    -1 -> -3      116, 212, -177, -195, -125, 185, 172,      68.535
+                       62, 211, 162, -178, 58, 186, 53, 142,            
+                       94, 143, 137, -190, 83, -218, 56, 184,           
+                       165, 145                                         
+40/44    10 -> 34      -71, -189                                  94.180
+41/44    34 -> 43      73, -134, -77, -98, 207, 93, -74, 205,     83.983
+                       -113                                             
+42/44    43 -> -33     72                                         94.818
+43/44   -33 -> 42      67                                         93.951
+44/44    42 -> -35     66, -68, 63                                83.050
+
+
+Creating simple long read bridges (2025-07-14 09:36:33)
+-------------------------------------------------------
+    Unicycler uses long read alignments (from minimap) to resolve simple repeat structures in the graph. This takes care of some "low-hanging fruit" of the graph simplification.
+
+Aligning long reads to graph using minimap
+
+    Two-way junctions are defined as cases where two graph contigs (A and B) join together (C) and then split apart again (D and E). This usually represents a simple 2-copy repeat, and there are two possible options for its resolution: (A->C->D and B->C->E) or (A->C->E and B->C->D). Each read which spans such a junction gets to "vote" for option 1, option 2 or neither. Unicycler creates a bridge at each junction for the most voted for option.
+
+                                                     Op. 1   Op. 2   Neither   Final    Bridge
+Junction        Option 1             Option 2        votes   votes     votes     op.   quality
+     109   -32 -> 109 -> -21,    -32 -> 109 -> 6,        0     112         1       2      99.1
+            -12 -> 109 -> 6     -12 -> 109 -> -21                                             
+
+    Simple loops are parts of the graph where two contigs (A and B) are connected via a repeat (C) which loops back to itself (via D). It is possible to traverse the loop zero times (A->C->B), one time (A->C->D->C->B), two times (A->C->D->C->D->C->B), etc. Long reads which span the loop inform which is the correct number of times through. In this step, such reads are found and each is aligned against alternative loop counts. A reads casts its "vote" for the loop count it agrees best with, and Unicycler creates a bridge using the most voted for count.
+
+                                   Read                         Loop    Bridge
+Start   Repeat   Middle     End   count   Read votes           count   quality
+  -10     -114       59     -12      73   1 loop: 73 votes         1      99.9
+   -5      194               24      87   2 loops: 2 votes         3      89.0
+                                          3 loops: 79 votes                   
+                                          4 loops: 3 votes                    
+                                          5 loops: 3 votes                    
+   -3      193               16      78   9 loops: 1 vote         36      71.6
+                                          31 loops: 2 votes                   
+                                          34 loops: 4 votes                   
+                                          35 loops: 4 votes                   
+                                          36 loops: 59 votes                  
+                                          37 loops: 6 votes                   
+                                          38 loops: 2 votes                   
+   11      104       84     -20      93   1 loop: 2 votes          2      97.6
+                                          2 loops: 91 votes                   
+   38     -112      103      27     101   1 loop: 101 votes        1      97.3
+
+
+Determining low score threshold (2025-07-14 09:37:45)
+-----------------------------------------------------
+    Before conducting semi-global alignment of the long reads to the assembly graph, Unicycler must determine a minimum alignment score threshold such that nonsense alignments are excluded. To choose a threshold automatically, it examines alignments between random sequences and selects a score a few standard deviations above the mean.
+
+Automatically choosing a threshold using random alignment scores.
+
+Random alignment mean score: 61.66
+         standard deviation:  1.31
+        Low score threshold: 61.66 + (7 x 1.31) = 70.86
+
+
+Aligning reads (2025-07-14 09:37:54)
+------------------------------------
+96,048 / 96,048 (100.0%)
+
+
+Read alignment summary (2025-07-14 10:12:11)
+--------------------------------------------
+Total read count:             96,048
+Fully aligned reads:          91,607
+Partially aligned reads:       4,402
+Unaligned reads:                  39
+Total bases aligned:     542,441,190 bp
+Mean alignment identity:          97.8%
+
+Deleting /data/djs217/PROJECTS/19_vibrio/06_unicycler/11671_EXE_26_2024_C.unicycler/read_alignment/
+
+
+Building long read bridges (2025-07-14 10:12:11)
+------------------------------------------------
+    Unicycler uses the long read alignments to produce bridges between anchor segments. These bridges can be formed using as few as one long read, giving Unicycler the ability to bridge the graph even when long-read depth is low.
+
+       Start -> end    Best path                                 Quality
+ 1/53    31 -> 37      -78, 122, -39, 118, -48, -55, -40, 189,    40.031
+                       71, -44, -66                                     
+ 2/53   -37 -> 39      66, 44, -71, -189, 40, 55, 48, -118        36.788
+ 3/53     7 -> -1      -129, -64, 120, -50, -129, -65, 120        83.702
+ 4/53   -13 -> 25      -141, -195, -125, 185, 172, 62, -217,      74.984
+                       162, -178, 58, 187, 53, 142, 94, 143,            
+                       -135, -170, 191, 83, 215, 56, -180, 198,         
+                       -163, 119, 158, 127, -125, 185, 172, 62,         
+                       -217, 162, -178, 58, 187, 53, -152, 167,         
+                       -190, 83, -218, 56, 184, 197, -166, 145,         
+                       -155, 123, -209, 132                             
+ 5/53    29 -> 35      113, 203, 74, 77, -139, -72, -196, -47,    81.550
+                       61, -49, 71, 45, -67, -51, -63                   
+ 6/53    14 -> 38      -124, -148, 192, -164, 180, -56, -215,     77.979
+                       -83, -191, 170, 86, -188, 152, -53,              
+                       -187, -58, 178, -162, 217, -62, -172,            
+                       -185, 125, 195                                   
+ 7/53    23 -> 18      -124, -145, -165, -184, -56, -215, -83,    82.009
+                       -191, 170, 86, -188, 152, -53, -187,             
+                       -58, 178, -162, 217, -62, -172, -185,            
+                       125, 195, 177, -202, -116                        
+ 8/53    14 -> 27      -124, -148, 192, -164, 180, -56, -215,     65.768
+                       -83, -191, 170, 86, -188, 152, -53,              
+                       -187, -58, 178, -162, 217, -62, -172,            
+                       -185, 125, 195, 38, -112, 103, -112              
+ 9/53    17 -> 23      -92, -158, -119, 163, -198, 180, -56,      83.800
+                       218, -83, -191, 210, -136, -143, 99,             
+                       152, -53, -186, -58, -179, -162, 217,            
+                       -62, -172, -185, 125, 195, 141, -161             
+10/53    40 -> -31     55, 48, -118, 39, -122, 78                 16.152
+11/53    37 -> 29      122, 41, 118, -46, -78, 122                35.253
+12/53    -2 -> 17      -195, -125, 185, 172, 62, -217, 162,       83.078
+                       179, 58, 186, 53, -152, -99, 143, 136,           
+                       -210, 191, 83, -218, 56, 184, 197, -163,         
+                       119, 158, 92                                     
+13/53    18 -> 36      -132, -123, -204, -119, 192, -165, -184,   81.176
+                       -56, -215, -83, 190, -167, 152, -53,             
+                       -187, -58, 178, -162, 217, -62, -172,            
+                       -185, 125, -127, -158, -119, 163, -198,          
+                       180, -56, -215, -83, -191, 170, 86,              
+                       -188, 152, -53, -187, -58, 178, -162,            
+                       217, -62, -172, -185, 125, 195, 141,             
+                       -161                                             
+14/53     5 -> 31      -72, -196, -93, 219, 98, -54, 61, -73      82.079
+15/53    35 -> 33      -63, 68, -66, -42, -67                     41.243
+16/53    40 -> 39      55, 48, -118                               78.103
+17/53    34 -> -33     73, -134, -77, -98, 207, 93, -74, 205,     51.992
+                       -113, 43, 72                                     
+18/53    19 -> 14      163, -198, 180, -56, 218, -83, 190,        83.023
+                       -136, -153, 176, -188, 152, -53, -187,           
+                       -58, 178, -162, 217, -62, -173, -208,            
+                       -185, 125, 195, 141                              
+19/53    34 -> 43      73, -134, -77, -98, 207, 93, -74, 205,     77.309
+                       -113                                             
+20/53   -37 -> 40      66, 44, -71, -189                          54.712
+21/53     2 -> 11      -148, 192, -165, -184, -56, -215, -83,     83.620
+                       190, 95, -153, -142, -53, -186, -58,             
+                       -179, -162, -211, -62, -173, 181, 125,           
+                       195, 141                                         
+22/53    36 -> -25     -97, 101, -79, -213, -111                  80.904
+23/53    42 -> -35     66, -68, 63                                76.058
+24/53    12 -> 10      114, -59, 114                              83.621
+25/53    41 -> 29      118, -46, -78, 122                         55.855
+26/53    26 -> 22      128, -80, 107, -175, 52, -121, 90, -85,    57.517
+                       107                                              
+27/53    20 -> -11                                                36.636
+28/53    13 -> 19      -97, -100, -79, 206, -111                  83.329
+29/53     8 -> 20      -131, -216, 105, -76, -110                 83.690
+30/53    22 -> -15     -55                                        82.392
+31/53    24 -> -4      -131, 214, 105, 75, -110                   82.835
+32/53    38 -> 27      -112, 103, -112                            78.129
+33/53    27 -> 4       106, -87, -126                             83.213
+34/53   -37 -> 44      66                                         72.554
+35/53     3 -> 1       -145, -165, -184, -56, 218, -83, 190,      74.661
+                       -137, -143, -94, -142, -53, -186, -58,           
+                       178, -162, -211, -62, -172, -185, 125,           
+                       195, 177, -212, -116                             
+36/53   -33 -> 42      67                                         77.608
+37/53    44 -> 40      -71, -189                                  70.016
+38/53    16 -> 28      -121, 147, 128, -159, -85, 107, -175       78.653
+39/53     9 -> 15      106, -88, -126                             83.856
+40/53    26 -> 28      128, -159, -85, 107, -175                   8.738
+41/53    -9 -> 30      -96, -200, 115                             81.904
+42/53    30 -> 7       -96, -201, 115                             68.174
+43/53    39 -> -31     -122, 78                                   79.197
+44/53     6 -> 8       -55                                        81.033
+45/53    43 -> -33     72                                         77.338
+46/53    -5 -> 24      194, 194, 194, 194                         82.206
+47/53    37 -> 41      122                                        77.806
+48/53    -6 -> 32      -109                                       82.339
+49/53    10 -> 34      -71, -189                                  81.005
+50/53    21 -> 12      -109                                       81.707
+51/53    32 -> 21      -160, -140, 174, 144, -89, 168, -156,      81.149
+                       -140, 174, 70, 138, -154, -117, -169,            
+                       199, -160, -140, 174, 138, 157, -117,            
+                       -169, -156, -140, 174, 144, -89, -169,           
+                       -156, -140, -69, 174, 138, -57, 144              
+52/53    -3 -> 16      193, 193, 193, 193, 193, 193, 193, 193,    83.719
+                       193, 193, 193, 193, 193, 193, 193, 193,          
+                       193, 193, 193, 193, 193, 193, 193, 193,          
+                       193, 193, 193, 193, 193, 193, 193, 193,          
+                       193, 193, 193, 193, 193                          
+53/53    28 -> 26      -82, 151, -149, 171, -108, -81, -150,      46.624
+                       102, -146, -81, -150, -149, 133, -146,           
+                       -81, -150, -149, 133, -146, -81, -150,           
+                       -149, 133, -60, -182, 151, 91, -82,              
+                       -150, -149, 171                                  
+
+
+Applying bridges (2025-07-14 10:12:34)
+--------------------------------------
+    Unicycler now applies to the graph in decreasing order of quality. This ensures that when multiple, contradictory bridges exist, the most supported option is used.
+
+Bridge type        Start -> end   Path                                       Quality
+simple long read    -10 -> -12    -114, 59, -114                              99.924
+simple long read    -12 -> -21    109                                         99.080
+simple long read    -32 -> 6      109                                         99.077
+miniasm             -41 -> -37    -122                                        98.383
+miniasm              -5 -> 24     194, 194, 194, 194                          98.277
+miniasm              -3 -> 16     193, 193, 193, 193, 193, 193, 193, 193,     97.808
+                                  193, 193, 193, 193, 193, 193, 193, 193,           
+                                  193, 193, 193, 193, 193, 193, 193, 193,           
+                                  193, 193, 193, 193, 193, 193, 193, 193,           
+                                  193, 193, 193, 193, 193                           
+simple long read     11 -> -20    104, 84, 104, 84, 104                       97.599
+simple long read     38 -> 27     -112, 103, -112                             97.292
+miniasm              30 -> 7      -96, -201, 115                              96.238
+miniasm              -9 -> 30     -96, -200, 115                              95.912
+miniasm              39 -> -31    -122, 78                                    95.170
+miniasm              43 -> -33    72                                          94.818
+miniasm              -4 -> -27    126, 87, -106                               94.753
+miniasm             -15 -> -9     126, 88, -106                               94.635
+miniasm              10 -> 34     -71, -189                                   94.180
+miniasm             -33 -> 42     67                                          93.951
+miniasm             -20 -> -8     110, 76, -105, 216, 131                     91.913
+miniasm             -19 -> -13    111, -206, 79, 100, 97                      91.758
+miniasm              25 -> -36    111, 213, 79, -101, 97                      91.561
+miniasm              24 -> -4     -131, 214, 105, 75, -110                    91.490
+miniasm              -8 -> -6     55                                          89.472
+miniasm             -37 -> 44     66                                          89.402
+miniasm              16 -> 28     -121, 147, 128, -159, -85, 107, -175        88.998
+miniasm              22 -> -15    -55                                         88.334
+miniasm              44 -> 40     -71, -189                                   87.224
+miniasm              34 -> 43     73, -134, -77, -98, 207, 93, -74, 205,      83.983
+                                  -113                                              
+long read            17 -> 23     -92, -158, -119, 163, -198, 180, -56,       83.800
+                                  218, -83, -191, 210, -136, -143, 99,              
+                                  152, -53, -186, -58, -179, -162, 217,             
+                                  -62, -172, -185, 125, 195, 141, -161              
+long read             7 -> -1     -129, -64, 120, -50, -129, -65, 120         83.702
+long read             2 -> 11     -148, 192, -165, -184, -56, -215, -83,      83.620
+                                  190, 95, -153, -142, -53, -186, -58,              
+                                  -179, -162, -211, -62, -173, 181, 125,            
+                                  195, 141                                          
+long read            -2 -> 17     -195, -125, 185, 172, 62, -217, 162,        83.078
+                                  179, 58, 186, 53, -152, -99, 143, 136,            
+                                  -210, 191, 83, -218, 56, 184, 197, -163,          
+                                  119, 158, 92                                      
+miniasm              42 -> -35    66, -68, 63                                 83.050
+long read            19 -> 14     163, -198, 180, -56, 218, -83, 190,         83.023
+                                  -136, -153, 176, -188, 152, -53, -187,            
+                                  -58, 178, -162, 217, -62, -173, -208,             
+                                  -185, 125, 195, 141                               
+long read             5 -> 31     -72, -196, -93, 219, 98, -54, 61, -73       82.079
+long read            23 -> 18     -124, -145, -165, -184, -56, -215, -83,     82.009
+                                  -191, 170, 86, -188, 152, -53, -187,              
+                                  -58, 178, -162, 217, -62, -172, -185,             
+                                  125, 195, 177, -202, -116                         
+long read            29 -> 35     113, 203, 74, 77, -139, -72, -196, -47,     81.550
+                                  61, -49, 71, 45, -67, -51, -63                    
+long read            18 -> 36     -132, -123, -204, -119, 192, -165, -184,    81.176
+                                  -56, -215, -83, 190, -167, 152, -53,              
+                                  -187, -58, 178, -162, 217, -62, -172,             
+                                  -185, 125, -127, -158, -119, 163, -198,           
+                                  180, -56, -215, -83, -191, 170, 86,               
+                                  -188, 152, -53, -187, -58, 178, -162,             
+                                  217, -62, -172, -185, 125, 195, 141,              
+                                  -161                                              
+long read            32 -> 21     -160, -140, 174, 144, -89, 168, -156,       81.149
+                                  -140, 174, 70, 138, -154, -117, -169,             
+                                  199, -160, -140, 174, 138, 157, -117,             
+                                  -169, -156, -140, 174, 144, -89, -169,            
+                                  -156, -140, -69, 174, 138, -57, 144               
+miniasm              26 -> 22     128, -80, 107, -175, 52, -121, 90, -85,     78.944
+                                  107                                               
+long read            40 -> 39     55, 48, -118                                78.103
+long read            14 -> 38     -124, -148, 192, -164, 180, -56, -215,      77.979
+                                  -83, -191, 170, 86, -188, 152, -53,               
+                                  -187, -58, 178, -162, 217, -62, -172,             
+                                  -185, 125, 195                                    
+miniasm             -29 -> -41    -122, 78, 46, -118                          76.674
+long read           -13 -> 25     -141, -195, -125, 185, 172, 62, -217,       74.984
+                                  162, -178, 58, 187, 53, 142, 94, 143,             
+                                  -135, -170, 191, 83, 215, 56, -180, 198,          
+                                  -163, 119, 158, 127, -125, 185, 172, 62,          
+                                  -217, 162, -178, 58, 187, 53, -152, 167,          
+                                  -190, 83, -218, 56, 184, 197, -166, 145,          
+                                  -155, 123, -209, 132                              
+long read             3 -> 1      -145, -165, -184, -56, 218, -83, 190,       74.661
+                                  -137, -143, -94, -142, -53, -186, -58,            
+                                  178, -162, -211, -62, -172, -185, 125,            
+                                  195, 177, -212, -116                              
+miniasm              28 -> 26     -82, 151, -149, 171, -108, -81, -150,       70.909
+                                  102, -146, -81, -150, -149, 133, -146,            
+                                  -81, -150, -149, 133, -146, -81, -150,            
+                                  -149, 133, -60, -182, 151, 91, -82,               
+                                  -150, -149, 171                                   
+
+Saving /data/djs217/PROJECTS/19_vibrio/06_unicycler/11671_EXE_26_2024_C.unicycler/005_bridges_applied.gfa
+
+
+Bridged assembly graph (2025-07-14 10:12:34)
+--------------------------------------------
+    The assembly is now mostly finished and no more structural changes will be made. Ideally the assembly graph should now have one contig per replicon and no erroneous contigs (i.e. a complete assembly). If there are more contigs, then the assembly is not complete.
+
+Saving /data/djs217/PROJECTS/19_vibrio/06_unicycler/11671_EXE_26_2024_C.unicycler/006_final_clean.gfa
+
+Component   Segments   Links   Length      N50         Longest segment   Status  
+    total          2       2   5,173,766   3,297,426         3,297,426           
+        1          1       1   3,297,426   3,297,426         3,297,426   complete
+        2          1       1   1,876,340   1,876,340         1,876,340   complete
+
+
+Rotating completed replicons (2025-07-14 10:12:34)
+--------------------------------------------------
+    Any completed circular contigs (i.e. single contigs which have one link connecting end to start) can have their start position changed without altering the sequence. For consistency, Unicycler now searches for a starting gene (dnaA or repA) in each such contig, and if one is found, the contig is rotated to start with that gene on the forward strand.
+
+Segment   Length      Depth   Starting gene     Position    Strand    Identity   Coverage
+      1   3,297,426   1.00x   UniRef90_P49996   3,266,151   forward      97.7%     100.0%
+      2   1,876,340   0.98x   none found                                                 
+
+Saving /data/djs217/PROJECTS/19_vibrio/06_unicycler/11671_EXE_26_2024_C.unicycler/007_rotated.gfa
+
+
+Assembly complete (2025-07-14 10:13:52)
+---------------------------------------
+Saving /data/djs217/PROJECTS/19_vibrio/06_unicycler/11671_EXE_26_2024_C.unicycler/assembly.gfa
+Saving /data/djs217/PROJECTS/19_vibrio/06_unicycler/11671_EXE_26_2024_C.unicycler/assembly.fasta
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Starting Unicycler (2025-07-14 14:57:03)
+----------------------------------------
+    Welcome to Unicycler, an assembly pipeline for bacterial genomes. Since you provided both short and long reads, Unicycler will perform a hybrid assembly. It will first use SPAdes to make a short-read assembly graph, and then it will use various methods to scaffold that graph with the long reads.
+    For more information, please see https://github.com/rrwick/Unicycler
+
+Command: /data/djs217/miniconda3/envs/unicycler_env/bin/unicycler -1 ../02_illumina_trimmed/11671_EXE_26_2024_C_S463_R1_001_val_1.fq.gz -2 ../02_illumina_trimmed/11671_EXE_26_2024_C_S463_R2_001_val_2.fq.gz -l ../04_ont_trimmed/11671_EXE_26_2024_C.filtlong.fastq.gz -o 11671_EXE_26_2024_C.unicycler
+
+Unicycler version: v0.5.1
+Using 8 threads
+
+The output directory already exists and files may be reused or overwritten:
+  /data/djs217/PROJECTS/19_vibrio/06_unicycler/11671_EXE_26_2024_C.unicycler
+
+Dependencies:
+  Program       Version   Status
+  spades.py     4.0.0     good  
+  racon         1.5.0     good  
+  makeblastdb   2.16.0+   good  
+  tblastn       2.16.0+   good  
+
+SPAdes graph already exists. Will use this graph instead of running SPAdes:
+  /data/djs217/PROJECTS/19_vibrio/06_unicycler/11671_EXE_26_2024_C.unicycler/002_depth_filter.gfa
+
+
+Determining graph multiplicity (2025-07-14 14:57:04)
+----------------------------------------------------
+    Multiplicity is the number of times a sequence occurs in the underlying sequence. Single-copy contigs (those with a multiplicity of one, occurring only once in the underlying sequence) are particularly useful.
+
+
+Cleaning graph (2025-07-14 14:57:04)
+------------------------------------
+    Unicycler now performs various cleaning procedures on the graph to remove overlaps and simplify the graph structure. The end result is a graph ready for bridging.
+
+Graph overlaps removed
+
+Removed zero-length segments:
+    140, 141, 143, 144, 147, 148, 152, 153, 155, 156, 161, 164, 172, 173, 174, 175, 179, 187, 189, 190, 192, 193, 197, 201, 209, 211, 217, 218, 220, 227, 232, 235, 240, 241, 244, 248, 249, 263, 265
+
+Removed zero-length segments:
+    215
+
+Merged small segments:
+    246, 250, 256, 258, 259, 260, 261, 262
+
+Saving /data/djs217/PROJECTS/19_vibrio/06_unicycler/11671_EXE_26_2024_C.unicycler/003_overlaps_removed.gfa
+
+    Unicycler now selects a set of anchor contigs from the single-copy contigs. These are the contigs which will be connected via bridges to form the final assembly.
+
+45 anchor segments (5,051,836 bp) out of 220 total segments (5,102,680 bp)
+
+
+Creating SPAdes contig bridges (2025-07-14 14:57:04)
+----------------------------------------------------
+    SPAdes uses paired-end information to perform repeat resolution (RR) and produce contigs from the assembly graph. SPAdes saves the graph paths corresponding to these contigs in the contigs.paths file. When one of these paths contains two or more anchor contigs, Unicycler can create a bridge from the path.
+
+                                                                               Bridge
+Start                               Path                              End     quality
+   -9                        -96 -> -200 -> 115                       30         62.9
+   -6                               -109                              32         63.2
+   -5                               194                               24         38.5
+   -3                               195                               16         13.6
+    1           -120 -> 65 -> 129 -> 50 -> -120 -> 64 -> 129          -7          4.9
+    4                110 -> -75 -> -105 -> -212 -> 131                -24        30.5
+    8                -131 -> -214 -> 105 -> -76 -> -110               20         30.6
+    9                        106 -> -88 -> -127                       15         45.8
+   12                        114 -> -59 -> 114                        10         18.1
+   13                -97 -> -100 -> -79 -> 206 -> -111                19         30.1
+   16         -121 -> 147 -> 128 -> -158 -> -85 -> 108 -> -175        28         29.9
+   21                               -109                              12         63.2
+   25                  111 -> 211 -> 79 -> -101 -> 97                 -36        30.0
+   26   128 -> -80 -> 108 -> -175 -> 52 -> -121 -> 90 -> -85 -> 108   22         14.7
+   27                        106 -> -87 -> -127                       4          45.9
+   30                        -96 -> -201 -> 115                       7          63.1
+   31                            -78 -> 122                           -39        52.3
+   33                               -72                               -43        48.9
+   37                               122                               41         63.1
+   41                     119 -> -46 -> -78 -> 122                    29         13.5
+   44                           -71 -> -190                           40         43.5
+
+
+Creating loop unrolling bridges (2025-07-14 14:57:04)
+-----------------------------------------------------
+    When a SPAdes contig path connects an anchor contig with the middle contig of a simple loop, Unicycler concludes that the sequences are contiguous (i.e. the loop is not a separate piece of DNA). It then uses the read depth of the middle and repeat contigs to guess the number of times to traverse the loop and makes a bridge.
+
+                                  Loop count   Loop count    Loop    Bridge
+Start   Repeat   Middle     End    by repeat    by middle   count   quality
+  -10     -114       59     -12         0.23         0.68       1      34.8
+   11      104       84     -20         0.27         0.68       1      32.0
+   38     -112      103      27         0.33         0.58       1      29.7
+
+
+Loading reads (2025-07-14 14:57:05)
+-----------------------------------
+96,048 / 96,048 (100.0%) - 544,103,574 bp
+
+
+Assembling contigs and long reads with miniasm (2025-07-14 14:58:39)
+--------------------------------------------------------------------
+    Unicycler uses miniasm to construct a string graph assembly using both the short read contigs and the long reads. It will then use the resulting string graph to produce bridges between contigs. This method requires decent coverage of long reads and therefore may not be fruitful if long reads are sparse. However, it does not rely on the short read assembly graph having good connectivity and is able to bridge an assembly graph even when it contains many dead ends.
+    Unicycler uses two types of "reads" as assembly input: anchor contigs from the short-read assembly and actual long reads which overlap two or more of these contigs. It then assembles them with miniasm.
+
+Aligning long reads to graph using minimap
+
+Saving to /data/djs217/PROJECTS/19_vibrio/06_unicycler/11671_EXE_26_2024_C.unicycler/miniasm_assembly/01_assembly_reads.fastq:
+  45 short-read contigs
+  5,709 long reads
+
+Finding overlaps with minimap... 
+success
+  964,668 overlaps
+
+Assembling reads with miniasm... 
+success
+  182 segments, 182 links
+
+Saving /data/djs217/PROJECTS/19_vibrio/06_unicycler/11671_EXE_26_2024_C.unicycler/miniasm_assembly/11_branching_paths_removed.gfa
+Merging segments into unitigs:
+  2 circular unitigs
+  total size = 5,169,864 bp
+Saving /data/djs217/PROJECTS/19_vibrio/06_unicycler/11671_EXE_26_2024_C.unicycler/miniasm_assembly/12_unitig_graph.gfa
+
+
+Polishing miniasm assembly with Racon (2025-07-14 14:59:05)
+-----------------------------------------------------------
+    Unicycler now uses Racon to polish the miniasm assembly. It does multiple rounds of polishing to get the best consensus. Circular unitigs are rotated between rounds such that all parts (including the ends) are polished well.
+
+Saving to /data/djs217/PROJECTS/19_vibrio/06_unicycler/11671_EXE_26_2024_C.unicycler/miniasm_assembly/racon_polish/polishing_reads.fastq:
+  45 short-read contigs
+  96,048 long reads
+
+Polish       Assembly          Mapping
+round            size          quality
+begin       5,169,864        90,986.58
+1           5,173,903        92,164.69
+
+Best polish: /data/djs217/PROJECTS/19_vibrio/06_unicycler/11671_EXE_26_2024_C.unicycler/miniasm_assembly/racon_polish/006_rotated.fasta
+Saving /data/djs217/PROJECTS/19_vibrio/06_unicycler/11671_EXE_26_2024_C.unicycler/miniasm_assembly/13_racon_polished.gfa
+Saving /data/djs217/PROJECTS/19_vibrio/06_unicycler/11671_EXE_26_2024_C.unicycler/004_long_read_assembly.gfa
+
+    Contigs in the short-read assembly graph which end in dead ends may contain bogus sequence near the dead end. Unicycler therefore uses the read clipping values from the miniasm assembly to trim these dead ends to only the parts which aligned well to long reads.
+
+No dead ends required trimming.
+
+    Unicycler now places the single copy contigs back into the unitig graph. This serves two purposes: a) it replaces long read assembly sequences (which may be error prone) with Illumina assembly sequence (which is probably quite accurate), improving the assembly quality, and b) it defines inter-contig sequences for use in building bridges.
+
+Searching for contigs using 5,000 bp of contig ends.
+
+Contig   Result              Start pos   End pos   Strand
+     1   found in unitig 2     1294265   1844300        -
+     2   found in unitig 1     1928236   2436402        +
+     3   found in unitig 2      -26262    427888        -
+     4   found in unitig 1      984243   1358033        -
+     5   found in unitig 1      580400    949229        -
+     6   found in unitig 1     -324902     39443        -
+     7   found in unitig 2      944846   1290753        +
+     8   found in unitig 1     2674284   2971600        -
+     9   found in unitig 2      734676    932371        -
+    10   found in unitig 1      285748    466658        +
+    11   found in unitig 1     2441767   2621381        +
+    12   found in unitig 1      105007    284483        +
+    13   found in unitig 1     1556427   1678820        -
+    14   found in unitig 1     1391239   1498895        -
+    15   found in unitig 2      631000    734107        -
+    16   found in unitig 2      428110    529758        +
+    17   found in unitig 1     1840886   1922501        -
+    18   found in unitig 1     1739796   1793913        -
+    19   found in unitig 1     1504080   1555491        -
+    20   found in unitig 1     2622165   2673370        -
+    21   found in unitig 1       53856    104825        +
+    22   found in unitig 2      588558    629758        +
+    23   found in unitig 1     1799471   1834984        -
+    24   found in unitig 1      949253    983329        +
+    25   found in unitig 1     1689954   1721607        +
+    26   found in unitig 2      555129    585553        +
+    27   found in unitig 1     1358602   1379971        -
+    28   found in unitig 2      530660    550358        +
+    29   found in unitig 1      518512    534441        -
+    30   found in unitig 2      932749    944468        +
+    31   found in unitig 1      567409    576911        -
+    32   found in unitig 1       39625     48954        +
+    33   found in unitig 1      481581    490581        -
+    34   found in unitig 1      467210    475703        +
+    35   found in unitig 1      496819    504651        -
+    36   found in unitig 1     1722543   1728814        -
+    37   found in unitig 1      542831    548547        -
+    38   found in unitig 1     1380521   1385857        -
+    39   found in unitig 1      561690    566905        +
+    40   found in unitig 1      552881    557753        +
+    41   found in unitig 1      537928    542687        -
+    42   found in unitig 1      491181    494891        +
+    43   found in unitig 1      477770    481047        +
+    44   found in unitig 1      549192    552329        +
+   130   not found                                       
+
+Searching for contigs using 2,500 bp of contig ends.
+
+Contig   Result      Start pos   End pos   Strand
+   130   not found                               
+
+Searching for contigs using 1,000 bp of contig ends.
+
+Contig   Result      Start pos   End pos   Strand
+   130   not found                               
+
+Searching for contigs using 500 bp of contig ends.
+
+Contig   Result      Start pos   End pos   Strand
+   130   not found                               
+
+Saving /data/djs217/PROJECTS/19_vibrio/06_unicycler/11671_EXE_26_2024_C.unicycler/miniasm_assembly/14_contigs_placed.gfa
+
+
+Creating miniasm/Racon bridges (2025-07-14 15:02:07)
+----------------------------------------------------
+    Now that the miniasm/Racon string graph is complete, Unicycler will use it to build bridges between anchor segments.
+
+       Start -> end    Best path                                 Quality
+ 1/44    -6 -> 32      -109                                       98.194
+ 2/44   -35 -> -29     63, 51, 67, -45, -71, 49, -61, 47, 196,    50.952
+                       72, 139, -77, -74, -203, -113                    
+ 3/44   -29 -> -41     -122, 78, 46, -119                         76.674
+ 4/44   -41 -> -37     -122                                       98.383
+ 5/44   -37 -> 44      66                                         89.402
+ 6/44    44 -> 40      -71, -190                                  87.224
+ 7/44    40 -> 39      55, 48, -119                               74.640
+ 8/44    39 -> -31     -122, 78                                   95.170
+ 9/44   -31 -> -5      73, -61, 54, -98, -216, 93, 196, 72        76.468
+10/44    -5 -> 24      194, 194, 194, 194                         98.277
+11/44    24 -> -4      -131, 212, 105, 75, -110                   91.490
+12/44    32 -> 21      -160, -140, 174, 144, -89, 168, -157,      70.583
+                       -140, 174, 69, 138, -154, -117, -169,            
+                       198, -160, -140, 174, 138, 155, -117,            
+                       -169, -157, -140, 174, 144, -89, -169,           
+                       -157, -140, -70, 174, 138, -57, 144              
+13/44    -4 -> -27     127, 87, -106                              94.753
+14/44   -27 -> -38     112, -103, 112                             92.345
+15/44   -38 -> -14     -193, -125, 187, 172, 62, -219, -162,      67.530
+                       -178, 58, 186, 53, -152, 188, -86, -170,         
+                       191, 83, 213, 56, -183, 164, -192, 148,          
+                       123                                              
+16/44   -14 -> -19     -141, -193, -125, 187, 208, 173, 62,       70.008
+                       -219, -162, -178, 58, 186, 53, -152,             
+                       188, -176, 153, 137, -189, 83, -215, 56,         
+                       -183, 197, -163                                  
+17/44   -19 -> -13     111, -206, 79, 100, 97                     91.758
+18/44   -13 -> 25      -141, -193, -125, 187, 172, 62, -219,      55.571
+                       -162, -178, 58, 186, 53, 142, 94, 143,           
+                       -135, -170, 191, 83, 213, 56, -183, 197,         
+                       -163, 118, 159, 126, -125, 187, 172, 62,         
+                       -219, -162, -178, 58, 186, 53, -152,             
+                       166, -189, 83, -215, 56, 184, 199, -167,         
+                       145, -156, 124, -217, 132                        
+19/44    25 -> -36     111, 211, 79, -101, 97                     91.561
+20/44   -36 -> -18     161, -141, -193, -125, 187, 172, 62,       55.933
+                       -219, -162, -178, 58, 186, 53, -152,             
+                       188, -86, -170, 191, 83, 213, 56, -183,          
+                       197, -163, 118, 159, 126, -125, 187,             
+                       172, 62, -219, -162, -178, 58, 186, 53,          
+                       -152, 166, -189, 83, 213, 56, 184, 165,          
+                       -192, 118, 204, 124, 132                         
+21/44   -18 -> -23     116, 202, -177, -193, -125, 187, 172,      68.282
+                       62, -219, -162, -178, 58, 186, 53, -152,         
+                       188, -86, -170, 191, 83, 213, 56, 184,           
+                       165, 145, 123                                    
+22/44   -23 -> -17     161, -141, -193, -125, 187, 172, 62,       67.682
+                       -219, -162, 179, 58, 185, 53, -152, -99,         
+                       143, 137, -209, 191, 83, -215, 56, -183,         
+                       197, -163, 118, 159, 92                          
+23/44    21 -> 12      -109                                       98.197
+24/44   -17 -> 2       -92, -159, -118, 163, -199, -184, -56,     67.389
+                       215, -83, -191, 209, -137, -143, 99,             
+                       152, -53, -185, -58, -179, 162, 219,             
+                       -62, -172, -187, 125, 193                        
+25/44     2 -> 11      -148, 192, -165, -184, -56, -213, -83,     69.433
+                       189, 95, -153, -142, -53, -185, -58,             
+                       -179, 162, -218, -62, -173, 180, 125,            
+                       193, 141                                         
+26/44    11 -> -20                                                77.609
+27/44   -20 -> -8      110, 76, -105, 214, 131                    91.913
+28/44    -8 -> -6      55                                         89.472
+29/44    -3 -> 16      195, 195, 195, 195, 195, 195, 195, 195,    97.808
+                       195, 195, 195, 195, 195, 195, 195, 195,          
+                       195, 195, 195, 195, 195, 195, 195, 195,          
+                       195, 195, 195, 195, 195, 195, 195, 195,          
+                       195, 195, 195, 195, 195                          
+30/44    16 -> 28      -121, 147, 128, -158, -85, 108, -175       88.998
+31/44    28 -> 26      -82, 150, -149, 171, -107, -81, -151,      70.909
+                       102, -146, -81, -151, -149, 134, -146,           
+                       -81, -151, -149, 134, -146, -81, -151,           
+                       -149, 134, -60, -181, 150, 91, -82,              
+                       -151, -149, 171                                  
+32/44    26 -> 22      128, -80, 108, -175, 52, -121, 90, -85,    78.944
+                       108                                              
+33/44    22 -> -15     -55                                        88.334
+34/44    12 -> 10      114, -59, 114                              89.268
+35/44   -15 -> -9      127, 88, -106                              94.635
+36/44    -9 -> 30      -96, -200, 115                             95.912
+37/44    30 -> 7       -96, -201, 115                             96.238
+38/44     7 -> -1      -129, -64, 120, -50, -129, -65, 120        76.599
+39/44    -1 -> -3      116, 210, -177, -193, -125, 187, 172,      68.535
+                       62, 218, -162, -178, 58, 185, 53, 142,           
+                       94, 143, 136, -189, 83, -215, 56, 184,           
+                       165, 145                                         
+40/44    10 -> 34      -71, -190                                  94.180
+41/44    34 -> 43      73, -133, -77, -98, 207, 93, -74, 205,     83.983
+                       -113                                             
+42/44    43 -> -33     72                                         94.818
+43/44   -33 -> 42      67                                         93.951
+44/44    42 -> -35     66, -68, 63                                83.050
+
+
+Creating simple long read bridges (2025-07-14 15:02:58)
+-------------------------------------------------------
+    Unicycler uses long read alignments (from minimap) to resolve simple repeat structures in the graph. This takes care of some "low-hanging fruit" of the graph simplification.
+
+Aligning long reads to graph using minimap
+
+    Two-way junctions are defined as cases where two graph contigs (A and B) join together (C) and then split apart again (D and E). This usually represents a simple 2-copy repeat, and there are two possible options for its resolution: (A->C->D and B->C->E) or (A->C->E and B->C->D). Each read which spans such a junction gets to "vote" for option 1, option 2 or neither. Unicycler creates a bridge at each junction for the most voted for option.
+
+                                                     Op. 1   Op. 2   Neither   Final    Bridge
+Junction        Option 1             Option 2        votes   votes     votes     op.   quality
+     109   -32 -> 109 -> -21,    -32 -> 109 -> 6,        0     112         1       2      99.1
+            -12 -> 109 -> 6     -12 -> 109 -> -21                                             
+
+    Simple loops are parts of the graph where two contigs (A and B) are connected via a repeat (C) which loops back to itself (via D). It is possible to traverse the loop zero times (A->C->B), one time (A->C->D->C->B), two times (A->C->D->C->D->C->B), etc. Long reads which span the loop inform which is the correct number of times through. In this step, such reads are found and each is aligned against alternative loop counts. A reads casts its "vote" for the loop count it agrees best with, and Unicycler creates a bridge using the most voted for count.
+
+                                   Read                         Loop    Bridge
+Start   Repeat   Middle     End   count   Read votes           count   quality
+  -10     -114       59     -12      73   1 loop: 73 votes         1      99.9
+   -5      194               24      87   2 loops: 2 votes         3      89.0
+                                          3 loops: 79 votes                   
+                                          4 loops: 3 votes                    
+                                          5 loops: 3 votes                    
+   -3      195               16      78   9 loops: 1 vote         36      71.6
+                                          31 loops: 2 votes                   
+                                          34 loops: 4 votes                   
+                                          35 loops: 4 votes                   
+                                          36 loops: 59 votes                  
+                                          37 loops: 6 votes                   
+                                          38 loops: 2 votes                   
+   11      104       84     -20      93   1 loop: 2 votes          2      97.6
+                                          2 loops: 91 votes                   
+   38     -112      103      27     101   1 loop: 101 votes        1      97.3
+
+
+Determining low score threshold (2025-07-14 15:03:25)
+-----------------------------------------------------
+    Before conducting semi-global alignment of the long reads to the assembly graph, Unicycler must determine a minimum alignment score threshold such that nonsense alignments are excluded. To choose a threshold automatically, it examines alignments between random sequences and selects a score a few standard deviations above the mean.
+
+Automatically choosing a threshold using random alignment scores.
+
+Random alignment mean score: 61.66
+         standard deviation:  1.31
+        Low score threshold: 61.66 + (7 x 1.31) = 70.86
+
+
+Aligning reads (2025-07-14 15:03:35)
+------------------------------------
+96,048 / 96,048 (100.0%)
+
+
+Read alignment summary (2025-07-14 15:33:56)
+--------------------------------------------
+Total read count:             96,048
+Fully aligned reads:          91,607
+Partially aligned reads:       4,402
+Unaligned reads:                  39
+Total bases aligned:     542,441,280 bp
+Mean alignment identity:          97.8%
+
+Deleting /data/djs217/PROJECTS/19_vibrio/06_unicycler/11671_EXE_26_2024_C.unicycler/read_alignment/
+
+
+Building long read bridges (2025-07-14 15:33:57)
+------------------------------------------------
+    Unicycler uses the long read alignments to produce bridges between anchor segments. These bridges can be formed using as few as one long read, giving Unicycler the ability to bridge the graph even when long-read depth is low.
+
+       Start -> end    Best path                                 Quality
+ 1/53    31 -> 37      -78, 122, -39, 119, -48, -55, -40, 190,    40.031
+                       71, -44, -66                                     
+ 2/53   -37 -> 39      66, 44, -71, -190, 40, 55, 48, -119        36.788
+ 3/53     7 -> -1      -129, -64, 120, -50, -129, -65, 120        83.702
+ 4/53   -13 -> 25      -141, -193, -125, 187, 172, 62, -219,      74.984
+                       -162, -178, 58, 186, 53, 142, 94, 143,           
+                       -135, -170, 191, 83, 213, 56, -183, 197,         
+                       -163, 118, 159, 126, -125, 187, 172, 62,         
+                       -219, -162, -178, 58, 186, 53, -152,             
+                       166, -189, 83, -215, 56, 184, 199, -167,         
+                       145, -156, 124, -217, 132                        
+ 5/53    29 -> 35      113, 203, 74, 77, -139, -72, -196, -47,    81.550
+                       61, -49, 71, 45, -67, -51, -63                   
+ 6/53    14 -> 38      -123, -148, 192, -164, 183, -56, -213,     77.979
+                       -83, -191, 170, 86, -188, 152, -53,              
+                       -186, -58, 178, 162, 219, -62, -172,             
+                       -187, 125, 193                                   
+ 7/53    23 -> 18      -123, -145, -165, -184, -56, -213, -83,    82.009
+                       -191, 170, 86, -188, 152, -53, -186,             
+                       -58, 178, 162, 219, -62, -172, -187,             
+                       125, 193, 177, -202, -116                        
+ 8/53    14 -> 27      -123, -148, 192, -164, 183, -56, -213,     65.768
+                       -83, -191, 170, 86, -188, 152, -53,              
+                       -186, -58, 178, 162, 219, -62, -172,             
+                       -187, 125, 193, 38, -112, 103, -112              
+ 9/53    40 -> -31     55, 48, -119, 39, -122, 78                 16.152
+10/53    17 -> 23      -92, -159, -118, 163, -197, 183, -56,      83.800
+                       215, -83, -191, 209, -137, -143, 99,             
+                       152, -53, -185, -58, -179, 162, 219,             
+                       -62, -172, -187, 125, 193, 141, -161             
+11/53    37 -> 29      122, 41, 119, -46, -78, 122                35.253
+12/53    -2 -> 17      -193, -125, 187, 172, 62, -219, -162,      83.078
+                       179, 58, 185, 53, -152, -99, 143, 137,           
+                       -209, 191, 83, -215, 56, 184, 199, -163,         
+                       118, 159, 92                                     
+13/53    18 -> 36      -132, -124, -204, -118, 192, -165, -184,   81.176
+                       -56, -213, -83, 189, -166, 152, -53,             
+                       -186, -58, 178, 162, 219, -62, -172,             
+                       -187, 125, -126, -159, -118, 163, -197,          
+                       183, -56, -213, -83, -191, 170, 86,              
+                       -188, 152, -53, -186, -58, 178, 162,             
+                       219, -62, -172, -187, 125, 193, 141,             
+                       -161                                             
+14/53     5 -> 31      -72, -196, -93, 216, 98, -54, 61, -73      82.079
+15/53    35 -> 33      -63, 68, -66, -42, -67                     41.243
+16/53    40 -> 39      55, 48, -119                               78.103
+17/53    19 -> 14      163, -197, 183, -56, 215, -83, 189,        83.023
+                       -137, -153, 176, -188, 152, -53, -186,           
+                       -58, 178, 162, 219, -62, -173, -208,             
+                       -187, 125, 193, 141                              
+18/53    34 -> -33     73, -133, -77, -98, 207, 93, -74, 205,     51.992
+                       -113, 43, 72                                     
+19/53    34 -> 43      73, -133, -77, -98, 207, 93, -74, 205,     77.309
+                       -113                                             
+20/53     2 -> 11      -148, 192, -165, -184, -56, -213, -83,     83.620
+                       189, 95, -153, -142, -53, -185, -58,             
+                       -179, 162, -218, -62, -173, 180, 125,            
+                       193, 141                                         
+21/53   -37 -> 40      66, 44, -71, -190                          54.712
+22/53    42 -> -35     66, -68, 63                                76.058
+23/53    26 -> 22      128, -80, 108, -175, 52, -121, 90, -85,    57.517
+                       108                                              
+24/53    41 -> 29      119, -46, -78, 122                         55.855
+25/53    36 -> -25     -97, 101, -79, -211, -111                  80.904
+26/53    12 -> 10      114, -59, 114                              83.621
+27/53     3 -> 1       -145, -165, -184, -56, 215, -83, 189,      74.661
+                       -136, -143, -94, -142, -53, -185, -58,           
+                       178, 162, -218, -62, -172, -187, 125,            
+                       193, 177, -210, -116                             
+28/53    22 -> -15     -55                                        82.392
+29/53    20 -> -11                                                36.636
+30/53    13 -> 19      -97, -100, -79, 206, -111                  83.329
+31/53    27 -> 4       106, -87, -127                             83.213
+32/53     8 -> 20      -131, -214, 105, -76, -110                 83.690
+33/53    24 -> -4      -131, 212, 105, 75, -110                   82.835
+34/53    38 -> 27      -112, 103, -112                            78.129
+35/53     6 -> 8       -55                                        81.033
+36/53   -37 -> 44      66                                         72.554
+37/53   -33 -> 42      67                                         77.608
+38/53     9 -> 15      106, -88, -127                             83.856
+39/53    44 -> 40      -71, -190                                  70.016
+40/53    26 -> 28      128, -158, -85, 108, -175                   8.738
+41/53    -9 -> 30      -96, -200, 115                             81.904
+42/53    39 -> -31     -122, 78                                   79.197
+43/53    43 -> -33     72                                         77.338
+44/53    30 -> 7       -96, -201, 115                             68.174
+45/53    -6 -> 32      -109                                       82.339
+46/53    10 -> 34      -71, -190                                  81.005
+47/53    -5 -> 24      194, 194, 194, 194                         82.206
+48/53    32 -> 21      -160, -140, 174, 144, -89, 168, -157,      81.149
+                       -140, 174, 69, 138, -154, -117, -169,            
+                       198, -160, -140, 174, 138, 155, -117,            
+                       -169, -157, -140, 174, 144, -89, -169,           
+                       -157, -140, -70, 174, 138, -57, 144              
+49/53    37 -> 41      122                                        77.806
+50/53    21 -> 12      -109                                       81.707
+51/53    16 -> 28      -121, 147, 128, -158, -85, 108, -175       78.653
+52/53    -3 -> 16      195, 195, 195, 195, 195, 195, 195, 195,    83.719
+                       195, 195, 195, 195, 195, 195, 195, 195,          
+                       195, 195, 195, 195, 195, 195, 195, 195,          
+                       195, 195, 195, 195, 195, 195, 195, 195,          
+                       195, 195, 195, 195, 195                          
+53/53    28 -> 26      -82, 150, -149, 171, -107, -81, -151,      46.624
+                       102, -146, -81, -151, -149, 134, -146,           
+                       -81, -151, -149, 134, -146, -81, -151,           
+                       -149, 134, -60, -181, 150, 91, -82,              
+                       -151, -149, 171                                  
+
+
+Applying bridges (2025-07-14 15:34:21)
+--------------------------------------
+    Unicycler now applies to the graph in decreasing order of quality. This ensures that when multiple, contradictory bridges exist, the most supported option is used.
+
+Bridge type        Start -> end   Path                                       Quality
+simple long read    -10 -> -12    -114, 59, -114                              99.924
+simple long read    -12 -> -21    109                                         99.080
+simple long read    -32 -> 6      109                                         99.077
+miniasm             -41 -> -37    -122                                        98.383
+miniasm              -5 -> 24     194, 194, 194, 194                          98.277
+miniasm              -3 -> 16     195, 195, 195, 195, 195, 195, 195, 195,     97.808
+                                  195, 195, 195, 195, 195, 195, 195, 195,           
+                                  195, 195, 195, 195, 195, 195, 195, 195,           
+                                  195, 195, 195, 195, 195, 195, 195, 195,           
+                                  195, 195, 195, 195, 195                           
+simple long read     11 -> -20    104, 84, 104, 84, 104                       97.599
+simple long read     38 -> 27     -112, 103, -112                             97.292
+miniasm              30 -> 7      -96, -201, 115                              96.238
+miniasm              -9 -> 30     -96, -200, 115                              95.912
+miniasm              39 -> -31    -122, 78                                    95.170
+miniasm              43 -> -33    72                                          94.818
+miniasm              -4 -> -27    127, 87, -106                               94.753
+miniasm             -15 -> -9     127, 88, -106                               94.635
+miniasm              10 -> 34     -71, -190                                   94.180
+miniasm             -33 -> 42     67                                          93.951
+miniasm             -20 -> -8     110, 76, -105, 214, 131                     91.913
+miniasm             -19 -> -13    111, -206, 79, 100, 97                      91.758
+miniasm              25 -> -36    111, 211, 79, -101, 97                      91.561
+miniasm              24 -> -4     -131, 212, 105, 75, -110                    91.490
+miniasm              -8 -> -6     55                                          89.472
+miniasm             -37 -> 44     66                                          89.402
+miniasm              16 -> 28     -121, 147, 128, -158, -85, 108, -175        88.998
+miniasm              22 -> -15    -55                                         88.334
+miniasm              44 -> 40     -71, -190                                   87.224
+miniasm              34 -> 43     73, -133, -77, -98, 207, 93, -74, 205,      83.983
+                                  -113                                              
+long read            17 -> 23     -92, -159, -118, 163, -197, 183, -56,       83.800
+                                  215, -83, -191, 209, -137, -143, 99,              
+                                  152, -53, -185, -58, -179, 162, 219,              
+                                  -62, -172, -187, 125, 193, 141, -161              
+long read             7 -> -1     -129, -64, 120, -50, -129, -65, 120         83.702
+long read             2 -> 11     -148, 192, -165, -184, -56, -213, -83,      83.620
+                                  189, 95, -153, -142, -53, -185, -58,              
+                                  -179, 162, -218, -62, -173, 180, 125,             
+                                  193, 141                                          
+long read            -2 -> 17     -193, -125, 187, 172, 62, -219, -162,       83.078
+                                  179, 58, 185, 53, -152, -99, 143, 137,            
+                                  -209, 191, 83, -215, 56, 184, 199, -163,          
+                                  118, 159, 92                                      
+miniasm              42 -> -35    66, -68, 63                                 83.050
+long read            19 -> 14     163, -197, 183, -56, 215, -83, 189,         83.023
+                                  -137, -153, 176, -188, 152, -53, -186,            
+                                  -58, 178, 162, 219, -62, -173, -208,              
+                                  -187, 125, 193, 141                               
+long read             5 -> 31     -72, -196, -93, 216, 98, -54, 61, -73       82.079
+long read            23 -> 18     -123, -145, -165, -184, -56, -213, -83,     82.009
+                                  -191, 170, 86, -188, 152, -53, -186,              
+                                  -58, 178, 162, 219, -62, -172, -187,              
+                                  125, 193, 177, -202, -116                         
+long read            29 -> 35     113, 203, 74, 77, -139, -72, -196, -47,     81.550
+                                  61, -49, 71, 45, -67, -51, -63                    
+long read            18 -> 36     -132, -124, -204, -118, 192, -165, -184,    81.176
+                                  -56, -213, -83, 189, -166, 152, -53,              
+                                  -186, -58, 178, 162, 219, -62, -172,              
+                                  -187, 125, -126, -159, -118, 163, -197,           
+                                  183, -56, -213, -83, -191, 170, 86,               
+                                  -188, 152, -53, -186, -58, 178, 162,              
+                                  219, -62, -172, -187, 125, 193, 141,              
+                                  -161                                              
+long read            32 -> 21     -160, -140, 174, 144, -89, 168, -157,       81.149
+                                  -140, 174, 69, 138, -154, -117, -169,             
+                                  198, -160, -140, 174, 138, 155, -117,             
+                                  -169, -157, -140, 174, 144, -89, -169,            
+                                  -157, -140, -70, 174, 138, -57, 144               
+miniasm              26 -> 22     128, -80, 108, -175, 52, -121, 90, -85,     78.944
+                                  108                                               
+long read            40 -> 39     55, 48, -119                                78.103
+long read            14 -> 38     -123, -148, 192, -164, 183, -56, -213,      77.979
+                                  -83, -191, 170, 86, -188, 152, -53,               
+                                  -186, -58, 178, 162, 219, -62, -172,              
+                                  -187, 125, 193                                    
+miniasm             -29 -> -41    -122, 78, 46, -119                          76.674
+long read           -13 -> 25     -141, -193, -125, 187, 172, 62, -219,       74.984
+                                  -162, -178, 58, 186, 53, 142, 94, 143,            
+                                  -135, -170, 191, 83, 213, 56, -183, 197,          
+                                  -163, 118, 159, 126, -125, 187, 172, 62,          
+                                  -219, -162, -178, 58, 186, 53, -152,              
+                                  166, -189, 83, -215, 56, 184, 199, -167,          
+                                  145, -156, 124, -217, 132                         
+long read             3 -> 1      -145, -165, -184, -56, 215, -83, 189,       74.661
+                                  -136, -143, -94, -142, -53, -185, -58,            
+                                  178, 162, -218, -62, -172, -187, 125,             
+                                  193, 177, -210, -116                              
+miniasm              28 -> 26     -82, 150, -149, 171, -107, -81, -151,       70.909
+                                  102, -146, -81, -151, -149, 134, -146,            
+                                  -81, -151, -149, 134, -146, -81, -151,            
+                                  -149, 134, -60, -181, 150, 91, -82,               
+                                  -151, -149, 171                                   
+
+Saving /data/djs217/PROJECTS/19_vibrio/06_unicycler/11671_EXE_26_2024_C.unicycler/005_bridges_applied.gfa
+
+
+Bridged assembly graph (2025-07-14 15:34:21)
+--------------------------------------------
+    The assembly is now mostly finished and no more structural changes will be made. Ideally the assembly graph should now have one contig per replicon and no erroneous contigs (i.e. a complete assembly). If there are more contigs, then the assembly is not complete.
+
+Saving /data/djs217/PROJECTS/19_vibrio/06_unicycler/11671_EXE_26_2024_C.unicycler/006_final_clean.gfa
+
+Component   Segments   Links   Length      N50         Longest segment   Status  
+    total          2       2   5,173,766   3,297,426         3,297,426           
+        1          1       1   3,297,426   3,297,426         3,297,426   complete
+        2          1       1   1,876,340   1,876,340         1,876,340   complete
+
+
+Rotating completed replicons (2025-07-14 15:34:21)
+--------------------------------------------------
+    Any completed circular contigs (i.e. single contigs which have one link connecting end to start) can have their start position changed without altering the sequence. For consistency, Unicycler now searches for a starting gene (dnaA or repA) in each such contig, and if one is found, the contig is rotated to start with that gene on the forward strand.
+
+Segment   Length      Depth   Starting gene     Position    Strand    Identity   Coverage
+      1   3,297,426   1.00x   UniRef90_P49996   3,266,151   forward      97.7%     100.0%
+      2   1,876,340   0.98x   none found                                                 
+
+Saving /data/djs217/PROJECTS/19_vibrio/06_unicycler/11671_EXE_26_2024_C.unicycler/007_rotated.gfa
+
+
+Assembly complete (2025-07-14 15:35:40)
+---------------------------------------
+Saving /data/djs217/PROJECTS/19_vibrio/06_unicycler/11671_EXE_26_2024_C.unicycler/assembly.gfa
+Saving /data/djs217/PROJECTS/19_vibrio/06_unicycler/11671_EXE_26_2024_C.unicycler/assembly.fasta
+

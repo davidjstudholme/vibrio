@@ -1,0 +1,11 @@
+START:nanoplot
+NanoPlot 1.43.0
+END:nanoplot
+START:blast
+blastn: 2.11.0+
+ Package: blast 2.11.0, build Jun 14 2021 16:41:40
+Database: Nucleotide collection (nt)
+	57,377,397 sequences; 272,492,468,589 total bases
+
+Date: Apr 6, 2020  5:57 AM	Longest sequence: 99,791,824 bases
+END:blast

@@ -1,0 +1,172 @@
+/data/djs217/miniconda3/envs/quast_env/lib/python3.6/site-packages/quast-5.0.2-py3.6.egg-info/scripts/quast.py complete/11813_EXE_01_2024_7_PBC74148_final.fasta complete/11813_EXE_06_2024_E_PBC74148_final.fasta complete/11813_EXE_09_2024_B_PBC74148_final.fasta complete/11813_EXE_12_2025_A_PBC74148_final.fasta complete/11813_EXE_13_2025_H_PBC74148_final.fasta complete/11813_EXE_19_2024_M_PBC74148_final.fasta complete/11813_EXE_20_2024_J_PBC74148_final.fasta complete/11813_EXE_21_2025_F_PBC74148_final.fasta complete/11813_EXE_22_2025_T1A_PBC74148_final.fasta complete/11813_EXE_26_2025_C_PBC74148_final.fasta complete/11813_EXE_27_2025_A_PBC74148_final.fasta complete/11813_EXE_27_2025_D_PBC74148_final.fasta complete/11813_EXE_28_2025_A_PBC74148_final.fasta complete/11813_EXE_28_2025_W_PBC74148_final.fasta complete/11813_EXE_29_2025_K_PBC74148_final.fasta complete/11813_EXE_29_2025_V_PBC74148_final.fasta complete/11813_EXE_30_2024_F_PBC74148_final.fasta complete/11813_EXE_30_2025_L_PBC74148_final.fasta complete/11813_EXE_30_2025_S_PBC74148_final.fasta complete/11813_EXE_33_2024_C_PBC74148_final.fasta complete/11813_EXE_33_2024_F_PBC74148_final.fasta complete/11813_EXE_34_2024_C_PBC74148_final.fasta complete/11813_EXE_34_2024_P_PBC74148_final.fasta
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-6.8.0-51-generic-x86_64-with-debian-trixie-sid (linux_64)
+  Python version: 3.6.13
+  CPUs number: 16
+
+Started: 2025-10-20 18:24:47
+
+Logging to /data/djs217/vibrio/P0213_250813_11813/03_quast/quast_results/results_2025_10_20_18_24_47/quast.log
+NOTICE: Maximum number of threads is set to 4 (use --threads option to set it manually)
+
+CWD: /data/djs217/vibrio/P0213_250813_11813/03_quast
+Main parameters: 
+  MODE: default, threads: 4, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+  1  complete/11813_EXE_01_2024_7_PBC74148_final.fasta ==> 11813_EXE_01_2024_7_PBC74148_final
+  2  complete/11813_EXE_06_2024_E_PBC74148_final.fasta ==> 11813_EXE_06_2024_E_PBC74148_final
+  3  complete/11813_EXE_09_2024_B_PBC74148_final.fasta ==> 11813_EXE_09_2024_B_PBC74148_final
+  4  complete/11813_EXE_12_2025_A_PBC74148_final.fasta ==> 11813_EXE_12_2025_A_PBC74148_final
+  5  complete/11813_EXE_13_2025_H_PBC74148_final.fasta ==> 11813_EXE_13_2025_H_PBC74148_final
+  6  complete/11813_EXE_19_2024_M_PBC74148_final.fasta ==> 11813_EXE_19_2024_M_PBC74148_final
+  7  complete/11813_EXE_20_2024_J_PBC74148_final.fasta ==> 11813_EXE_20_2024_J_PBC74148_final
+  8  complete/11813_EXE_21_2025_F_PBC74148_final.fasta ==> 11813_EXE_21_2025_F_PBC74148_final
+  9  complete/11813_EXE_22_2025_T1A_PBC74148_final.fasta ==> 11813_EXE_22_2025_T1A_PBC74148_final
+  10 complete/11813_EXE_26_2025_C_PBC74148_final.fasta ==> 11813_EXE_26_2025_C_PBC74148_final
+  11 complete/11813_EXE_27_2025_A_PBC74148_final.fasta ==> 11813_EXE_27_2025_A_PBC74148_final
+  12 complete/11813_EXE_27_2025_D_PBC74148_final.fasta ==> 11813_EXE_27_2025_D_PBC74148_final
+  13 complete/11813_EXE_28_2025_A_PBC74148_final.fasta ==> 11813_EXE_28_2025_A_PBC74148_final
+  14 complete/11813_EXE_28_2025_W_PBC74148_final.fasta ==> 11813_EXE_28_2025_W_PBC74148_final
+  15 complete/11813_EXE_29_2025_K_PBC74148_final.fasta ==> 11813_EXE_29_2025_K_PBC74148_final
+  16 complete/11813_EXE_29_2025_V_PBC74148_final.fasta ==> 11813_EXE_29_2025_V_PBC74148_final
+  17 complete/11813_EXE_30_2024_F_PBC74148_final.fasta ==> 11813_EXE_30_2024_F_PBC74148_final
+  18 complete/11813_EXE_30_2025_L_PBC74148_final.fasta ==> 11813_EXE_30_2025_L_PBC74148_final
+  19 complete/11813_EXE_30_2025_S_PBC74148_final.fasta ==> 11813_EXE_30_2025_S_PBC74148_final
+  20 complete/11813_EXE_33_2024_C_PBC74148_final.fasta ==> 11813_EXE_33_2024_C_PBC74148_final
+  21 complete/11813_EXE_33_2024_F_PBC74148_final.fasta ==> 11813_EXE_33_2024_F_PBC74148_final
+  22 complete/11813_EXE_34_2024_C_PBC74148_final.fasta ==> 11813_EXE_34_2024_C_PBC74148_final
+  23 complete/11813_EXE_34_2024_P_PBC74148_final.fasta ==> 11813_EXE_34_2024_P_PBC74148_final
+
+2025-10-20 18:24:49
+Running Basic statistics processor...
+  Contig files: 
+    1  11813_EXE_01_2024_7_PBC74148_final
+    2  11813_EXE_06_2024_E_PBC74148_final
+    3  11813_EXE_09_2024_B_PBC74148_final
+    4  11813_EXE_12_2025_A_PBC74148_final
+    5  11813_EXE_13_2025_H_PBC74148_final
+    6  11813_EXE_19_2024_M_PBC74148_final
+    7  11813_EXE_20_2024_J_PBC74148_final
+    8  11813_EXE_21_2025_F_PBC74148_final
+    9  11813_EXE_22_2025_T1A_PBC74148_final
+    10 11813_EXE_26_2025_C_PBC74148_final
+    11 11813_EXE_27_2025_A_PBC74148_final
+    12 11813_EXE_27_2025_D_PBC74148_final
+    13 11813_EXE_28_2025_A_PBC74148_final
+    14 11813_EXE_28_2025_W_PBC74148_final
+    15 11813_EXE_29_2025_K_PBC74148_final
+    16 11813_EXE_29_2025_V_PBC74148_final
+    17 11813_EXE_30_2024_F_PBC74148_final
+    18 11813_EXE_30_2025_L_PBC74148_final
+    19 11813_EXE_30_2025_S_PBC74148_final
+    20 11813_EXE_33_2024_C_PBC74148_final
+    21 11813_EXE_33_2024_F_PBC74148_final
+    22 11813_EXE_34_2024_C_PBC74148_final
+    23 11813_EXE_34_2024_P_PBC74148_final
+  Calculating N50 and L50...
+    1  11813_EXE_01_2024_7_PBC74148_final, N50 = 3319419, L50 = 1, Total length = 5297070, GC % = 44.59, # N's per 100 kbp =  0.00
+    2  11813_EXE_06_2024_E_PBC74148_final, N50 = 3352516, L50 = 1, Total length = 5218439, GC % = 44.84, # N's per 100 kbp =  0.00
+    3  11813_EXE_09_2024_B_PBC74148_final, N50 = 3358984, L50 = 1, Total length = 5333978, GC % = 44.63, # N's per 100 kbp =  0.00
+    4  11813_EXE_12_2025_A_PBC74148_final, N50 = 3241113, L50 = 1, Total length = 5122773, GC % = 44.82, # N's per 100 kbp =  0.00
+    5  11813_EXE_13_2025_H_PBC74148_final, N50 = 3211347, L50 = 1, Total length = 4384659, GC % = 42.85, # N's per 100 kbp =  0.00
+    6  11813_EXE_19_2024_M_PBC74148_final, N50 = 3316628, L50 = 1, Total length = 5142478, GC % = 44.88, # N's per 100 kbp =  0.00
+    7  11813_EXE_20_2024_J_PBC74148_final, N50 = 3334477, L50 = 1, Total length = 5202567, GC % = 44.88, # N's per 100 kbp =  0.00
+    8  11813_EXE_21_2025_F_PBC74148_final, N50 = 3351839, L50 = 1, Total length = 5325000, GC % = 44.59, # N's per 100 kbp =  0.00
+    9  11813_EXE_22_2025_T1A_PBC74148_final, N50 = 3353936, L50 = 1, Total length = 5285069, GC % = 44.79, # N's per 100 kbp =  0.00
+    10 11813_EXE_26_2025_C_PBC74148_final, N50 = 3587961, L50 = 1, Total length = 5244899, GC % = 45.32, # N's per 100 kbp =  0.00
+    11 11813_EXE_27_2025_A_PBC74148_final, N50 = 3828699, L50 = 1, Total length = 6204871, GC % = 44.92, # N's per 100 kbp =  0.00
+    12 11813_EXE_27_2025_D_PBC74148_final, N50 = 3368927, L50 = 1, Total length = 5194567, GC % = 44.80, # N's per 100 kbp =  0.00
+    13 11813_EXE_28_2025_A_PBC74148_final, N50 = 3098159, L50 = 1, Total length = 5251920, GC % = 44.13, # N's per 100 kbp =  0.00
+    14 11813_EXE_28_2025_W_PBC74148_final, N50 = 3023614, L50 = 1, Total length = 4234954, GC % = 45.25, # N's per 100 kbp =  0.00
+    15 11813_EXE_29_2025_K_PBC74148_final, N50 = 886854, L50 = 2, Total length = 5837471, GC % = 45.10, # N's per 100 kbp =  0.00
+    16 11813_EXE_29_2025_V_PBC74148_final, N50 = 3313267, L50 = 1, Total length = 5260959, GC % = 44.94, # N's per 100 kbp =  0.00
+    17 11813_EXE_30_2024_F_PBC74148_final, N50 = 3352933, L50 = 1, Total length = 5330579, GC % = 44.60, # N's per 100 kbp =  0.00
+    18 11813_EXE_30_2025_L_PBC74148_final, N50 = 3368879, L50 = 1, Total length = 5217583, GC % = 44.61, # N's per 100 kbp =  0.00
+    19 11813_EXE_30_2025_S_PBC74148_final, N50 = 3201228, L50 = 1, Total length = 4979266, GC % = 45.47, # N's per 100 kbp =  0.00
+    20 11813_EXE_33_2024_C_PBC74148_final, N50 = 3389645, L50 = 1, Total length = 5192233, GC % = 44.81, # N's per 100 kbp =  0.00
+    21 11813_EXE_33_2024_F_PBC74148_final, N50 = 3267359, L50 = 1, Total length = 5003445, GC % = 45.43, # N's per 100 kbp =  0.00
+    22 11813_EXE_34_2024_C_PBC74148_final, N50 = 3375299, L50 = 1, Total length = 5192869, GC % = 44.83, # N's per 100 kbp =  0.00
+    23 11813_EXE_34_2024_P_PBC74148_final, N50 = 3267373, L50 = 1, Total length = 4877922, GC % = 45.47, # N's per 100 kbp =  0.00
+  Drawing Nx plot...
+    saved to /data/djs217/vibrio/P0213_250813_11813/03_quast/quast_results/results_2025_10_20_18_24_47/basic_stats/Nx_plot.pdf
+  Drawing cumulative plot...
+    saved to /data/djs217/vibrio/P0213_250813_11813/03_quast/quast_results/results_2025_10_20_18_24_47/basic_stats/cumulative_plot.pdf
+  Drawing GC content plot...
+    saved to /data/djs217/vibrio/P0213_250813_11813/03_quast/quast_results/results_2025_10_20_18_24_47/basic_stats/GC_content_plot.pdf
+  Drawing 11813_EXE_01_2024_7_PBC74148_final GC content plot...
+    saved to /data/djs217/vibrio/P0213_250813_11813/03_quast/quast_results/results_2025_10_20_18_24_47/basic_stats/11813_EXE_01_2024_7_PBC74148_final_GC_content_plot.pdf
+  Drawing 11813_EXE_06_2024_E_PBC74148_final GC content plot...
+    saved to /data/djs217/vibrio/P0213_250813_11813/03_quast/quast_results/results_2025_10_20_18_24_47/basic_stats/11813_EXE_06_2024_E_PBC74148_final_GC_content_plot.pdf
+  Drawing 11813_EXE_09_2024_B_PBC74148_final GC content plot...
+    saved to /data/djs217/vibrio/P0213_250813_11813/03_quast/quast_results/results_2025_10_20_18_24_47/basic_stats/11813_EXE_09_2024_B_PBC74148_final_GC_content_plot.pdf
+  Drawing 11813_EXE_12_2025_A_PBC74148_final GC content plot...
+    saved to /data/djs217/vibrio/P0213_250813_11813/03_quast/quast_results/results_2025_10_20_18_24_47/basic_stats/11813_EXE_12_2025_A_PBC74148_final_GC_content_plot.pdf
+  Drawing 11813_EXE_13_2025_H_PBC74148_final GC content plot...
+    saved to /data/djs217/vibrio/P0213_250813_11813/03_quast/quast_results/results_2025_10_20_18_24_47/basic_stats/11813_EXE_13_2025_H_PBC74148_final_GC_content_plot.pdf
+  Drawing 11813_EXE_19_2024_M_PBC74148_final GC content plot...
+    saved to /data/djs217/vibrio/P0213_250813_11813/03_quast/quast_results/results_2025_10_20_18_24_47/basic_stats/11813_EXE_19_2024_M_PBC74148_final_GC_content_plot.pdf
+  Drawing 11813_EXE_20_2024_J_PBC74148_final GC content plot...
+    saved to /data/djs217/vibrio/P0213_250813_11813/03_quast/quast_results/results_2025_10_20_18_24_47/basic_stats/11813_EXE_20_2024_J_PBC74148_final_GC_content_plot.pdf
+  Drawing 11813_EXE_21_2025_F_PBC74148_final GC content plot...
+    saved to /data/djs217/vibrio/P0213_250813_11813/03_quast/quast_results/results_2025_10_20_18_24_47/basic_stats/11813_EXE_21_2025_F_PBC74148_final_GC_content_plot.pdf
+  Drawing 11813_EXE_22_2025_T1A_PBC74148_final GC content plot...
+    saved to /data/djs217/vibrio/P0213_250813_11813/03_quast/quast_results/results_2025_10_20_18_24_47/basic_stats/11813_EXE_22_2025_T1A_PBC74148_final_GC_content_plot.pdf
+  Drawing 11813_EXE_26_2025_C_PBC74148_final GC content plot...
+    saved to /data/djs217/vibrio/P0213_250813_11813/03_quast/quast_results/results_2025_10_20_18_24_47/basic_stats/11813_EXE_26_2025_C_PBC74148_final_GC_content_plot.pdf
+  Drawing 11813_EXE_27_2025_A_PBC74148_final GC content plot...
+    saved to /data/djs217/vibrio/P0213_250813_11813/03_quast/quast_results/results_2025_10_20_18_24_47/basic_stats/11813_EXE_27_2025_A_PBC74148_final_GC_content_plot.pdf
+  Drawing 11813_EXE_27_2025_D_PBC74148_final GC content plot...
+    saved to /data/djs217/vibrio/P0213_250813_11813/03_quast/quast_results/results_2025_10_20_18_24_47/basic_stats/11813_EXE_27_2025_D_PBC74148_final_GC_content_plot.pdf
+  Drawing 11813_EXE_28_2025_A_PBC74148_final GC content plot...
+    saved to /data/djs217/vibrio/P0213_250813_11813/03_quast/quast_results/results_2025_10_20_18_24_47/basic_stats/11813_EXE_28_2025_A_PBC74148_final_GC_content_plot.pdf
+  Drawing 11813_EXE_28_2025_W_PBC74148_final GC content plot...
+    saved to /data/djs217/vibrio/P0213_250813_11813/03_quast/quast_results/results_2025_10_20_18_24_47/basic_stats/11813_EXE_28_2025_W_PBC74148_final_GC_content_plot.pdf
+  Drawing 11813_EXE_29_2025_K_PBC74148_final GC content plot...
+    saved to /data/djs217/vibrio/P0213_250813_11813/03_quast/quast_results/results_2025_10_20_18_24_47/basic_stats/11813_EXE_29_2025_K_PBC74148_final_GC_content_plot.pdf
+  Drawing 11813_EXE_29_2025_V_PBC74148_final GC content plot...
+    saved to /data/djs217/vibrio/P0213_250813_11813/03_quast/quast_results/results_2025_10_20_18_24_47/basic_stats/11813_EXE_29_2025_V_PBC74148_final_GC_content_plot.pdf
+  Drawing 11813_EXE_30_2024_F_PBC74148_final GC content plot...
+    saved to /data/djs217/vibrio/P0213_250813_11813/03_quast/quast_results/results_2025_10_20_18_24_47/basic_stats/11813_EXE_30_2024_F_PBC74148_final_GC_content_plot.pdf
+  Drawing 11813_EXE_30_2025_L_PBC74148_final GC content plot...
+    saved to /data/djs217/vibrio/P0213_250813_11813/03_quast/quast_results/results_2025_10_20_18_24_47/basic_stats/11813_EXE_30_2025_L_PBC74148_final_GC_content_plot.pdf
+  Drawing 11813_EXE_30_2025_S_PBC74148_final GC content plot...
+    saved to /data/djs217/vibrio/P0213_250813_11813/03_quast/quast_results/results_2025_10_20_18_24_47/basic_stats/11813_EXE_30_2025_S_PBC74148_final_GC_content_plot.pdf
+  Drawing 11813_EXE_33_2024_C_PBC74148_final GC content plot...
+    saved to /data/djs217/vibrio/P0213_250813_11813/03_quast/quast_results/results_2025_10_20_18_24_47/basic_stats/11813_EXE_33_2024_C_PBC74148_final_GC_content_plot.pdf
+  Drawing 11813_EXE_33_2024_F_PBC74148_final GC content plot...
+    saved to /data/djs217/vibrio/P0213_250813_11813/03_quast/quast_results/results_2025_10_20_18_24_47/basic_stats/11813_EXE_33_2024_F_PBC74148_final_GC_content_plot.pdf
+  Drawing 11813_EXE_34_2024_C_PBC74148_final GC content plot...
+    saved to /data/djs217/vibrio/P0213_250813_11813/03_quast/quast_results/results_2025_10_20_18_24_47/basic_stats/11813_EXE_34_2024_C_PBC74148_final_GC_content_plot.pdf
+  Drawing 11813_EXE_34_2024_P_PBC74148_final GC content plot...
+    saved to /data/djs217/vibrio/P0213_250813_11813/03_quast/quast_results/results_2025_10_20_18_24_47/basic_stats/11813_EXE_34_2024_P_PBC74148_final_GC_content_plot.pdf
+Done.
+
+NOTICE: Genes are not predicted by default. Use --gene-finding or --glimmer option to enable it.
+
+2025-10-20 18:24:58
+Creating large visual summaries...
+This may take a while: press Ctrl-C to skip this step..
+  1 of 2: Creating Icarus viewers...
+  2 of 2: Creating PDF with all tables and plots...
+Done
+
+2025-10-20 18:25:03
+RESULTS:
+  Text versions of total report are saved to /data/djs217/vibrio/P0213_250813_11813/03_quast/quast_results/results_2025_10_20_18_24_47/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /data/djs217/vibrio/P0213_250813_11813/03_quast/quast_results/results_2025_10_20_18_24_47/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version (interactive tables and plots) is saved to /data/djs217/vibrio/P0213_250813_11813/03_quast/quast_results/results_2025_10_20_18_24_47/report.html
+  PDF version (tables and plots) is saved to /data/djs217/vibrio/P0213_250813_11813/03_quast/quast_results/results_2025_10_20_18_24_47/report.pdf
+  Icarus (contig browser) is saved to /data/djs217/vibrio/P0213_250813_11813/03_quast/quast_results/results_2025_10_20_18_24_47/icarus.html
+  Log is saved to /data/djs217/vibrio/P0213_250813_11813/03_quast/quast_results/results_2025_10_20_18_24_47/quast.log
+
+Finished: 2025-10-20 18:25:03
+Elapsed time: 0:00:15.538754
+NOTICEs: 2; WARNINGs: 0; non-fatal ERRORs: 0
+
+Thank you for using QUAST!

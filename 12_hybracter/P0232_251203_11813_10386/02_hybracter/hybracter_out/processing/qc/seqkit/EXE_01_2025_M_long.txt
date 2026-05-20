@@ -1,0 +1,2 @@
+file	format	type	num_seqs	sum_len	min_len	avg_len	max_len	N50	N90
+hybracter_out/processing/qc/EXE_01_2025_M_filt_trim.fastq.gz	FASTQ	DNA	24308	244785777	883	10070.2	177687	21540	4327

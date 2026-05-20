@@ -1,0 +1,1 @@
+Command line: samtools sort -@ 1 hybracter_out/processing/plassembler/EXE_01_2025_M/combined_long.sam -o hybracter_out/processing/plassembler/EXE_01_2025_M/combined_sorted_long.bam

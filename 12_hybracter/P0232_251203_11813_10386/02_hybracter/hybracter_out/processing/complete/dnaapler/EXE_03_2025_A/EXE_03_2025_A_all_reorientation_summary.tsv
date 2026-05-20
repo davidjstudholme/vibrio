@@ -1,0 +1,2 @@
+Contig	Gene_Reoriented	Start	Strand	Top_Hit	Top_Hit_Length	Covered_Length	Coverage	Identical_AAs	Identity_Percentage	Overlapping_Contig_End
+contig_1	dnaA	224275	forward	sp~A7N1E9~DNAA_VIBC1	468	468	100.0	465	99.36	False

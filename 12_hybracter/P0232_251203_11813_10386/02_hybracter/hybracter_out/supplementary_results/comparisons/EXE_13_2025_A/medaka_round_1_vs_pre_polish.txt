@@ -1,0 +1,13 @@
+  3 differences
+    pre_polish:contig_1 1839564-1839594: CGTGACATCTAACGTCAGCCGGCTCACCTTC
+medaka_round_1:contig_1 1839564-1839593: CGTGACATCTAACGT-AGCCGGCTCACCTTC
+                                                       *               
+
+    pre_polish:contig_1 1945636-1945665: CTATTCGCTAAATTT-CCCCCCCCCCCTGCT
+medaka_round_1:contig_1 1945635-1945665: CTATTCGCTAAATTTCCCCCCCCCCCCTGCT
+                                                       *               
+
+    pre_polish:contig_1 2029230-2029260: CCGTTGGCTGGCCGCTTTTTTCGATGAAGGT
+medaka_round_1:contig_1 2029230-2029259: CCGTTGGCTGGCCGC-TTTTTCGATGAAGGT
+                                                       *               
+

@@ -1,0 +1,5 @@
+  1 difference
+      pre_polish:contig_1 404566-404596: AGATTTATCAGCTTCAGAGCCAGAAACTTAT
+  medaka_round_1:contig_1 404566-404595: AGATTTATCAGCTTC-GAGCCAGAAACTTAT
+                                                       *               
+

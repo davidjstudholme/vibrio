@@ -1,0 +1,9 @@
+  2 differences
+    pre_polish:contig_2 1760123-1760153: AGTGAGAAACGCACCCTTATCACCCGTGAGT
+medaka_round_1:contig_2 1760123-1760153: AGTGAGAAACGCACCTTTATCACCCGTGAGT
+                                                       *               
+
+    pre_polish:contig_2 2580440-2580469: ATCGCTCCGTTTTCC-GGGGGGAAAAGGCTC
+medaka_round_1:contig_2 2580440-2580470: ATCGCTCCGTTTTCCGGGGGGGAAAAGGCTC
+                                                       *               
+

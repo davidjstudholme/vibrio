@@ -1,0 +1,82 @@
+2026-03-27 00:30:47.048 | INFO     | plassembler:begin_plassembler:101 - You are using Plassembler version 1.8.1
+
+2026-03-27 00:30:47.048 | INFO     | plassembler:begin_plassembler:102 - Repository homepage is https://github.com/gbouras13/plassembler
+2026-03-27 00:30:47.048 | INFO     | plassembler:begin_plassembler:103 - Written by George Bouras: george.bouras@adelaide.edu.au
+2026-03-27 00:30:47.048 | INFO     | plassembler:long:1371 - Database directory is /data/djs217/miniconda3/envs/hybracter_env/lib/python3.11/site-packages/hybracter/workflow/../databases
+2026-03-27 00:30:47.048 | INFO     | plassembler:long:1372 - Longreads file is hybracter_out/processing/qc/EXE_20_2025_B_filt_trim.fastq.gz
+2026-03-27 00:30:47.048 | INFO     | plassembler:long:1373 - Chromosome length threshold is 2800000
+2026-03-27 00:30:47.048 | INFO     | plassembler:long:1374 - Output directory is hybracter_out/processing/plassembler/EXE_20_2025_B
+2026-03-27 00:30:47.048 | INFO     | plassembler:long:1375 - Min long read length is 500
+2026-03-27 00:30:47.048 | INFO     | plassembler:long:1376 - Min long read quality is 9
+2026-03-27 00:30:47.048 | INFO     | plassembler:long:1377 - Thread count is 1
+2026-03-27 00:30:47.048 | INFO     | plassembler:long:1378 - --force is True
+2026-03-27 00:30:47.048 | INFO     | plassembler:long:1379 - --skip_qc is True
+2026-03-27 00:30:47.048 | INFO     | plassembler:long:1380 - --raw_flag is False
+2026-03-27 00:30:47.048 | INFO     | plassembler:long:1381 - --keep_fastqs is False
+2026-03-27 00:30:47.048 | INFO     | plassembler:long:1382 - --pacbio_model is nothing
+2026-03-27 00:30:47.048 | INFO     | plassembler:long:1383 - --keep_chromosome is False
+2026-03-27 00:30:47.048 | INFO     | plassembler:long:1384 - --flye_directory is hybracter_out/processing/assemblies/EXE_20_2025_B
+2026-03-27 00:30:47.048 | INFO     | plassembler:long:1385 - --flye_assembly is nothing
+2026-03-27 00:30:47.048 | INFO     | plassembler:long:1386 - --flye_info is nothing
+2026-03-27 00:30:47.048 | INFO     | plassembler:long:1387 - --corrected_error_rate is 0.12
+2026-03-27 00:30:47.048 | INFO     | plassembler:long:1388 - --no_chromosome is False
+2026-03-27 00:30:47.048 | INFO     | plassembler:long:1389 - --depth_filter is 0.25
+2026-03-27 00:30:47.049 | INFO     | plassembler:long:1390 - --unicycler_options is None
+2026-03-27 00:30:47.049 | INFO     | plassembler:long:1391 - --spades_options is None
+2026-03-27 00:30:47.049 | INFO     | plassembler:long:1392 - --skip_mash is False
+2026-03-27 00:30:47.049 | INFO     | plassembler:long:1396 - Checking dependencies
+2026-03-27 00:30:47.123 | INFO     | plassembler.utils.input_commands:check_dependencies:199 - Flye version found is v2.9.6-b1802.
+2026-03-27 00:30:47.123 | INFO     | plassembler.utils.input_commands:check_dependencies:209 - Flye version is ok.
+2026-03-27 00:30:47.125 | INFO     | plassembler.utils.input_commands:check_dependencies:218 - Raven v1.8.3 found.
+2026-03-27 00:30:47.126 | INFO     | plassembler.utils.input_commands:check_dependencies:220 - Raven version is ok.
+2026-03-27 00:30:47.216 | INFO     | plassembler.utils.input_commands:check_dependencies:242 - Unicycler version found is v0.5.1.
+2026-03-27 00:30:47.217 | INFO     | plassembler.utils.input_commands:check_dependencies:255 - Unicycler version is ok.
+2026-03-27 00:30:47.298 | INFO     | plassembler.utils.input_commands:check_dependencies:265 - SPAdes v4.2.0 found.
+2026-03-27 00:30:47.314 | INFO     | plassembler.utils.input_commands:check_dependencies:278 - Samtools v1.22.1 found.
+2026-03-27 00:30:47.316 | INFO     | plassembler.utils.input_commands:check_dependencies:289 - minimap2 v2.30-r1287 found.
+2026-03-27 00:30:47.322 | INFO     | plassembler.utils.input_commands:check_dependencies:300 - fastp v1.0.1 found.
+2026-03-27 00:30:47.326 | INFO     | plassembler.utils.input_commands:check_dependencies:311 - chopper v0.11.0 found.
+2026-03-27 00:30:47.340 | INFO     | plassembler.utils.input_commands:check_dependencies:326 - mash v2.3 found.
+2026-03-27 00:30:47.620 | INFO     | plassembler.utils.input_commands:check_dependencies:337 - canu v2.2 found.
+2026-03-27 00:30:48.333 | INFO     | plassembler.utils.input_commands:check_dependencies:348 - dnaapler v1.3.0 found.
+2026-03-27 00:30:48.411 | INFO     | plassembler.utils.input_commands:check_dependencies:365 - BLAST version found is v2.17.0.
+2026-03-27 00:30:48.411 | INFO     | plassembler.utils.input_commands:check_dependencies:371 - All dependencies found.
+2026-03-27 00:30:48.411 | INFO     | plassembler:long:1405 - Checking database installation.
+2026-03-27 00:30:48.411 | INFO     | plassembler.utils.db:check_db_installation:52 - PLSDB Database mash sketch at /data/djs217/miniconda3/envs/hybracter_env/lib/python3.11/site-packages/hybracter/workflow/../databases/plsdb_2023_11_03_v2.msh exists.
+2026-03-27 00:30:48.411 | INFO     | plassembler.utils.db:check_db_installation:53 - PLSDB Database tsv metadata file at /data/djs217/miniconda3/envs/hybracter_env/lib/python3.11/site-packages/hybracter/workflow/../databases/plsdb_2023_11_03_v2.tsv exists.
+2026-03-27 00:30:48.411 | INFO     | plassembler.utils.db:check_db_installation:54 - PLSDB Database at /data/djs217/miniconda3/envs/hybracter_env/lib/python3.11/site-packages/hybracter/workflow/../databases has already been downloaded
+2026-03-27 00:30:48.411 | INFO     | plassembler:long:1413 - Database successfully checked.
+2026-03-27 00:30:48.411 | INFO     | plassembler:long:1416 - Checking input fastqs.
+2026-03-27 00:30:48.411 | INFO     | plassembler.utils.input_commands:validate_fastq:24 - FASTQ hybracter_out/processing/qc/EXE_20_2025_B_filt_trim.fastq.gz checked
+2026-03-27 00:30:48.507 | INFO     | plassembler:long:1474 - You have specified a hybracter_out/processing/assemblies/EXE_20_2025_B with an existing flye assembly.
+2026-03-27 00:30:48.507 | INFO     | plassembler:long:1477 - Copying files.
+2026-03-27 00:30:48.510 | INFO     | plassembler:long:1518 - Counting Contigs.
+2026-03-27 00:30:48.532 | INFO     | plassembler.utils.plass_class:get_contig_count:87 - Assembled 4 contigs.
+2026-03-27 00:30:48.600 | INFO     | plassembler:long:1563 - Mapping long reads.
+2026-03-27 00:30:48.600 | INFO     | plassembler.utils.external_tools:run_to_stdout:67 - Started running minimap2 -ax map-ont -t 1 hybracter_out/processing/plassembler/EXE_20_2025_B/flye_renamed.fasta hybracter_out/processing/plassembler/EXE_20_2025_B/chopper_long_reads.fastq.gz ...
+2026-03-27 00:32:05.198 | INFO     | plassembler.utils.external_tools:run_to_stdout:69 - Done running minimap2 -ax map-ont -t 1 hybracter_out/processing/plassembler/EXE_20_2025_B/flye_renamed.fasta hybracter_out/processing/plassembler/EXE_20_2025_B/chopper_long_reads.fastq.gz
+2026-03-27 00:32:05.198 | INFO     | plassembler:long:1572 - Processing Sam/Bam Files and extracting Fastqs.
+2026-03-27 00:32:05.795 | INFO     | plassembler:long:1635 - Removing junk low entropy repeat reads.
+2026-03-27 00:33:09.902 | INFO     | plassembler:long:1643 - Correcting reads with canu prior to running Unicycler.
+2026-03-27 00:33:09.903 | INFO     | plassembler.utils.external_tools:run:58 - Started running canu -correct -p canu -d hybracter_out/processing/plassembler/EXE_20_2025_B/canu genomeSize=1.98866m maxInputCoverage=50 stopOnLowCoverage=1 maxThreads=1 -nanopore correctedErrorRate=0.12 hybracter_out/processing/plassembler/EXE_20_2025_B/plasmid_long_entropy_filtered.fastq ...
+2026-03-27 00:33:12.769 | WARNING  | plassembler.utils.external_tools:run_tool:129 - Canu failed to correct any reads.
+2026-03-27 00:33:12.769 | WARNING  | plassembler.utils.external_tools:run_tool:130 - This probably means there is low depth, don't be too concerned.
+2026-03-27 00:33:12.769 | WARNING  | plassembler.utils.external_tools:run_tool:133 - If you are concerned, check stdout log file: hybracter_out/processing/plassembler/EXE_20_2025_B/logs/canu__correct_0f8adef658be87cbc12dacde41dc89fc89426d5005ccbe0f02b6b39738e603aa.out and stderr log file: hybracter_out/processing/plassembler/EXE_20_2025_B/logs/canu__correct_0f8adef658be87cbc12dacde41dc89fc89426d5005ccbe0f02b6b39738e603aa.err.
+2026-03-27 00:33:12.769 | WARNING  | plassembler:long:1663 - Advancing with uncorrected reads
+2026-03-27 00:33:12.771 | INFO     | plassembler.utils.external_tools:run:58 - Started running unicycler -s hybracter_out/processing/plassembler/EXE_20_2025_B/plasmid_long_entropy_filtered.fastq -l hybracter_out/processing/plassembler/EXE_20_2025_B/plasmid_long_entropy_filtered.fastq -t 1 -o hybracter_out/processing/plassembler/EXE_20_2025_B/unicycler_output ...
+2026-03-27 01:52:04.370 | INFO     | plassembler.utils.external_tools:run:60 - Done running unicycler -s hybracter_out/processing/plassembler/EXE_20_2025_B/plasmid_long_entropy_filtered.fastq -l hybracter_out/processing/plassembler/EXE_20_2025_B/plasmid_long_entropy_filtered.fastq -t 1 -o hybracter_out/processing/plassembler/EXE_20_2025_B/unicycler_output
+2026-03-27 01:52:04.416 | INFO     | plassembler:long:1701 - unicycler assembled 14 contigs.
+2026-03-27 01:52:04.451 | INFO     | plassembler.utils.external_tools:run_to_stdout:67 - Started running minimap2 -ax map-ont -t 1 hybracter_out/processing/plassembler/EXE_20_2025_B/long_combined.fasta hybracter_out/processing/plassembler/EXE_20_2025_B/chopper_long_reads.fastq.gz ...
+2026-03-27 01:53:20.072 | INFO     | plassembler.utils.external_tools:run_to_stdout:69 - Done running minimap2 -ax map-ont -t 1 hybracter_out/processing/plassembler/EXE_20_2025_B/long_combined.fasta hybracter_out/processing/plassembler/EXE_20_2025_B/chopper_long_reads.fastq.gz
+2026-03-27 01:53:20.074 | INFO     | plassembler.utils.external_tools:run:58 - Started running samtools sort -@ 1 hybracter_out/processing/plassembler/EXE_20_2025_B/combined_long.sam -o hybracter_out/processing/plassembler/EXE_20_2025_B/combined_sorted_long.bam ...
+2026-03-27 01:53:29.421 | INFO     | plassembler.utils.external_tools:run:60 - Done running samtools sort -@ 1 hybracter_out/processing/plassembler/EXE_20_2025_B/combined_long.sam -o hybracter_out/processing/plassembler/EXE_20_2025_B/combined_sorted_long.bam
+2026-03-27 01:53:37.045 | INFO     | plassembler:long:1720 - Calculating mash distances to PLSDB.
+2026-03-27 01:53:37.047 | INFO     | plassembler.utils.external_tools:run:58 - Started running mash sketch hybracter_out/processing/plassembler/EXE_20_2025_B/plasmids.fasta -i ...
+2026-03-27 01:53:37.155 | INFO     | plassembler.utils.external_tools:run:60 - Done running mash sketch hybracter_out/processing/plassembler/EXE_20_2025_B/plasmids.fasta -i
+2026-03-27 01:53:37.157 | INFO     | plassembler.utils.external_tools:run_to_stdout:67 - Started running mash dist hybracter_out/processing/plassembler/EXE_20_2025_B/plasmids.fasta.msh /data/djs217/miniconda3/envs/hybracter_env/lib/python3.11/site-packages/hybracter/workflow/../databases/plsdb_2023_11_03_v2.msh -v 0.1 -d 0.1 -i ...
+2026-03-27 01:53:45.235 | INFO     | plassembler.utils.external_tools:run_to_stdout:69 - Done running mash dist hybracter_out/processing/plassembler/EXE_20_2025_B/plasmids.fasta.msh /data/djs217/miniconda3/envs/hybracter_env/lib/python3.11/site-packages/hybracter/workflow/../databases/plsdb_2023_11_03_v2.msh -v 0.1 -d 0.1 -i
+2026-03-27 01:53:45.931 | INFO     | plassembler.utils.plass_class:combine_depth_mash_tsvs:754 - Filtering contigs below depth filter: 0.25.
+2026-03-27 01:53:45.931 | INFO     | plassembler.utils.plass_class:combine_depth_mash_tsvs:760 - All plasmids whose long read copy numbers are below 0.25 will be removed.
+2026-03-27 01:53:45.931 | INFO     | plassembler.utils.plass_class:combine_depth_mash_tsvs:772 - No plasmids were filtered due to low depth.
+2026-03-27 01:53:46.217 | INFO     | plassembler:end_plassembler:118 - Plassembler has finished
+2026-03-27 01:53:46.217 | INFO     | plassembler:end_plassembler:119 - Elapsed time: 4979.19 seconds

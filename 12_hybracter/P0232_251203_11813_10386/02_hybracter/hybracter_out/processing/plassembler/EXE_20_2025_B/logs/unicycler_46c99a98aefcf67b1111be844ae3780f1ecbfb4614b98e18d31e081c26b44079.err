@@ -1,0 +1,1 @@
+Command line: unicycler -s hybracter_out/processing/plassembler/EXE_20_2025_B/plasmid_long_entropy_filtered.fastq -l hybracter_out/processing/plassembler/EXE_20_2025_B/plasmid_long_entropy_filtered.fastq -t 1 -o hybracter_out/processing/plassembler/EXE_20_2025_B/unicycler_output

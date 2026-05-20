@@ -1,0 +1,2 @@
+Contig	Gene_Reoriented	Start	Strand	Top_Hit	Top_Hit_Length	Covered_Length	Coverage	Identical_AAs	Identity_Percentage	Overlapping_Contig_End
+contig_2	dnaA	672643	reverse	sp~Q9KVX6~DNAA_VIBCH	467	467	100.0	440	94.22	False

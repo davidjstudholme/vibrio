@@ -1,0 +1,12 @@
+[samfaipath] build FASTA index...
+[M::mm_idx_gen::0.169*1.01] collected minimizers
+[M::mm_idx_gen::0.275*1.01] sorted minimizers
+[M::main::0.275*1.01] loaded/built the index for 2 target sequence(s)
+[M::mm_mapopt_update::0.292*1.01] mid_occ = 13
+[M::mm_idx_stat] kmer size: 17; skip: 10; is_hpc: 0; #seq: 2
+[M::mm_idx_stat::0.304*1.01] distinct minimizers: 890252 (97.00% are singletons); average occurrences: 1.044; average spacing: 5.494; total length: 5106506
+[M::worker_pipeline::58.178*0.99] mapped 15892 sequences
+[M::main] Version: 2.24-r1155-dirty
+[M::main] CMD: flye-minimap2 -x map-ont -t 1 -k 17 -a -p 0.5 -N 10 --sam-hit-only -L -K 1G -z 1000 -Q --secondary-seq -I 64G /data/djs217/PROJECTS/vibrio/P0232_251203_11813_10386/12_filtlong/02_hybracter/hybracter_out/processing/assemblies/EXE_30_2025_R/00-assembly/draft_assembly.fasta /data/djs217/PROJECTS/vibrio/P0232_251203_11813_10386/12_filtlong/02_hybracter/hybracter_out/processing/qc/EXE_30_2025_R_filt_trim.fastq.gz
+[M::main] Real time: 58.211 sec; CPU: 57.701 sec; Peak RSS: 0.345 GB
+[bam_sort_core] merging from 0 files and 4 in-memory blocks...
