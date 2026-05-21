@@ -1,5 +1,5 @@
        refdir = ../02_ref  # directory where reference files are located
-      workdir = ../08_workdir_pacinii # directory where contigs/reads files are located and output is stored
+      workdir = ../03_workdir_pacinii # directory where contigs/reads files are located and output is stored
 
     reference = 1  # 0:pick a random reference; 1:use given reference; 2: use ANI based reference
       reffile = Vibrio_pacinii_DSM_19139.fasta    # reference filename 

@@ -7,5 +7,4 @@ conda list -n phame_env > phame_env_packages.txt
 
 ### Assumes that PhaME is already installed
 phame ./phame.fasttree.cholerae-ref.ctl
-phame ./phame.fasttree.jasicida-ref.ctl
 phame ./phame.fasttree.pacinii.ctl
