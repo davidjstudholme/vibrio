@@ -1,4 +1,4 @@
-Accession	Taxon	Strain
+GCA_019339365.1	Vibrio neptunius KCTC 12702
 GCA_012395185.1	Vibrio aestuarianus	LMG 7909
 GCA_011090275.1	Vibrio aestuarianus subsp. cardii	12/122 3T3
 GCA_944737995.1	Vibrio aestuarianus subsp. francensis	02/041

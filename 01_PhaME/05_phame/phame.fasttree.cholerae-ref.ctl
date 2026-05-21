@@ -4,7 +4,7 @@
     reference = 1  # 0:pick a random reference; 1:use given reference; 2: use ANI based reference
       reffile = Vibrio_cholerae_FDAARGOS_103.fasta    # reference filename 
 
-      project = all_vibrio_fastree  # main alignment file name
+      project = all_vibrio_fastree_cholerae_ref  # main alignment file name
 
       cdsSNPS = 0  # 0:no cds SNPS; 1:cds SNPs
 
