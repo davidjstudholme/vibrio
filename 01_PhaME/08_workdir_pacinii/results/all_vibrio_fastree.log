@@ -1,0 +1,1758 @@
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_lamellibrachiae_JAMM2626.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2586733 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_lamellibrachiae_JAMM2626.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_lamellibrachiae_JAMM2626.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2586733.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2586733.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_cortegadensis_CECT_7227.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2586782 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_cortegadensis_CECT_7227.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_cortegadensis_CECT_7227.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2586782.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2586782.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_fluminensis_A621.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2586879 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_fluminensis_A621.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_fluminensis_A621.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2586879.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2586879.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_alfacsensis_CAIM_1831.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2586950 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_alfacsensis_CAIM_1831.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_alfacsensis_CAIM_1831.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2586950.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2586950.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_scophthalmi_LMG_19158.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2587029 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_scophthalmi_LMG_19158.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_scophthalmi_LMG_19158.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2587029.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2587029.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_xiamenensis_CGMCC_1_10228.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2587100 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_xiamenensis_CGMCC_1_10228.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_xiamenensis_CGMCC_1_10228.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2587100.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2587100.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_zhanjiangensis_NBRC_108723.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2587163 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_zhanjiangensis_NBRC_108723.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_zhanjiangensis_NBRC_108723.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2587163.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2587163.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11813_EXE_29_2025_V_PBC74148_final.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2587210 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11813_EXE_29_2025_V_PBC74148_final.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11813_EXE_29_2025_V_PBC74148_final.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2587210.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2587210.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_pomeroyi_LMG_20537.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2587273 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_pomeroyi_LMG_20537.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_pomeroyi_LMG_20537.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2587273.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2587273.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11813_EXE_30_2025_R_PBC74148_final.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2587344 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11813_EXE_30_2025_R_PBC74148_final.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11813_EXE_30_2025_R_PBC74148_final.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2587344.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2587344.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11813_EXE_29_2025_K_PBC74148_final.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2587423 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11813_EXE_29_2025_K_PBC74148_final.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11813_EXE_29_2025_K_PBC74148_final.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2587423.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2587423.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_caribbeanicus_ATCC_BAA_2122.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2587494 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_caribbeanicus_ATCC_BAA_2122.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_caribbeanicus_ATCC_BAA_2122.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2587494.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2587494.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_owensii_DY05.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2587565 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_owensii_DY05.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_owensii_DY05.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2587565.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2587565.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_tetraodonis_A511.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2587628 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_tetraodonis_A511.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_tetraodonis_A511.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2587628.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2587628.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_crassostreae_LMG_22240.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2587675 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_crassostreae_LMG_22240.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_crassostreae_LMG_22240.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2587675.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2587675.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_nereis_DSM_19584.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2587747 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_nereis_DSM_19584.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_nereis_DSM_19584.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2587747.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2587747.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11813_EXE_20_2024_J_PBC74148_final.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2587795 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11813_EXE_20_2024_J_PBC74148_final.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11813_EXE_20_2024_J_PBC74148_final.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2587795.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2587795.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_diabolicus_CNCM_I_1629.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2587858 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_diabolicus_CNCM_I_1629.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_diabolicus_CNCM_I_1629.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2587858.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2587858.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_rhizosphaerae_LMG_23790.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2587913 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_rhizosphaerae_LMG_23790.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_rhizosphaerae_LMG_23790.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2587913.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2587913.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_proteolyticus_ATCC_15338.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2587992 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_proteolyticus_ATCC_15338.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_proteolyticus_ATCC_15338.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2587992.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2587992.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11813_EXE_30_2025_L_PBC74148_final.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2588060 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11813_EXE_30_2025_L_PBC74148_final.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11813_EXE_30_2025_L_PBC74148_final.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2588060.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2588060.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11813_EXE_09_2024_B_PBC74148_final.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2588128 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11813_EXE_09_2024_B_PBC74148_final.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11813_EXE_09_2024_B_PBC74148_final.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2588128.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2588128.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11813_EX_23_2024_K_PBC74148_final.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2588203 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11813_EX_23_2024_K_PBC74148_final.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11813_EX_23_2024_K_PBC74148_final.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2588203.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2588203.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11813_EXE_28_2025_W_PBC74148_final.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2588266 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11813_EXE_28_2025_W_PBC74148_final.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11813_EXE_28_2025_W_PBC74148_final.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2588266.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2588266.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/EXE_01_2025_M_final.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2588348 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/EXE_01_2025_M_final.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/EXE_01_2025_M_final.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2588348.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2588348.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_anguillarum_NCTC12159.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2588403 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_anguillarum_NCTC12159.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_anguillarum_NCTC12159.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2588403.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2588403.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_marisflavi_CECT_7928.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2588490 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_marisflavi_CECT_7928.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_marisflavi_CECT_7928.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2588490.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2588490.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/EXE_33_2024_E_final.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2588546 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/EXE_33_2024_E_final.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/EXE_33_2024_E_final.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2588546.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2588546.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_galatheae_S2757.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2588609 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_galatheae_S2757.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_galatheae_S2757.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2588609.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2588609.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11813_EXE22_2025_IVF5LA_PBC74148_final.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2588664 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11813_EXE22_2025_IVF5LA_PBC74148_final.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11813_EXE22_2025_IVF5LA_PBC74148_final.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2588664.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2588664.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_clamense_JAMM0920.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2588743 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_clamense_JAMM0920.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_clamense_JAMM0920.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2588743.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2588743.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11813_EXE_03_2025_A_PBC74148_final.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2588870 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11813_EXE_03_2025_A_PBC74148_final.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11813_EXE_03_2025_A_PBC74148_final.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2588870.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2588870.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_kyushuensis_JAMM1822.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2588917 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_kyushuensis_JAMM1822.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_kyushuensis_JAMM1822.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2588917.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2588917.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_chanodichtyis_DSL_7.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2588972 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_chanodichtyis_DSL_7.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_chanodichtyis_DSL_7.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2588972.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2588972.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_campbellii_CAIM_519.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2589027 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_campbellii_CAIM_519.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_campbellii_CAIM_519.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2589027.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2589027.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_halioticoli_IAM_14596.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2589090 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_halioticoli_IAM_14596.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_halioticoli_IAM_14596.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2589090.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2589090.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_rotiferianus_CAIM_577.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2589145 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_rotiferianus_CAIM_577.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_rotiferianus_CAIM_577.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2589145.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2589145.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_paracholerae_EDC_792.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2589232 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_paracholerae_EDC_792.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_paracholerae_EDC_792.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2589232.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2589232.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_lentus_40M4T.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2589323 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_lentus_40M4T.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_lentus_40M4T.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2589323.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2589323.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11813_EXE_26_2025_C_PBC74148_final.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2589415 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11813_EXE_26_2025_C_PBC74148_final.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11813_EXE_26_2025_C_PBC74148_final.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2589415.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2589415.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11813_EXE_33_2024_F_PBC74148_final.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2589498 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11813_EXE_33_2024_F_PBC74148_final.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11813_EXE_33_2024_F_PBC74148_final.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2589498.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2589498.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_chemaguriensis_Iso1.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2589556 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_chemaguriensis_Iso1.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_chemaguriensis_Iso1.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2589556.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2589556.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_inusitatus_LMG_23434.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2589638 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_inusitatus_LMG_23434.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_inusitatus_LMG_23434.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2589638.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2589638.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_ulleungensis_188UL20_2.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2589694 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_ulleungensis_188UL20_2.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_ulleungensis_188UL20_2.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2589694.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2589694.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_gallaecicus_CECT_7244.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2589742 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_gallaecicus_CECT_7244.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_gallaecicus_CECT_7244.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2589742.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2589742.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_pelagius_ATCC_25916.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2589902 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_pelagius_ATCC_25916.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_pelagius_ATCC_25916.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2589902.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2589902.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11813_EXE_22_2025_DG1LF_PBC7_final.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2589973 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11813_EXE_22_2025_DG1LF_PBC7_final.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11813_EXE_22_2025_DG1LF_PBC7_final.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2589973.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2589973.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11671_EXE_02_2024_3B2_unicycler.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2590076 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11671_EXE_02_2024_3B2_unicycler.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11671_EXE_02_2024_3B2_unicycler.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2590076.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2590076.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_hepatarius_DSM_19134.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2590147 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_hepatarius_DSM_19134.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_hepatarius_DSM_19134.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2590147.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2590147.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_maerlii_G62.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2590194 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_maerlii_G62.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_maerlii_G62.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2590194.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2590194.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_sinaloensis_CECT_7298.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2590402 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_sinaloensis_CECT_7298.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_sinaloensis_CECT_7298.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2590402.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2590402.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_casei_DSM_22364.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2590466 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_casei_DSM_22364.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_casei_DSM_22364.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2590466.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2590466.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11813_EXE_23_2025_L_PBC74148_final.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2590537 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11813_EXE_23_2025_L_PBC74148_final.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11813_EXE_23_2025_L_PBC74148_final.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2590537.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2590537.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_mimicus_NCTC11435.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2590624 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_mimicus_NCTC11435.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_mimicus_NCTC11435.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2590624.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2590624.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_tapetis_subsp__quintayensis_CECT_8851.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2590823 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_tapetis_subsp__quintayensis_CECT_8851.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_tapetis_subsp__quintayensis_CECT_8851.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2590823.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2590823.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_tasmaniensis_LMG_20012.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2590894 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_tasmaniensis_LMG_20012.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_tasmaniensis_LMG_20012.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2590894.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2590894.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11813_EXE_33_2024_E_PBC74148_final.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2590981 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11813_EXE_33_2024_E_PBC74148_final.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11813_EXE_33_2024_E_PBC74148_final.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2590981.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2590981.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_fluvialis_ATCC_33809.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2591044 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_fluvialis_ATCC_33809.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_fluvialis_ATCC_33809.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2591044.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2591044.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_chagasii_LMG_21353.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2591099 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_chagasii_LMG_21353.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_chagasii_LMG_21353.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2591099.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2591099.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_apostichopi_FE10.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2591181 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_apostichopi_FE10.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_apostichopi_FE10.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2591181.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2591181.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_orientalis_CIP_102891.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2591254 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_orientalis_CIP_102891.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_orientalis_CIP_102891.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2591254.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2591254.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_amylolyticus_ZSDE26.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2591333 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_amylolyticus_ZSDE26.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_amylolyticus_ZSDE26.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2591333.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2591333.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_qinghaiensis_Q67.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2591381 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_qinghaiensis_Q67.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_qinghaiensis_Q67.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2591381.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2591381.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/EXE_30_2025_R_final.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2591715 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/EXE_30_2025_R_final.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/EXE_30_2025_R_final.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2591715.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2591715.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_misgurnus_GVC.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2591778 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_misgurnus_GVC.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_misgurnus_GVC.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2591778.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2591778.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11671_Guernsey_unicycler.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2591833 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11671_Guernsey_unicycler.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11671_Guernsey_unicycler.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2591833.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2591833.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_diazotrophicus_ATCC_33466.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2591905 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_diazotrophicus_ATCC_33466.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_diazotrophicus_ATCC_33466.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2591905.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2591905.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11813_EXE_22_2025_DG3A_PBC74148_barcode18_final.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2591952 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11813_EXE_22_2025_DG3A_PBC74148_barcode18_final.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11813_EXE_22_2025_DG3A_PBC74148_barcode18_final.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2591952.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2591952.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_cincinnatiensis_NCTC12012.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2592063 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_cincinnatiensis_NCTC12012.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_cincinnatiensis_NCTC12012.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2592063.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2592063.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11671_EXE_19_2024_C_unicycler.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2592134 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11671_EXE_19_2024_C_unicycler.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11671_EXE_19_2024_C_unicycler.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2592134.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2592134.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_salilacus_DSG_S6.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2592197 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_salilacus_DSG_S6.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_salilacus_DSG_S6.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2592197.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2592197.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11671_EXE_26_2024_C_unicycler.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2592244 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11671_EXE_26_2024_C_unicycler.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11671_EXE_26_2024_C_unicycler.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2592244.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2592244.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11813_EXE_24_2025_E_PBC74148_final.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2592315 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11813_EXE_24_2025_E_PBC74148_final.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11813_EXE_24_2025_E_PBC74148_final.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2592315.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2592315.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_floridensis_IRLE0018.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2592330 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_floridensis_IRLE0018.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_floridensis_IRLE0018.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2592330.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2592330.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_metschnikovii_NCTC8443.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2592428 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_metschnikovii_NCTC8443.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_metschnikovii_NCTC8443.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2592428.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2592428.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11671_EXE_45_2024_E_unicycler.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2592489 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11671_EXE_45_2024_E_unicycler.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11671_EXE_45_2024_E_unicycler.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2592489.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2592489.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_neonatus_JCM_21521.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2592569 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_neonatus_JCM_21521.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_neonatus_JCM_21521.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2592569.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2592569.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_aestuarianus_LMG_7909.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2592640 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_aestuarianus_LMG_7909.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_aestuarianus_LMG_7909.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2592640.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2592640.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11671_EXE_25_2024_H_unicycler.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2592695 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11671_EXE_25_2024_H_unicycler.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11671_EXE_25_2024_H_unicycler.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2592695.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2592695.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_aquaticus_BEI207.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2592758 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_aquaticus_BEI207.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_aquaticus_BEI207.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2592758.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2592758.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11813_EXE_26_2025_A_PBC74148_final.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2592829 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11813_EXE_26_2025_A_PBC74148_final.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11813_EXE_26_2025_A_PBC74148_final.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2592829.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2592829.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_gangliei_DSM_104291.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2592916 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_gangliei_DSM_104291.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_gangliei_DSM_104291.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2592916.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2592916.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_antiquarius_EX25.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2592984 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_antiquarius_EX25.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_antiquarius_EX25.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2592984.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2592984.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_navarrensis_ATCC_51183.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2593042 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_navarrensis_ATCC_51183.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_navarrensis_ATCC_51183.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2593042.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2593042.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_ishigakensis_JCM_19231.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2593193 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_ishigakensis_JCM_19231.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_ishigakensis_JCM_19231.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2593193.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2593193.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11813_EXE_01_2024_7_PBC74148_final.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2593249 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11813_EXE_01_2024_7_PBC74148_final.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11813_EXE_01_2024_7_PBC74148_final.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2593249.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2593249.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_europaeus_PP_638.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2593319 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_europaeus_PP_638.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_europaeus_PP_638.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2593319.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2593319.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_pacinii_DSM_19139.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2593423 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_pacinii_DSM_19139.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_pacinii_DSM_19139.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2593423.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2593423.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_tubiashii_ATCC_19109.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2593510 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_tubiashii_ATCC_19109.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_tubiashii_ATCC_19109.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2593510.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2593510.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11813_EXE_19_2024_M_PBC74148_final.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2593621 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11813_EXE_19_2024_M_PBC74148_final.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11813_EXE_19_2024_M_PBC74148_final.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2593621.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2593621.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_albus_E4404.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2593684 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_albus_E4404.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_albus_E4404.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2593684.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2593684.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_rarus_LMG_23674.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2593747 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_rarus_LMG_23674.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_rarus_LMG_23674.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2593747.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2593747.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_sinus_S4M6.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2593821 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_sinus_S4M6.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_sinus_S4M6.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2593821.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2593821.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_mediterranei_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2593876 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_mediterranei_.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_mediterranei_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2593876.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2593876.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11813_EXE_30_2024_F_PBC74148_final.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2593940 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11813_EXE_30_2024_F_PBC74148_final.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11813_EXE_30_2024_F_PBC74148_final.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2593940.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2593940.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11813_EXE_30_2025_S_PBC74148_final.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2594003 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11813_EXE_30_2025_S_PBC74148_final.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11813_EXE_30_2025_S_PBC74148_final.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2594003.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2594003.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_plantisponsor_MSSRF60.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2594066 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_plantisponsor_MSSRF60.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_plantisponsor_MSSRF60.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2594066.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2594066.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_satsumensis_JAMM0822.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2594121 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_satsumensis_JAMM0822.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_satsumensis_JAMM0822.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2594121.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2594121.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_olivae_CECT_8064.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2594200 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_olivae_CECT_8064.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_olivae_CECT_8064.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2594200.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2594200.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_aphrogenes_CA_1004.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2594248 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_aphrogenes_CA_1004.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_aphrogenes_CA_1004.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2594248.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2594248.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_agarivorans_CECT_5085.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2594319 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_agarivorans_CECT_5085.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_agarivorans_CECT_5085.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2594319.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2594319.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_hippocampi_CECT_8226.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2594382 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_hippocampi_CECT_8226.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_hippocampi_CECT_8226.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2594382.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2594382.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_sagamiensis_NBRC_104589.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2594443 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_sagamiensis_NBRC_104589.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_sagamiensis_NBRC_104589.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2594443.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2594443.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_methylphosphonaticus_S4B1.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2594492 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_methylphosphonaticus_S4B1.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_methylphosphonaticus_S4B1.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2594492.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2594492.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_gelatinilyticus_ZSDZ34.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2594555 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_gelatinilyticus_ZSDZ34.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_gelatinilyticus_ZSDZ34.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2594555.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2594555.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_viridaestus_LJC006.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2594602 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_viridaestus_LJC006.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_viridaestus_LJC006.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2594602.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2594602.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_sinensis_BEI233.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2594650 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_sinensis_BEI233.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_sinensis_BEI233.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2594650.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2594650.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_fortis_LMG_21557.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2594713 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_fortis_LMG_21557.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_fortis_LMG_21557.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2594713.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2594713.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_pectenicida_LMG_19642.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2594776 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_pectenicida_LMG_19642.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_pectenicida_LMG_19642.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2594776.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2594776.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_natriegens_CCUG_16371.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2594832 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_natriegens_CCUG_16371.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_natriegens_CCUG_16371.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2594832.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2594832.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_barjaei_3062.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2594886 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_barjaei_3062.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_barjaei_3062.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2594886.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2594886.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11671_EXE_22_2024_B_unicycler.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2594949 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11671_EXE_22_2024_B_unicycler.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11671_EXE_22_2024_B_unicycler.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2594949.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2594949.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_kanaloae_LMG_20539.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2595044 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_kanaloae_LMG_20539.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_kanaloae_LMG_20539.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2595044.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2595044.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11813_EXE_34_2024_C_PBC74148_final.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2595115 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11813_EXE_34_2024_C_PBC74148_final.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11813_EXE_34_2024_C_PBC74148_final.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2595115.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2595115.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_rumoiensis_FERM_P_14531.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2595186 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_rumoiensis_FERM_P_14531.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_rumoiensis_FERM_P_14531.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2595186.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2595186.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_mytili_type_strain__CIP103929.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2595258 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_mytili_type_strain__CIP103929.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_mytili_type_strain__CIP103929.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2595258.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2595258.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_palustris_CECT_9027.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2595313 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_palustris_CECT_9027.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_palustris_CECT_9027.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2595313.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2595313.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_syngnathi_K08M4.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2595352 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_syngnathi_K08M4.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_syngnathi_K08M4.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2595352.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2595352.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_bivalvicida_605.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2595475 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_bivalvicida_605.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_bivalvicida_605.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2595475.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2595475.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11813_EXE_22_2025_T1A_PBC74148_final.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2595547 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11813_EXE_22_2025_T1A_PBC74148_final.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11813_EXE_22_2025_T1A_PBC74148_final.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2595547.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2595547.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11813_EXE_21_2025_F_PBC74148_final.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2595610 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11813_EXE_21_2025_F_PBC74148_final.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11813_EXE_21_2025_F_PBC74148_final.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2595610.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2595610.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_algivorus_SA2.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2595673 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_algivorus_SA2.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_algivorus_SA2.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2595673.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2595673.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_echinoideorum_DSM_107264.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2595776 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_echinoideorum_DSM_107264.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_echinoideorum_DSM_107264.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2595776.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2595776.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_atypicus_DSM_25292.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2595847 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_atypicus_DSM_25292.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_atypicus_DSM_25292.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2595847.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2595847.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11671_EXE_04_2024_1A1_unicycler.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2595902 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11671_EXE_04_2024_1A1_unicycler.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11671_EXE_04_2024_1A1_unicycler.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2595902.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2595902.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11813_EXE_27_2025_D_PBC74148_final.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2595965 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11813_EXE_27_2025_D_PBC74148_final.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11813_EXE_27_2025_D_PBC74148_final.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2595965.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2595965.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/EXE_08_2024_A_final.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2596020 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/EXE_08_2024_A_final.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/EXE_08_2024_A_final.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2596020.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2596020.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_intestinalis_YLB_11.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2596083 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_intestinalis_YLB_11.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_intestinalis_YLB_11.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2596083.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2596083.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_iocasae_HN007.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2596130 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_iocasae_HN007.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_iocasae_HN007.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2596130.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2596130.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_panuliri_JCM_19500.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2596185 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_panuliri_JCM_19500.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_panuliri_JCM_19500.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2596185.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2596185.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_hangzhouensis_CGMCC_1_7062.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2596240 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_hangzhouensis_CGMCC_1_7062.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_hangzhouensis_CGMCC_1_7062.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2596240.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2596240.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_cionasavignyae_JAMM2507.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2596319 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_cionasavignyae_JAMM2507.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_cionasavignyae_JAMM2507.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2596319.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2596319.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_rhodolitus_G98.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2596398 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_rhodolitus_G98.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_rhodolitus_G98.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2596398.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2596398.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_azureus_LC2_005.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2596461 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_azureus_LC2_005.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_azureus_LC2_005.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2596461.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2596461.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_cyclitrophicus_LMG_21359.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2596565 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_cyclitrophicus_LMG_21359.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_cyclitrophicus_LMG_21359.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2596565.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2596565.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11813_EXE_01_2025_M_PBC74148_final.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2596636 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11813_EXE_01_2025_M_PBC74148_final.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11813_EXE_01_2025_M_PBC74148_final.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2596636.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2596636.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_renipiscarius_DCR_1_4_2.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2596678 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_renipiscarius_DCR_1_4_2.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_renipiscarius_DCR_1_4_2.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2596678.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2596678.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11813_EXE_05_2024_A_PBC74148_final.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2596741 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11813_EXE_05_2024_A_PBC74148_final.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11813_EXE_05_2024_A_PBC74148_final.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2596741.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2596741.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_profundi_TP187.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2596830 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_profundi_TP187.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_profundi_TP187.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2596830.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2596830.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/EXE_32_2024_G_final.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2596885 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/EXE_32_2024_G_final.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/EXE_32_2024_G_final.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2596885.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2596885.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_ouci_BEI176.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2596948 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_ouci_BEI176.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_ouci_BEI176.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2596948.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2596948.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11813_EXE_27_2025_A_PBC74148_final.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2597115 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11813_EXE_27_2025_A_PBC74148_final.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11813_EXE_27_2025_A_PBC74148_final.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2597115.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2597115.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_thalassae_KCTC_32373.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2597202 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_thalassae_KCTC_32373.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_thalassae_KCTC_32373.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2597202.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2597202.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_ezurae_HDS1_1.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2597385 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_ezurae_HDS1_1.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_ezurae_HDS1_1.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2597385.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2597385.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_chaetopteri_CB1_14.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2597432 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_chaetopteri_CB1_14.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_chaetopteri_CB1_14.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2597432.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2597432.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_atlanticus_CECT_7223.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2597503 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_atlanticus_CECT_7223.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_atlanticus_CECT_7223.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2597503.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2597503.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/EXE_03_2025_A_final.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2597590 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/EXE_03_2025_A_final.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/EXE_03_2025_A_final.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2597590.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2597590.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_gigantis_LMG_22741.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2597669 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_gigantis_LMG_22741.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_gigantis_LMG_22741.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2597669.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2597669.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/EXE_23_2025_L_final.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2597734 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/EXE_23_2025_L_final.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/EXE_23_2025_L_final.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2597734.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2597734.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_gallicus_CIP_107863.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2597819 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_gallicus_CIP_107863.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_gallicus_CIP_107863.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2597819.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2597819.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/EXE09_2023D7_unicycler.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2597867 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/EXE09_2023D7_unicycler.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/EXE09_2023D7_unicycler.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2597867.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2597867.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_penaeicida_IFO_15640.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2597931 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_penaeicida_IFO_15640.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_penaeicida_IFO_15640.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2597931.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2597931.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_toranzoniae_CECT_7225.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2598092 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_toranzoniae_CECT_7225.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_toranzoniae_CECT_7225.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2598092.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2598092.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_hyugaensis_090810a.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2598179 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_hyugaensis_090810a.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_hyugaensis_090810a.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2598179.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2598179.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_wakamikoensis_JAMM2464.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2598258 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_wakamikoensis_JAMM2464.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_wakamikoensis_JAMM2464.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2598258.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2598258.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/EXE_15_2024_J_unicycler.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2598322 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/EXE_15_2024_J_unicycler.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/EXE_15_2024_J_unicycler.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2598322.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2598322.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_parahaemolyticus_ATCC_17802.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2598377 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_parahaemolyticus_ATCC_17802.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_parahaemolyticus_ATCC_17802.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2598377.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2598377.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11813_EXE_34_2024_P_PBC74148_final.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2598440 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11813_EXE_34_2024_P_PBC74148_final.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11813_EXE_34_2024_P_PBC74148_final.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2598440.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2598440.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_jasicida_CAIM_1864.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2598495 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_jasicida_CAIM_1864.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_jasicida_CAIM_1864.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2598495.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2598495.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_aquimaris_THAF100.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2598582 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_aquimaris_THAF100.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_aquimaris_THAF100.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2598582.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2598582.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_vulnificus_2142_77.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2598629 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_vulnificus_2142_77.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_vulnificus_2142_77.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2598629.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2598629.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11813_EXE_33_2024_C_PBC74148_final.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2598756 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11813_EXE_33_2024_C_PBC74148_final.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11813_EXE_33_2024_C_PBC74148_final.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2598756.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2598756.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_tritonius_JCM_16456.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2598819 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_tritonius_JCM_16456.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_tritonius_JCM_16456.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2598819.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2598819.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/EXE_20_2025_B_final.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2598927 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/EXE_20_2025_B_final.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/EXE_20_2025_B_final.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2598927.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2598927.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/EXE10_2023G3_unicycler.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2598990 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/EXE10_2023G3_unicycler.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/EXE10_2023G3_unicycler.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2598990.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2598990.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_ostreae_OG9_811.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2599045 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_ostreae_OG9_811.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_ostreae_OG9_811.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2599045.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2599045.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_nomapromontoriensis_JAMM1728.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2599108 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_nomapromontoriensis_JAMM1728.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_nomapromontoriensis_JAMM1728.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2599108.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2599108.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/EXE07_2023A1_unicycler.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2599180 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/EXE07_2023A1_unicycler.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/EXE07_2023A1_unicycler.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2599180.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2599180.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_brasiliensis_LMG_20546.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2599242 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_brasiliensis_LMG_20546.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_brasiliensis_LMG_20546.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2599242.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2599242.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_splendidus_LMG_19031.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2599321 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_splendidus_LMG_19031.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_splendidus_LMG_19031.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2599321.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2599321.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/EXE_13_2025_A_final.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2599400 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/EXE_13_2025_A_final.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/EXE_13_2025_A_final.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2599400.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2599400.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11671_EXE_04_2024_1B1_unicycler.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2599492 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11671_EXE_04_2024_1B1_unicycler.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11671_EXE_04_2024_1B1_unicycler.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2599492.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2599492.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_coralliilyticus_DSM_19607.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2599556 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_coralliilyticus_DSM_19607.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_coralliilyticus_DSM_19607.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2599556.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2599556.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11671_EXE_23_2024_1_unicycler.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2599619 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11671_EXE_23_2024_1_unicycler.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11671_EXE_23_2024_1_unicycler.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2599619.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2599619.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_kagoshimensis_JAMM0761.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2599690 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_kagoshimensis_JAMM0761.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_kagoshimensis_JAMM0761.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2599690.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2599690.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11813_EXE_13_2025_P_PBC74148_final.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2599769 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11813_EXE_13_2025_P_PBC74148_final.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11813_EXE_13_2025_P_PBC74148_final.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2599769.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2599769.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_agarilyticus_SM6.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2599848 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_agarilyticus_SM6.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_agarilyticus_SM6.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2599848.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2599848.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_tarriae_2521_89.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2599943 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_tarriae_2521_89.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_tarriae_2521_89.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2599943.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2599943.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_alginolyticus_ATCC_17749.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2600033 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_alginolyticus_ATCC_17749.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_alginolyticus_ATCC_17749.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2600033.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2600033.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11813_EXE_28_2025_A_PBC74148_final.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2600088 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11813_EXE_28_2025_A_PBC74148_final.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11813_EXE_28_2025_A_PBC74148_final.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2600088.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2600088.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_bathopelagicus_Sal10.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2600175 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_bathopelagicus_Sal10.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_bathopelagicus_Sal10.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2600175.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2600175.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_comitans_LMG_23416.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2600262 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_comitans_LMG_23416.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_comitans_LMG_23416.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2600262.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2600262.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_ruber_CECT_7878.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2600317 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_ruber_CECT_7878.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_ruber_CECT_7878.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2600317.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2600317.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_nitrifigilis_NFV_1.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2600397 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_nitrifigilis_NFV_1.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_nitrifigilis_NFV_1.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2600397.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2600397.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_hibernica_B1_19.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2600474 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_hibernica_B1_19.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_hibernica_B1_19.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2600474.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2600474.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_ponticus_DSM_16217.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2600524 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_ponticus_DSM_16217.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_ponticus_DSM_16217.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2600524.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2600524.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_celticus_CECT_7224.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2600602 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_celticus_CECT_7224.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_celticus_CECT_7224.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2600602.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2600602.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11813_EXE_06_2024_E_PBC74148_final.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2600723 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11813_EXE_06_2024_E_PBC74148_final.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11813_EXE_06_2024_E_PBC74148_final.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2600723.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2600723.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11671_EXE_02_2024_3B1_unicycler.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2600790 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11671_EXE_02_2024_3B1_unicycler.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11671_EXE_02_2024_3B1_unicycler.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2600790.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2600790.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11813_EXE_29_2025_HH_PBC74148_final.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2600906 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11813_EXE_29_2025_HH_PBC74148_final.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11813_EXE_29_2025_HH_PBC74148_final.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2600906.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2600906.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_harveyi_NCTC12970.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2600977 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_harveyi_NCTC12970.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_harveyi_NCTC12970.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2600977.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2600977.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_breoganii_CECT_7222.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2601072 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_breoganii_CECT_7222.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_breoganii_CECT_7222.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2601072.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2601072.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11813_EXE_12_2025_A_PBC74148_final.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2601144 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11813_EXE_12_2025_A_PBC74148_final.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11813_EXE_12_2025_A_PBC74148_final.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2601144.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2601144.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_glycogenivorans_WXL210.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2601199 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_glycogenivorans_WXL210.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_glycogenivorans_WXL210.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2601199.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2601199.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11813_EXE_32_2024_G_PBC74148_final.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2601303 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11813_EXE_32_2024_G_PBC74148_final.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11813_EXE_32_2024_G_PBC74148_final.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2601303.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2601303.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11813_EXE_25_2025_25N_PBC74148_final.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2601358 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11813_EXE_25_2025_25N_PBC74148_final.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11813_EXE_25_2025_25N_PBC74148_final.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2601358.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2601358.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11813_EXE_30_2024_G_PBC74148_final.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2601381 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11813_EXE_30_2024_G_PBC74148_final.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11813_EXE_30_2024_G_PBC74148_final.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2601381.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2601381.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_injensis_M12_1144.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2601476 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_injensis_M12_1144.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_injensis_M12_1144.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2601476.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2601476.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_litoralis_DSM_17657.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2601523 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_litoralis_DSM_17657.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_litoralis_DSM_17657.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2601523.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2601523.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_kasasachensis_JAMM1812.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2601578 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_kasasachensis_JAMM1812.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_kasasachensis_JAMM1812.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2601578.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2601578.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_ziniensis_ZWAL4003.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2601659 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_ziniensis_ZWAL4003.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_ziniensis_ZWAL4003.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2601659.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2601659.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_furnissii_FDAARGOS_777.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2601734 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_furnissii_FDAARGOS_777.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_furnissii_FDAARGOS_777.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2601734.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2601734.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_tetraodonis_subsp__pristinus_OCN044.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2601797 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_tetraodonis_subsp__pristinus_OCN044.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_tetraodonis_subsp__pristinus_OCN044.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2601797.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2601797.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_marinisediminis_404.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2601844 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_marinisediminis_404.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_marinisediminis_404.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2601844.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2601844.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_sabulosilitoris_MAO6.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2601907 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_sabulosilitoris_MAO6.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_sabulosilitoris_MAO6.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2601907.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2601907.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11813_EXE_13_2025_H_PBC74148_final.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2602038 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11813_EXE_13_2025_H_PBC74148_final.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11813_EXE_13_2025_H_PBC74148_final.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2602038.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2602038.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_superstes_G3_29.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2602101 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_superstes_G3_29.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_superstes_G3_29.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2602101.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2602101.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_mangrovi_CECT_7927.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2602164 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_mangrovi_CECT_7927.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_mangrovi_CECT_7927.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2602164.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2602164.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11813_EXE_20_2025_B_PBC74148_final.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2602211 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11813_EXE_20_2025_B_PBC74148_final.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11813_EXE_20_2025_B_PBC74148_final.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2602211.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2602211.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_gazogenes_ATCC_29988.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2602286 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_gazogenes_ATCC_29988.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_gazogenes_ATCC_29988.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2602286.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2602286.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_porteresiae_MSSRF30.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2602374 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_porteresiae_MSSRF30.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_porteresiae_MSSRF30.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2602374.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2602374.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11671_EXE_04_2024_2B3_unicycler.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2602429 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11671_EXE_04_2024_2B3_unicycler.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/11671_EXE_04_2024_2B3_unicycler.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2602429.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2602429.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_artabrorum_CECT_7226.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2602484 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_artabrorum_CECT_7226.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_artabrorum_CECT_7226.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2602484.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2602484.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_ostreicida_CECT_7398.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2602547 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_ostreicida_CECT_7398.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_ostreicida_CECT_7398.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2602547.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2602547.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/EXE08_2023B5_unicycler.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2603603 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/EXE08_2023B5_unicycler.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/EXE08_2023B5_unicycler.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2603603.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2603603.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_cholerae_FDAARGOS_103.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2603658 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_cholerae_FDAARGOS_103.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_cholerae_FDAARGOS_103.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2603658.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2603658.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_coralliirubri_DSM_27495.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2603745 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_coralliirubri_DSM_27495.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_coralliirubri_DSM_27495.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2603745.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2603745.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_spartinae_CECT_9026.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2603872 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_spartinae_CECT_9026.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_spartinae_CECT_9026.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2603872.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2603872.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_tapetis_subsp__tapetis_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2603967 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_tapetis_subsp__tapetis_.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_tapetis_subsp__tapetis_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2603967.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2603967.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_japonicus_JCM_31412.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2604054 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_japonicus_JCM_31412.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_japonicus_JCM_31412.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2604054.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2604054.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/EXE07_2023A4_unicycler.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2604125 /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/EXE07_2023A4_unicycler.fna /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/EXE07_2023A4_unicycler.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2604125.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2604125.coords
+
+Repeat coords for all references found.
+Self-NUCmer complete
+==================================================================
+Aligning to the reference genome /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_cholerae_FDAARGOS_103.fna
+
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_lamellibrachiae_JAMM2626
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_cortegadensis_CECT_7227
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_fluminensis_A621
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_alfacsensis_CAIM_1831
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_scophthalmi_LMG_19158
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_xiamenensis_CGMCC_1_10228
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_zhanjiangensis_NBRC_108723
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_11813_EXE_29_2025_V_PBC74148_final
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_pomeroyi_LMG_20537
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_11813_EXE_30_2025_R_PBC74148_final
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_11813_EXE_29_2025_K_PBC74148_final
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_caribbeanicus_ATCC_BAA_2122
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_owensii_DY05
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_tetraodonis_A511
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_crassostreae_LMG_22240
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_nereis_DSM_19584
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_11813_EXE_20_2024_J_PBC74148_final
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_diabolicus_CNCM_I_1629
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_rhizosphaerae_LMG_23790
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_proteolyticus_ATCC_15338
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_11813_EXE_30_2025_L_PBC74148_final
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_11813_EXE_09_2024_B_PBC74148_final
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_11813_EX_23_2024_K_PBC74148_final
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_11813_EXE_28_2025_W_PBC74148_final
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_EXE_01_2025_M_final
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_anguillarum_NCTC12159
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_marisflavi_CECT_7928
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_EXE_33_2024_E_final
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_galatheae_S2757
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_11813_EXE22_2025_IVF5LA_PBC74148_final
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_clamense_JAMM0920
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_11813_EXE_03_2025_A_PBC74148_final
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_kyushuensis_JAMM1822
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_chanodichtyis_DSL_7
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_campbellii_CAIM_519
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_halioticoli_IAM_14596
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_rotiferianus_CAIM_577
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_paracholerae_EDC_792
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_lentus_40M4T
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_11813_EXE_26_2025_C_PBC74148_final
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_11813_EXE_33_2024_F_PBC74148_final
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_chemaguriensis_Iso1
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_inusitatus_LMG_23434
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_ulleungensis_188UL20_2
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_gallaecicus_CECT_7244
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_pelagius_ATCC_25916
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_11813_EXE_22_2025_DG1LF_PBC7_final
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_11671_EXE_02_2024_3B2_unicycler
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_hepatarius_DSM_19134
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_maerlii_G62
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_sinaloensis_CECT_7298
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_casei_DSM_22364
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_11813_EXE_23_2025_L_PBC74148_final
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_mimicus_NCTC11435
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_tapetis_subsp__quintayensis_CECT_8851
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_tasmaniensis_LMG_20012
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_11813_EXE_33_2024_E_PBC74148_final
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_fluvialis_ATCC_33809
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_chagasii_LMG_21353
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_apostichopi_FE10
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_orientalis_CIP_102891
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_amylolyticus_ZSDE26
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_qinghaiensis_Q67
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_EXE_30_2025_R_final
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_misgurnus_GVC
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_11671_Guernsey_unicycler
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_diazotrophicus_ATCC_33466
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_11813_EXE_22_2025_DG3A_PBC74148_barcode18_final
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_cincinnatiensis_NCTC12012
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_11671_EXE_19_2024_C_unicycler
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_salilacus_DSG_S6
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_11671_EXE_26_2024_C_unicycler
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_11813_EXE_24_2025_E_PBC74148_final
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_floridensis_IRLE0018
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_metschnikovii_NCTC8443
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_11671_EXE_45_2024_E_unicycler
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_neonatus_JCM_21521
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_aestuarianus_LMG_7909
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_11671_EXE_25_2024_H_unicycler
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_aquaticus_BEI207
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_11813_EXE_26_2025_A_PBC74148_final
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_gangliei_DSM_104291
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_antiquarius_EX25
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_navarrensis_ATCC_51183
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_ishigakensis_JCM_19231
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_11813_EXE_01_2024_7_PBC74148_final
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_europaeus_PP_638
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_pacinii_DSM_19139
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_tubiashii_ATCC_19109
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_11813_EXE_19_2024_M_PBC74148_final
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_albus_E4404
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_rarus_LMG_23674
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_sinus_S4M6
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_mediterranei_
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_11813_EXE_30_2024_F_PBC74148_final
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_11813_EXE_30_2025_S_PBC74148_final
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_plantisponsor_MSSRF60
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_satsumensis_JAMM0822
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_olivae_CECT_8064
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_aphrogenes_CA_1004
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_agarivorans_CECT_5085
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_hippocampi_CECT_8226
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_sagamiensis_NBRC_104589
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_methylphosphonaticus_S4B1
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_gelatinilyticus_ZSDZ34
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_viridaestus_LJC006
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_sinensis_BEI233
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_fortis_LMG_21557
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_pectenicida_LMG_19642
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_natriegens_CCUG_16371
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_barjaei_3062
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_11671_EXE_22_2024_B_unicycler
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_kanaloae_LMG_20539
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_11813_EXE_34_2024_C_PBC74148_final
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_rumoiensis_FERM_P_14531
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_mytili_type_strain__CIP103929
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_palustris_CECT_9027
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_syngnathi_K08M4
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_bivalvicida_605
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_11813_EXE_22_2025_T1A_PBC74148_final
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_11813_EXE_21_2025_F_PBC74148_final
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_algivorus_SA2
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_echinoideorum_DSM_107264
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_atypicus_DSM_25292
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_11671_EXE_04_2024_1A1_unicycler
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_11813_EXE_27_2025_D_PBC74148_final
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_EXE_08_2024_A_final
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_intestinalis_YLB_11
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_iocasae_HN007
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_panuliri_JCM_19500
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_hangzhouensis_CGMCC_1_7062
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_cionasavignyae_JAMM2507
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_rhodolitus_G98
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_azureus_LC2_005
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_cyclitrophicus_LMG_21359
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_11813_EXE_01_2025_M_PBC74148_final
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_renipiscarius_DCR_1_4_2
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_11813_EXE_05_2024_A_PBC74148_final
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_profundi_TP187
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_EXE_32_2024_G_final
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_ouci_BEI176
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_11813_EXE_27_2025_A_PBC74148_final
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_thalassae_KCTC_32373
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_ezurae_HDS1_1
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_chaetopteri_CB1_14
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_atlanticus_CECT_7223
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_EXE_03_2025_A_final
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_gigantis_LMG_22741
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_EXE_23_2025_L_final
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_gallicus_CIP_107863
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_EXE09_2023D7_unicycler
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_penaeicida_IFO_15640
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_toranzoniae_CECT_7225
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_hyugaensis_090810a
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_wakamikoensis_JAMM2464
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_EXE_15_2024_J_unicycler
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_parahaemolyticus_ATCC_17802
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_11813_EXE_34_2024_P_PBC74148_final
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_jasicida_CAIM_1864
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_aquimaris_THAF100
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_vulnificus_2142_77
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_11813_EXE_33_2024_C_PBC74148_final
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_tritonius_JCM_16456
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_EXE_20_2025_B_final
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_EXE10_2023G3_unicycler
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_ostreae_OG9_811
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_nomapromontoriensis_JAMM1728
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_EXE07_2023A1_unicycler
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_brasiliensis_LMG_20546
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_splendidus_LMG_19031
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_EXE_13_2025_A_final
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_11671_EXE_04_2024_1B1_unicycler
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_coralliilyticus_DSM_19607
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_11671_EXE_23_2024_1_unicycler
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_kagoshimensis_JAMM0761
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_11813_EXE_13_2025_P_PBC74148_final
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_agarilyticus_SM6
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_tarriae_2521_89
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_alginolyticus_ATCC_17749
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_11813_EXE_28_2025_A_PBC74148_final
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_bathopelagicus_Sal10
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_comitans_LMG_23416
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_ruber_CECT_7878
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_nitrifigilis_NFV_1
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_hibernica_B1_19
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_ponticus_DSM_16217
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_celticus_CECT_7224
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_11813_EXE_06_2024_E_PBC74148_final
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_11671_EXE_02_2024_3B1_unicycler
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_11813_EXE_29_2025_HH_PBC74148_final
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_harveyi_NCTC12970
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_breoganii_CECT_7222
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_11813_EXE_12_2025_A_PBC74148_final
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_glycogenivorans_WXL210
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_11813_EXE_32_2024_G_PBC74148_final
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_11813_EXE_25_2025_25N_PBC74148_final
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_11813_EXE_30_2024_G_PBC74148_final
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_injensis_M12_1144
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_litoralis_DSM_17657
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_kasasachensis_JAMM1812
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_ziniensis_ZWAL4003
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_furnissii_FDAARGOS_777
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_tetraodonis_subsp__pristinus_OCN044
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_marinisediminis_404
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_sabulosilitoris_MAO6
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_11813_EXE_13_2025_H_PBC74148_final
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_superstes_G3_29
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_mangrovi_CECT_7927
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_11813_EXE_20_2025_B_PBC74148_final
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_gazogenes_ATCC_29988
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_porteresiae_MSSRF30
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_11671_EXE_04_2024_2B3_unicycler
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_artabrorum_CECT_7226
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_ostreicida_CECT_7398
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_EXE08_2023B5_unicycler
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_cholerae_FDAARGOS_103
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_coralliirubri_DSM_27495
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_spartinae_CECT_9026
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_tapetis_subsp__tapetis_
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_Vibrio_japonicus_JCM_31412
+Running nucmer on Vibrio_cholerae_FDAARGOS_103_EXE07_2023A4_unicycler
+
+NUCmer on all reference genomes complete.
+==================================================================
+
+runContigNUCmer.pl -r /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_cholerae_FDAARGOS_103.fna -q /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae -d /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/results -l /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/contigs_list.txt -t 1 -y 2 2>>/data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/results/all_vibrio_fastree.error >> /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/results/all_vibrio_fastree.log
+
+
+Using given reference:  /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_cholerae_FDAARGOS_103.fna
+NUCmer on all contig/draft genomes complete.
+
+
+buildSNPDB.pl -i /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/results -r /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/files/Vibrio_cholerae_FDAARGOS_103.fna -l /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/working_list.txt -p all_vibrio_fastree -c 0 -g 0.1 2>>/data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/results/all_vibrio_fastree.error >> /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/results/all_vibrio_fastree.log
+
+Reading Gaps file.
+Vibrio_aestuarianus_LMG_7909 covered 0.12147 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Warnings: Vibrio_chaetopteri_CB1_14 covered only 0.09087 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: Vibrio_pelagius_ATCC_25916 covered only 0.09041 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: Vibrio_tapetis_subsp__quintayensis_CECT_8851 covered only 0.07488 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+EXE_15_2024_J_unicycler covered 0.10652 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+11813_EXE_30_2024_G_PBC74148_final covered 0.10501 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Vibrio_jasicida_CAIM_1864 covered 0.10652 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Vibrio_mimicus_NCTC11435 covered 0.68732 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Warnings: Vibrio_barjaei_3062 covered only 0.08473 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+11813_EXE_29_2025_HH_PBC74148_final covered 0.10451 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Warnings: Vibrio_gallaecicus_CECT_7244 covered only 0.08370 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: Vibrio_profundi_TP187 covered only 0.09142 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: Vibrio_lentus_40M4T covered only 0.08686 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: Vibrio_algivorus_SA2 covered only 0.06867 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: Vibrio_inusitatus_LMG_23434 covered only 0.06565 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: Vibrio_palustris_CECT_9027 covered only 0.07660 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: Vibrio_echinoideorum_DSM_107264 covered only 0.08688 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: Vibrio_celticus_CECT_7224 covered only 0.08817 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: Vibrio_rhizosphaerae_LMG_23790 covered only 0.07038 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: Vibrio_marinisediminis_404 covered only 0.09593 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Vibrio_metschnikovii_NCTC8443 covered 0.10715 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Vibrio_parahaemolyticus_ATCC_17802 covered 0.10650 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Warnings: Vibrio_splendidus_LMG_19031 covered only 0.09135 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Vibrio_navarrensis_ATCC_51183 covered 0.12689 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Warnings: Vibrio_zhanjiangensis_NBRC_108723 covered only 0.07500 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Vibrio_furnissii_FDAARGOS_777 covered 0.16883 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Warnings: Vibrio_glycogenivorans_WXL210 covered only 0.08096 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Vibrio_owensii_DY05 covered 0.10458 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Vibrio_cincinnatiensis_NCTC12012 covered 0.11220 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Vibrio_chemaguriensis_Iso1 covered 0.10135 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Vibrio_floridensis_IRLE0018 covered 0.11987 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Warnings: Vibrio_albus_E4404 covered only 0.07371 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+11813_EXE_34_2024_P_PBC74148_final covered 0.10666 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Warnings: Vibrio_mangrovi_CECT_7927 covered only 0.07211 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+11813_EXE_34_2024_C_PBC74148_final covered 0.10037 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+EXE_13_2025_A_final covered 0.10501 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+EXE_33_2024_E_final covered 0.10667 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+11671_Guernsey_unicycler covered 0.10168 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Vibrio_atypicus_DSM_25292 covered 0.10043 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Warnings: Vibrio_tasmaniensis_LMG_20012 covered only 0.08840 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Vibrio_antiquarius_EX25 covered 0.10161 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Warnings: Vibrio_mediterranei_ covered only 0.08565 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+11813_EXE_20_2024_J_PBC74148_final covered 0.10014 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Warnings: Vibrio_methylphosphonaticus_S4B1 covered only 0.08049 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: Vibrio_ulleungensis_188UL20_2 covered only 0.06518 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: Vibrio_breoganii_CECT_7222 covered only 0.06799 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: Vibrio_sagamiensis_NBRC_104589 covered only 0.08055 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Vibrio_tarriae_2521_89 covered 0.84943 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+11813_EXE_30_2025_L_PBC74148_final covered 0.10196 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Warnings: 11813_EXE_28_2025_W_PBC74148_final covered only 0.09394 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: Vibrio_superstes_G3_29 covered only 0.06703 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: 11813_EXE_22_2025_DG1LF_PBC7_final covered only 0.09951 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+11813_EX_23_2024_K_PBC74148_final covered 0.10362 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+EXE09_2023D7_unicycler covered 0.10171 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Warnings: Vibrio_toranzoniae_CECT_7225 covered only 0.08542 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: Vibrio_lamellibrachiae_JAMM2626 covered only 0.08309 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: Vibrio_fortis_LMG_21557 covered only 0.09217 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: 11813_EXE_26_2025_C_PBC74148_final covered only 0.09493 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: Vibrio_tapetis_subsp__tapetis_ covered only 0.07869 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: Vibrio_viridaestus_LJC006 covered only 0.07419 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Vibrio_anguillarum_NCTC12159 covered 0.14242 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Vibrio_europaeus_PP_638 covered 0.10146 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Warnings: Vibrio_neonatus_JCM_21521 covered only 0.06996 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: Vibrio_bathopelagicus_Sal10 covered only 0.09069 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: Vibrio_sabulosilitoris_MAO6 covered only 0.08300 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: Vibrio_aquimaris_THAF100 covered only 0.07627 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Vibrio_vulnificus_2142_77 covered 0.12789 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Warnings: Vibrio_agarivorans_CECT_5085 covered only 0.08288 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Vibrio_ouci_BEI176 covered 0.10144 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Warnings: Vibrio_hippocampi_CECT_8226 covered only 0.07931 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: Vibrio_pacinii_DSM_19139 covered only 0.09492 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: Vibrio_ezurae_HDS1_1 covered only 0.07191 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: Vibrio_sinensis_BEI233 covered only 0.09122 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+EXE_03_2025_A_final covered 0.10420 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+11813_EXE_05_2024_A_PBC74148_final covered 0.92055 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Vibrio_paracholerae_EDC_792 covered 0.87431 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Warnings: Vibrio_litoralis_DSM_17657 covered only 0.06902 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+REPEATS covered 0.95442 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+EXE_32_2024_G_final covered 0.10134 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Warnings: Vibrio_agarilyticus_SM6 covered only 0.08467 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: Vibrio_hibernica_B1_19 covered only 0.06105 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: Vibrio_ostreicida_CECT_7398 covered only 0.07226 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Vibrio_diazotrophicus_ATCC_33466 covered 0.12105 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Warnings: Vibrio_caribbeanicus_ATCC_BAA_2122 covered only 0.06850 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+11671_EXE_26_2024_C_unicycler covered 0.10455 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Vibrio_natriegens_CCUG_16371 covered 0.10152 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Vibrio_rotiferianus_CAIM_577 covered 0.10399 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+EXE07_2023A4_unicycler covered 0.10132 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+11813_EXE_13_2025_H_PBC74148_final covered 0.12102 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Vibrio_misgurnus_GVC covered 0.37310 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Warnings: Vibrio_aquaticus_BEI207 covered only 0.09980 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: Vibrio_satsumensis_JAMM0822 covered only 0.09111 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Vibrio_ponticus_DSM_16217 covered 0.10147 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Warnings: Vibrio_crassostreae_LMG_22240 covered only 0.09043 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Vibrio_xiamenensis_CGMCC_1_10228 covered 0.10191 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Warnings: Vibrio_olivae_CECT_8064 covered only 0.09111 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: Vibrio_ruber_CECT_7878 covered only 0.07167 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+11813_EXE_27_2025_D_PBC74148_final covered 0.10132 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Warnings: Vibrio_sinus_S4M6 covered only 0.07284 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+EXE10_2023G3_unicycler covered 0.10487 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Vibrio_tubiashii_ATCC_19109 covered 0.10205 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Vibrio_hepatarius_DSM_19134 covered 0.10977 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Warnings: Vibrio_atlanticus_CECT_7223 covered only 0.08861 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+11813_EXE_30_2024_F_PBC74148_final covered 0.10023 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+11813_EXE_32_2024_G_PBC74148_final covered 0.10553 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+11813_EXE_09_2024_B_PBC74148_final covered 0.10023 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Warnings: Vibrio_maerlii_G62 covered only 0.08600 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+EXE08_2023B5_unicycler covered 0.10141 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+11813_EXE_22_2025_T1A_PBC74148_final covered 0.10027 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+11813_EXE_29_2025_K_PBC74148_final covered 0.10369 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+11813_EXE_01_2024_7_PBC74148_final covered 0.10023 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Warnings: Vibrio_cyclitrophicus_LMG_21359 covered only 0.08655 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+11671_EXE_22_2024_B_unicycler covered 0.10569 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+11813_EXE_21_2025_F_PBC74148_final covered 0.10023 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Vibrio_cholerae_FDAARGOS_103 covered 0.99992 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Vibrio_chanodichtyis_DSL_7 covered 0.37359 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Warnings: Vibrio_spartinae_CECT_9026 covered only 0.06913 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Vibrio_tritonius_JCM_16456 covered 0.10157 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Warnings: Vibrio_gallicus_CIP_107863 covered only 0.06414 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Vibrio_sinaloensis_CECT_7298 covered 0.10102 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Warnings: Vibrio_azureus_LC2_005 covered only 0.08162 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: Vibrio_nomapromontoriensis_JAMM1728 covered only 0.07970 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: Vibrio_kanaloae_LMG_20539 covered only 0.08799 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: Vibrio_coralliilyticus_DSM_19607 covered only 0.09942 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: Vibrio_kasasachensis_JAMM1812 covered only 0.08559 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: Vibrio_gelatinilyticus_ZSDZ34 covered only 0.07511 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Vibrio_intestinalis_YLB_11 covered 0.10267 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Warnings: Vibrio_kagoshimensis_JAMM0761 covered only 0.08300 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+11813_EXE_27_2025_A_PBC74148_final covered 0.10335 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+11813_EXE_33_2024_C_PBC74148_final covered 0.10137 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Warnings: Vibrio_coralliirubri_DSM_27495 covered only 0.08986 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Vibrio_harveyi_NCTC12970 covered 0.10286 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Vibrio_brasiliensis_LMG_20546 covered 0.10163 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Warnings: Vibrio_comitans_LMG_23416 covered only 0.06777 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Vibrio_scophthalmi_LMG_19158 covered 0.10054 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+11671_EXE_23_2024_1_unicycler covered 0.10462 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Warnings: Vibrio_salilacus_DSG_S6 covered only 0.09196 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: Vibrio_ishigakensis_JCM_19231 covered only 0.06999 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+11813_EXE_26_2025_A_PBC74148_final covered 0.10243 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+11813_EXE_13_2025_P_PBC74148_final covered 0.10533 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+EXE_30_2025_R_final covered 0.10634 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+11813_EXE_12_2025_A_PBC74148_final covered 0.10148 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Vibrio_alfacsensis_CAIM_1831 covered 0.10182 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Vibrio_alginolyticus_ATCC_17749 covered 0.10215 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Warnings: Vibrio_kyushuensis_JAMM1822 covered only 0.08485 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: Vibrio_nereis_DSM_19584 covered only 0.09850 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: Vibrio_mytili_type_strain__CIP103929 covered only 0.09298 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Vibrio_hyugaensis_090810a covered 0.10141 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+11813_EXE22_2025_IVF5LA_PBC74148_final covered 0.10376 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+EXE_01_2025_M_final covered 0.12845 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+11813_EXE_30_2025_S_PBC74148_final covered 0.10636 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Warnings: Vibrio_gigantis_LMG_22741 covered only 0.08806 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: Vibrio_chagasii_LMG_21353 covered only 0.09046 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: Vibrio_thalassae_KCTC_32373 covered only 0.08231 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: Vibrio_gangliei_DSM_104291 covered only 0.07586 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Vibrio_fluvialis_ATCC_33809 covered 0.17568 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Vibrio_campbellii_CAIM_519 covered 0.10431 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Warnings: Vibrio_pomeroyi_LMG_20537 covered only 0.09245 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Vibrio_panuliri_JCM_19500 covered 0.10094 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+11813_EXE_19_2024_M_PBC74148_final covered 0.10039 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Warnings: Vibrio_artabrorum_CECT_7226 covered only 0.08470 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+11813_EXE_33_2024_F_PBC74148_final covered 0.10671 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Vibrio_rhodolitus_G98 covered 0.10443 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Warnings: Vibrio_pectenicida_LMG_19642 covered only 0.07282 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: Vibrio_rarus_LMG_23674 covered only 0.06674 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+EXE07_2023A1_unicycler covered 0.10145 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Warnings: Vibrio_apostichopi_FE10 covered only 0.08985 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: Vibrio_cionasavignyae_JAMM2507 covered only 0.08089 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: Vibrio_gazogenes_ATCC_29988 covered only 0.06969 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: Vibrio_marisflavi_CECT_7928 covered only 0.07402 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: Vibrio_halioticoli_IAM_14596 covered only 0.06772 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: Vibrio_iocasae_HN007 covered only 0.07887 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: Vibrio_orientalis_CIP_102891 covered only 0.09864 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+11813_EXE_06_2024_E_PBC74148_final covered 0.10259 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+11813_EXE_22_2025_DG3A_PBC74148_barcode18_final covered 0.10340 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+11671_EXE_45_2024_E_unicycler covered 0.91011 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Vibrio_ostreae_OG9_811 covered 0.12938 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Vibrio_qinghaiensis_Q67 covered 0.15132 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Warnings: Vibrio_tetraodonis_subsp__pristinus_OCN044 covered only 0.07359 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Vibrio_japonicus_JCM_31412 covered 0.10260 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Warnings: Vibrio_syngnathi_K08M4 covered only 0.08701 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: Vibrio_cortegadensis_CECT_7227 covered only 0.08142 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: Vibrio_casei_DSM_22364 covered only 0.06377 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Vibrio_plantisponsor_MSSRF60 covered 0.12185 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Warnings: Vibrio_amylolyticus_ZSDE26 covered only 0.08614 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: Vibrio_clamense_JAMM0920 covered only 0.08037 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: Vibrio_nitrifigilis_NFV_1 covered only 0.08941 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: Vibrio_rumoiensis_FERM_P_14531 covered only 0.07058 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: Vibrio_aphrogenes_CA_1004 covered only 0.06877 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Vibrio_porteresiae_MSSRF30 covered 0.10805 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+11671_EXE_25_2024_H_unicycler covered 0.10632 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Warnings: Vibrio_galatheae_S2757 covered only 0.09885 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+EXE_23_2025_L_final covered 0.10504 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Vibrio_diabolicus_CNCM_I_1629 covered 0.10177 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Vibrio_ziniensis_ZWAL4003 covered 0.11439 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+11671_EXE_19_2024_C_unicycler covered 0.10632 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Warnings: Vibrio_tetraodonis_A511 covered only 0.07843 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: Vibrio_hangzhouensis_CGMCC_1_7062 covered only 0.08317 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Warnings: Vibrio_wakamikoensis_JAMM2464 covered only 0.09040 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+EXE_08_2024_A_final covered 0.10033 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Vibrio_fluminensis_A621 covered 0.10009 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Warnings: Vibrio_renipiscarius_DCR_1_4_2 covered only 0.09705 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+EXE_20_2025_B_final covered 0.10023 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Warnings: Vibrio_penaeicida_IFO_15640 covered only 0.08017 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+Vibrio_proteolyticus_ATCC_15338 covered 0.10895 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Warnings: Vibrio_bivalvicida_605 covered only 0.09735 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will NOT be used to build SNP tree and matrix.
+11813_EXE_28_2025_A_PBC74148_final covered 0.10221 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Vibrio_injensis_M12_1144 covered 0.10861 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+11813_EXE_29_2025_V_PBC74148_final covered 0.10212 of the Vibrio_cholerae_FDAARGOS_103 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Printing Summary Statistics.
+Creating SNP alignment.
+11813_EXE_22_2025_DG1LF_PBC7_final
+11813_EXE_26_2025_C_PBC74148_final
+11813_EXE_28_2025_W_PBC74148_final
+Vibrio_agarilyticus_SM6
+Vibrio_agarivorans_CECT_5085
+Vibrio_albus_E4404
+Vibrio_algivorus_SA2
+Vibrio_amylolyticus_ZSDE26
+Vibrio_aphrogenes_CA_1004
+Vibrio_apostichopi_FE10
+Vibrio_aquaticus_BEI207
+Vibrio_aquimaris_THAF100
+Vibrio_artabrorum_CECT_7226
+Vibrio_atlanticus_CECT_7223
+Vibrio_azureus_LC2_005
+Vibrio_barjaei_3062
+Vibrio_bathopelagicus_Sal10
+Vibrio_bivalvicida_605
+Vibrio_breoganii_CECT_7222
+Vibrio_caribbeanicus_ATCC_BAA_2122
+Vibrio_casei_DSM_22364
+Vibrio_celticus_CECT_7224
+Vibrio_chaetopteri_CB1_14
+Vibrio_chagasii_LMG_21353
+Vibrio_cionasavignyae_JAMM2507
+Vibrio_clamense_JAMM0920
+Vibrio_comitans_LMG_23416
+Vibrio_coralliilyticus_DSM_19607
+Vibrio_coralliirubri_DSM_27495
+Vibrio_cortegadensis_CECT_7227
+Vibrio_crassostreae_LMG_22240
+Vibrio_cyclitrophicus_LMG_21359
+Vibrio_echinoideorum_DSM_107264
+Vibrio_ezurae_HDS1_1
+Vibrio_fortis_LMG_21557
+Vibrio_galatheae_S2757
+Vibrio_gallaecicus_CECT_7244
+Vibrio_gallicus_CIP_107863
+Vibrio_gangliei_DSM_104291
+Vibrio_gazogenes_ATCC_29988
+Vibrio_gelatinilyticus_ZSDZ34
+Vibrio_gigantis_LMG_22741
+Vibrio_glycogenivorans_WXL210
+Vibrio_halioticoli_IAM_14596
+Vibrio_hangzhouensis_CGMCC_1_7062
+Vibrio_hibernica_B1_19
+Vibrio_hippocampi_CECT_8226
+Vibrio_inusitatus_LMG_23434
+Vibrio_iocasae_HN007
+Vibrio_ishigakensis_JCM_19231
+Vibrio_kagoshimensis_JAMM0761
+Vibrio_kanaloae_LMG_20539
+Vibrio_kasasachensis_JAMM1812
+Vibrio_kyushuensis_JAMM1822
+Vibrio_lamellibrachiae_JAMM2626
+Vibrio_lentus_40M4T
+Vibrio_litoralis_DSM_17657
+Vibrio_maerlii_G62
+Vibrio_mangrovi_CECT_7927
+Vibrio_marinisediminis_404
+Vibrio_marisflavi_CECT_7928
+Vibrio_mediterranei_
+Vibrio_methylphosphonaticus_S4B1
+Vibrio_mytili_type_strain__CIP103929
+Vibrio_neonatus_JCM_21521
+Vibrio_nereis_DSM_19584
+Vibrio_nitrifigilis_NFV_1
+Vibrio_nomapromontoriensis_JAMM1728
+Vibrio_olivae_CECT_8064
+Vibrio_orientalis_CIP_102891
+Vibrio_ostreicida_CECT_7398
+Vibrio_pacinii_DSM_19139
+Vibrio_palustris_CECT_9027
+Vibrio_pectenicida_LMG_19642
+Vibrio_pelagius_ATCC_25916
+Vibrio_penaeicida_IFO_15640
+Vibrio_pomeroyi_LMG_20537
+Vibrio_profundi_TP187
+Vibrio_rarus_LMG_23674
+Vibrio_renipiscarius_DCR_1_4_2
+Vibrio_rhizosphaerae_LMG_23790
+Vibrio_ruber_CECT_7878
+Vibrio_rumoiensis_FERM_P_14531
+Vibrio_sabulosilitoris_MAO6
+Vibrio_sagamiensis_NBRC_104589
+Vibrio_salilacus_DSG_S6
+Vibrio_satsumensis_JAMM0822
+Vibrio_sinensis_BEI233
+Vibrio_sinus_S4M6
+Vibrio_spartinae_CECT_9026
+Vibrio_splendidus_LMG_19031
+Vibrio_superstes_G3_29
+Vibrio_syngnathi_K08M4
+Vibrio_tapetis_subsp__quintayensis_CECT_8851
+Vibrio_tapetis_subsp__tapetis_
+Vibrio_tasmaniensis_LMG_20012
+Vibrio_tetraodonis_A511
+Vibrio_tetraodonis_subsp__pristinus_OCN044
+Vibrio_thalassae_KCTC_32373
+Vibrio_toranzoniae_CECT_7225
+Vibrio_ulleungensis_188UL20_2
+Vibrio_viridaestus_LJC006
+Vibrio_wakamikoensis_JAMM2464
+Vibrio_zhanjiangensis_NBRC_108723
+11813_EXE_22_2025_DG1LF_PBC7_final
+11813_EXE_26_2025_C_PBC74148_final
+11813_EXE_28_2025_W_PBC74148_final
+Vibrio_agarilyticus_SM6
+Vibrio_agarivorans_CECT_5085
+Vibrio_albus_E4404
+Vibrio_algivorus_SA2
+Vibrio_amylolyticus_ZSDE26
+Vibrio_aphrogenes_CA_1004
+Vibrio_apostichopi_FE10
+Vibrio_aquaticus_BEI207
+Vibrio_aquimaris_THAF100
+Vibrio_artabrorum_CECT_7226
+Vibrio_atlanticus_CECT_7223
+Vibrio_azureus_LC2_005
+Vibrio_barjaei_3062
+Vibrio_bathopelagicus_Sal10
+Vibrio_bivalvicida_605
+Vibrio_breoganii_CECT_7222
+Vibrio_caribbeanicus_ATCC_BAA_2122
+Vibrio_casei_DSM_22364
+Vibrio_celticus_CECT_7224
+Vibrio_chaetopteri_CB1_14
+Vibrio_chagasii_LMG_21353
+Vibrio_cionasavignyae_JAMM2507
+Vibrio_clamense_JAMM0920
+Vibrio_comitans_LMG_23416
+Vibrio_coralliilyticus_DSM_19607
+Vibrio_coralliirubri_DSM_27495
+Vibrio_cortegadensis_CECT_7227
+Vibrio_crassostreae_LMG_22240
+Vibrio_cyclitrophicus_LMG_21359
+Vibrio_echinoideorum_DSM_107264
+Vibrio_ezurae_HDS1_1
+Vibrio_fortis_LMG_21557
+Vibrio_galatheae_S2757
+Vibrio_gallaecicus_CECT_7244
+Vibrio_gallicus_CIP_107863
+Vibrio_gangliei_DSM_104291
+Vibrio_gazogenes_ATCC_29988
+Vibrio_gelatinilyticus_ZSDZ34
+Vibrio_gigantis_LMG_22741
+Vibrio_glycogenivorans_WXL210
+Vibrio_halioticoli_IAM_14596
+Vibrio_hangzhouensis_CGMCC_1_7062
+Vibrio_hibernica_B1_19
+Vibrio_hippocampi_CECT_8226
+Vibrio_inusitatus_LMG_23434
+Vibrio_iocasae_HN007
+Vibrio_ishigakensis_JCM_19231
+Vibrio_kagoshimensis_JAMM0761
+Vibrio_kanaloae_LMG_20539
+Vibrio_kasasachensis_JAMM1812
+Vibrio_kyushuensis_JAMM1822
+Vibrio_lamellibrachiae_JAMM2626
+Vibrio_lentus_40M4T
+Vibrio_litoralis_DSM_17657
+Vibrio_maerlii_G62
+Vibrio_mangrovi_CECT_7927
+Vibrio_marinisediminis_404
+Vibrio_marisflavi_CECT_7928
+Vibrio_mediterranei_
+Vibrio_methylphosphonaticus_S4B1
+Vibrio_mytili_type_strain__CIP103929
+Vibrio_neonatus_JCM_21521
+Vibrio_nereis_DSM_19584
+Vibrio_nitrifigilis_NFV_1
+Vibrio_nomapromontoriensis_JAMM1728
+Vibrio_olivae_CECT_8064
+Vibrio_orientalis_CIP_102891
+Vibrio_ostreicida_CECT_7398
+Vibrio_pacinii_DSM_19139
+Vibrio_palustris_CECT_9027
+Vibrio_pectenicida_LMG_19642
+Vibrio_pelagius_ATCC_25916
+Vibrio_penaeicida_IFO_15640
+Vibrio_pomeroyi_LMG_20537
+Vibrio_profundi_TP187
+Vibrio_rarus_LMG_23674
+Vibrio_renipiscarius_DCR_1_4_2
+Vibrio_rhizosphaerae_LMG_23790
+Vibrio_ruber_CECT_7878
+Vibrio_rumoiensis_FERM_P_14531
+Vibrio_sabulosilitoris_MAO6
+Vibrio_sagamiensis_NBRC_104589
+Vibrio_salilacus_DSG_S6
+Vibrio_satsumensis_JAMM0822
+Vibrio_sinensis_BEI233
+Vibrio_sinus_S4M6
+Vibrio_spartinae_CECT_9026
+Vibrio_splendidus_LMG_19031
+Vibrio_superstes_G3_29
+Vibrio_syngnathi_K08M4
+Vibrio_tapetis_subsp__quintayensis_CECT_8851
+Vibrio_tapetis_subsp__tapetis_
+Vibrio_tasmaniensis_LMG_20012
+Vibrio_tetraodonis_A511
+Vibrio_tetraodonis_subsp__pristinus_OCN044
+Vibrio_thalassae_KCTC_32373
+Vibrio_toranzoniae_CECT_7225
+Vibrio_ulleungensis_188UL20_2
+Vibrio_viridaestus_LJC006
+Vibrio_wakamikoensis_JAMM2464
+Vibrio_zhanjiangensis_NBRC_108723
+11813_EXE_22_2025_DG1LF_PBC7_final
+11813_EXE_26_2025_C_PBC74148_final
+11813_EXE_28_2025_W_PBC74148_final
+Vibrio_agarilyticus_SM6
+Vibrio_agarivorans_CECT_5085
+Vibrio_albus_E4404
+Vibrio_algivorus_SA2
+Vibrio_amylolyticus_ZSDE26
+Vibrio_aphrogenes_CA_1004
+Vibrio_apostichopi_FE10
+Vibrio_aquaticus_BEI207
+Vibrio_aquimaris_THAF100
+Vibrio_artabrorum_CECT_7226
+Vibrio_atlanticus_CECT_7223
+Vibrio_azureus_LC2_005
+Vibrio_barjaei_3062
+Vibrio_bathopelagicus_Sal10
+Vibrio_bivalvicida_605
+Vibrio_breoganii_CECT_7222
+Vibrio_caribbeanicus_ATCC_BAA_2122
+Vibrio_casei_DSM_22364
+Vibrio_celticus_CECT_7224
+Vibrio_chaetopteri_CB1_14
+Vibrio_chagasii_LMG_21353
+Vibrio_cionasavignyae_JAMM2507
+Vibrio_clamense_JAMM0920
+Vibrio_comitans_LMG_23416
+Vibrio_coralliilyticus_DSM_19607
+Vibrio_coralliirubri_DSM_27495
+Vibrio_cortegadensis_CECT_7227
+Vibrio_crassostreae_LMG_22240
+Vibrio_cyclitrophicus_LMG_21359
+Vibrio_echinoideorum_DSM_107264
+Vibrio_ezurae_HDS1_1
+Vibrio_fortis_LMG_21557
+Vibrio_galatheae_S2757
+Vibrio_gallaecicus_CECT_7244
+Vibrio_gallicus_CIP_107863
+Vibrio_gangliei_DSM_104291
+Vibrio_gazogenes_ATCC_29988
+Vibrio_gelatinilyticus_ZSDZ34
+Vibrio_gigantis_LMG_22741
+Vibrio_glycogenivorans_WXL210
+Vibrio_halioticoli_IAM_14596
+Vibrio_hangzhouensis_CGMCC_1_7062
+Vibrio_hibernica_B1_19
+Vibrio_hippocampi_CECT_8226
+Vibrio_inusitatus_LMG_23434
+Vibrio_iocasae_HN007
+Vibrio_ishigakensis_JCM_19231
+Vibrio_kagoshimensis_JAMM0761
+Vibrio_kanaloae_LMG_20539
+Vibrio_kasasachensis_JAMM1812
+Vibrio_kyushuensis_JAMM1822
+Vibrio_lamellibrachiae_JAMM2626
+Vibrio_lentus_40M4T
+Vibrio_litoralis_DSM_17657
+Vibrio_maerlii_G62
+Vibrio_mangrovi_CECT_7927
+Vibrio_marinisediminis_404
+Vibrio_marisflavi_CECT_7928
+Vibrio_mediterranei_
+Vibrio_methylphosphonaticus_S4B1
+Vibrio_mytili_type_strain__CIP103929
+Vibrio_neonatus_JCM_21521
+Vibrio_nereis_DSM_19584
+Vibrio_nitrifigilis_NFV_1
+Vibrio_nomapromontoriensis_JAMM1728
+Vibrio_olivae_CECT_8064
+Vibrio_orientalis_CIP_102891
+Vibrio_ostreicida_CECT_7398
+Vibrio_pacinii_DSM_19139
+Vibrio_palustris_CECT_9027
+Vibrio_pectenicida_LMG_19642
+Vibrio_pelagius_ATCC_25916
+Vibrio_penaeicida_IFO_15640
+Vibrio_pomeroyi_LMG_20537
+Vibrio_profundi_TP187
+Vibrio_rarus_LMG_23674
+Vibrio_renipiscarius_DCR_1_4_2
+Vibrio_rhizosphaerae_LMG_23790
+Vibrio_ruber_CECT_7878
+Vibrio_rumoiensis_FERM_P_14531
+Vibrio_sabulosilitoris_MAO6
+Vibrio_sagamiensis_NBRC_104589
+Vibrio_salilacus_DSG_S6
+Vibrio_satsumensis_JAMM0822
+Vibrio_sinensis_BEI233
+Vibrio_sinus_S4M6
+Vibrio_spartinae_CECT_9026
+Vibrio_splendidus_LMG_19031
+Vibrio_superstes_G3_29
+Vibrio_syngnathi_K08M4
+Vibrio_tapetis_subsp__quintayensis_CECT_8851
+Vibrio_tapetis_subsp__tapetis_
+Vibrio_tasmaniensis_LMG_20012
+Vibrio_tetraodonis_A511
+Vibrio_tetraodonis_subsp__pristinus_OCN044
+Vibrio_thalassae_KCTC_32373
+Vibrio_toranzoniae_CECT_7225
+Vibrio_ulleungensis_188UL20_2
+Vibrio_viridaestus_LJC006
+Vibrio_wakamikoensis_JAMM2464
+Vibrio_zhanjiangensis_NBRC_108723
+11813_EXE_22_2025_DG1LF_PBC7_final
+11813_EXE_26_2025_C_PBC74148_final
+11813_EXE_28_2025_W_PBC74148_final
+Vibrio_agarilyticus_SM6
+Vibrio_agarivorans_CECT_5085
+Vibrio_albus_E4404
+Vibrio_algivorus_SA2
+Vibrio_amylolyticus_ZSDE26
+Vibrio_aphrogenes_CA_1004
+Vibrio_apostichopi_FE10
+Vibrio_aquaticus_BEI207
+Vibrio_aquimaris_THAF100
+Vibrio_artabrorum_CECT_7226
+Vibrio_atlanticus_CECT_7223
+Vibrio_azureus_LC2_005
+Vibrio_barjaei_3062
+Vibrio_bathopelagicus_Sal10
+Vibrio_bivalvicida_605
+Vibrio_breoganii_CECT_7222
+Vibrio_caribbeanicus_ATCC_BAA_2122
+Vibrio_casei_DSM_22364
+Vibrio_celticus_CECT_7224
+Vibrio_chaetopteri_CB1_14
+Vibrio_chagasii_LMG_21353
+Vibrio_cionasavignyae_JAMM2507
+Vibrio_clamense_JAMM0920
+Vibrio_comitans_LMG_23416
+Vibrio_coralliilyticus_DSM_19607
+Vibrio_coralliirubri_DSM_27495
+Vibrio_cortegadensis_CECT_7227
+Vibrio_crassostreae_LMG_22240
+Vibrio_cyclitrophicus_LMG_21359
+Vibrio_echinoideorum_DSM_107264
+Vibrio_ezurae_HDS1_1
+Vibrio_fortis_LMG_21557
+Vibrio_galatheae_S2757
+Vibrio_gallaecicus_CECT_7244
+Vibrio_gallicus_CIP_107863
+Vibrio_gangliei_DSM_104291
+Vibrio_gazogenes_ATCC_29988
+Vibrio_gelatinilyticus_ZSDZ34
+Vibrio_gigantis_LMG_22741
+Vibrio_glycogenivorans_WXL210
+Vibrio_halioticoli_IAM_14596
+Vibrio_hangzhouensis_CGMCC_1_7062
+Vibrio_hibernica_B1_19
+Vibrio_hippocampi_CECT_8226
+Vibrio_inusitatus_LMG_23434
+Vibrio_iocasae_HN007
+Vibrio_ishigakensis_JCM_19231
+Vibrio_kagoshimensis_JAMM0761
+Vibrio_kanaloae_LMG_20539
+Vibrio_kasasachensis_JAMM1812
+Vibrio_kyushuensis_JAMM1822
+Vibrio_lamellibrachiae_JAMM2626
+Vibrio_lentus_40M4T
+Vibrio_litoralis_DSM_17657
+Vibrio_maerlii_G62
+Vibrio_mangrovi_CECT_7927
+Vibrio_marinisediminis_404
+Vibrio_marisflavi_CECT_7928
+Vibrio_mediterranei_
+Vibrio_methylphosphonaticus_S4B1
+Vibrio_mytili_type_strain__CIP103929
+Vibrio_neonatus_JCM_21521
+Vibrio_nereis_DSM_19584
+Vibrio_nitrifigilis_NFV_1
+Vibrio_nomapromontoriensis_JAMM1728
+Vibrio_olivae_CECT_8064
+Vibrio_orientalis_CIP_102891
+Vibrio_ostreicida_CECT_7398
+Vibrio_pacinii_DSM_19139
+Vibrio_palustris_CECT_9027
+Vibrio_pectenicida_LMG_19642
+Vibrio_pelagius_ATCC_25916
+Vibrio_penaeicida_IFO_15640
+Vibrio_pomeroyi_LMG_20537
+Vibrio_profundi_TP187
+Vibrio_rarus_LMG_23674
+Vibrio_renipiscarius_DCR_1_4_2
+Vibrio_rhizosphaerae_LMG_23790
+Vibrio_ruber_CECT_7878
+Vibrio_rumoiensis_FERM_P_14531
+Vibrio_sabulosilitoris_MAO6
+Vibrio_sagamiensis_NBRC_104589
+Vibrio_salilacus_DSG_S6
+Vibrio_satsumensis_JAMM0822
+Vibrio_sinensis_BEI233
+Vibrio_sinus_S4M6
+Vibrio_spartinae_CECT_9026
+Vibrio_splendidus_LMG_19031
+Vibrio_superstes_G3_29
+Vibrio_syngnathi_K08M4
+Vibrio_tapetis_subsp__quintayensis_CECT_8851
+Vibrio_tapetis_subsp__tapetis_
+Vibrio_tasmaniensis_LMG_20012
+Vibrio_tetraodonis_A511
+Vibrio_tetraodonis_subsp__pristinus_OCN044
+Vibrio_thalassae_KCTC_32373
+Vibrio_toranzoniae_CECT_7225
+Vibrio_ulleungensis_188UL20_2
+Vibrio_viridaestus_LJC006
+Vibrio_wakamikoensis_JAMM2464
+Vibrio_zhanjiangensis_NBRC_108723
+Creating SNP stats file. 
+SNP alignment complete.
+Reconstructing phylogeny using FastTree
+export OMP_NUM_THREADS=1; FastTree -quiet -nt -gtr < /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/results/all_vibrio_fastree_all_snp_alignment.fna > /data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/results/all_vibrio_fastree_all.fasttree 2>>/data/djs217/PROJECTS/56_Vibrio_phaME/01_PhaME/04_workdir_cholerae/results/all_vibrio_fastree.error 
+
+Tree phylogeny complete.
