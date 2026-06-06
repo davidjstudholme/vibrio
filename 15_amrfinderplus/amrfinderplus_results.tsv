@@ -1,0 +1,248 @@
+V_aesturianus.EXE_13_2025_H.fasta.amrfinder.tsv
+Protein id	Contig id	Start	Stop	Strand	Element symbol	Element name	Scope	Type	Subtype	Class	Subclass	Method	Target length	Reference sequence length	% Coverage of reference	% Identity to reference	Alignment length	Closest reference accession	Closest reference name	HMM accession	HMM description
+
+V_alfacsensis.EXE_28_2025_A.fasta.amrfinder.tsv
+Protein id	Contig id	Start	Stop	Strand	Element symbol	Element name	Scope	Type	Subtype	Class	Subclass	Method	Target length	Reference sequence length	% Coverage of reference	% Identity to reference	Alignment length	Closest reference accession	Closest reference name	HMM accession	HMM description
+NA	chromosome00001	1182445	1184043	+	tet(35)	tetracycline efflux Na+/H+ antiporter family transporter Tet(35)	core	AMR	AMR	TETRACYCLINE	TETRACYCLINE	BLASTX	533	533	100.00	93.81	533	WP_005480402.1	tetracycline efflux Na+/H+ antiporter family transporter Tet(35)	NA	NA
+
+V_alginolyticus.EXE_01_2024_7.fasta.amrfinder.tsv
+Protein id	Contig id	Start	Stop	Strand	Element symbol	Element name	Scope	Type	Subtype	Class	Subclass	Method	Target length	Reference sequence length	% Coverage of reference	% Identity to reference	Alignment length	Closest reference accession	Closest reference name	HMM accession	HMM description
+NA	chromosome00001	1184538	1186136	+	tet(35)	tetracycline efflux Na+/H+ antiporter family transporter Tet(35)	core	AMR	AMR	TETRACYCLINE	TETRACYCLINE	BLASTX	533	533	100.00	96.06	533	WP_005480402.1	tetracycline efflux Na+/H+ antiporter family transporter Tet(35)	NA	NA
+NA	plasmid00002	130110	130958	-	blaCARB-42	carbenicillin-hydrolyzing class A beta-lactamase CARB-42	core	AMR	AMR	BETA-LACTAM	BETA-LACTAM	ALLELEX	283	283	100.00	100.00	283	WP_005375420.1	carbenicillin-hydrolyzing class A beta-lactamase CARB-42	NA	NA
+
+V_alginolyticus.EXE_09_2024_B.fasta.amrfinder.tsv
+Protein id	Contig id	Start	Stop	Strand	Element symbol	Element name	Scope	Type	Subtype	Class	Subclass	Method	Target length	Reference sequence length	% Coverage of reference	% Identity to reference	Alignment length	Closest reference accession	Closest reference name	HMM accession	HMM description
+NA	chromosome00001	2402406	2404004	+	tet(35)	tetracycline efflux Na+/H+ antiporter family transporter Tet(35)	core	AMR	AMR	TETRACYCLINE	TETRACYCLINE	BLASTX	533	533	100.00	96.06	533	WP_005480402.1	tetracycline efflux Na+/H+ antiporter family transporter Tet(35)	NA	NA
+NA	plasmid00003	113496	114344	-	blaCARB-42	carbenicillin-hydrolyzing class A beta-lactamase CARB-42	core	AMR	AMR	BETA-LACTAM	BETA-LACTAM	ALLELEX	283	283	100.00	100.00	283	WP_005375420.1	carbenicillin-hydrolyzing class A beta-lactamase CARB-42	NA	NA
+
+V_alginolyticus.EXE_20_2025_B.fasta.amrfinder.tsv
+Protein id	Contig id	Start	Stop	Strand	Element symbol	Element name	Scope	Type	Subtype	Class	Subclass	Method	Target length	Reference sequence length	% Coverage of reference	% Identity to reference	Alignment length	Closest reference accession	Closest reference name	HMM accession	HMM description
+NA	chromosome00001	1216958	1218556	+	tet(35)	tetracycline efflux Na+/H+ antiporter family transporter Tet(35)	core	AMR	AMR	TETRACYCLINE	TETRACYCLINE	BLASTX	533	533	100.00	96.06	533	WP_005480402.1	tetracycline efflux Na+/H+ antiporter family transporter Tet(35)	NA	NA
+NA	plasmid00001	347533	348381	+	blaCARB-42	carbenicillin-hydrolyzing class A beta-lactamase CARB-42	core	AMR	AMR	BETA-LACTAM	BETA-LACTAM	ALLELEX	283	283	100.00	100.00	283	WP_005375420.1	carbenicillin-hydrolyzing class A beta-lactamase CARB-42	NA	NA
+
+V_alginolyticus.EXE_21_2025_F.fasta.amrfinder.tsv
+Protein id	Contig id	Start	Stop	Strand	Element symbol	Element name	Scope	Type	Subtype	Class	Subclass	Method	Target length	Reference sequence length	% Coverage of reference	% Identity to reference	Alignment length	Closest reference accession	Closest reference name	HMM accession	HMM description
+NA	chromosome00001	1216959	1218557	+	tet(35)	tetracycline efflux Na+/H+ antiporter family transporter Tet(35)	core	AMR	AMR	TETRACYCLINE	TETRACYCLINE	BLASTX	533	533	100.00	96.06	533	WP_005480402.1	tetracycline efflux Na+/H+ antiporter family transporter Tet(35)	NA	NA
+NA	plasmid00002	52429	53277	-	blaCARB-42	carbenicillin-hydrolyzing class A beta-lactamase CARB-42	core	AMR	AMR	BETA-LACTAM	BETA-LACTAM	ALLELEX	283	283	100.00	100.00	283	WP_005375420.1	carbenicillin-hydrolyzing class A beta-lactamase CARB-42	NA	NA
+
+V_alginolyticus.EXE_30_2024.fasta.amrfinder.tsv
+Protein id	Contig id	Start	Stop	Strand	Element symbol	Element name	Scope	Type	Subtype	Class	Subclass	Method	Target length	Reference sequence length	% Coverage of reference	% Identity to reference	Alignment length	Closest reference accession	Closest reference name	HMM accession	HMM description
+NA	chromosome00001	1216959	1218557	+	tet(35)	tetracycline efflux Na+/H+ antiporter family transporter Tet(35)	core	AMR	AMR	TETRACYCLINE	TETRACYCLINE	BLASTX	533	533	100.00	96.06	533	WP_005480402.1	tetracycline efflux Na+/H+ antiporter family transporter Tet(35)	NA	NA
+NA	plasmid00001	961800	962648	+	blaCARB-42	carbenicillin-hydrolyzing class A beta-lactamase CARB-42	core	AMR	AMR	BETA-LACTAM	BETA-LACTAM	ALLELEX	283	283	100.00	100.00	283	WP_005375420.1	carbenicillin-hydrolyzing class A beta-lactamase CARB-42	NA	NA
+
+V_alginolyticus.EXE_30_2025.fasta.amrfinder.tsv
+Protein id	Contig id	Start	Stop	Strand	Element symbol	Element name	Scope	Type	Subtype	Class	Subclass	Method	Target length	Reference sequence length	% Coverage of reference	% Identity to reference	Alignment length	Closest reference accession	Closest reference name	HMM accession	HMM description
+NA	chromosome00001	2101369	2102967	-	tet(35)	tetracycline efflux Na+/H+ antiporter family transporter Tet(35)	core	AMR	AMR	TETRACYCLINE	TETRACYCLINE	BLASTX	533	533	100.00	96.25	533	WP_005480402.1	tetracycline efflux Na+/H+ antiporter family transporter Tet(35)	NA	NA
+NA	plasmid00001	283150	283998	-	blaCARB-42	carbenicillin-hydrolyzing class A beta-lactamase CARB-42	core	AMR	AMR	BETA-LACTAM	BETA-LACTAM	ALLELEX	283	283	100.00	100.00	283	WP_005375420.1	carbenicillin-hydrolyzing class A beta-lactamase CARB-42	NA	NA
+
+V_alginolyticus.Guernsey.fasta.amrfinder.tsv
+Protein id	Contig id	Start	Stop	Strand	Element symbol	Element name	Scope	Type	Subtype	Class	Subclass	Method	Target length	Reference sequence length	% Coverage of reference	% Identity to reference	Alignment length	Closest reference accession	Closest reference name	HMM accession	HMM description
+NA	1	2166553	2168151	-	tet(35)	tetracycline efflux Na+/H+ antiporter family transporter Tet(35)	core	AMR	AMR	TETRACYCLINE	TETRACYCLINE	BLASTX	533	533	100.00	96.25	533	WP_005480402.1	tetracycline efflux Na+/H+ antiporter family transporter Tet(35)	NA	NA
+NA	2	1251216	1252064	+	blaCARB-42	carbenicillin-hydrolyzing class A beta-lactamase CARB-42	core	AMR	AMR	BETA-LACTAM	BETA-LACTAM	ALLELEX	283	283	100.00	100.00	283	WP_005375420.1	carbenicillin-hydrolyzing class A beta-lactamase CARB-42	NA	NA
+
+V_anguillarum.EXE_01_2025_M.fasta.amrfinder.tsv
+Protein id	Contig id	Start	Stop	Strand	Element symbol	Element name	Scope	Type	Subtype	Class	Subclass	Method	Target length	Reference sequence length	% Coverage of reference	% Identity to reference	Alignment length	Closest reference accession	Closest reference name	HMM accession	HMM description
+
+V_cholerae.EXE_05_2024_A.fasta.amrfinder.tsv
+Protein id	Contig id	Start	Stop	Strand	Element symbol	Element name	Scope	Type	Subtype	Class	Subclass	Method	Target length	Reference sequence length	% Coverage of reference	% Identity to reference	Alignment length	Closest reference accession	Closest reference name	HMM accession	HMM description
+NA	contig00005	1515463	1516281	-	almG	glycine--lipid A transferase AlmG	core	AMR	AMR	COLISTIN	COLISTIN	BLASTX	273	273	100.00	99.27	273	WP_001881365.1	glycine--lipid A transferase AlmG	NA	NA
+NA	contig00005	1516286	1516519	-	almF	lipid A modification system glycine carrier protein AlmF	core	AMR	AMR	COLISTIN	COLISTIN	EXACTX	78	78	100.00	100.00	78	WP_000806242.1	lipid A modification system glycine carrier protein AlmF	NA	NA
+NA	contig00005	1516506	1518173	-	almE	lipid A modification system glycine--protein ligase AlmE	core	AMR	AMR	COLISTIN	COLISTIN	BLASTX	556	556	100.00	98.20	556	WP_252944138.1	lipid A modification system glycine--protein ligase AlmE	NA	NA
+
+V_cholerae.EXE_45_2024_E.fasta.amrfinder.tsv
+Protein id	Contig id	Start	Stop	Strand	Element symbol	Element name	Scope	Type	Subtype	Class	Subclass	Method	Target length	Reference sequence length	% Coverage of reference	% Identity to reference	Alignment length	Closest reference accession	Closest reference name	HMM accession	HMM description
+NA	1	1484636	1485757	+	varG	VarG family subclass B1-like metallo-beta-lactamase	core	AMR	AMR	BETA-LACTAM	CARBAPENEM	BLASTX	374	374	100.00	99.20	374	WP_000778180.1	VarG family subclass B1-like metallo-beta-lactamase	NA	NA
+NA	1	1497731	1498549	-	almG	glycine--lipid A transferase AlmG	core	AMR	AMR	COLISTIN	COLISTIN	BLASTX	273	273	100.00	98.53	273	WP_001881365.1	glycine--lipid A transferase AlmG	NA	NA
+NA	1	1498554	1498787	-	almF	lipid A modification system glycine carrier protein AlmF	core	AMR	AMR	COLISTIN	COLISTIN	EXACTX	78	78	100.00	100.00	78	WP_000806242.1	lipid A modification system glycine carrier protein AlmF	NA	NA
+NA	1	1498774	1500441	-	almE	lipid A modification system glycine--protein ligase AlmE	core	AMR	AMR	COLISTIN	COLISTIN	BLASTX	556	556	100.00	98.74	556	WP_252944138.1	lipid A modification system glycine--protein ligase AlmE	NA	NA
+
+V_diabolicus.EXE_06_2024_E.fasta.amrfinder.tsv
+Protein id	Contig id	Start	Stop	Strand	Element symbol	Element name	Scope	Type	Subtype	Class	Subclass	Method	Target length	Reference sequence length	% Coverage of reference	% Identity to reference	Alignment length	Closest reference accession	Closest reference name	HMM accession	HMM description
+NA	chromosome00001	932633	934231	+	tet(35)	tetracycline efflux Na+/H+ antiporter family transporter Tet(35)	core	AMR	AMR	TETRACYCLINE	TETRACYCLINE	BLASTX	533	533	100.00	95.12	533	WP_005480402.1	tetracycline efflux Na+/H+ antiporter family transporter Tet(35)	NA	NA
+NA	plasmid00001	1730595	1731443	+	blaCARB	CARB family carbenicillin-hydrolyzing class A beta-lactamase	core	AMR	AMR	BETA-LACTAM	BETA-LACTAM	BLASTX	283	283	100.00	99.65	283	WP_005391263.1	carbenicillin-hydrolyzing class A beta-lactamase CARB-57	NA	NA
+
+V_diabolicus.EXE_07_2023_A1.fasta.amrfinder.tsv
+Protein id	Contig id	Start	Stop	Strand	Element symbol	Element name	Scope	Type	Subtype	Class	Subclass	Method	Target length	Reference sequence length	% Coverage of reference	% Identity to reference	Alignment length	Closest reference accession	Closest reference name	HMM accession	HMM description
+NA	1	144610	145458	-	blaCARB	CARB family carbenicillin-hydrolyzing class A beta-lactamase	core	AMR	AMR	BETA-LACTAM	BETA-LACTAM	BLASTX	283	283	100.00	99.65	283	WP_005391263.1	carbenicillin-hydrolyzing class A beta-lactamase CARB-57	NA	NA
+NA	9	50616	52214	-	tet(35)	tetracycline efflux Na+/H+ antiporter family transporter Tet(35)	core	AMR	AMR	TETRACYCLINE	TETRACYCLINE	BLASTX	533	533	100.00	95.31	533	WP_005480402.1	tetracycline efflux Na+/H+ antiporter family transporter Tet(35)	NA	NA
+
+V_diabolicus.EXE_07_2023_A4.fasta.amrfinder.tsv
+Protein id	Contig id	Start	Stop	Strand	Element symbol	Element name	Scope	Type	Subtype	Class	Subclass	Method	Target length	Reference sequence length	% Coverage of reference	% Identity to reference	Alignment length	Closest reference accession	Closest reference name	HMM accession	HMM description
+NA	2	228879	230477	+	tet(35)	tetracycline efflux Na+/H+ antiporter family transporter Tet(35)	core	AMR	AMR	TETRACYCLINE	TETRACYCLINE	BLASTX	533	533	100.00	95.31	533	WP_005480402.1	tetracycline efflux Na+/H+ antiporter family transporter Tet(35)	NA	NA
+NA	4	340437	341285	-	blaCARB	CARB family carbenicillin-hydrolyzing class A beta-lactamase	core	AMR	AMR	BETA-LACTAM	BETA-LACTAM	BLASTX	283	283	100.00	98.94	283	WP_005391263.1	carbenicillin-hydrolyzing class A beta-lactamase CARB-57	NA	NA
+
+V_diabolicus.EXE_08_2023_B5.fasta.amrfinder.tsv
+Protein id	Contig id	Start	Stop	Strand	Element symbol	Element name	Scope	Type	Subtype	Class	Subclass	Method	Target length	Reference sequence length	% Coverage of reference	% Identity to reference	Alignment length	Closest reference accession	Closest reference name	HMM accession	HMM description
+NA	3	439799	440647	+	blaCARB	CARB family carbenicillin-hydrolyzing class A beta-lactamase	core	AMR	AMR	BETA-LACTAM	BETA-LACTAM	BLASTX	283	283	100.00	99.65	283	WP_005391263.1	carbenicillin-hydrolyzing class A beta-lactamase CARB-57	NA	NA
+NA	5	223333	224931	+	tet(35)	tetracycline efflux Na+/H+ antiporter family transporter Tet(35)	core	AMR	AMR	TETRACYCLINE	TETRACYCLINE	BLASTX	533	533	100.00	95.31	533	WP_005480402.1	tetracycline efflux Na+/H+ antiporter family transporter Tet(35)	NA	NA
+
+V_diabolicus.EXE_08_2024_A.fasta.amrfinder.tsv
+Protein id	Contig id	Start	Stop	Strand	Element symbol	Element name	Scope	Type	Subtype	Class	Subclass	Method	Target length	Reference sequence length	% Coverage of reference	% Identity to reference	Alignment length	Closest reference accession	Closest reference name	HMM accession	HMM description
+NA	chromosome00001	2059884	2061482	-	tet(35)	tetracycline efflux Na+/H+ antiporter family transporter Tet(35)	core	AMR	AMR	TETRACYCLINE	TETRACYCLINE	BLASTX	533	533	100.00	95.31	533	WP_005480402.1	tetracycline efflux Na+/H+ antiporter family transporter Tet(35)	NA	NA
+NA	plasmid00002	111850	112698	+	blaCARB	CARB family carbenicillin-hydrolyzing class A beta-lactamase	core	AMR	AMR	BETA-LACTAM	BETA-LACTAM	BLASTX	283	283	100.00	99.65	283	WP_005391263.1	carbenicillin-hydrolyzing class A beta-lactamase CARB-57	NA	NA
+
+V_diabolicus.EXE_09_2023_D7.fasta.amrfinder.tsv
+Protein id	Contig id	Start	Stop	Strand	Element symbol	Element name	Scope	Type	Subtype	Class	Subclass	Method	Target length	Reference sequence length	% Coverage of reference	% Identity to reference	Alignment length	Closest reference accession	Closest reference name	HMM accession	HMM description
+NA	3	103529	104377	+	blaCARB	CARB family carbenicillin-hydrolyzing class A beta-lactamase	core	AMR	AMR	BETA-LACTAM	BETA-LACTAM	BLASTX	283	283	100.00	99.65	283	WP_005391263.1	carbenicillin-hydrolyzing class A beta-lactamase CARB-57	NA	NA
+NA	4	185850	187448	+	tet(35)	tetracycline efflux Na+/H+ antiporter family transporter Tet(35)	core	AMR	AMR	TETRACYCLINE	TETRACYCLINE	BLASTX	533	533	100.00	95.31	533	WP_005480402.1	tetracycline efflux Na+/H+ antiporter family transporter Tet(35)	NA	NA
+
+V_diabolicus.EXE_10_2023_G3.fasta.amrfinder.tsv
+Protein id	Contig id	Start	Stop	Strand	Element symbol	Element name	Scope	Type	Subtype	Class	Subclass	Method	Target length	Reference sequence length	% Coverage of reference	% Identity to reference	Alignment length	Closest reference accession	Closest reference name	HMM accession	HMM description
+NA	2	564243	565091	-	blaCARB	CARB family carbenicillin-hydrolyzing class A beta-lactamase	core	AMR	AMR	BETA-LACTAM	BETA-LACTAM	BLASTX	283	283	100.00	99.65	283	WP_005391263.1	carbenicillin-hydrolyzing class A beta-lactamase CARB-57	NA	NA
+NA	3	187688	189286	+	tet(35)	tetracycline efflux Na+/H+ antiporter family transporter Tet(35)	core	AMR	AMR	TETRACYCLINE	TETRACYCLINE	BLASTX	533	533	100.00	95.12	533	WP_005480402.1	tetracycline efflux Na+/H+ antiporter family transporter Tet(35)	NA	NA
+
+V_diabolicus.EXE_12_2025_A.fasta.amrfinder.tsv
+Protein id	Contig id	Start	Stop	Strand	Element symbol	Element name	Scope	Type	Subtype	Class	Subclass	Method	Target length	Reference sequence length	% Coverage of reference	% Identity to reference	Alignment length	Closest reference accession	Closest reference name	HMM accession	HMM description
+NA	chromosome00001	2050585	2052183	-	tet(35)	tetracycline efflux Na+/H+ antiporter family transporter Tet(35)	core	AMR	AMR	TETRACYCLINE	TETRACYCLINE	BLASTX	533	533	100.00	95.31	533	WP_005480402.1	tetracycline efflux Na+/H+ antiporter family transporter Tet(35)	NA	NA
+NA	plasmid00001	1602678	1603526	-	blaCARB	CARB family carbenicillin-hydrolyzing class A beta-lactamase	core	AMR	AMR	BETA-LACTAM	BETA-LACTAM	BLASTX	283	283	100.00	99.65	283	WP_005391263.1	carbenicillin-hydrolyzing class A beta-lactamase CARB-57	NA	NA
+
+V_diabolicus.EXE_19_2024_M.fasta.amrfinder.tsv
+Protein id	Contig id	Start	Stop	Strand	Element symbol	Element name	Scope	Type	Subtype	Class	Subclass	Method	Target length	Reference sequence length	% Coverage of reference	% Identity to reference	Alignment length	Closest reference accession	Closest reference name	HMM accession	HMM description
+NA	chromosome00001	967118	968716	+	tet(35)	tetracycline efflux Na+/H+ antiporter family transporter Tet(35)	core	AMR	AMR	TETRACYCLINE	TETRACYCLINE	BLASTX	533	533	100.00	95.31	533	WP_005480402.1	tetracycline efflux Na+/H+ antiporter family transporter Tet(35)	NA	NA
+NA	plasmid00005	27047	27895	-	blaCARB	CARB family carbenicillin-hydrolyzing class A beta-lactamase	core	AMR	AMR	BETA-LACTAM	BETA-LACTAM	BLASTX	283	283	100.00	99.65	283	WP_005391263.1	carbenicillin-hydrolyzing class A beta-lactamase CARB-57	NA	NA
+
+V_diabolicus.EXE_20_2024_J.fasta.amrfinder.tsv
+Protein id	Contig id	Start	Stop	Strand	Element symbol	Element name	Scope	Type	Subtype	Class	Subclass	Method	Target length	Reference sequence length	% Coverage of reference	% Identity to reference	Alignment length	Closest reference accession	Closest reference name	HMM accession	HMM description
+NA	chromosome00001	1409034	1409429	+	fos	FosG/FosC2-related fosfomycin resistance glutathione transferase	core	AMR	AMR	FOSFOMYCIN	FOSFOMYCIN	BLASTX	132	132	100.00	96.97	132	WP_005475717.1	FosG/FosC2-related fosfomycin resistance glutathione transferase	NA	NA
+NA	chromosome00001	2146663	2148261	-	tet(35)	tetracycline efflux Na+/H+ antiporter family transporter Tet(35)	core	AMR	AMR	TETRACYCLINE	TETRACYCLINE	BLASTX	533	533	100.00	95.12	533	WP_005480402.1	tetracycline efflux Na+/H+ antiporter family transporter Tet(35)	NA	NA
+NA	plasmid00001	1405282	1406130	+	blaCARB	CARB family carbenicillin-hydrolyzing class A beta-lactamase	core	AMR	AMR	BETA-LACTAM	BETA-LACTAM	BLASTX	283	283	100.00	99.65	283	WP_005391263.1	carbenicillin-hydrolyzing class A beta-lactamase CARB-57	NA	NA
+
+V_diabolicus.EXE_22_2025_T1A.fasta.amrfinder.tsv
+Protein id	Contig id	Start	Stop	Strand	Element symbol	Element name	Scope	Type	Subtype	Class	Subclass	Method	Target length	Reference sequence length	% Coverage of reference	% Identity to reference	Alignment length	Closest reference accession	Closest reference name	HMM accession	HMM description
+NA	chromosome00001	2126942	2128540	-	tet(35)	tetracycline efflux Na+/H+ antiporter family transporter Tet(35)	core	AMR	AMR	TETRACYCLINE	TETRACYCLINE	BLASTX	533	533	100.00	95.31	533	WP_005480402.1	tetracycline efflux Na+/H+ antiporter family transporter Tet(35)	NA	NA
+NA	plasmid00001	1191477	1192325	+	blaCARB	CARB family carbenicillin-hydrolyzing class A beta-lactamase	core	AMR	AMR	BETA-LACTAM	BETA-LACTAM	BLASTX	283	283	100.00	99.65	283	WP_005391263.1	carbenicillin-hydrolyzing class A beta-lactamase CARB-57	NA	NA
+
+V_diabolicus.EXE_23_2024_K.fasta.amrfinder.tsv
+Protein id	Contig id	Start	Stop	Strand	Element symbol	Element name	Scope	Type	Subtype	Class	Subclass	Method	Target length	Reference sequence length	% Coverage of reference	% Identity to reference	Alignment length	Closest reference accession	Closest reference name	HMM accession	HMM description
+NA	contig00001	425430	426278	+	blaCARB	CARB family carbenicillin-hydrolyzing class A beta-lactamase	core	AMR	AMR	BETA-LACTAM	BETA-LACTAM	BLASTX	283	283	100.00	99.65	283	WP_005391263.1	carbenicillin-hydrolyzing class A beta-lactamase CARB-57	NA	NA
+NA	contig00001	496407	497069	-	qnrC	QnrC family quinolone resistance pentapeptide repeat protein	core	AMR	AMR	QUINOLONE	QUINOLONE	BLASTX	221	221	100.00	94.12	221	WP_032492368.1	QnrC family quinolone resistance pentapeptide repeat protein	NA	NA
+NA	contig00002	926159	927757	+	tet(35)	tetracycline efflux Na+/H+ antiporter family transporter Tet(35)	core	AMR	AMR	TETRACYCLINE	TETRACYCLINE	BLASTX	533	533	100.00	95.31	533	WP_005480402.1	tetracycline efflux Na+/H+ antiporter family transporter Tet(35)	NA	NA
+NA	contig00003	1736679	1737074	+	fos	FosG/FosC2-related fosfomycin resistance glutathione transferase	core	AMR	AMR	FOSFOMYCIN	FOSFOMYCIN	BLASTX	132	132	100.00	96.21	132	WP_005475717.1	FosG/FosC2-related fosfomycin resistance glutathione transferase	NA	NA
+
+V_diabolicus.EXE_27_2025_D.fasta.amrfinder.tsv
+Protein id	Contig id	Start	Stop	Strand	Element symbol	Element name	Scope	Type	Subtype	Class	Subclass	Method	Target length	Reference sequence length	% Coverage of reference	% Identity to reference	Alignment length	Closest reference accession	Closest reference name	HMM accession	HMM description
+NA	chromosome00001	1173543	1175141	+	tet(35)	tetracycline efflux Na+/H+ antiporter family transporter Tet(35)	core	AMR	AMR	TETRACYCLINE	TETRACYCLINE	BLASTX	533	533	100.00	95.12	533	WP_005480402.1	tetracycline efflux Na+/H+ antiporter family transporter Tet(35)	NA	NA
+NA	plasmid00002	216599	217447	+	blaCARB-57	carbenicillin-hydrolyzing class A beta-lactamase CARB-57	core	AMR	AMR	BETA-LACTAM	BETA-LACTAM	ALLELEX	283	283	100.00	100.00	283	WP_005391263.1	carbenicillin-hydrolyzing class A beta-lactamase CARB-57	NA	NA
+
+V_diabolicus.EXE_29_2025_V.fasta.amrfinder.tsv
+Protein id	Contig id	Start	Stop	Strand	Element symbol	Element name	Scope	Type	Subtype	Class	Subclass	Method	Target length	Reference sequence length	% Coverage of reference	% Identity to reference	Alignment length	Closest reference accession	Closest reference name	HMM accession	HMM description
+NA	chromosome00001	1161297	1162895	+	tet(35)	tetracycline efflux Na+/H+ antiporter family transporter Tet(35)	core	AMR	AMR	TETRACYCLINE	TETRACYCLINE	BLASTX	533	533	100.00	95.12	533	WP_005480402.1	tetracycline efflux Na+/H+ antiporter family transporter Tet(35)	NA	NA
+NA	chromosome00001	1890627	1891022	-	fos	FosG/FosC2-related fosfomycin resistance glutathione transferase	core	AMR	AMR	FOSFOMYCIN	FOSFOMYCIN	BLASTX	132	132	100.00	93.94	132	WP_005475717.1	FosG/FosC2-related fosfomycin resistance glutathione transferase	NA	NA
+NA	plasmid00001	133460	134308	-	blaCARB	CARB family carbenicillin-hydrolyzing class A beta-lactamase	core	AMR	AMR	BETA-LACTAM	BETA-LACTAM	BLASTX	283	283	100.00	99.29	283	WP_005391263.1	carbenicillin-hydrolyzing class A beta-lactamase CARB-57	NA	NA
+
+V_diabolicus.EXE_33_2024_C.fasta.amrfinder.tsv
+Protein id	Contig id	Start	Stop	Strand	Element symbol	Element name	Scope	Type	Subtype	Class	Subclass	Method	Target length	Reference sequence length	% Coverage of reference	% Identity to reference	Alignment length	Closest reference accession	Closest reference name	HMM accession	HMM description
+NA	chromosome00001	1208744	1210342	+	tet(35)	tetracycline efflux Na+/H+ antiporter family transporter Tet(35)	core	AMR	AMR	TETRACYCLINE	TETRACYCLINE	BLASTX	533	533	100.00	95.12	533	WP_005480402.1	tetracycline efflux Na+/H+ antiporter family transporter Tet(35)	NA	NA
+NA	plasmid00002	134478	135326	-	blaCARB	CARB family carbenicillin-hydrolyzing class A beta-lactamase	core	AMR	AMR	BETA-LACTAM	BETA-LACTAM	BLASTX	283	283	100.00	99.65	283	WP_005391263.1	carbenicillin-hydrolyzing class A beta-lactamase CARB-57	NA	NA
+
+V_diabolicus.EXE_34_2024_C.fasta.amrfinder.tsv
+Protein id	Contig id	Start	Stop	Strand	Element symbol	Element name	Scope	Type	Subtype	Class	Subclass	Method	Target length	Reference sequence length	% Coverage of reference	% Identity to reference	Alignment length	Closest reference accession	Closest reference name	HMM accession	HMM description
+NA	chromosome00001	1181842	1183440	+	tet(35)	tetracycline efflux Na+/H+ antiporter family transporter Tet(35)	core	AMR	AMR	TETRACYCLINE	TETRACYCLINE	BLASTX	533	533	100.00	94.93	533	WP_005480402.1	tetracycline efflux Na+/H+ antiporter family transporter Tet(35)	NA	NA
+NA	plasmid00001	56248	57096	-	blaCARB	CARB family carbenicillin-hydrolyzing class A beta-lactamase	core	AMR	AMR	BETA-LACTAM	BETA-LACTAM	BLASTX	283	283	100.00	99.65	283	WP_005391263.1	carbenicillin-hydrolyzing class A beta-lactamase CARB-57	NA	NA
+
+V_jasicida.EXE_03_2025_A.fasta.amrfinder.tsv
+Protein id	Contig id	Start	Stop	Strand	Element symbol	Element name	Scope	Type	Subtype	Class	Subclass	Method	Target length	Reference sequence length	% Coverage of reference	% Identity to reference	Alignment length	Closest reference accession	Closest reference name	HMM accession	HMM description
+NA	chromosome00001	1381001	1382599	+	tet(35)	tetracycline efflux Na+/H+ antiporter family transporter Tet(35)	core	AMR	AMR	TETRACYCLINE	TETRACYCLINE	BLASTX	533	533	100.00	95.12	533	WP_005480402.1	tetracycline efflux Na+/H+ antiporter family transporter Tet(35)	NA	NA
+
+V_jasicida.EXE_13_2025_A.fasta.amrfinder.tsv
+Protein id	Contig id	Start	Stop	Strand	Element symbol	Element name	Scope	Type	Subtype	Class	Subclass	Method	Target length	Reference sequence length	% Coverage of reference	% Identity to reference	Alignment length	Closest reference accession	Closest reference name	HMM accession	HMM description
+NA	chromosome00001	1368133	1369731	+	tet(35)	tetracycline efflux Na+/H+ antiporter family transporter Tet(35)	core	AMR	AMR	TETRACYCLINE	TETRACYCLINE	BLASTX	533	533	100.00	95.12	533	WP_005480402.1	tetracycline efflux Na+/H+ antiporter family transporter Tet(35)	NA	NA
+
+V_jasicida.EXE_13_2025_P.fasta.amrfinder.tsv
+Protein id	Contig id	Start	Stop	Strand	Element symbol	Element name	Scope	Type	Subtype	Class	Subclass	Method	Target length	Reference sequence length	% Coverage of reference	% Identity to reference	Alignment length	Closest reference accession	Closest reference name	HMM accession	HMM description
+NA	chromosome00001	1358317	1359915	+	tet(35)	tetracycline efflux Na+/H+ antiporter family transporter Tet(35)	core	AMR	AMR	TETRACYCLINE	TETRACYCLINE	BLASTX	533	533	100.00	95.12	533	WP_005480402.1	tetracycline efflux Na+/H+ antiporter family transporter Tet(35)	NA	NA
+
+V_jasicida.EXE_22_2024_B.fasta.amrfinder.tsv
+Protein id	Contig id	Start	Stop	Strand	Element symbol	Element name	Scope	Type	Subtype	Class	Subclass	Method	Target length	Reference sequence length	% Coverage of reference	% Identity to reference	Alignment length	Closest reference accession	Closest reference name	HMM accession	HMM description
+NA	1	1883996	1885594	-	tet(35)	tetracycline efflux Na+/H+ antiporter family transporter Tet(35)	core	AMR	AMR	TETRACYCLINE	TETRACYCLINE	BLASTX	533	533	100.00	94.93	533	WP_005480402.1	tetracycline efflux Na+/H+ antiporter family transporter Tet(35)	NA	NA
+
+V_jasicida.EXE_22_2025_IVF5LA.fasta.amrfinder.tsv
+Protein id	Contig id	Start	Stop	Strand	Element symbol	Element name	Scope	Type	Subtype	Class	Subclass	Method	Target length	Reference sequence length	% Coverage of reference	% Identity to reference	Alignment length	Closest reference accession	Closest reference name	HMM accession	HMM description
+NA	contig00010	43288	44886	+	tet(35)	tetracycline efflux Na+/H+ antiporter family transporter Tet(35)	core	AMR	AMR	TETRACYCLINE	TETRACYCLINE	BLASTX	533	533	100.00	95.12	533	WP_005480402.1	tetracycline efflux Na+/H+ antiporter family transporter Tet(35)	NA	NA
+NA	contig00017	146840	147676	+	blaVHW	VHW family class A beta-lactamase	core	AMR	AMR	BETA-LACTAM	BETA-LACTAM	BLASTX	279	290	96.55	92.86	280	WP_063865165.1	carbenicillin-hydrolyzing class A beta-lactamase VHW-1	NA	NA
+
+V_jasicida.EXE_26_2025_A.fasta.amrfinder.tsv
+Protein id	Contig id	Start	Stop	Strand	Element symbol	Element name	Scope	Type	Subtype	Class	Subclass	Method	Target length	Reference sequence length	% Coverage of reference	% Identity to reference	Alignment length	Closest reference accession	Closest reference name	HMM accession	HMM description
+NA	contig00002	709023	710621	+	tet(35)	tetracycline efflux Na+/H+ antiporter family transporter Tet(35)	core	AMR	AMR	TETRACYCLINE	TETRACYCLINE	BLASTX	533	533	100.00	95.12	533	WP_005480402.1	tetracycline efflux Na+/H+ antiporter family transporter Tet(35)	NA	NA
+
+V_jasicida.EXE_27_2025_A.fasta.amrfinder.tsv
+Protein id	Contig id	Start	Stop	Strand	Element symbol	Element name	Scope	Type	Subtype	Class	Subclass	Method	Target length	Reference sequence length	% Coverage of reference	% Identity to reference	Alignment length	Closest reference accession	Closest reference name	HMM accession	HMM description
+NA	chromosome00001	1446999	1448597	+	tet(35)	tetracycline efflux Na+/H+ antiporter family transporter Tet(35)	core	AMR	AMR	TETRACYCLINE	TETRACYCLINE	BLASTX	533	533	100.00	95.12	533	WP_005480402.1	tetracycline efflux Na+/H+ antiporter family transporter Tet(35)	NA	NA
+
+V_jasicida.EXE_29_2025_K.fasta.amrfinder.tsv
+Protein id	Contig id	Start	Stop	Strand	Element symbol	Element name	Scope	Type	Subtype	Class	Subclass	Method	Target length	Reference sequence length	% Coverage of reference	% Identity to reference	Alignment length	Closest reference accession	Closest reference name	HMM accession	HMM description
+NA	plasmid00003	147169	148767	+	tet(35)	tetracycline efflux Na+/H+ antiporter family transporter Tet(35)	core	AMR	AMR	TETRACYCLINE	TETRACYCLINE	BLASTX	533	533	100.00	95.12	533	WP_005480402.1	tetracycline efflux Na+/H+ antiporter family transporter Tet(35)	NA	NA
+
+V_jasicida.EXE_30_2024_G.fasta.amrfinder.tsv
+Protein id	Contig id	Start	Stop	Strand	Element symbol	Element name	Scope	Type	Subtype	Class	Subclass	Method	Target length	Reference sequence length	% Coverage of reference	% Identity to reference	Alignment length	Closest reference accession	Closest reference name	HMM accession	HMM description
+NA	contig00002	733024	734622	-	tet(35)	tetracycline efflux Na+/H+ antiporter family transporter Tet(35)	core	AMR	AMR	TETRACYCLINE	TETRACYCLINE	BLASTX	533	533	100.00	95.12	533	WP_005480402.1	tetracycline efflux Na+/H+ antiporter family transporter Tet(35)	NA	NA
+
+V_neptunius.EXE_26_2025_C.fasta.amrfinder.tsv
+Protein id	Contig id	Start	Stop	Strand	Element symbol	Element name	Scope	Type	Subtype	Class	Subclass	Method	Target length	Reference sequence length	% Coverage of reference	% Identity to reference	Alignment length	Closest reference accession	Closest reference name	HMM accession	HMM description
+
+V_pacinii.EXE_28_2025_W.fasta.amrfinder.tsv
+Protein id	Contig id	Start	Stop	Strand	Element symbol	Element name	Scope	Type	Subtype	Class	Subclass	Method	Target length	Reference sequence length	% Coverage of reference	% Identity to reference	Alignment length	Closest reference accession	Closest reference name	HMM accession	HMM description
+
+V_parahaemolyticus.EXE_15_2024_J.fasta.amrfinder.tsv
+Protein id	Contig id	Start	Stop	Strand	Element symbol	Element name	Scope	Type	Subtype	Class	Subclass	Method	Target length	Reference sequence length	% Coverage of reference	% Identity to reference	Alignment length	Closest reference accession	Closest reference name	HMM accession	HMM description
+NA	1	624277	625125	-	blaCARB-18	carbenicillin-hydrolyzing class A beta-lactamase CARB-18	core	AMR	AMR	BETA-LACTAM	BETA-LACTAM	ALLELEX	283	283	100.00	100.00	283	WP_005459715.1	carbenicillin-hydrolyzing class A beta-lactamase CARB-18	NA	NA
+NA	3	355352	356950	+	tet(35)	tetracycline efflux Na+/H+ antiporter family transporter Tet(35)	core	AMR	AMR	TETRACYCLINE	TETRACYCLINE	BLASTX	533	533	100.00	99.81	533	WP_005480402.1	tetracycline efflux Na+/H+ antiporter family transporter Tet(35)	NA	NA
+
+V_parahaemolyticus.EXE_19_2024_C.fasta.amrfinder.tsv
+Protein id	Contig id	Start	Stop	Strand	Element symbol	Element name	Scope	Type	Subtype	Class	Subclass	Method	Target length	Reference sequence length	% Coverage of reference	% Identity to reference	Alignment length	Closest reference accession	Closest reference name	HMM accession	HMM description
+NA	1	2034578	2036176	-	tet(35)	tetracycline efflux Na+/H+ antiporter family transporter Tet(35)	core	AMR	AMR	TETRACYCLINE	TETRACYCLINE	BLASTX	533	533	100.00	99.81	533	WP_005480402.1	tetracycline efflux Na+/H+ antiporter family transporter Tet(35)	NA	NA
+NA	2	1614629	1615477	+	blaCARB-18	carbenicillin-hydrolyzing class A beta-lactamase CARB-18	core	AMR	AMR	BETA-LACTAM	BETA-LACTAM	ALLELEX	283	283	100.00	100.00	283	WP_005459715.1	carbenicillin-hydrolyzing class A beta-lactamase CARB-18	NA	NA
+
+V_parahaemolyticus.EXE_23_2024_1.fasta.amrfinder.tsv
+Protein id	Contig id	Start	Stop	Strand	Element symbol	Element name	Scope	Type	Subtype	Class	Subclass	Method	Target length	Reference sequence length	% Coverage of reference	% Identity to reference	Alignment length	Closest reference accession	Closest reference name	HMM accession	HMM description
+NA	1	2282750	2284348	-	tet(35)	tetracycline efflux Na+/H+ antiporter family transporter Tet(35)	core	AMR	AMR	TETRACYCLINE	TETRACYCLINE	BLASTX	533	533	100.00	99.44	533	WP_005480402.1	tetracycline efflux Na+/H+ antiporter family transporter Tet(35)	NA	NA
+NA	2	187481	188329	+	blaCARB-18	carbenicillin-hydrolyzing class A beta-lactamase CARB-18	core	AMR	AMR	BETA-LACTAM	BETA-LACTAM	ALLELEX	283	283	100.00	100.00	283	WP_005459715.1	carbenicillin-hydrolyzing class A beta-lactamase CARB-18	NA	NA
+
+V_parahaemolyticus.EXE_25_2024_H.fasta.amrfinder.tsv
+Protein id	Contig id	Start	Stop	Strand	Element symbol	Element name	Scope	Type	Subtype	Class	Subclass	Method	Target length	Reference sequence length	% Coverage of reference	% Identity to reference	Alignment length	Closest reference accession	Closest reference name	HMM accession	HMM description
+NA	1	2034311	2035909	-	tet(35)	tetracycline efflux Na+/H+ antiporter family transporter Tet(35)	core	AMR	AMR	TETRACYCLINE	TETRACYCLINE	BLASTX	533	533	100.00	99.81	533	WP_005480402.1	tetracycline efflux Na+/H+ antiporter family transporter Tet(35)	NA	NA
+NA	2	1614629	1615477	+	blaCARB-18	carbenicillin-hydrolyzing class A beta-lactamase CARB-18	core	AMR	AMR	BETA-LACTAM	BETA-LACTAM	ALLELEX	283	283	100.00	100.00	283	WP_005459715.1	carbenicillin-hydrolyzing class A beta-lactamase CARB-18	NA	NA
+
+V_parahaemolyticus.EXE_26_2024_C.fasta.amrfinder.tsv
+Protein id	Contig id	Start	Stop	Strand	Element symbol	Element name	Scope	Type	Subtype	Class	Subclass	Method	Target length	Reference sequence length	% Coverage of reference	% Identity to reference	Alignment length	Closest reference accession	Closest reference name	HMM accession	HMM description
+NA	1	1126348	1127946	+	tet(35)	tetracycline efflux Na+/H+ antiporter family transporter Tet(35)	core	AMR	AMR	TETRACYCLINE	TETRACYCLINE	BLASTX	533	533	100.00	99.81	533	WP_005480402.1	tetracycline efflux Na+/H+ antiporter family transporter Tet(35)	NA	NA
+NA	2	340112	340960	-	blaCARB-20	carbenicillin-hydrolyzing class A beta-lactamase CARB-20	core	AMR	AMR	BETA-LACTAM	BETA-LACTAM	ALLELEX	283	283	100.00	100.00	283	WP_020835015.1	carbenicillin-hydrolyzing class A beta-lactamase CARB-20	NA	NA
+
+V_parahaemolyticus.EXE_29_2025_HH.fasta.amrfinder.tsv
+Protein id	Contig id	Start	Stop	Strand	Element symbol	Element name	Scope	Type	Subtype	Class	Subclass	Method	Target length	Reference sequence length	% Coverage of reference	% Identity to reference	Alignment length	Closest reference accession	Closest reference name	HMM accession	HMM description
+NA	contig00003	127925	128773	-	blaCARB-18	carbenicillin-hydrolyzing class A beta-lactamase CARB-18	core	AMR	AMR	BETA-LACTAM	BETA-LACTAM	ALLELEX	283	283	100.00	100.00	283	WP_005459715.1	carbenicillin-hydrolyzing class A beta-lactamase CARB-18	NA	NA
+NA	contig00004	1980683	1982281	+	tet(35)	tetracycline efflux Na+/H+ antiporter family transporter Tet(35)	core	AMR	AMR	TETRACYCLINE	TETRACYCLINE	BLASTX	533	533	100.00	99.44	533	WP_005480402.1	tetracycline efflux Na+/H+ antiporter family transporter Tet(35)	NA	NA
+
+V_parahaemolyticus.EXE_30_2025_R.fasta.amrfinder.tsv
+Protein id	Contig id	Start	Stop	Strand	Element symbol	Element name	Scope	Type	Subtype	Class	Subclass	Method	Target length	Reference sequence length	% Coverage of reference	% Identity to reference	Alignment length	Closest reference accession	Closest reference name	HMM accession	HMM description
+NA	chromosome00001	2029488	2031086	-	tet(35)	tetracycline efflux Na+/H+ antiporter family transporter Tet(35)	core	AMR	AMR	TETRACYCLINE	TETRACYCLINE	BLASTX	533	533	100.00	99.81	533	WP_005480402.1	tetracycline efflux Na+/H+ antiporter family transporter Tet(35)	NA	NA
+NA	plasmid00001	1201251	1202099	-	blaCARB-18	carbenicillin-hydrolyzing class A beta-lactamase CARB-18	core	AMR	AMR	BETA-LACTAM	BETA-LACTAM	ALLELEX	283	283	100.00	100.00	283	WP_005459715.1	carbenicillin-hydrolyzing class A beta-lactamase CARB-18	NA	NA
+
+V_parahaemolyticus.EXE_30_2025_S.fasta.amrfinder.tsv
+Protein id	Contig id	Start	Stop	Strand	Element symbol	Element name	Scope	Type	Subtype	Class	Subclass	Method	Target length	Reference sequence length	% Coverage of reference	% Identity to reference	Alignment length	Closest reference accession	Closest reference name	HMM accession	HMM description
+NA	chromosome00001	2029488	2031086	-	tet(35)	tetracycline efflux Na+/H+ antiporter family transporter Tet(35)	core	AMR	AMR	TETRACYCLINE	TETRACYCLINE	BLASTX	533	533	100.00	99.81	533	WP_005480402.1	tetracycline efflux Na+/H+ antiporter family transporter Tet(35)	NA	NA
+NA	plasmid00002	164565	165413	-	blaCARB-18	carbenicillin-hydrolyzing class A beta-lactamase CARB-18	core	AMR	AMR	BETA-LACTAM	BETA-LACTAM	ALLELEX	283	283	100.00	100.00	283	WP_005459715.1	carbenicillin-hydrolyzing class A beta-lactamase CARB-18	NA	NA
+
+V_parahaemolyticus.EXE_32_2024_G..fasta.amrfinder.tsv
+Protein id	Contig id	Start	Stop	Strand	Element symbol	Element name	Scope	Type	Subtype	Class	Subclass	Method	Target length	Reference sequence length	% Coverage of reference	% Identity to reference	Alignment length	Closest reference accession	Closest reference name	HMM accession	HMM description
+NA	contig00003	914971	916569	+	tet(35)	tetracycline efflux Na+/H+ antiporter family transporter Tet(35)	core	AMR	AMR	TETRACYCLINE	TETRACYCLINE	BLASTX	533	533	100.00	99.81	533	WP_005480402.1	tetracycline efflux Na+/H+ antiporter family transporter Tet(35)	NA	NA
+NA	contig00005	51498	52346	-	blaCARB-18	carbenicillin-hydrolyzing class A beta-lactamase CARB-18	core	AMR	AMR	BETA-LACTAM	BETA-LACTAM	ALLELEX	283	283	100.00	100.00	283	WP_005459715.1	carbenicillin-hydrolyzing class A beta-lactamase CARB-18	NA	NA
+
+V_parahaemolyticus.EXE_33_2024_E.fasta.amrfinder.tsv
+Protein id	Contig id	Start	Stop	Strand	Element symbol	Element name	Scope	Type	Subtype	Class	Subclass	Method	Target length	Reference sequence length	% Coverage of reference	% Identity to reference	Alignment length	Closest reference accession	Closest reference name	HMM accession	HMM description
+NA	chromosome00001	2060162	2061760	-	tet(35)	tetracycline efflux Na+/H+ antiporter family transporter Tet(35)	core	AMR	AMR	TETRACYCLINE	TETRACYCLINE	BLASTX	533	533	100.00	99.81	533	WP_005480402.1	tetracycline efflux Na+/H+ antiporter family transporter Tet(35)	NA	NA
+NA	plasmid00001	1454584	1455432	+	blaCARB-21	carbenicillin-hydrolyzing class A beta-lactamase CARB-21	core	AMR	AMR	BETA-LACTAM	BETA-LACTAM	ALLELEX	283	283	100.00	100.00	283	WP_025632811.1	carbenicillin-hydrolyzing class A beta-lactamase CARB-21	NA	NA
+
+V_parahaemolyticus.EXE_33_2024_F.fasta.amrfinder.tsv
+Protein id	Contig id	Start	Stop	Strand	Element symbol	Element name	Scope	Type	Subtype	Class	Subclass	Method	Target length	Reference sequence length	% Coverage of reference	% Identity to reference	Alignment length	Closest reference accession	Closest reference name	HMM accession	HMM description
+NA	chromosome00001	2060162	2061760	-	tet(35)	tetracycline efflux Na+/H+ antiporter family transporter Tet(35)	core	AMR	AMR	TETRACYCLINE	TETRACYCLINE	BLASTX	533	533	100.00	99.81	533	WP_005480402.1	tetracycline efflux Na+/H+ antiporter family transporter Tet(35)	NA	NA
+NA	plasmid00001	817807	818655	+	blaCARB-21	carbenicillin-hydrolyzing class A beta-lactamase CARB-21	core	AMR	AMR	BETA-LACTAM	BETA-LACTAM	ALLELEX	283	283	100.00	100.00	283	WP_025632811.1	carbenicillin-hydrolyzing class A beta-lactamase CARB-21	NA	NA
+
+V_parahaemolyticus.EXE_34_2024_P.fasta.amrfinder.tsv
+Protein id	Contig id	Start	Stop	Strand	Element symbol	Element name	Scope	Type	Subtype	Class	Subclass	Method	Target length	Reference sequence length	% Coverage of reference	% Identity to reference	Alignment length	Closest reference accession	Closest reference name	HMM accession	HMM description
+NA	chromosome00001	2060162	2061760	-	tet(35)	tetracycline efflux Na+/H+ antiporter family transporter Tet(35)	core	AMR	AMR	TETRACYCLINE	TETRACYCLINE	BLASTX	533	533	100.00	99.81	533	WP_005480402.1	tetracycline efflux Na+/H+ antiporter family transporter Tet(35)	NA	NA
+NA	plasmid00001	146702	147550	-	blaCARB-21	carbenicillin-hydrolyzing class A beta-lactamase CARB-21	core	AMR	AMR	BETA-LACTAM	BETA-LACTAM	ALLELEX	283	283	100.00	100.00	283	WP_025632811.1	carbenicillin-hydrolyzing class A beta-lactamase CARB-21	NA	NA
+
+V_sp.EXE_23_2025_L.fasta.amrfinder.tsv
+Protein id	Contig id	Start	Stop	Strand	Element symbol	Element name	Scope	Type	Subtype	Class	Subclass	Method	Target length	Reference sequence length	% Coverage of reference	% Identity to reference	Alignment length	Closest reference accession	Closest reference name	HMM accession	HMM description
+
