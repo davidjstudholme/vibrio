@@ -5,11 +5,17 @@ chmod u+x datasets
 ### Use NCBI's datasets utility to download the assembly metadata table:
 ./datasets summary genome taxon vibrio --as-json-lines > vibrio.jsonl
 
-### Get assemblies that best match V. diabolicus
+### Get assemblies that best match V. diabolicus (or Vibrio antiquarius / Vibrio chemaguriensis)
 {
   echo -e "accession\torganism_name\ttax_id\tbest_match_organism\tani\tbest_type_assembly\tbest_match_category\tmatch_status\ttaxonomy_check_status\tsubmitted_organism"
   jq -r '
-    select(.average_nucleotide_identity.best_ani_match.organism_name == "Vibrio diabolicus") |
+    select(
+      .average_nucleotide_identity.best_ani_match.organism_name == "Vibrio diabolicus"
+      or
+      .average_nucleotide_identity.best_ani_match.organism_name == "Vibrio antiquarius"
+      or
+      .average_nucleotide_identity.best_ani_match.organism_name == "Vibrio chemaguriensis"
+    ) |
     [
       .accession,
       .organism.organism_name,
@@ -23,13 +29,7 @@ chmod u+x datasets
       .average_nucleotide_identity.submitted_organism
     ] | @tsv
   ' vibrio.jsonl
-} > best_ani_match_Vibrio_diabolicus.tsv
-
-
-
-
-
-
+} > best_ani_match_diabolicus_antiquarius_chemaguriensis.tsv
 
 
 
