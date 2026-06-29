@@ -1,4 +1,6 @@
-conda activate amrfinderplus_env
+conda activate amrfinder_env
+
+amrfinder --version > amrfinder-version.txt
 
 for f in *.fasta
 do
